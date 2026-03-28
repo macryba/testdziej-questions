@@ -4,7 +4,7 @@
       "Pradzieje": {
         "easy": 10,
         "medium": 10,
-        "hard": 0
+        "hard": 10
       },
       "Słowianie": {
         "easy": 0,
@@ -304,5 +304,5 @@
       }
     }
   },
-  "last_updated": "2026-03-28T14:00:00Z"
+  "last_updated": "2026-03-28T14:45:00Z"
 }
