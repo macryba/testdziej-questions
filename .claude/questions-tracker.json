@@ -1,80 +1,308 @@
 {
   "tracking": {
     "Starożytność": {
-      "Pradzieje": {"easy": 0, "medium": 0, "hard": 0},
-      "Słowianie": {"easy": 0, "medium": 0, "hard": 0}
+      "Pradzieje": {
+        "easy": 10,
+        "medium": 0,
+        "hard": 0
+      },
+      "Słowianie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "Piastowie": {
-      "Chrystianizacja": {"easy": 0, "medium": 0, "hard": 0},
-      "Ekspansja": {"easy": 0, "medium": 0, "hard": 0},
-      "Rozbicie dzielnicowe I": {"easy": 0, "medium": 0, "hard": 0},
-      "Najazd mongolski": {"easy": 0, "medium": 0, "hard": 0},
-      "Zjednoczenie": {"easy": 0, "medium": 0, "hard": 0},
-      "Łokietek": {"easy": 0, "medium": 0, "hard": 0},
-      "Kazimierz Wielki": {"easy": 0, "medium": 0, "hard": 0}
+      "Chrystianizacja": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "Ekspansja": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Rozbicie dzielnicowe I": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Najazd mongolski": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Zjednoczenie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Łokietek": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Kazimierz Wielki": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "Jagiellonowie": {
-      "Unia Krewska": {"easy": 0, "medium": 0, "hard": 0},
-      "Grunwald": {"easy": 0, "medium": 0, "hard": 0},
-      "Warneńczyk": {"easy": 0, "medium": 0, "hard": 0},
-      "Kazimierz Jagiellończyk": {"easy": 0, "medium": 0, "hard": 0},
-      "Wojna trzynastoletnia": {"easy": 0, "medium": 0, "hard": 0},
-      "Zygmunt Stary": {"easy": 0, "medium": 0, "hard": 0},
-      "Zygmunt August": {"easy": 0, "medium": 0, "hard": 0}
+      "Unia Krewska": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Grunwald": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Warneńczyk": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Kazimierz Jagiellończyk": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Wojna trzynastoletnia": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Zygmunt Stary": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Zygmunt August": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "Rzeczpospolita": {
-      "Unia Lubelska": {"easy": 0, "medium": 0, "hard": 0},
-      "Wazowie": {"easy": 0, "medium": 0, "hard": 0},
-      "Wojny polsko-tureckie": {"easy": 0, "medium": 0, "hard": 0},
-      "Potop": {"easy": 0, "medium": 0, "hard": 0},
-      "Sobieski": {"easy": 0, "medium": 0, "hard": 0},
-      "Czasy saskie": {"easy": 0, "medium": 0, "hard": 0},
-      "Oświecenie": {"easy": 0, "medium": 0, "hard": 0},
-      "Upadek": {"easy": 0, "medium": 0, "hard": 0}
+      "Unia Lubelska": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Wazowie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Wojny polsko-tureckie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Potop": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Sobieski": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Czasy saskie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Oświecenie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Upadek": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "Rozbiory": {
-      "Rozbiory": {"easy": 0, "medium": 0, "hard": 0},
-      "Insurekcja": {"easy": 0, "medium": 0, "hard": 0},
-      "Księstwo Warszawskie": {"easy": 0, "medium": 0, "hard": 0},
-      "Kongresówka": {"easy": 0, "medium": 0, "hard": 0},
-      "Powstanie listopadowe": {"easy": 0, "medium": 0, "hard": 0},
-      "Wiosna Ludów": {"easy": 0, "medium": 0, "hard": 0},
-      "Powstanie styczniowe": {"easy": 0, "medium": 0, "hard": 0},
-      "Praca organiczna": {"easy": 0, "medium": 0, "hard": 0}
+      "Rozbiory": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Insurekcja": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Księstwo Warszawskie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Kongresówka": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Powstanie listopadowe": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Wiosna Ludów": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Powstanie styczniowe": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Praca organiczna": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "Międzywojnie": {
-      "Odrodzenie": {"easy": 0, "medium": 0, "hard": 0},
-      "Wojna bolszewicka": {"easy": 0, "medium": 0, "hard": 0},
-      "Budowa państwa": {"easy": 0, "medium": 0, "hard": 0},
-      "Przewrót majowy": {"easy": 0, "medium": 0, "hard": 0},
-      "Sanacja": {"easy": 0, "medium": 0, "hard": 0},
-      "Zagrożenie": {"easy": 0, "medium": 0, "hard": 0}
+      "Odrodzenie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Wojna bolszewicka": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Budowa państwa": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Przewrót majowy": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Sanacja": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Zagrożenie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "II WŚ": {
-      "Kampania wrześniowa": {"easy": 0, "medium": 0, "hard": 0},
-      "Okupacja": {"easy": 0, "medium": 0, "hard": 0},
-      "Ruch oporu": {"easy": 0, "medium": 0, "hard": 0},
-      "Powstanie warszawskie": {"easy": 0, "medium": 0, "hard": 0},
-      "Holocaust": {"easy": 0, "medium": 0, "hard": 0},
-      "Wyzwolenie": {"easy": 0, "medium": 0, "hard": 0}
+      "Kampania wrześniowa": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Okupacja": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Ruch oporu": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Powstanie warszawskie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Holocaust": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Wyzwolenie": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "PRL": {
-      "Początki PRL": {"easy": 0, "medium": 0, "hard": 0},
-      "Stalinizm": {"easy": 0, "medium": 0, "hard": 0},
-      "Październik 56": {"easy": 0, "medium": 0, "hard": 0},
-      "Gomułka": {"easy": 0, "medium": 0, "hard": 0},
-      "Grudzień 70": {"easy": 0, "medium": 0, "hard": 0},
-      "Gierek": {"easy": 0, "medium": 0, "hard": 0},
-      "Solidarność": {"easy": 0, "medium": 0, "hard": 0},
-      "Stan wojenny": {"easy": 0, "medium": 0, "hard": 0},
-      "Okrągły Stół": {"easy": 0, "medium": 0, "hard": 0}
+      "Początki PRL": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Stalinizm": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Październik 56": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Gomułka": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Grudzień 70": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Gierek": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Solidarność": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Stan wojenny": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Okrągły Stół": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     },
     "III RP": {
-      "Transformacja": {"easy": 0, "medium": 0, "hard": 0},
-      "Balcerowicz": {"easy": 0, "medium": 0, "hard": 0},
-      "Rządy III RP": {"easy": 0, "medium": 0, "hard": 0},
-      "Integracja": {"easy": 0, "medium": 0, "hard": 0}
+      "Transformacja": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Balcerowicz": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Rządy III RP": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      },
+      "Integracja": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+      }
     }
   },
-  "last_updated": null
+  "last_updated": "2026-03-28T13:30:00Z"
 }

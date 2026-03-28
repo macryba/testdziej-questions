@@ -8,6 +8,8 @@ This repository generates Polish history quiz questions for the Testdziej app. T
 
 **Target:** 20 questions per epoch/chapter/difficulty combination (9 epochs × ~50 chapters × 3 difficulties = ~1,500+ questions needed).
 
+**Batch size:** Each loop iteration generates 10 questions for the same epoch/chapter/difficulty combination.
+
 **IMPORTANT:** This version operates on local files ONLY. No database or Docker container is required.
 
 ## Architecture
@@ -124,7 +126,7 @@ done | sort | uniq -c
 
 ## Question Generation Workflow
 
-When the loop runs, each iteration generates **one** question file:
+When the loop runs, each iteration generates **10 questions** for the same epoch/chapter/difficulty combination:
 
 1. **Identify target:** Read questions-tracker.json for next epoch/chapter/difficulty with < 20 questions
 2. **Research:** Use WebSearch tool to find Polish historical sources (pl.wikipedia.org, historiaposzkola.pl, etc.)
@@ -204,3 +206,42 @@ Stop generation when:
 - **Historical sources:** Prioritize Polish Wikipedia (pl.wikipedia.org), historiaposzkola.pl, dlaucznia.pl
 - **Comments:** English (this repo)
 - **Epoch names:** Polish (e.g., "Piastowie", "Rzeczpospolita Obojga Narodów")
+
+## Batch Generation Strategy
+
+Each loop iteration generates **10 questions** for the same epoch/chapter/difficulty:
+
+1. **Vary topics across the 10 questions:**
+   - Political events
+   - Social changes
+   - Economic factors
+   - Cultural developments
+   - Military conflicts
+   - Diplomatic relations
+   - Key biographies
+   - Geographic aspects
+   - Chronological milestones
+   - Cause-effect relationships
+
+2. **Vary question types:**
+   - Who (people/figures)
+   - What (events/actions)
+   - When (dates/timeline)
+   - Where (places/locations)
+   - Why (causes/reasons)
+   - How (consequences/methods)
+
+3. **Rotate answer positions:**
+   - Ensure correct answer appears as A, B, C, and D evenly across the 10 questions
+   - Don't make correct answer always the same position
+
+## Git Conventions
+
+**CRITICAL: Commit Message Format**
+- NEVER add "Co-Authored-By: Claude", "Authored-By: Claude", or similar attributions
+- Use simple, direct commit messages
+- Focus on what changed and why
+- Example: "Add batch question generation for Piastowie epoch"
+- Example: "Update validation rules for incorrect answer generation"
+
+This is a user repository - commits should not include AI/assistant attribution.
