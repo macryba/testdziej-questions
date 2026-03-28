@@ -1,0 +1,10 @@
+{
+  "current_epoch": null,
+  "current_chapter": null,
+  "current_difficulty": null,
+  "questions_generated_this_session": 0,
+  "total_questions_generated": 0,
+  "last_run": null,
+  "status": "ready",
+  "errors": []
+}

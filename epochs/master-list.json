@@ -1,0 +1,142 @@
+{
+  "epochs": [
+    {
+      "id": 1,
+      "short_name": "Starożytność",
+      "long_name": "Starożytność do 966",
+      "is_international": true,
+      "chapters": [
+        {"short_name": "Pradzieje", "long_name": "Pradzieje ziem polskich", "start_year": null, "end_year": 500},
+        {"short_name": "Słowianie", "long_name": "Początki Słowian", "start_year": 500, "end_year": 966}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 2,
+      "short_name": "Piastowie",
+      "long_name": "Dynastia Piastów (966-1370)",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Chrystianizacja", "long_name": "Państwo Gnieźnieńskie i chrystianizacja", "start_year": 960, "end_year": 1025},
+        {"short_name": "Ekspansja", "long_name": "Ekspansja i struktura państwa", "start_year": 1025, "end_year": 1138},
+        {"short_name": "Rozbicie dzielnicowe I", "long_name": "Rozbicie dzielnicowe - początek", "start_year": 1138, "end_year": 1241},
+        {"short_name": "Najazd mongolski", "long_name": "Najazd mongolski i jego skutki", "start_year": 1241, "end_year": 1275},
+        {"short_name": "Zjednoczenie", "long_name": "Zjednoczenie w Księstwie Wielkopolskim", "start_year": 1275, "end_year": 1306},
+        {"short_name": "Łokietek", "long_name": "Władysław Łokietek - odnowienie królestwa", "start_year": 1306, "end_year": 1333},
+        {"short_name": "Kazimierz Wielki", "long_name": "Kazimierz Wielki - wielkie reformy", "start_year": 1333, "end_year": 1370}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 3,
+      "short_name": "Jagiellonowie",
+      "long_name": "Dynastia Jagiellonów (1386-1572)",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Unia Krewska", "long_name": "Unia Krewska i Jagiełło", "start_year": 1385, "end_year": 1434},
+        {"short_name": "Grunwald", "long_name": "Bitwa pod Grunwaldem", "start_year": 1410, "end_year": 1411},
+        {"short_name": "Warneńczyk", "long_name": "Władysław Warneńczyk", "start_year": 1434, "end_year": 1444},
+        {"short_name": "Kazimierz Jagiellończyk", "long_name": "Kazimierz Jagiellończyk", "start_year": 1447, "end_year": 1492},
+        {"short_name": "Wojna trzynastoletnia", "long_name": "Wojna trzynastoletnia", "start_year": 1454, "end_year": 1466},
+        {"short_name": "Zygmunt Stary", "long_name": "Zygmunt I Stary", "start_year": 1506, "end_year": 1548},
+        {"short_name": "Zygmunt August", "long_name": "Zygmunt II August", "start_year": 1548, "end_year": 1572}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 4,
+      "short_name": "Rzeczpospolita",
+      "long_name": "Rzeczpospolita Obojga Narodów",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Unia Lubelska", "long_name": "Unia Lubelska i Złota Era", "start_year": 1569, "end_year": 1586},
+        {"short_name": "Wazowie", "long_name": "Dynastia Wazów - wstęp", "start_year": 1587, "end_year": 1632},
+        {"short_name": "Wojny polsko-tureckie", "long_name": "Konflikt polsko-turecki 1620-1699", "start_year": 1620, "end_year": 1699},
+        {"short_name": "Potop", "long_name": "Potop szwedzki", "start_year": 1655, "end_year": 1660},
+        {"short_name": "Sobieski", "long_name": "Jan III Sobieski", "start_year": 1669, "end_year": 1696},
+        {"short_name": "Czasy saskie", "long_name": "Czasy saskie", "start_year": 1697, "end_year": 1763},
+        {"short_name": "Oświecenie", "long_name": "Oświecenie i reformy", "start_year": 1764, "end_year": 1791},
+        {"short_name": "Upadek", "long_name": "Upadek państwa", "start_year": 1792, "end_year": 1795}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 5,
+      "short_name": "Rozbiory",
+      "long_name": "Rozbiory (1795-1918)",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Rozbiory", "long_name": "Trzy rozbiory Polski", "start_year": 1772, "end_year": 1795},
+        {"short_name": "Insurekcja", "long_name": "Insurekcja Kościuszkowska", "start_year": 1794, "end_year": 1794},
+        {"short_name": "Księstwo Warszawskie", "long_name": "Księstwo Warszawskie", "start_year": 1807, "end_year": 1815},
+        {"short_name": "Kongresówka", "long_name": "Królestwo Kongresowe", "start_year": 1815, "end_year": 1831},
+        {"short_name": "Powstanie listopadowe", "long_name": "Powstanie listopadowe", "start_year": 1830, "end_year": 1831},
+        {"short_name": "Wiosna Ludów", "long_name": "Wiosna Ludów", "start_year": 1846, "end_year": 1849},
+        {"short_name": "Powstanie styczniowe", "long_name": "Powstanie styczniowe", "start_year": 1863, "end_year": 1864},
+        {"short_name": "Praca organiczna", "long_name": "Praca organiczna", "start_year": 1864, "end_year": 1918}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 6,
+      "short_name": "Międzywojnie",
+      "long_name": "Międzywojnie (1918-1939)",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Odrodzenie", "long_name": "Odrodzenie Polski", "start_year": 1918, "end_year": 1921},
+        {"short_name": "Wojna bolszewicka", "long_name": "Wojna polsko-bolszewicka", "start_year": 1919, "end_year": 1921},
+        {"short_name": "Budowa państwa", "long_name": "Budowa II RP", "start_year": 1921, "end_year": 1926},
+        {"short_name": "Przewrót majowy", "long_name": "Przewrót majowy", "start_year": 1926, "end_year": 1935},
+        {"short_name": "Sanacja", "long_name": "Rządy sanacji", "start_year": 1926, "end_year": 1939},
+        {"short_name": "Zagrożenie", "long_name": "Zagrożenie wojną", "start_year": 1933, "end_year": 1939}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 7,
+      "short_name": "II WŚ",
+      "long_name": "II Wojna Światowa (1939-1945)",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Kampania wrześniowa", "long_name": "Kampania wrześniowa", "start_year": 1939, "end_year": 1939},
+        {"short_name": "Okupacja", "long_name": "Okupacja niemiecka i sowiecka", "start_year": 1939, "end_year": 1945},
+        {"short_name": "Ruch oporu", "long_name": "Polskie Państwo Podziemne", "start_year": 1939, "end_year": 1945},
+        {"short_name": "Powstanie warszawskie", "long_name": "Powstanie warszawskie", "start_year": 1944, "end_year": 1944},
+        {"short_name": "Holocaust", "long_name": "Holocaust na ziemiach polskich", "start_year": 1939, "end_year": 1945},
+        {"short_name": "Wyzwolenie", "long_name": "Wyzwolenie i koniec wojny", "start_year": 1944, "end_year": 1945}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 8,
+      "short_name": "PRL",
+      "long_name": "PRL (1945-1989)",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Początki PRL", "long_name": "Początki PRL", "start_year": 1945, "end_year": 1956},
+        {"short_name": "Stalinizm", "long_name": "Okres stalinizmu", "start_year": 1948, "end_year": 1956},
+        {"short_name": "Październik 56", "long_name": "Październik 1956", "start_year": 1956, "end_year": 1956},
+        {"short_name": "Gomułka", "long_name": "Rządy Gomułki", "start_year": 1956, "end_year": 1970},
+        {"short_name": "Grudzień 70", "long_name": "Grudzień 1970", "start_year": 1970, "end_year": 1970},
+        {"short_name": "Gierek", "long_name": "Rządy Gierka", "start_year": 1970, "end_year": 1980},
+        {"short_name": "Solidarność", "long_name": "Narodziny Solidarności", "start_year": 1980, "end_year": 1981},
+        {"short_name": "Stan wojenny", "long_name": "Stan wojenny", "start_year": 1981, "end_year": 1989},
+        {"short_name": "Okrągły Stół", "long_name": "Okrągły Stół", "start_year": 1989, "end_year": 1989}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    },
+    {
+      "id": 9,
+      "short_name": "III RP",
+      "long_name": "III RP (1989-obecnie)",
+      "is_international": false,
+      "chapters": [
+        {"short_name": "Transformacja", "long_name": "Transformacja ustrojowa", "start_year": 1989, "end_year": 1993},
+        {"short_name": "Balcerowicz", "long_name": "Plan Balcerowicza", "start_year": 1989, "end_year": 1991},
+        {"short_name": "Rządy III RP", "long_name": "Rządy III RP", "start_year": 1993, "end_year": 2020},
+        {"short_name": "Integracja", "long_name": "Integracja z UE i NATO", "start_year": 1999, "end_year": 2004}
+      ],
+      "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
+    }
+  ]
+}
