@@ -4,9 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository generates Polish history quiz questions for the Testdziej app. The system runs in a loop (typically via Claude Code `/loop` command) directly on the host OS to automatically create, validate, and sync questions to a Supabase database.
+This repository generates Polish history quiz questions for the Testdziej app. The system runs in a loop (typically via Claude Code `/loop` command) directly on the host OS to automatically create and validate questions, storing them locally as markdown files.
 
 **Target:** 20 questions per epoch/chapter/difficulty combination (9 epochs × ~50 chapters × 3 difficulties = ~1,500+ questions needed).
+
+**IMPORTANT:** This version operates on local files ONLY. No database or Docker container is required.
 
 ## Architecture
 
@@ -22,12 +24,10 @@ epochs/               # Epoch definitions and chapter mappings
 chapters/             # Chapter source materials (empty - use web sources)
 questions/            # Generated questions
   ├── pending/             # Questions being generated
-  ├── validated/           # Questions that passed validation
-  └── archived/            # Questions synced to database
+  └── validated/           # Questions that passed validation
 scripts/              # Automation scripts
   ├── loop-controller.sh   # Main loop entry point
-  ├── validate-question.sh # Question validation (TODO)
-  └── sync-to-db.sh        # Database sync (TODO)
+  └── validate-question.sh # Question validation (TODO)
 templates/            # Question templates
   └── question-template.md # Question file format
 logs/                 # Loop execution logs
@@ -37,6 +37,7 @@ logs/                 # Loop execution logs
 
 - **`epochs/master-list.json`**: Defines 9 historical epochs (Starożytność → III RP) with ~50 chapters total
 - **`.claude/state.json`**: Tracks current progress (current_epoch, current_chapter, current_difficulty)
+- **`.claude/questions-tracker.json`**: Tracks question counts per epoch/chapter/difficulty combination
 - **`.claude/instructions.md`**: Complete loop workflow - read this before generating questions
 - **`.claude/validation-rules.md`**: Critical rules for creating plausible incorrect answers
 
@@ -61,11 +62,11 @@ This script installs:
 claude
 
 # Within Claude Code, the loop follows .claude/instructions.md:
-# 1. Query database for next epoch/chapter/difficulty needing questions
+# 1. Read questions-tracker.json to find next epoch/chapter/difficulty needing questions
 # 2. Research historical sources using WebSearch
 # 3. Generate question following templates and validation rules
 # 4. Validate and save to questions/validated/
-# 5. Update state in .claude/state.json
+# 5. Update counters in both state.json and questions-tracker.json
 ```
 
 ### Monitoring Progress
@@ -74,52 +75,58 @@ claude
 # View current state
 cat .claude/state.json | jq
 
+# View questions tracker
+cat .claude/questions-tracker.json | jq
+
 # View loop logs
 tail -f logs/loop-$(date +%Y%m%d).log
 
 # Count generated questions
 find questions/validated/ -name "*.md" | wc -l
+
+# Rebuild tracker from actual validated questions (if out of sync)
+./scripts/rebuild-tracker.sh
 ```
 
-### Database Queries
+### File-based Queries
 
 **Find next epoch/chapter needing questions:**
 ```bash
-docker exec supabase_db_testdziej psql -U postgres -c "
-  SELECT
-    e.short_name as epoch,
-    c.short_name as chapter,
-    q.difficulty,
-    COUNT(*) as question_count
-  FROM chapters c
-  JOIN epochs e ON c.epoch_id = e.id
-  LEFT JOIN quiz_questions q ON q.chapter_id = c.id
-  GROUP BY e.short_name, c.short_name, q.difficulty
-  HAVING COUNT(*) < 20 OR COUNT(*) IS NULL
-  ORDER BY e.id, c.order_index,
-    CASE q.difficulty WHEN 'easy' THEN 1 WHEN 'medium' THEN 2 WHEN 'hard' THEN 3 END
-  LIMIT 1;
-"
+jq -r '
+  to_entries[] |
+  select(.key != "last_updated") |
+  .key as $epoch |
+  .value |
+  to_entries[] |
+  .key as $chapter |
+  .value |
+  to_entries[] |
+  select(.value < 20) |
+  "\($epoch)|\($chapter)|\(.key)|\(.value)"
+' .claude/questions-tracker.json | head -1
 ```
 
 **Check specific combination count:**
 ```bash
-docker exec supabase_db_testdziej psql -U postgres -c "
-  SELECT COUNT(*)
-  FROM quiz_questions q
-  JOIN chapters c ON q.chapter_id = c.id
-  JOIN epochs e ON c.epoch_id = e.id
-  WHERE e.short_name = 'Piastowie'
-    AND c.short_name = 'Chrystianizacja'
-    AND q.difficulty = 'easy';
-"
+jq -r '.tracking["Piastowie"]["Chrystianizacja"]["easy"]' .claude/questions-tracker.json
+```
+
+**Recount all questions from validated folder:**
+```bash
+# This script scans all validated questions and rebuilds the tracker
+for file in questions/validated/*.md; do
+  epoch=$(grep '^epoch:' "$file" | cut -d':' -f2 | xargs)
+  chapter=$(grep '^chapter:' "$file" | cut -d':' -f2 | xargs)
+  difficulty=$(grep '^difficulty:' "$file" | cut -d':' -f2 | xargs)
+  echo "$epoch $chapter $difficulty"
+done | sort | uniq -c
 ```
 
 ## Question Generation Workflow
 
 When the loop runs, each iteration generates **one** question file:
 
-1. **Identify target:** Query database for next epoch/chapter/difficulty with < 20 questions
+1. **Identify target:** Read questions-tracker.json for next epoch/chapter/difficulty with < 20 questions
 2. **Research:** Use WebSearch tool to find Polish historical sources (pl.wikipedia.org, historiaposzkola.pl, etc.)
 3. **Create summary:** Write 2-3 paragraphs of historical context in Polish
 4. **Generate question:** Based on difficulty level:
@@ -128,8 +135,8 @@ When the loop runs, each iteration generates **one** question file:
    - **Hard:** Analytical questions - extended matura level
 5. **Create incorrect answers:** Follow strict validation rules (see below)
 6. **Validate:** Verify historical accuracy and answer plausibility
-7. **Save:** Move from `questions/pending/` to `questions/validated/`
-8. **Update state:** Write progress to `.claude/state.json`
+7. **Save:** Save to `questions/validated/`
+8. **Update state:** Write progress to both `.claude/state.json` and `.claude/questions-tracker.json`
 
 ## Critical Validation Rules for Incorrect Answers
 
@@ -169,9 +176,6 @@ Example for "W którym roku Polska odzyskała niepodległość w 1918?":
 ## Environment Variables
 
 - `CLAUDE_API_KEY`: Configured via `claude_code_zai_env.sh` or in `~/.claude/settings.json`
-- Database access: Requires ability to connect to Supabase (via `docker exec` if Supabase is in Docker, or direct `psql` connection)
-
-Note: If Supabase runs in Docker, the database commands still use `docker exec supabase_db_testdziej psql ...`
 
 ## Question File Format
 

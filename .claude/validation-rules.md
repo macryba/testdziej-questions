@@ -60,7 +60,7 @@ Questions flagged for manual review:
 - Questions involving sensitive topics (WWII, Holocaust)
 
 ## Validation Script
-Run: /srv/testdziej-questions/scripts/validate-question.sh [file]
+Run: ./scripts/validate-question.sh [file]
 
 Output:
 

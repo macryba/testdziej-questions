@@ -7,33 +7,32 @@ You are running in a loop to generate Polish history quiz questions for the Test
 
 ## 1. Pick Epoch and Chapter
 Read .claude/state.json to find:
+- Current epoch
+- Current chapter
+- Current difficulty
 
-Current epoch
-Current chapter
-Current difficulty
-If any is null, query the database to find the next combination needing questions:
+If state is empty/null, read .claude/questions-tracker.json to find the first combination with count < 20.
 
-
-```SQL
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-docker exec supabase_db_testdziej psql -U postgres -c "  SELECT     e.short_name as epoch,    c.short_name as chapter,    q.difficulty,    COUNT(*) as question_count  FROM chapters c  JOIN epochs e ON c.epoch_id = e.id  LEFT JOIN quiz_questions q ON q.chapter_id = c.id  GROUP BY e.short_name, c.short_name, q.difficulty  HAVING COUNT(*) < 20 OR COUNT(*) IS NULL  ORDER BY e.id, c.order_index,     CASE q.difficulty WHEN 'easy' THEN 1 WHEN 'medium' THEN 2 WHEN 'hard' THEN 3 ELSE 0 END  LIMIT 1;"
+Use this jq command to find next combination:
+```bash
+jq -r '
+  to_entries[] |
+  select(.key != "last_updated") |
+  .key as $epoch |
+  .value |
+  to_entries[] |
+  .key as $chapter |
+  .value |
+  to_entries[] |
+  select(.value < 20) |
+  "\($epoch)|\($chapter)|\(.key)"
+' .claude/questions-tracker.json | head -1
 ```
 
 ## 2. Determine Missing Questions
-Query to check exact count for the selected combination:
-
+Check the current count in questions-tracker.json for the selected combination:
 ```bash
-docker exec supabase_db_testdziej psql -U postgres -c "
-  SELECT COUNT(*) 
-  FROM quiz_questions q
-  JOIN chapters c ON q.chapter_id = c.id
-  JOIN epochs e ON c.epoch_id = e.id
-  WHERE e.short_name = '[EPOCH]'
-    AND c.short_name = '[CHAPTER]'
-    AND q.difficulty = '[DIFFICULTY]';
-"
+jq -r '.tracking["[EPOCH]"]["[CHAPTER]"]["[DIFFICULTY]"]' .claude/questions-tracker.json
 ```
 
 If count >= 20, skip to next combination.
@@ -155,6 +154,16 @@ Update .claude/state.json:
   "status": "completed",
   "errors": []
 }
+```
+
+Also increment the counter in .claude/questions-tracker.json:
+```bash
+jq --arg epoch "[CURRENT_EPOCH]" \
+   --arg chapter "[CURRENT_CHAPTER]" \
+   --arg difficulty "[DIFFICULTY]" \
+   '.tracking[$epoch][$chapter][$difficulty] += 1 | .last_updated = "[TIMESTAMP]"' \
+   .claude/questions-tracker.json > .claude/questions-tracker.json.tmp && \
+mv .claude/questions-tracker.json.tmp .claude/questions-tracker.json
 ```
 
 ## 11. Move to Validated
