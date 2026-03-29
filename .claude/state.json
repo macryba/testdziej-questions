@@ -1,12 +1,12 @@
 {
   "current_epoch": "Piastowie",
   "current_chapter": "Ekspansja",
-  "current_difficulty": "medium",
+  "current_difficulty": "hard",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 180,
-  "last_run": "2026-03-29T10:30:00Z",
+  "total_questions_generated": 190,
+  "last_run": "2026-03-29T12:00:00Z",
   "status": "completed",
   "errors": [],
   "batch_size": 10,
-  "notes": "Added 10 medium questions for Piastowie/Ekspansja (10/10 complete)."
+  "notes": "Added 10 hard questions for Piastowie/Ekspansja (10/10 complete). All Ekspansja difficulties complete."
 }
