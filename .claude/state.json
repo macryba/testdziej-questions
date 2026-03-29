@@ -1,12 +1,12 @@
 {
   "current_epoch": "Piastowie",
-  "current_chapter": "Chrystianizacja",
-  "current_difficulty": "medium",
+  "current_chapter": "Rozbicie dzielnicowe I",
+  "current_difficulty": "easy",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 160,
-  "last_run": "2026-03-29T12:00:00Z",
+  "total_questions_generated": 170,
+  "last_run": "2026-03-29T10:04:51.144697Z",
   "status": "completed",
   "errors": [],
   "batch_size": 10,
-  "notes": "Added 10 medium questions for Piastowie/Chrystianizacja (20/20 complete). Chrystianizacja/medium target reached. Next: Find another epoch/chapter/difficulty needing questions (<20)."
+  "notes": "Added 10 easy questions for Piastowie/Rozbicie dzielnicowe I (10/20 complete). Next: Find another epoch/chapter/difficulty needing questions (<20)."
 }
