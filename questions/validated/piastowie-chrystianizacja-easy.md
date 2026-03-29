@@ -411,3 +411,318 @@ Chrzest Mieszka I dał Polsce dostęp do kultury łacińskiej, edukacji, prawa i
 ---
 
 *Koniec pliku*
+
+---
+
+# DODATKOWE PYTANIA (11-20)
+
+## Pytanie 11
+
+**ID pytania:** Q-PI-CH-001-011
+**Typ pytania:** Gdzie (miejsca)
+**Temat:** Ostrów Lednicki
+
+### Treść pytania
+
+Które miejsce jest uważane przez historyków za możliwą lokalizację chrztu Mieszka I?
+
+**A.** Ostrów Lednicki
+**B.** Wawel
+**C.** Czarny Las
+**D.** Kruszwica
+
+**Poprawna odpowiedź:** A
+
+### Wyjaśnienie
+
+Ostrów Lednicki to wyspa na jeziorze Lednica, gdzie odkryto pozostałości palatium i baptysterium z X wieku. Jest to jedno z prawdopodobnych miejsc chrztu Mieszka I.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Wawel stał się głównym ośrodkiem władzy później - w okresie rozbicia dzielnicowego, nie w czasach Mieszka I.
+
+**B.** Czarny Las to miejsce bitwy z Niemcami w 1032 roku, nie związane z chrztem Polski.
+
+**C.** Kruszwica była ważnym grodem, ale nie ma dowodów na chrzest w tym miejscu.
+
+---
+
+## Pytanie 12
+
+**ID pytania:** Q-PI-CH-001-012
+**Typ pytania:** Kto (osoby)
+**Temat:** Bolesław Chrobry
+
+### Treść pytania
+
+Jak nazywał się syn Mieszka I, który został pierwszym koronowanym królem Polski?
+
+**A.** Bolesław Chrobry
+**B.** Władysław Łokietek
+**C.** Kazimierz Wielki
+**D.** Zygmunt Stary
+
+**Poprawna odpowiedź:** A
+
+### Wyjaśnienie
+
+Bolesław Chrobry był synem Mieszka I i Dobrawy. W 1025 roku został pierwszym koronowanym królem Polski, kontynuując dzieło chrystianizacji ojca.
+
+### Analiza niepoprawnych odpowiedzi
+
+**B.** Władysław Łokietek żył w XIV wieku - był królem Polski, ale znacznie później niż Mieszko I.
+
+**C.** Kazimierz Wielki rządził w XIV wieku - był jednym z ostatnich Piastów.
+
+**D.** Zygmunt Stary był królem Polski w XVI wieku - z dynastii Jagiellonów.
+
+---
+
+## Pytanie 13
+
+**ID pytania:** Q-PI-CH-001-013
+**Typ pytania:** Co (pojęcia)
+**Temat:** Co oznacza chrześcijaństwo
+
+### Treść pytania
+
+Chrześcijaństwo to religia, która wierzy w:
+
+**A.** Wielu bogów, takich jak Perun, Świętowit i Weles
+**B.** Jezusa Chrystusa jako Syna Bożego
+**C.** Proroka Mahometa jako ostatniego wysłannika Boga
+**D.** Reinkarnację i prawo karmy
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+
+Chrześcijaństwo to monoteistyczna religia wierząca w Jezusa Chrystusa jako Syna Bożego, która zastąpiła pogaństwo w Polsce po chrzcie Mieszka I.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Wielu bogów to wiara pogańska, którą Polanie wyznawali przed chrztem.
+
+**C.** Proroka Mahometa to religia muzułmańska, nie chrześcijańska.
+
+**D.** Reinkarnacja i karma to religie wschodnie, takie jak buddyzm.
+
+---
+
+## Pytanie 14
+
+**ID pytania:** Q-PI-CH-001-014
+**Typ pytania:** Jakie miasto (centrum)
+**Temat:** Gniezno jako stolica
+
+### Treść pytania
+
+Które miasto było główną stolicą państwa Mieszka I i ważnym ośrodkiem chrystianizacji?
+
+**A.** Gniezno
+**B.** Warszawa
+**C.** Poznań
+**D.** Kraków
+
+**Poprawna odpowiedź:** A
+
+### Wyjaśnienie
+
+Gniezno było główną stolicą państwa Mieszka I i najważniejszym ośrodkiem chrystianizacji. W 1000 roku odbył się tam zjazd gnieźnieński z udziałem cesarza Ottona III.
+
+### Analiza niepoprawnych odpowiedzi
+
+**B.** Warszawa w tym czasie nie była jeszcze miastem - stała się stolicą Polski dopiero w XVI wieku.
+
+**C.** Poznań był ważnym ośrodkiem, ale Gniezno było główną stolicą i siedzibą biskupa misyjnego.
+
+**D.** Kraków nie należał jeszcze do państwa Mieszka I - został włączony później.
+
+---
+
+## Pytanie 15
+
+**ID pytania:** Q-PI-CH-001-015
+**Typ pytania:** Z jakim państwem (relacje)
+**Temat:** Święte Cesarstwo Rzymskie
+
+### Treść pytania
+
+Od którego państwa Mieszko I przyjął chrzest i uznał jego zwierzchnictwo?
+
+**A.** Od Bizancjum
+**B.** Od Świętego Cesarstwa Rzymskiego
+**C.** Od Rusi Kijowskiej
+**D.** Od Anglii
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+
+Mieszko I przyjął chrzest od misjonarzy związanych ze Świętym Cesarstwie Rzymskim i uznał zwierzchnictwo cesarza. To włączyło Polskę w orbitę polityki zachodniej.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Bizancjum (Cesarstwo Wschodnie) miało wpływ na Rus, ale nie na Polskę - Polska przyjęła chrzest od zachodu.
+
+**C.** Ruś Kijowska przyjęła chrzest prawosławny od Bizancjum, nie związany z Polską.
+
+**D.** Anglia była zbyt daleko i nie miała wpływu na chrzest Polski.
+
+---
+
+## Pytanie 16
+
+**ID pytania:** Q-PI-CH-001-016
+**Typ pytania:** Jaki rok (daty)
+**Temat:** Utworzenie biskupstwa
+
+### Treść pytania
+
+W którym roku utworzono pierwsze polskie biskupstwo misyjne podporządkowane bezpośrednio papieżowi?
+
+**A.** W 960 roku
+**B.** W 968 roku
+**C.** W 972 roku
+**D.** W 1000 roku
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+
+W 968 roku utworzono biskupstwo w Poznaniu, podporządkowane bezpośrednio papieżowi. To dało Polsce niezależność kościelną od niemieckich biskupów.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Rok 960 jest przed chrztem Polski - biskupstwo nie mogło istnieć przed chrystianizacją.
+
+**C.** Rok 972 to data bitwy pod Cedynią, nie utworzenia biskupstwa.
+
+**D.** Rok 1000 to zjazd gnieźnieński, kiedy utworzono arcybiskupstwo, a nie pierwsze biskupstwo.
+
+---
+
+## Pytanie 17
+
+**ID pytania:** Q-PI-CH-001-017
+**Typ pytania:** Co (budownictwo)
+**Temat:** Pierwsze kościoły
+
+### Treść pytania
+
+Pierwsze kościoły w Polsce budowano z materiału:
+
+**A.** Z drewna
+**B.** Z kamienia
+**C.** Z cegły
+**D.** Z gliny
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+
+Pierwsze kościoły w Polsce budowano z kamienia (romańskie), co było nową techniką budowlaną przywiezioną z zachodu. Przykładem jest kościół na Ostrowie Lednickim.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Drewno było powszechnie używane przed chrztem, ale kościoły chrześcijańskie budowano z kamienia.
+
+**C.** Cegła pojawiła się później - styl gotycki używał cegieł, ale nie w czasach Mieszka I.
+
+**D.** Glina nie była używana do budowy kościołów - to materiał na chaty, nie na świątynie.
+
+---
+
+## Pytanie 18
+
+**ID pytania:** Q-PI-CH-001-018
+**Typ pytania:** Dlaczego (przyczyny)
+**Temat:** Korzyści z chrztu
+
+### Treść pytania
+
+Jedną z korzyści chrztu Polski było:
+
+**A.** Natychmiastowe pokonanie wszystkich wrogów
+**B.** Uznanie Polski za państwo chrześcijańskie przez inne kraje
+**C.** Zdobycie nowych terytoriów bez walki
+**D.** Zniesienie podatków dla ludności
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+
+Chrzest dał Polsce uznanie jako państwa chrześcijańskiego przez inne kraje Europy. To otworzyło drogę do sojuszy, małżeństw i handlu z zachodem.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Chrzest nie dał natychmiastowego pokonania wrogów - Polska nadal musiała walczyć.
+
+**C.** Chrzest nie oznaczał zdobycia terytoriów bez walki - ziemie trzeba było zdobywać.
+
+**D.** Chrzest nie znosił podatków - ludność nadal płaciła podatki na rzecz księcia i kościoła.
+
+---
+
+## Pytanie 19
+
+**ID pytania:** Q-PI-CH-001-019
+**Typ pytania:** Jaki proces (czas)
+**Temat:** Proces chrystianizacji
+
+### Treść pytania
+
+Chrystianizacja Polski to był proces:
+
+**A.** Natychmiastowy - wszyscy stali się chrześcijanami w jeden dzień
+**B.** Długotrwały - trwał wiele pokoleń
+**C.** Zakończony w roku 1000
+**D.** Tylko dla elit - ludność pozostała pogańska
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+
+Chrystianizacja Polski była długotrwałym procesem trwającym wiele pokoleń. Chrzest Mieszka I w 966 roku był początkiem, ale ludność stopniowo przyjmowała chrześcijaństwo.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Nie był natychmiastowy - ludzie stopniowo porzucali pogaństwo przez wiele lat.
+
+**C.** Nie zakończył się w 1000 roku - proces trwał znacznie dłużej.
+
+**D.** Nie dotyczył tylko elit - chrystianizacja obejmowała całą ludność.
+
+---
+
+## Pytanie 20
+
+**ID pytania:** Q-PI-CH-001-020
+**Typ pytania:** Co (znaczenie)
+**Temat:** Data chrztu
+
+### Treść pytania
+
+Rok 966 jest w historii Polski ważny, ponieważ:
+
+**A.** W tym roku zakończyła się II wojna światowa
+**B.** W tym roku Mieszko I przyjął chrzest
+**C.** W tym roku Polska przystąpiła do Unii Europejskiej
+**D.** W tym roku uchwalono Konstytucję 3 Maja
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+
+Rok 966 jest rokiem chrztu Polski - najważniejszego wydarzenia wczesnej historii naszego państwa, które rozpoczęło oficjalnie państwowość polską.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** II wojna światowa zakończyła się w 1945 roku.
+
+**C.** Polska przystąpiła do UE w 2004 roku.
+
+**D.** Konstytucja 3 Maja została uchwalona w 1791 roku.
+
+---
+

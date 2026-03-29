@@ -14,7 +14,7 @@
     },
     "Piastowie": {
       "Chrystianizacja": {
-        "easy": 10,
+        "easy": 20,
         "medium": 10,
         "hard": 10
       },
@@ -304,5 +304,5 @@
       }
     }
   },
-  "last_updated": "2026-03-29T09:39:44.045847Z"
+  "last_updated": "2026-03-29T09:46:50Z"
 }

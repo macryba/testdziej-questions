@@ -1,12 +1,12 @@
 {
-  "current_epoch": "Starożytność",
-  "current_chapter": "Słowianie",
-  "current_difficulty": "hard",
+  "current_epoch": "Piastowie",
+  "current_chapter": "Chrystianizacja",
+  "current_difficulty": "easy",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 140,
-  "last_run": "2026-03-29T09:39:48.844918Z",
+  "total_questions_generated": 150,
+  "last_run": "2026-03-29T14:45:00Z",
   "status": "completed",
   "errors": [],
   "batch_size": 10,
-  "notes": "Added 10 medium questions for Starożytność/Słowianie (20/20 complete). Słowianie/medium target reached. Next: Find another epoch/chapter/difficulty needing questions (<20)."
+  "notes": "Added 10 easy questions for Piastowie/Chrystianizacja (20/20 complete). Chrystianizacja/easy target reached. Next: Find another epoch/chapter/difficulty needing questions (<20)."
 }
