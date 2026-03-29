@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "30c45d2d",
+      "cron": "*/30 * * * *",
+      "prompt": ".claude/instructions.md",
+      "createdAt": 1774736494726,
+      "lastFiredAt": 1774773035122,
+      "recurring": true
+    },
+    {
+      "id": "d5479c83",
+      "cron": "*/30 * * * *",
+      "prompt": ".claude/instructions.md",
+      "createdAt": 1774742582252,
+      "lastFiredAt": 1774773293268,
+      "recurring": true
+    },
+    {
+      "id": "9862e196",
+      "cron": "*/30 * * * *",
+      "prompt": ".claude/instructions.md",
+      "createdAt": 1774756617901,
+      "lastFiredAt": 1774773293268,
+      "recurring": true
+    }
+  ]
+}
