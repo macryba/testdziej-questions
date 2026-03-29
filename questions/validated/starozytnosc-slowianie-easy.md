@@ -24,7 +24,7 @@ Słowianie to ludność, która pojawiła się na ziemiach polskich w VI-VII wie
 
 Polanie żyli w Wielkopolsce, w okolicach dzisiejszych Poznania i Gniezna. To właśnie z nich wyrosło państwo polskie. Wiślanie mieszkali w Małopolsce, wokół Krakowa. Ślężanie żyli na Śląsku, Mazowszanie na Mazowszu, a Pomorzanie nad morzem Bałtyckim. Plemiona te żyły z rolnictwa, hodowli, rzemiosła i handlu.
 
-Słowianie wyznawali pogaństwo - czcili siły przyrody, takie jak słońce, ogień, drzewa i rzeki. Mieli wielu bogów, z których najważniejszym był Świętowit. Mieszkały w drewnianych domach, często na wzgórzach dla obrony. W dziesiętym wieku książę Mieszko I przyjął chrzest i zjednoczył plemiona polskie w jedno państwo.
+Słowianie wyznawali pogaństwo - czcili siły przyrody, takie jak słońce, ogień, drzewa i rzeki. Mieli wielu bogów, z których najważniejszym był Świętowit. Mieszkały w drewnianych domach, często na wzgórzach dla obrony. W dziesiątym wieku książę Mieszko I przyjął chrzest i zjednoczył plemiona polskie w jedno państwo.
 
 ---
 

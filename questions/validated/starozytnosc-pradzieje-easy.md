@@ -293,7 +293,7 @@ Question Type: multiple_choice
 Difficulty: easy
 
 Question Text
-Cocharacterystycznego budowali ludzie kultury ceramiki wstęgowej rytej, którzy byli pierwszymi rolnikami na ziemiach polskich?
+Co charakterystycznego budowali ludzie kultury ceramiki wstęgowej rytej, którzy byli pierwszymi rolnikami na ziemiach polskich?
 
 Answer Options
 A) Namioty ze skór zwierzęcych
@@ -305,7 +305,7 @@ Correct Answer
 Answer: B
 
 Explanation
-Ludność kultury ceramiki wstęgowej rytej budowała charakterystyczne długie domy o prostokątnej konstrukcji, które miały od 20 do 40 metrów długości. Domy te były częciowo wpuszczane w ziemię dla lepszej izolacji, co pozwalało na komfortowe życie przez cały rok.
+Ludność kultury ceramiki wstęgowej rytej budowała charakterystyczne długie domy o prostokątnej konstrukcji, które miały od 20 do 40 metrów długości. Domy te były częściowo wpuszczane w ziemię dla lepszej izolacji, co pozwalało na komfortowe życie przez cały rok.
 
 Validation Status
 ✓ Historical accuracy verified
@@ -377,7 +377,7 @@ Correct Answer
 Answer: A
 
 Explanation
-Pradzieje ziem polskich zakończyły się w 966 roku, gdy Mieszko I przyjął chrześć i założył państwo polskie. Od tego momentu zaczyna się okres historyczny, o którym wiemy z pisanych dokumentów, a nie tylko z wykopalisk.
+Pradzieje ziem polskich zakończyły się w 966 roku, gdy Mieszko I przyjął chrzest i założył państwo polskie. Od tego momentu zaczyna się okres historyczny, o którym wiemy z pisanych dokumentów, a nie tylko z wykopalisk.
 
 Validation Status
 ✓ Historical accuracy verified

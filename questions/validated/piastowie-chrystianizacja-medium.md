@@ -25,7 +25,7 @@ Chrystianizacja Polski przeprowadzona przez Mieszka I w 966 roku była jednym z 
 
 Proces chrystianizacji miał swoje przyczyny polityczne, militarne i cywilizacyjne. Od zachodu Polski zagrażały niemal stale ekspansywne dążenia cesarstwa niemieckiego, które uznało prawo do podbicia ziem pogańskich. Przyjęcie chrześcijaństwa z rąk biskupów czeskich (a nie niemieckich) pozwoliło Mieszkowi I na zachowanie pewnej niezależności politycznej przy jednoczesnym uzyskaniu ochrony przed oskarżeniami o bycie "wrogiem chrześcijaństwa".
 
-Rok 966 to nie tylko data chrztu władcy, ale także początek procesu christianizacji całego społeczeństwa, który trwał przez pokolenia. Z budową kościołów i tworzeniem struktur kościelnych wiązało się sprowadzenie duchowieństwa, wprowadzenie języka łacińskiego w dokumentacji, rozwoju szkolnictwa i powiązań z ośrodkami naukowymi Europy.
+Rok 966 to nie tylko data chrztu władcy, ale także początek procesu chrystianizacji całego społeczeństwa, który trwał przez pokolenia. Z budową kościołów i tworzeniem struktur kościelnych wiązało się sprowadzenie duchowieństwa, wprowadzenie języka łacińskiego w dokumentacji, rozwoju szkolnictwa i powiązań z ośrodkami naukowymi Europy.
 
 ---
 

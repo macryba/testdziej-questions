@@ -191,7 +191,34 @@ Check that:
 - Each incorrect answer is factually true (but wrong context)
 - No answer contradicts another
 
-## 7. Save Metadata for Each Question
+## 7. Polish Language Validation
+**CRITICAL:** Before saving questions to validated folder, run Polish language check using the polish-check skill:
+
+```bash
+# Invoke the Polish language checker skill
+claude skill polish-check [question-file.md]
+```
+
+The skill will:
+- Check grammar errors (verb conjugations, case endings, gender agreement)
+- Check spelling mistakes (Polish characters: ą, ć, ę, ł, ń, ó, ś, ź, ż)
+- Check punctuation (commas, periods, quotation marks)
+- Check style issues (awkward phrasing, unclear expressions)
+- Verify historical terminology is used correctly
+- Ensure question clarity and unambiguous wording
+- Check that answer options are parallel in structure
+
+**If errors are found:**
+- Review the corrections suggested by the skill
+- Apply the corrections to the question file
+- Re-run the polish-check skill to verify all issues are resolved
+- Only proceed to step 8 when Polish language validation passes
+
+**If no errors are found:**
+- Confirm the text is grammatically correct
+- Proceed to next step
+
+## 8. Save Metadata for Each Question
 At the top of EACH file, save:
 
 created_at: [ISO 8601 timestamp]
@@ -201,7 +228,7 @@ tokens_input: [from API response or estimate]
 tokens_output: [from API response or estimate]
 tokens_total: [sum]
 
-## 8. Update State File
+## 9. Update State File
 Update .claude/state.json:
 
 ```json
@@ -229,10 +256,10 @@ mv .claude/questions-tracker.json.tmp .claude/questions-tracker.json
 
 IMPORTANT: If you generated fewer than 10 questions (because the combination was close to 20), increment by the actual number generated.
 
-## 9. All Questions Saved to Validated
+## 10. All Questions Saved to Validated
 All 10 questions are saved in ONE file: questions/validated/[epoch]-[chapter]-[difficulty].md
 
-## 10. Commit Work Automatically
+## 11. Commit Work Automatically
 After each successful iteration, commit all changes to git WITHOUT requiring user approval:
 
 ```bash

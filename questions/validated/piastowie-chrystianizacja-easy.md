@@ -23,7 +23,7 @@
 
 Chrystianizacja Polski to proces przyjęcia chrześcijaństwa przez księcia Mieszka I, który miał miejsce w 966 roku. To wydarzenie uznaje się za jeden z najważniejszych momentów w historii Polski, ponieważ włączyło nasz kraj do kręgu kultury zachodniej i rozpoczęło oficjalnie państwowość polską.
 
-Mieszko I był pierwszym historycznym władcą Polski, księciem Polan z dynastii Piastów. W 965 roku ożenił się z czeską księżniczką Dobrawą, a rok później - w 966 - przyjął chrzest. Wydarzenie to miało miejsce prawdopodobnie w Poznaniu lub Gnieźnie. Chrzest Mieszka I oznaczał chrystianizację jego państwa i poddanych.
+Mieszko I był pierwszym historycznym władcą Polski, księciem Polan z dynastii Piastów. W 965 roku ożenił się z czeską księżniczką Dobrawą, a rok później - w 966 - przyjął chrzest. Chrzest odbył się prawdopodobnie w Poznaniu lub Gnieźnie. Oznaczał chrystianizację państwa Mieszka I i jego poddanych.
 
 Ważną postacią w procesie chrystianizacji był biskup Jordan, który przybył do Polski z Czech lub Niemiec. To on ochrzcił Mieszka I i został pierwszym biskupem Polski. W 968 roku utworzono biskupstwo w Poznaniu, co oznaczało, że Polska miała już własną organizację kościelną.
 
@@ -137,7 +137,7 @@ Jak nazywała się żona Mieszka I, która była czeską księżniczką i wpłyn
 **Poprawna odpowiedź:** B
 
 ### Wyjaśnienie
-Dobrawa (lub Dąbrówka) była czeską księżniczką z dynastii Przemyślidów, która poślubiła Mieszkka I w 965 roku. Jej wpływ był istotny dla decyzji o chrzcie Polski.
+Dobrawa (lub Dąbrówka) była czeską księżniczką z dynastii Przemyślidów, która poślubiła Mieszka I w 965 roku. Jej wpływ był istotny dla decyzji o chrzcie Polski.
 
 ### Analiza niepoprawnych odpowiedzi
 
@@ -187,7 +187,7 @@ Chrzest Mieszka I oznaczał przyjęcie chrześcijaństwa i włączenie Polski do
 
 ### Treść pytania
 
-Z którym państwem Mieszko I związał się małżeństwem w 965 roku, co wpłynęło na chrystianizację Polski?
+Z którym państwem Mieszko I zawarł związek małżeński w 965 roku, co wpłynęło na chrystianizację Polski?
 
 **A.** Z Niemcami
 **B.** Z Czechami
@@ -227,7 +227,7 @@ Z jakiej dynastii pochodził Mieszko I, pierwszy historyczny władca Polski?
 **Poprawna odpowiedź:** B
 
 ### Wyjaśnienie
-Mieszko I pochodził z dynastii Piastów, która rządziła Polską od X do XIV wieku. To najstarsza polska dynastia rulerska.
+Mieszko I pochodził z dynastii Piastów, która rządziła Polską od X do XIV wieku. To najstarsza polska dynastia panująca.
 
 ### Analiza niepoprawnych odpowiedzi
 
