@@ -12,7 +12,7 @@ LOG_DIR="$PROJECT_DIR/logs"
 mkdir -p "$LOG_DIR"
 
 log() {
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_DIR/autonomous-loop-$(date +%Y%m%d).log"
+    echo "[$(TZ='Europe/Warsaw' date '+%Y-%m-%d %H:%M:%S')] $1" | tee -a "$LOG_DIR/autonomous-loop-$(TZ='Europe/Warsaw' date +%Y%m%d).log"
 }
 
 check_completion() {
