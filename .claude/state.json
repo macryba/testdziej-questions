@@ -1,10 +1,12 @@
 {
   "current_epoch": "Piastowie",
-  "current_chapter": "Najazd mongolski",
-  "current_difficulty": "medium",
+  "current_chapter": "Chrystianizacja",
+  "current_difficulty": "hard",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 30,
-  "last_run": "2026-03-29T10:30:41Z",
+  "total_questions_generated": 40,
+  "last_run": "2026-03-29T15:45:00+00:00",
   "status": "completed",
-  "errors": []
+  "errors": [],
+  "batch_size": 10,
+  "notes": "Added 10 hard questions for Piastowie/Chrystianizacja (20/20 complete). Chrystianizacja now: easy=10, medium=10, hard=20. Chapter complete! Next: Piastowie/Ekspansja (0/0/0) or other Piastowie chapters."
 }
