@@ -1,10 +1,10 @@
 {
   "current_epoch": "Starożytność",
   "current_chapter": "Pradzieje",
-  "current_difficulty": "easy",
+  "current_difficulty": "medium",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 100,
-  "last_run": "2026-03-29T16:05:00Z",
+  "total_questions_generated": 110,
+  "last_run": "2026-03-29T19:30:00Z",
   "status": "completed",
   "errors": [],
   "batch_size": 10,
