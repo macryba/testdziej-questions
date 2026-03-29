@@ -1,15 +1,15 @@
 {
-  "current_epoch": "Starożytność",
-  "current_chapter": "Słowianie",
-  "current_difficulty": "hard",
+  "current_epoch": "Piastowie",
+  "current_chapter": "Chrystianizacja",
+  "current_difficulty": "easy",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 71,
-  "last_run": "2026-03-29T14:00:00Z",
+  "total_questions_generated": 81,
+  "last_run": "2026-03-29T14:30:00Z",
   "status": "completed",
   "errors": [
     "Web search tools rate-limited - questions generated without source verification",
     "Disclaimer added to question file noting need for verification"
   ],
   "batch_size": 10,
-  "notes": "Added 10 hard questions for Starożytność/Słowianie (10/20). Słowianie chapter complete: easy=10, medium=10, hard=10. Next: Piastowie/Chrystianizacja/easy (0/20) or other Piastowie chapters."
+  "notes": "Added 10 easy questions for Piastowie/Chrystianizacja (10/20). Next: Piastowie/Chrystianizacja/medium (1/20 needs 9 more) or Piastowie/Chrystianizacja/hard (0/20)."
 }
