@@ -1,12 +1,12 @@
 {
   "current_epoch": "Starożytność",
-  "current_chapter": "Pradzieje",
-  "current_difficulty": "medium",
+  "current_chapter": "Słowianie",
+  "current_difficulty": "easy",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 110,
-  "last_run": "2026-03-29T19:30:00Z",
+  "total_questions_generated": 120,
+  "last_run": "2026-03-29T20:00:00Z",
   "status": "completed",
   "errors": [],
   "batch_size": 10,
-  "notes": "Added 10 easy questions for Starożytność/Pradzieje (20/20 complete). Pradzieje/easy target reached. Next: Find another epoch/chapter/difficulty needing questions (<20)."
+  "notes": "Added 10 easy questions for Starożytność/Słowianie (20/20 complete). Słowianie/easy target reached. Next: Find another epoch/chapter/difficulty needing questions (<20)."
 }

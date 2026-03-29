@@ -7,7 +7,7 @@
         "hard": 20
       },
       "Słowianie": {
-        "easy": 10,
+        "easy": 20,
         "medium": 10,
         "hard": 10
       }
@@ -304,5 +304,5 @@
       }
     }
   },
-  "last_updated": "2026-03-29T19:30:00Z"
+  "last_updated": "2026-03-29T20:00:00Z"
 }
