@@ -1,12 +1,12 @@
 {
   "tracking": {
-    "Staro\u017cytno\u015b\u0107": {
+    "Starożytność": {
       "Pradzieje": {
         "easy": 10,
         "medium": 10,
         "hard": 10
       },
-      "S\u0142owianie": {
+      "Słowianie": {
         "easy": 10,
         "medium": 10,
         "hard": 10
@@ -25,7 +25,7 @@
       },
       "Rozbicie dzielnicowe I": {
         "easy": 10,
-        "medium": 0,
+        "medium": 10,
         "hard": 0
       },
       "Najazd mongolski": {
@@ -38,7 +38,7 @@
         "medium": 0,
         "hard": 0
       },
-      "\u0141okietek": {
+      "Łokietek": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -60,12 +60,12 @@
         "medium": 0,
         "hard": 0
       },
-      "Warne\u0144czyk": {
+      "Warneńczyk": {
         "easy": 0,
         "medium": 0,
         "hard": 0
       },
-      "Kazimierz Jagiello\u0144czyk": {
+      "Kazimierz Jagiellończyk": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -117,7 +117,7 @@
         "medium": 0,
         "hard": 0
       },
-      "O\u015bwiecenie": {
+      "Oświecenie": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -139,12 +139,12 @@
         "medium": 0,
         "hard": 0
       },
-      "Ksi\u0119stwo Warszawskie": {
+      "Księstwo Warszawskie": {
         "easy": 0,
         "medium": 0,
         "hard": 0
       },
-      "Kongres\u00f3wka": {
+      "Kongresówka": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -154,7 +154,7 @@
         "medium": 0,
         "hard": 0
       },
-      "Wiosna Lud\u00f3w": {
+      "Wiosna Ludów": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -170,7 +170,7 @@
         "hard": 0
       }
     },
-    "Mi\u0119dzywojnie": {
+    "Międzywojnie": {
       "Odrodzenie": {
         "easy": 0,
         "medium": 0,
@@ -181,12 +181,12 @@
         "medium": 0,
         "hard": 0
       },
-      "Budowa pa\u0144stwa": {
+      "Budowa państwa": {
         "easy": 0,
         "medium": 0,
         "hard": 0
       },
-      "Przewr\u00f3t majowy": {
+      "Przewrót majowy": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -196,14 +196,14 @@
         "medium": 0,
         "hard": 0
       },
-      "Zagro\u017cenie": {
+      "Zagrożenie": {
         "easy": 0,
         "medium": 0,
         "hard": 0
       }
     },
-    "II W\u015a": {
-      "Kampania wrze\u015bniowa": {
+    "II WŚ": {
+      "Kampania wrześniowa": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -235,7 +235,7 @@
       }
     },
     "PRL": {
-      "Pocz\u0105tki PRL": {
+      "Początki PRL": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -245,17 +245,17 @@
         "medium": 0,
         "hard": 0
       },
-      "Pa\u017adziernik 56": {
+      "Październik 56": {
         "easy": 0,
         "medium": 0,
         "hard": 0
       },
-      "Gomu\u0142ka": {
+      "Gomułka": {
         "easy": 0,
         "medium": 0,
         "hard": 0
       },
-      "Grudzie\u0144 70": {
+      "Grudzień 70": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -265,7 +265,7 @@
         "medium": 0,
         "hard": 0
       },
-      "Solidarno\u015b\u0107": {
+      "Solidarność": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -275,7 +275,7 @@
         "medium": 0,
         "hard": 0
       },
-      "Okr\u0105g\u0142y St\u00f3\u0142": {
+      "Okrągły Stół": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -292,7 +292,7 @@
         "medium": 0,
         "hard": 0
       },
-      "Rz\u0105dy III RP": {
+      "Rządy III RP": {
         "easy": 0,
         "medium": 0,
         "hard": 0
@@ -304,5 +304,5 @@
       }
     }
   },
-  "last_updated": "2026-03-29T12:00:00Z"
+  "last_updated": "2026-03-29T15:00:00Z"
 }
