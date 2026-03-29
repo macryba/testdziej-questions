@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This repository generates Polish history quiz questions for the Testdziej app. The system runs in a loop (typically via Claude Code `/loop` command) directly on the host OS to automatically create and validate questions, storing them locally as markdown files.
 
-**Target:** 20 questions per epoch/chapter/difficulty combination (9 epochs × ~50 chapters × 3 difficulties = ~1,500+ questions needed).
+**Target:** 10 questions per epoch/chapter/difficulty combination (9 epochs × ~50 chapters × 3 difficulties = ~750+ questions needed).
 
 **Batch size:** Each loop iteration generates 10 questions for the same epoch/chapter/difficulty combination.
 
@@ -103,7 +103,7 @@ jq -r '
   .key as $chapter |
   .value |
   to_entries[] |
-  select(.value < 20) |
+  select(.value < 10) |
   "\($epoch)|\($chapter)|\(.key)|\(.value)"
 ' .claude/questions-tracker.json | head -1
 ```
@@ -128,7 +128,7 @@ done | sort | uniq -c
 
 When the loop runs, each iteration generates **10 questions** for the same epoch/chapter/difficulty combination:
 
-1. **Identify target:** Read questions-tracker.json for next epoch/chapter/difficulty with < 20 questions
+1. **Identify target:** Read questions-tracker.json for next epoch/chapter/difficulty with < 10 questions
 2. **Research:** Use WebSearch tool to find Polish historical sources (pl.wikipedia.org, historiaposzkola.pl, etc.)
 3. **Create summary:** Write 2-3 paragraphs of historical context in Polish
 4. **Generate question:** Based on difficulty level:
@@ -197,7 +197,7 @@ Follow `templates/question-template.md`. Key sections:
 ## Loop Exit Conditions
 
 Stop generation when:
-- All epoch/chapter/difficulty combinations have 20 questions
+- All epoch/chapter/difficulty combinations have 10 questions
 - 10 consecutive errors occur
 - User interrupts (Ctrl+C)
 - Token budget exceeded (if configured)

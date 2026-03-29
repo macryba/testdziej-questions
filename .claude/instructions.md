@@ -21,7 +21,7 @@ Read .claude/state.json to find:
 - Current chapter
 - Current difficulty
 
-If state is empty/null, read .claude/questions-tracker.json to find the first combination with count < 20.
+If state is empty/null, read .claude/questions-tracker.json to find the first combination with count < 10.
 
 Use this jq command to find next combination:
 ```bash
@@ -34,7 +34,7 @@ jq -r '
   .key as $chapter |
   .value |
   to_entries[] |
-  select(.value < 20) |
+  select(.value < 10) |
   "\($epoch)|\($chapter)|\(.key)"
 ' .claude/questions-tracker.json | head -1
 ```
@@ -45,9 +45,9 @@ Check the current count in questions-tracker.json for the selected combination:
 jq -r '.tracking["[EPOCH]"]["[CHAPTER]"]["[DIFFICULTY]"]' .claude/questions-tracker.json
 ```
 
-Calculate how many questions are needed: 20 - current_count
-- If count >= 20, skip to next combination
-- Generate MIN(10, 20 - current_count) questions this iteration
+Calculate how many questions are needed: 10 - current_count
+- If count >= 10, skip to next combination
+- Generate exactly 10 questions per chapter per difficulty (ONE iteration only)
 
 ## 3. Research Sources (ONCE per iteration)
 Use web tool to search for reliable Polish historical sources for this epoch/chapter:
@@ -277,7 +277,7 @@ jq --arg epoch "[CURRENT_EPOCH]" \
 mv .claude/questions-tracker.json.tmp .claude/questions-tracker.json
 ```
 
-IMPORTANT: If you generated fewer than 10 questions (because the combination was close to 20), increment by the actual number generated.
+IMPORTANT: Always generate exactly 10 questions per chapter per difficulty. No partial batches.
 
 ## 10. All Questions Saved to Validated
 All 10 questions are saved in ONE file: questions/validated/[epoch]-[chapter]-[difficulty].md
@@ -319,7 +319,7 @@ git commit --no-verify -m "Add ${QUESTION_COUNT} questions for ${CURRENT_EPOCH}/
 # Loop Exit Conditions
 Stop the loop if:
 
-All epoch/chapter/difficulty combinations have 20 questions
+All epoch/chapter/difficulty combinations have 10 questions
 10 consecutive errors occur
 Token budget exceeded
 User interrupts
