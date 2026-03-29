@@ -9,7 +9,7 @@
       "Słowianie": {
         "easy": 20,
         "medium": 20,
-        "hard": 10
+        "hard": 20
       }
     },
     "Piastowie": {
@@ -304,5 +304,5 @@
       }
     }
   },
-  "last_updated": "2026-03-29T13:00:00Z"
+  "last_updated": "2026-03-29T09:39:44.045847Z"
 }

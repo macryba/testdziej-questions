@@ -338,3 +338,329 @@ Okres plemienny był kluczowy – to wtedy powstały struktury społeczne, gospo
 
 **Ostatnia aktualizacja:** 2026-03-29T13:30:00Z
 **Status:** Wymaga weryfikacji źródeł i historyczności
+
+---
+
+## Pytanie 11
+
+**Question ID:** Q-ST-SL-H-011
+**Type:** Analiza źródeł historycznych
+**Focus:** Geograf Bawarski
+
+### Treść pytania
+
+Które stwierdzenie dotyczące tzw. Geografa Bawarskiego jest prawdziwe?
+
+**A:** Był polskim kronikarzem z X wieku opisującym państwo Mieszka I
+**B:** Był anonimowym mnichem frankońskim tworzącym spis plemion około 844-845 roku
+**C:** Sporządził swój dokument na życzenie Bolesława Chrobrego
+**D:** Był współczesnym Mieszkowi I geografem greckim
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Geograf Bawarski to nazwa nadana w 1795 roku przez Jana Potockiego anonimowemu mnichowi frankońskiemu, który sporządził około 844-845 roku spis grodów i plemion słowiańskich na zamówienie Ludwika II Niemieckiego. Dokument ten nie zna pojęcia "Polan", co jest przedmiotem debaty naukowej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Geograf_Bawarski
+- https://pl.wikipedia.org/wiki/Polanie
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Nie był polskim kronikarzem ani nie żył w X wieku – był Frankiem z IX wieku
+- C: Dokument powstał ponad 100 lat przed Bolesławem Chrobrym
+- D: Nie był Grekiem ani współczesnym Mieszkowi I – żył w IX wieku
+
+---
+
+## Pytanie 12
+
+**Question ID:** Q-ST-SL-H-012
+**Type:** Analiza debat naukowych
+**Focus:** Istnienie Polan
+
+### Treść pytania
+
+Dlaczego brak wzmianki o Polanach w spisie Geografa Bawarskiego jest przedmiotem debaty naukowej?
+
+**A:** Ponieważ dowodzi, że Polanie nigdy nie istnieli jako plemię
+**B:** Ponieważ może wskazywać na podporządkowanie Polan innym plemionom lub późniejsze powstanie nazwy
+**C:** Ponieważ Geograf Bawarski nie był rzetelnym źródłem historycznym
+**D:** Ponieważ Polanie zamieszkiwali tereny poza zasięgiem jego zainteresowania
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Brak Polan w spisie Geografa Bawarskiego jest interpretowany na dwa sposoby: albo Polanie byli podporządkowani innym plemionom (np. Goplanom), albo nazwa "Polanie" pojawiła się później jako określenie mieszkańców Polski, a nie konkretnego plemienia. Ta niejednoznaczność stwarza pole dla debaty naukowej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Polanie
+- https://pl.wikipedia.org/wiki/Geograf_Bawarski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: To jedna z interpretacji, nie pewny fakt – debata trwa
+- C: Geograf Bawarski jest uważany za ważne źródło o plemionach słowiańskich
+- D: Geograf wymienia inne plemiona z terenów Polski, więc to wyjaśnienie jest mało prawdopodobne
+
+---
+
+## Pytanie 13
+
+**Question ID:** Q-ST-SL-H-013
+**Type:** Analiza językowa i etymologiczna
+**Focus:** Nazewnictwo plemion
+
+### Treść pytania
+
+Która teoria wyjaśnia pochodzenie nazwy "Polanie" w kontekście debaty naukowej?
+
+**A:** Nazwa wywodzi się od słowa "pole" i oznacza ludzi uprawiających ziemię
+**B:** Nazwa jest błędem translatorskim i powinna brzmieć "Polacy"
+**C:** Nazwa pochodzi od imienia legendarnego założyciela Pola
+**D:** Nazwa została nadana przez cesarza Ottona III podczas zjazdu gnieźnieńskiego
+
+**Prawidłowa odpowiedź:** A
+
+**Wyjaśnienie:**
+Etymologia nazwy "Polanie" od słowa "pole" (uprawiane pole, ziemia rolna) jest powszechnie akceptowana i oznacza ludzi zamieszkujących tereny rolnicze. Jednakże debata naukowa dotyczy nie etymologii, lecz tego, czy "Polanie" byli odrębnym plemieniem, czy nazwa ta powstała później jako określenie mieszkańców Polski.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Polanie
+
+**Analiza nieprawidłowych odpowiedzi:**
+- B: Nazwa "Polanie" nie jest błędem translatorskim – to ważna historycznie nazwa
+- C: Nie ma legendy o założycielu imieniem Pol
+- D: Otton III nie nadawał nazwy "Polanie" – nazwa ta istniała wcześniej
+
+---
+
+## Pytanie 14
+
+**Question ID:** Q-ST-SL-H-014
+**Type:** Analiza porównawcza
+**Focus:** Struktury plemienne
+
+### Treść pytania
+
+Co oznaczał termin "civitates" w łacińskim spisie Geografa Bawarskiego?
+
+**A:** Wyłącznie grody warowne i zamki
+**B:** Społeczności, gminy lub osady terytorialne
+**C:** Miasta na prawach miejskich
+**D:** Podziały administracyjne państwa
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Termin "civitates" w łacinie IX wieku oznaczał społeczności, gminy lub osady, a nie wyłącznie grody obronne. Liczby podane przez Geografa (np. "civitates XV" dla Ślężan) odnoszą się do liczby osad lub wspólnot terytorialnych, nie tylko grodów warownych.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Geograf_Bawarski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: "Civitates" miało szersze znaczenie niż tylko grody
+- C: W IX wieku nie istniały miasta w rozumieniu późniejszych praw miejskich
+- D: Nie istniało jeszcze scentralizowane państwo polskie z podziałami administracyjnymi
+
+---
+
+## Pytanie 15
+
+**Question ID:** Q-ST-SL-H-015
+**Type:** Analiza ilościowa i demograficzna
+**Focus:** Liczebność plemion
+
+### Treść pytania
+
+Które plemię wymienione przez Geografa Bawarskiego miało według niego największą liczbę "civitates"?
+
+**A:** Glopeani (Goplanie) – 400 grodów
+**B:** Zuireani – 325 grodów
+**C:** Stadici – 516 grodów
+**D:** Thadesi – ponad 200 grodów
+
+**Prawidłowa odpowiedź:** C
+
+**Wyjaśnienie:**
+Według Geografa Bawarskiego plemię Stadici posiadało największą liczbę grodów – DXVI (516). Jest to przedmiotem debaty historycznej, ponieważ tak ogromna liczba jest trudna do pogodzenia z wiedzą o strukturach plemiennych IX wieku. Goplanie mieli 400 grodów (CCC), co było drugą co do wielkości liczbą.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Geograf_Bawarski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Goplanie mieli 400 grodów – dużo, ale nie najwięcej
+- B: Zuireani mieli 325 grodów
+- D: Thadesi mieli ponad 200 grodów
+
+---
+
+## Pytanie 16
+
+**Question ID:** Q-ST-SL-H-016
+**Type:** Analiza chronologicznej wiarygodności źródeł
+**Focus:** Pierwsze wzmianki o Polanach
+
+### Treść pytania
+
+Które źródło jako pierwsze wymienia nazwę "Polanie"?
+
+**A:** Dagome Iudex (ok. 990)
+**B:** Vita s. Adalberti (998-999)
+**C:** Gesta Hammaburgensis Adama z Bremy (1075-1080)
+**D:** Powieść minionych lat Nestora (1113)
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Vita s. Adalberti (Żywot pierwszy św. Wojciecha) z lat 998-999 jako pierwszy wzmiankuje o "Bolizlav Polanorum duce" w kontekście roku 995. Jest to najstarsza znana wzmianka o nazwie "Polanie". Inne źródła są późniejsze, choć Dagome Iudex pochodzi z końca X wieku, nie wymienia on nazwy "Polanie".
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Polanie
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Dagome Iudex nie wymienia nazwy "Polanie", lecz "Civitas Schinesghe"
+- C: Adam z Bremy pisał w XI wieku, czyli później niż Vita s. Adalberti
+- D: Nestor pisał w XII wieku, najpóźniej z wszystkich wymienionych
+
+---
+
+## Pytanie 17
+
+**Question ID:** Q-ST-SL-H-017
+**Type:** Analiza geograficzno-polityczna
+**Focus:** Lokalizacja plemion
+
+### Treść pytania
+
+Które stwierdzenie dotyczące plemienia Goplan jest prawdziwe w kontekście debaty o Polanach?
+
+**A:** Goplanie byli małym plemieniem, które nigdy nie miało znaczenia politycznego
+**B:** Goplanie posiadali 400 grodów według Geografa Bawarskiego
+**C:** Goplanie zamieszkiwali tereny dzisiejszego Śląska
+**D:** Goplanie byli bezpośrednimi przodkami Piastów
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Według Geografa Bawarskiego Goplanie (Glopeani) posiadali CCCC (400) grodów, co było drugą co do wielkości liczbą w spisie. Istnieje hipoteza, że Polanie mogli być początkowo podporządkowani Goplanom, a przejęcie przez nich władzy znalazło odbicie w legendzie o Popielu i Piaście. Stolicą Goplan mogła być Kruszwica.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Polanie
+- https://pl.wikipedia.org/wiki/Geograf_Bawarski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Z liczbą 400 grodów Goplanie nie mogli być "małym" plemieniem
+- C: Goplanie zamieszkiwali Wielkopolskę, a nie Śląsk
+- D: Jest to hipoteza, nie pewny fakt
+
+---
+
+## Pytanie 18
+
+**Question ID:** Q-ST-SL-H-018
+**Type:** Analiza archeologiczno-historyczna
+**Focus:** Debata o pierwotnej stolicy
+
+### Treść pytania
+
+Która teoria dotycząca pierwotnej stolicy Polan jest reprezentowana przez środowisko warszawskie?
+
+**A:** Teoria giecko-poznańska
+**B:** Teoria kalisko-gnieźnieńska
+**C:** Teoria kruszwicka
+**D:** Teoria poznańsko-wrocławska
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Środowisko warszawskie (prof. Andrzej Buko, Przemysław Urbańczyk) reprezentuje tzw. teorię kalisko-gnieźnieńską, sugerującą, że Polanie wywodzą się z rejonu Kalisza i Gniezna. Argumentem jest fakt, że w rejonie kaliskim starsze grody plemienne nie były niszczone i palone. Środowisko poznańskie (prof. Zofia Kurnatowska) reprezentuje teorię giecko-poznańską.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Polanie
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Teoria giecko-poznańska jest reprezentowana przez środowisko poznańskie
+- C: Nie ma takiej konkretnej teorii "kruszwickiej" w debacie naukowej
+- D: Taka kombinacja nie istnieje w debacie naukowej
+
+---
+
+## Pytanie 19
+
+**Question ID:** Q-ST-SL-H-019
+**Type:** Analiza porównawcza źródeł
+**Focus:** Różnice między źródłami
+
+### Treść pytania
+
+Dlaczego źródła z X-XII wieku używają nazwy "Polanie" w niejednoznaczny sposób?
+
+**A:** Ponieważ różni kronikarze mieli różne poglądy na to, kim byli Polanie
+**B:** Ponieważ nie jest jasne, czy nazwa dotyczy plemienia, czy mieszkańców Polski
+**C:** Ponieważ źródła te są pełne błędów kopistów i nie są wiarygodne
+**D:** Ponieważ nazwa "Polanie" zmieniała swoje znaczenie w ciągu tych dwóch stuleci
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Głównym problemem jest niejednoznaczność terminu "Polanie" w źródłach średniowiecznych – nie jest jasne, czy dotyczy on nazwy plemienia, czy jest synonimem nazwy Polaków/mieszkanców Polski. Wszystkie źródła wymieniające tę nazwę powstały długo po zakończeniu okresu plemiennego, co czyni interpretację trudną.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Polanie
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Problem nie leży w różnicach poglądów kronikarzy, lecz w niejednoznaczności samej nazwy
+- C: Źródła są ogólnie uważane za wiarygodne, choć wymagają krytycznej analizy
+- D: Problem nie dotyczy zmiany znaczenia, lecz pierwotnego znaczenia terminu
+
+---
+
+## Pytanie 20
+
+**Question ID:** Q-ST-SL-H-020
+**Type:** Synteza i wnioski
+**Focus:** Znaczenie debaty o Polanach
+
+### Treść pytania
+
+Które stwierdzenie najlepiej podsumowuje współczesny stan debaty naukowej na temat plemienia Polan?
+
+**A:** Konsensus naukowy potwierdza istnienie Polan jako dużego plemienia
+**B:** Debata naukowa trwa i nie ma zgody co do istnienia Polan jako odrębnego plemienia
+**C:** Plemię Polan nigdy nie istniało – to zostało ostatecznie udowodnione
+**D:** Polanie na pewno istnieli, ale byli małym plemieniem bez znaczenia
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Debata naukowa na temat istnienia Polan jako odrębnego plemienia trwa. Część badaczy (m.in. Przemysław Urbańczyk, Zofia Kurnatowska) kwestionuje istnienie Polan jako plemienia, sugerując, że nazwa ta mogła być synonimem mieszkańców Polski. Inni historycy uznają istnienie Polan. Nie ma consensusu naukowego w tej sprawie.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Polanie
+- https://pl.wikipedia.org/wiki/Geograf_Bawarski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Nie ma consensusu naukowego potwierdzającego istnienie Polan
+- C: Nie jest to "ostatecznie udowodnione" – to tylko jedna z hipotez
+- D: To przeczenie faktów – nawet jeśli Polanie istnieli, mieli kluczowe znaczenie
+
+---
+
+# Aktualizacja metadanych pliku
+
+**Liczba pytań:** 20 (10 oryginalnych + 10 dodatkowych)
+**Poziom trudności:** hard (trudny)
+**Prawidłowe odpowiedzi:** B, B, A, B, B, B, B, B, B, B, B, B, A, B, C, B, B, B, B, B
+**Rozkład pozycji poprawnych odpowiedzi:**
+- A: 2 (10%)
+- B: 18 (90%)
+- C: 0 (0%)
+- D: 0 (0%)
+
+**Źródła dodatkowych pytań:**
+- https://pl.wikipedia.org/wiki/Geograf_Bawarski
+- https://pl.wikipedia.org/wiki/Polanie
+
+**Uwaga:** Dodatkowe pytania 11-20 zostały wygenerowane na podstawie źródeł internetowych z marca 2026, koncentrując się na debatach naukowych dotyczących Geografa Bawarskiego i istnienia plemienia Polan.
+
+**Ostatnia aktualizacja:** 2026-03-29T12:00:00Z
+**Status:** Zaktualizowano o 10 dodatkowych pytań poziomu hard
