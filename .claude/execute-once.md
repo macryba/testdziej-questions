@@ -1,16 +1,19 @@
-Execute the question generation workflow from .claude/instructions.md exactly once.
+Your task: Generate 10 Polish history questions and commit to git.
 
-CRITICAL: You MUST complete ALL steps including the final git commit before exiting!
+STEP 1: Find next target
+Run: jq -r '.tracking | to_entries[] | select(.key != "last_updated") | .key as $epoch | .value | to_entries[] | .key as $chapter | .value | to_entries[] | select(.value < 20) | "\($epoch)|\($chapter)|\(.key)"' .claude/questions-tracker.json | head -1
 
-Read the instructions file and follow these steps in order:
-1. Find next epoch/chapter/difficulty combination needing questions
-2. Research sources using web search (if available)
-3. Generate 10 questions (save to ONE file in questions/validated/)
-4. Update .claude/state.json with new values
-5. Update .claude/questions-tracker.json (+10 questions)
-6. Commit changes to git with --no-verify flag
-7. EXIT immediately after commit
+STEP 2: Generate 10 questions for that epoch/chapter/difficulty
+- Create file: questions/validated/[epoch]-[chapter]-[difficulty].md
+- Use template from templates/question-template.md
+- Focus on different aspects per question (political, social, military, etc.)
 
-Do NOT exit before completing the git commit. Verify the commit succeeded before exiting.
+STEP 3: Update state files
+- jq '.tracking["EPOCH"]["CHAPTER"]["DIFFICULTY"] += 10' .claude/questions-tracker.json > tmp && mv tmp .claude/questions-tracker.json
+- Update .claude/state.json with current values
 
-Generate ALL 10 questions, update BOTH state files, AND commit to git before you exit.
+STEP 4: Commit to git
+git add questions/validated/*.md .claude/*.json
+git commit --no-verify -m "Add 10 questions for EPOCH/CHAPTER (DIFFICULTY)"
+
+DO ALL 4 STEPS before exiting. Verify git commit succeeded.

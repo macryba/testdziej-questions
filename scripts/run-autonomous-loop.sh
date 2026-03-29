@@ -52,37 +52,30 @@ while true; do
         break
     fi
 
-    # Start Claude Code with loop command in background
-    log "Starting Claude Code loop for iteration $ITERATION..."
+    # Start Claude Code with direct execution
+    log "Starting Claude Code for iteration $ITERATION..."
 
-    # Create a temporary tmux session for this iteration
-    SESSION_NAME="testdziej-loop-iter-$ITERATION"
-    tmux new-session -d -s "$SESSION_NAME" -c "$PROJECT_DIR"
+    cd "$PROJECT_DIR"
+    claude --print "Execute question generation workflow:
+1. Run: jq -r '.tracking | to_entries[] | select(.key != \"last_updated\") | .key as \$epoch | .value | to_entries[] | .key as \$chapter | .value | to_entries[] | select(.value < 20) | \"\(\$epoch)|\(\$chapter)|\(.key)\"' .claude/questions-tracker.json | head -1
+2. For the target epoch/chapter/difficulty, generate 10 questions
+3. Save to: questions/validated/[epoch]-[chapter]-[difficulty].md
+4. Update both .claude/state.json and .claude/questions-tracker.json (+10)
+5. Run: git add questions/validated/*.md .claude/*.json && git commit --no-verify -m \"Add 10 questions for EPOCH/CHAPTER (DIFFICULTY)\"
 
-    # Send commands to start Claude Code and run loop
-    tmux send-keys -t "$SESSION_NAME" "claude" C-m
-    sleep 3
-    tmux send-keys -t "$SESSION_NAME" "/loop 30m .claude/instructions.md" C-m
+Complete ALL 5 steps including git commit before exiting." &
+    CLAUDE_PID=$!
 
-    log "Claude Code loop started in session: $SESSION_NAME"
+    log "Claude Code started (PID: $CLAUDE_PID)"
     log "Waiting for iteration to complete (max 35 minutes)..."
 
-    # Wait for the iteration to complete
-    # Check every 30 seconds if the session still exists
+    # Wait for Claude to complete
     WAIT_TIME=0
-    MAX_WAIT=2100  # 35 minutes max per iteration
+    MAX_WAIT=2100  # 35 minutes
 
     while [ $WAIT_TIME -lt $MAX_WAIT ]; do
-        if ! tmux has-session -t "$SESSION_NAME" 2>/dev/null; then
-            log "✓ Iteration $ITERATION completed (session closed)"
-            break
-        fi
-
-        # Check if Claude Code is still running
-        if ! tmux capture-pane -t "$SESSION_NAME" -p | grep -q "claude\|Claude"; then
-            log "✓ Iteration $ITERATION completed (Claude Code exited)"
-            # Clean up session
-            tmux kill-session -t "$SESSION_NAME" 2>/dev/null || true
+        if ! kill -0 $CLAUDE_PID 2>/dev/null; then
+            log "✓ Iteration $ITERATION completed (Claude exited)"
             break
         fi
 
@@ -93,7 +86,7 @@ while true; do
 
     if [ $WAIT_TIME -ge $MAX_WAIT ]; then
         log "⚠ Iteration $ITERATION timed out after 35 minutes"
-        tmux kill-session -t "$SESSION_NAME" 2>/dev/null || true
+        kill $CLAUDE_PID 2>/dev/null || true
     fi
 
     # Brief pause before next iteration

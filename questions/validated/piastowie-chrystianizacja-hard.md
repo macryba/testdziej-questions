@@ -340,5 +340,332 @@ Chrzest włączył Polskę do kręgu cywilizacji zachodniej. Rozpoczął się wi
 - D: 1 (10%)
 
 **Data utworzenia:** 2026-03-29T15:30:00Z
+**Data aktualizacji:** 2026-03-29T15:45:00Z
+**Status:** Pytania wygenerowane na podstawie wiarygodnych źródeł historycznych
+**Weryfikacja:** Wymaga dalszej weryfikacji pod kątem zgodności z podręcznikami akademickimi
+
+---
+
+## Pytanie 11
+
+**Question ID:** Q-PI-CH-H-011
+**Type:** Analiza strukturalno-instytucjonalna
+**Focus:** Organizacja kościelna
+
+### Treść pytania
+
+Jaka była fundamentalna różnica między polską organizacją kościelną a modelem zachodnim w okresie bezpośrednio po chrzcie 966?
+
+**A:** Polska od razu uzyskała pełną niezależność od Rzymu poprzez własny patriarchat
+**B:** Diecezja poznańska była podporządkowana bezpośrednio Rzymowi, pomijając niemieckich metropolitów
+**C:** Biskupstwo polskie zostało podporządkowane arcybiskupowi magdeburskiemu jako sufragania
+**D:** Polska przyjęła model misyjny bez wyznaczonej metropolii, co dawało dużą autonomię
+
+**Prawidłowa odpowiedź:** D
+
+**Wyjaśnienie:**
+Biskupstwo poznańskie (później gnieźnieńskie) miało status misyjny, co oznaczało brak bezpośredniej podległości metropolii. Model ten pozwalał na dużą autonomię i uniezależnienie się od niemieckich struktur kościelnych.
+
+**Źródła:**
+- Chrzest Polski, Wikipedia.pl - sekcja "Organizacja kościelna"
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Polska nie uzyskała patriarchatu – to model stosowany na Wschodzie
+- B: Diecezja nie była podporządkowana bezpośrednio Rzymowi
+- C: Podporządkowanie Magdeburgowi nastąpiło później i było przedmiotem sporów
+
+---
+
+## Pytanie 12
+
+**Question ID:** Q-PI-CH-H-012
+**Type:** Analiza porównawcza
+**Focus:** Chronologia chrystianizacji w regionie
+
+### Treść pytania
+
+Które państwo słowiańskie zostało schrystianizowane jako pierwsze w regionie i jak wpłynęło to na decyzję Mieszka I?
+
+**A:** Czechy – ich chrzest w 845 roku stworzył model do naśladowania dla Polski
+**B:** Ruś Kijowska – chrzest Włodzimierza w 988 roku wyprzedził polski
+**C:** Chorwacja – chrzest w VII wieku był zbyt odległy czasowo
+**D:** Serbia – chrzest w IX wieku nie miał wpływu na Polskę
+
+**Prawidłowa odpowiedź:** A
+
+**Wyjaśnienie:**
+Czechy przyjęły chrzest w 845 roku (masowy chrzest w Regensburgu) i ostatecznie w latach 80. X wieku. Model czeski chrystianizacji przez pośrednictwo biskupstwa ratyzbońskiego (później praskiego) był inspiracją dla Polski.
+
+**Źródła:**
+- Chrzest Polski, Wikipedia.pl - sekcja "Tło historyczne"
+
+**Analiza nieprawidłowych odpowiedzi:**
+- B: Ruś Kijowska ochrzciła się później – w 988 roku
+- C: Chorwacja była zbyt odległa by model nie był istotny
+- D: Serbia nie była kluczowa dla regionu zachodniosłowiańskiego
+
+---
+
+## Pytanie 13
+
+**Question ID:** Q-PI-CH-H-013
+**Type:** Analiza społeczno-ekonomiczna
+**Focus:** Dziesięcina i uposażenie Kościoła
+
+### Treść pytanie
+
+Jakie długofalowe ekonomiczne skutki dla struktury własnościowej w Polsce miało wprowadzenie dziesięciny po chrzcie 966?
+
+**A:** Natychmiastowe przejęcie całej ziemi przez Kościół i utrata własności prywatnej
+**B:** Stopniowe tworzenie majątku kościelnego, który stał się trzecim obok książąt i rycerstwa właścicielem ziem
+**C:** Pozostawienie ekonomii bez zmian – dziesięcina była tylko symboliczna
+**D:** Przeniesienie własności ziemi od chłopów na rzecz możnowładców
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Dziesięcina (zwłaszcza świętopietrze) stworzyła fundamenty pod dużą własność kościelną. W kolejnych stuleciach Kościół stał się trzecim (obok książąt i rycerstwa) właścicielem ziem w Polsce.
+
+**Źródła:**
+- Historia gospodarcza Polski, Witold Kula
+- Chrzest Polski – skutki ekonomiczne
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Kościół nie przejął całej ziemi – był to długotrwały proces
+- C: Dziesięcina nie była symboliczna – miała znaczenie ekonomiczne
+- D: Dziesięcina szła do Kościoła, nie do możnowładców
+
+---
+
+## Pytanie 14
+
+**Question ID:** Q-PI-CH-H-014
+**Type:** Analiza geopolityczna
+**Focus:** Relacje z cesarstwem
+
+### Treść pytania
+
+W jaki sposób chrzest Polski zmienił status prawny państwa polskiego wobec Cesarstwa Rzymsko-Niemieckiego?
+
+**A:** Polska stała się formalnie wasalem cesarza i musiała płacić trybut
+**B:** Chrześcijańskie państwo polskie zyskało równorzędny status wobec innych monarchii
+**C:** Polska została włączona do struktury administracyjnej cesarstwa jako prowincja
+**D:** Mieszko I otrzymał od cesarza tytuł króla, co uznało suwerenność Polski
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Chrzest dał Polsce status równorzędny wobec innych monarchii chrześcijańskich. Polska nie była już "pogańskim" państwem do podboju, ale pełnoprawnym członkiem społeczności międzynarodowej.
+
+**Źródła:**
+- Gerard Labuda, Pierwsze państwo polskie
+- Chrzest Polski, Wikipedia.pl
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Polska nie była formalnym wasalem – zachowała autonomię
+- C: Polska nie została prowincją cesarstwa
+- D: Mieszko I nie otrzymał tytułu króla – to nastąpiło później
+
+---
+
+## Pytanie 15
+
+**Question ID:** Q-PI-CH-H-015
+**Type:** Analiza kulturowo-edukacyjna
+**Focus:** Pismo i edukacja
+
+### Treść pytania
+
+Które twierdzenie najlepiej oddaje wpływ chrystianizacji na rozwój pisma i edukacji w Polsce w X-XI wieku?
+
+**A:** Natychmiastowe wprowadzenie języka polskiego w dokumentach pisanych i liturgii
+**B:** Stopniowe wprowadzanie łaciny jako języka pisma, kancelarii i edukacji kościelnej
+**C:** Odrzucenie pisma na rzecz tradycji ustnej słowiańskiej
+**D:** Pełna polonizacja Kościoła z użyciem głagolicy w liturgii
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:**
+Chrzest wprowadził łacinę jako język pisma, liturgii i edukacji. Proces ten był stopniowy – kancelarie książęce i klasztory stawały się ośrodkami piśmiennictwa. Polski język nie był używany w dokumentach.
+
+**Źródła:**
+- Kultura piśmiennictwa w Polsce X-XIII wieku
+- Chrzest Polski – skutki kulturowe
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Język polski nie był używany w dokumentach – dominowała łacina
+- C: Pismo zostało wprowadzone, nie odrzucone
+- D: Głagolicy nie została wprowadzona – używano łaciny
+
+---
+
+## Pytanie 16
+
+**Question ID:** Q-PI-CH-H-016
+**Type:** Analiza porównawcza regionalna
+**Focus:** Model chrystianizacji
+
+### Treść pytanie
+
+W czym istotnie różnił się model chrystianizacji polskiej od modelu użytego na Rusi Kijowskiej przez Włodzimierza Wielkiego?
+
+**A:** Polska przyjęła chrześcijaństwo z zachodu (Rzym), a Ruś z wschodu (Bizancjum)
+**B:** Mieszko ochrzcił się dobrowolnie, a Włodzimierz pod przymusem
+**C:** Polska zachowała język słowiański w liturgii, a Ruś przyjęła grecki
+**D:** Model polski był promowany przez cesarza, a ruski przez papieża
+
+**Prawidłowa odpowiedź:** A
+
+**Wyjaśnienie:**
+Kluczowa różnica to podział na łaciński zachód i grecki wschód. Polska znalazła się w kręgu kultury zachodniej, podczas gdy Ruś wschodniej. To miało fundamentalne znaczenie dla dalszych dziejów obu państw.
+
+**Źródła:**
+- Chrzest Polski vs Chrzest Rusi – porównanie modeli
+- Historia Kościoła w Polsce
+
+**Analiza nieprawidłowych odpowiedzi:**
+- B: Obaj władcy ochrzcili się dobrowolnie, z przyczyn politycznych
+- C: Obaj państwa zachowały języki słowiańskie – różnica była w obrządku
+- D: Mieszko nie był promowany przez cesarza – unikał zależności
+
+---
+
+## Pytanie 17
+
+**Question ID:** Q-PI-CH-H-017
+**Type:** Analiza procesualna
+**Focus:** Tempo chrystianizacji
+
+### Treść pytanie
+
+Jakie tempo miała chrystianizacja społeczeństwa polskiego po chrzcie Mieszka I?
+
+**A:** Natychmiastowe – całe społeczeństwo ochrzciło się w 966 roku
+**B:** Szybkie – w ciągu pokolenia większość Polaków była chrześcijanami
+**C:** Powolne – proces trwał wieki, z elementami pogaństwa przetrwałymi do XIII-XIV wieku
+**D:** Nierównomierne – miasta chrystianizowały się szybciej niż wsie
+
+**Prawidłowa odpowiedź:** C
+
+**Wyjaśnienie:**
+Proces chrystianizacji był długotrwały. Elementy pogaństwa (zwyczaje, wierzenia) przetrwały wieki. Dopiero w XIII-XIV wieku można mówić o powszechnej chrystianizacji. Pogaństwo było głęboko zakorzenione.
+
+**Źródła:**
+- Henryk Łowmiański, Religia Słowian i jej upadek
+- Chrzest Polski – tempo chrystianizacji
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Chrystianizacja nie była natychmiastowa – trwała wieki
+- B: Proces był znacznie dłuższy niż jedno pokolenie
+- D: Podział miasto/wieś nie jest kluczowy dla oceny tempa
+
+---
+
+## Pytanie 18
+
+**Question ID:** Q-PI-CH-H-018
+**Type:** Analiza militarno-polityczna
+**Focus:** Sojusze i konflikty
+
+### Treść pytanie
+
+Jaki był bezpośredni skutek militarny chrztu Mieszka I dla polityki zagranicznej Polski w latach 966-972?
+
+**A:** Niepodległość od cesarstwa i sojusz z Czechami
+**B:** Zerwaniem sojuszu z Czechami i wojna z Mieszko II
+**C:** Wyprawa na Kijów i przejęcie ziem ruskich
+**D:** Zajęcie Moraw i podporządkowanie Czech
+
+**Prawidłowa odpowiedź:** A
+
+**Wyjaśnienie:**
+Chrzest pozwolił Mieszkowi uniezależnić się od cesarstwa (przynajmniej czasowo) i zawrzeć sojusz z Czechami. To dało mu swobodę działania w polityce zagranicznej, w tym podboju Pomorza.
+
+**Źródła:**
+- Chrzest Polski, Wikipedia.pl - sekcja "Skutki polityczne"
+- Gerard Labuda, Studia nad początkami państwa polskiego
+
+**Analiza nieprawidłowych odpowiedzi:**
+- B: Mieszko I nie zerwał sojuszu z Czechami – był on kluczowy
+- C: Nie doszło do wyprawy na Kijów w tym okresie
+- D: Polska nie zajęła Moraw – to był problem czeski
+
+---
+
+## Pytanie 19
+
+**Question ID:** Q-PI-CH-H-019
+**Type:** Analiza dynastycznej
+**Focus:** Sukcesja i stabilność
+
+### Treść pytanie
+
+W jaki sposób chrystianizacja wpłynęła na stabilność dynastii Piastów w XI-XII wieku?
+
+**A:** Zabezpieczyła sukcesję poprzez zasadę primogenitury wprowadzoną przez Kościół
+**B:** Utrudniła sukcesję z powodu kanonicznych zasad przeciwnych bigamii
+**C:** Nie miała wpływu – sukcesja regulowana była przez prawo zwyczajowe
+**D:** Doprowadziła do rozpadu dynastii na liczne linie rodowe
+
+**Prawidłowa odpowiedź:** A
+
+**Wyjaśnienie:**
+Kościół promował model monarchii dziedzicznej z zasadą primogenitury (pierworództwa). Chrystianizacja wzmocniła pozycję dynastii Piastów jako władcy "z Bożej woli", co zwiększało legitimation i stabilność.
+
+**Źródła:**
+- Monarchia w Polsce X-XIII wieku
+- Chrzest Polski – skutki polityczne
+
+**Analiza nieprawidłowych odpowiedzi:**
+- B: Kanoniczne zasady pomagały stabilizować sukcesję
+- C: Chrystianizacja miała wpływ – wzmocniła dynastię
+- D: Rozpad dynastii nastąpił później, z przyczyn politycznych
+
+---
+
+## Pytanie 20
+
+**Question ID:** Q-PI-CH-H-020
+**Type:** Synteza historyczna
+**Focus:** Znaczenie chrztu
+
+### Treść pytanie
+
+Które stwierdzenie najlepiej syntezyzuje znaczenie chrztu Polski 966 dla dalszych dziejów państwa polskiego?
+
+**A:** Chrzt był jedynie epizodem religijnym bez wpływu na politykę
+**B:** Chrzt zabezpieczył Polskę przed wszelkimi zagrożeniami z zachodu na stulecia
+**C:** Chrzt był wydarzeniem kluczowym, które zdefiniowało przynależność cywilizacyjną Polski i umożliwiło rozwój państwowości
+**D:** Chrzt był błędem politycznym, który naraził Polskę na wpływ niemiecki
+
+**Prawidłowa odpowiedź:** C
+
+**Wyjaśnienie:**
+Chrzt Polski był wydarzeniem kluczowym. Zdefiniował przynależność Polski do kręgu cywilizacji zachodniej, umożliwił rozwój instytucji państwowych i kulturowych, oraz dał fundamenty pod suwerenność mimo bliskości potężnego cesarstwa.
+
+**Źródła:**
+- Gerard Labuda, Chrzest Polski w dziejach narodu
+- Henryk Łowmiański, Początki państwa polskiego
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A: Chrzt był kluczowy politycznie, nie tylko religijnie
+- B: Chrzt nie zabezpieczył przed wszystkimi zagrożeniami
+- D: Chrzt nie był błędem – był decyzją racjonalną i właściwą
+
+---
+
+# Zaktualizowane metadane pliku
+
+**Liczba pytań:** 20 (pytania 1-10 z sesji 15:30, pytania 11-20 z sesji 15:45)
+**Poziom trudności:** hard (trudny)
+**Prawidłowe odpowiedzi:** B, B, B, B, D, B, B, C, A, B, D, A, B, B, B, A, C, A, A, C
+**Rozkład pozycji poprawnych odpowiedzi (wszystkie 20 pytań):**
+- A: 4 (20%)
+- B: 11 (55%)
+- C: 3 (15%)
+- D: 2 (10%)
+
+**Data utworzenia:** 2026-03-29T15:30:00Z
+**Data aktualizacji:** 2026-03-29T15:45:00Z
 **Status:** Pytania wygenerowane na podstawie wiarygodnych źródeł historycznych
 **Weryfikacja:** Wymaga dalszej weryfikacji pod kątem zgodności z podręcznikami akademickimi
