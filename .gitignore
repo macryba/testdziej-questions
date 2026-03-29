@@ -1,1 +1,7 @@
 .tmp/
+
+# Log files
+logs/*.log
+
+# Lock files
+.claude/scheduled_tasks.lock
