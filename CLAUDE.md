@@ -137,7 +137,9 @@ When the loop runs, each iteration generates **10 questions** for the same epoch
    - **Hard:** Analytical questions - extended matura level
 5. **Create incorrect answers:** Follow strict validation rules (see below)
 6. **Validate:** Verify historical accuracy and answer plausibility
-7. **Save:** Save to `questions/validated/`
+7. **Save:** Save ALL 10 questions in ONE file to `questions/validated/[epoch]-[chapter]-[difficulty].md`
+   - ✅ CORRECT: `starozytnosc-pradzieje-easy.md` (one file with all 10 questions)
+   - ❌ WRONG: `pradzieje-easy-001.md`, `pradzieje-easy-002.md`, etc. (separate numbered files)
 8. **Update state:** Write progress to both `.claude/state.json` and `.claude/questions-tracker.json`
 
 ## Critical Validation Rules for Incorrect Answers

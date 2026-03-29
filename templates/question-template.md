@@ -1,3 +1,13 @@
+# CRITICAL: FILE STRUCTURE
+# This template shows the structure for ONE question.
+# However, when generating questions, you MUST put ALL 10 questions into ONE file.
+# Do NOT create separate files for each question!
+#
+# CORRECT: starozytnosc-pradzieje-easy.md (contains 10 questions)
+# WRONG: pradzieje-easy-001.md, pradzieje-easy-002.md, etc. (separate files)
+#
+# File name format: [epoch]-[chapter]-[difficulty].md (NO numbers!)
+
 Metadata
 epoch: "[EPOCH_NAME]"
 epoch_id: [EPOCH_ID]

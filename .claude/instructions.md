@@ -70,6 +70,17 @@ site:historiaposzkola.pl [wydarzenie] lekcja
 ## 4. Generate 10 Questions
 For the selected epoch-chapter-difficulty, create 10 DIFFERENT questions in ONE file.
 
+**CRITICAL: FILE NAMING RULE**
+- ✅ CORRECT: `starozytnosc-pradzieje-easy.md` (ONE file containing ALL 10 questions)
+- ❌ WRONG: `Starozytnosc-Pradzieje-easy-0011.md`, `0012.md`, etc. (NEVER create separate numbered files!)
+- ❌ WRONG: `pradzieje-easy-1.md`, `pradzieje-easy-2.md`, etc. (NEVER create multiple files!)
+
+**The file name MUST be exactly:** `[epoch]-[chapter]-[difficulty].md`
+- All lowercase
+- Spaces replaced with hyphens
+- NO numbers in the filename
+- NO individual files per question
+
 ### Question Creation Process (Repeat 10 times in same file):
 
 **A. Create Historical Summary**
@@ -125,7 +136,19 @@ For 10 questions, ensure diversity:
 10. Question about comparisons/relationships
 
 **E. Create Question File**
-Create file: questions/validated/[epoch]-[chapter]-[difficulty].md (contains ALL 10 questions)
+
+**STOP! READ THIS BEFORE CREATING ANY FILE!**
+You MUST create EXACTLY ONE file that contains ALL 10 questions.
+- Do NOT create 10 separate files
+- Do NOT number your files (no -0011, -0012, etc.)
+- Do NOT create multiple files for the same epoch/chapter/difficulty
+
+**Create ONLY this file:** `questions/validated/[epoch]-[chapter]-[difficulty].md`
+
+Examples:
+- ✅ CORRECT: `questions/validated/starozytnosc-pradzieje-easy.md` (one file with 10 questions)
+- ❌ WRONG: `questions/validated/starozytnosc-pradzieje-easy-001.md` (numbered file)
+- ❌ WRONG: `questions/validated/pradzieje-easy-1.md`, `pradzieje-easy-2.md`, etc. (multiple files)
 
 **CRITICAL: ONE FILE per chapter-difficulty**
 - All 10 questions go into ONE file
@@ -258,6 +281,14 @@ IMPORTANT: If you generated fewer than 10 questions (because the combination was
 
 ## 10. All Questions Saved to Validated
 All 10 questions are saved in ONE file: questions/validated/[epoch]-[chapter]-[difficulty].md
+
+**FINAL FILE CHECK - Before committing, verify:**
+- [ ] Only ONE .md file was created for this epoch/chapter/difficulty
+- [ ] The filename has NO numbers (no -001, -002, etc.)
+- [ ] The file contains ALL 10 questions
+- [ ] Each question has a unique Question ID (Q-XXX-001, Q-XXX-002, etc.)
+
+If you see multiple numbered files (like `file-001.md`, `file-002.md`), **STOP** and consolidate them into ONE file before committing.
 
 ## 11. Commit Work Automatically
 After each successful iteration, commit all changes to git WITHOUT requiring user approval:
