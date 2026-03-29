@@ -15,7 +15,7 @@
     "Piastowie": {
       "Chrystianizacja": {
         "easy": 20,
-        "medium": 10,
+        "medium": 20,
         "hard": 10
       },
       "Ekspansja": {
@@ -304,5 +304,5 @@
       }
     }
   },
-  "last_updated": "2026-03-29T09:46:50Z"
+  "last_updated": "2026-03-29T12:00:00Z"
 }
