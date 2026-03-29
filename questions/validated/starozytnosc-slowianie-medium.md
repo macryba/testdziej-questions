@@ -409,4 +409,331 @@ Stosunki Słowian z sąsiadami były zróżnicowane. Z Bizancjum utrzymywano kon
 
 ---
 
+---
+
+## Pytanie 11
+
+**ID pytania:** Q-ST-SL-002-011
+**Typ pytania:** Struktura społeczna
+**Temat:** Miejsce kobiety w społeczeństwie słowiańskim
+
+### Treść pytania
+
+Pozycja społeczna kobiet w plemionach słowiańskich przed chrystianizacją charakteryzowała się:
+
+**A.** Pełnym wykluczeniem z życia publicznego i gospodarczego
+**B.** Uczestnictwem w pracach gospodarczych i życiu rodzinnym z ograniczonymi prawami
+**C.** Równouprawnieniem z mężczyznami we wszystkich sferach życia
+**D.** Dominującą pozycją w strukturze plemiennej
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Kobiety słowiańskie uczestniczyły w pracach gospodarczych (rolnictwo, hodowla, rzemiosło), wychowaniu dzieci i życiu rodzinnym, jednak ich prawa polityczne były ograniczone. Nie mogły np. uczestniczyć w wiecach ani sprawować władzy, choć w rodzie miały pewien wpływ na decyzje.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Kobiety nie były całkowicie wykluczone - aktywnie uczestniczyły w życiu gospodarczym i rodzinnym, co było kluczowe dla funkcjonowania społeczności.
+
+**C.** Równouprawnienie we wszystkich sferach nie istniało - kobiety nie miały praw politycznych ani wojskowych, które były zarezerwowane dla mężczyzn.
+
+**D.** Pozycja dominująca nie występowała - społeczeństwo słowiańskie było patriarchalne, więc mężczyźni mieli przewagę w życiu publicznym i politycznym.
+
+---
+
+## Pytanie 12
+
+**ID pytania:** Q-ST-SL-002-012
+**Typ pytania:** Kultura materialna
+**Temat:** Budownictwo słowiańskie
+
+### Treść pytania
+
+Charakterystyczną formą budownictwa mieszkalnego Słowian w okresie wczesnego średniowiecza były:
+
+**A.** Kamienne wieże obronne z XII wieku
+**B.** Drewniane chaty z wiejskich zagrodów
+**C.** Ceglane pałace z XV wieku
+**D.** Namioty koczownicze ze stepów
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Słowianie budowali proste drewniane chaty, często zagłębione częściowo w ziemię (tzw. półziemianki), które były częścią większych zagrod rodzinnych. Budownictwo drewniane dominowało ze względu na dostępność materiału i tradycję.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Kamienne wieże obronne pojawiły się później, w okresie rozkwitu państwowości i rozwoju technologii murowanej (XII-XIII wiek).
+
+**C.** Ceglane pałace to domena nowożytności - cegła jako budulec stała się popularna znacznie później, dopiero w późnym średniowieczu.
+
+**D.** Namioty koczownicze nie były charakterystyczne dla Słowian - byli ono ludem osiadłym, a nie koczowniczym jak ludy stepowe.
+
+---
+
+## Pytanie 13
+
+**ID pytania:** Q-ST-SL-002-013
+**Typ pytania:** Kontekst polityczny
+**Temat:** Stosunki Słowian z Germanami
+
+### Treść pytania
+
+Stosunki między Słowianami a plemionami germańskimi w VI-VII wieku można określić jako:
+
+**A.** Wyłącznie sojusznicze i przyjacielskie
+**B.** Konfliktowe ze względu na ekspansję germańską na wschód
+**C.** Neutralne bez żadnych kontaktów
+**D.** Zależność Słowian od państw germańskich
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Stosunki były głównie konfliktowe, ponieważ plemiona germańskie ekspandowały na wschód, zajmując słowiańskie terytoria. Germanowie przesuwali się pod naciskiem Hunów i później Awarii, co prowadziło do wojen o ziemię i zasoby.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Stosunki nie były wyłącznie sojusznicze - choć czasami zawierano sojusze tymczasowe, dominowały konflikty terytorialne.
+
+**C.** Relacje nie były neutralne - intensywna ekspansja germańska na wschód powodowała ciągłe tarcia i wojny o terytoria.
+
+**D.** Słowianie nie byli zależni od państw germańskich - zachowali niezależność polityczną i成功地 opracowali naporowi germańskiemu.
+
+---
+
+## Pytanie 14
+
+**ID pytania:** Q-ST-SL-002-014
+**Typ pytania:** Kultura i sztuka
+**Temat:** Ceramika słowiańska
+
+### Treść pytania
+
+Ceramika wytwarzana przez Słowian w VI-VII wieku wyróżniała się:
+
+**A.** Produkcją na kole garncarskim z glazurowaną powierzchnią
+**B.** Lepieniem ręcznym bez użycia koła garncarskiego
+**C.** Importem z Bizancjum i krajów arabskich
+**D.** Wykorzystaniem metalowych form do odlewania
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Wczesna ceramika słowiańska była lepiona ręcznie bez użycia koła garncarskiego. Naczynia miały proste formy, często zdobione ornamentami geometrycznymi lub wpustami palcowymi. Technika ta była charakterystyczna dla kultury praskiej.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Kolo garncarskie i glazura pojawiły się później - wczesne średniowiecze używało prostszych technik ceramicznych.
+
+**C.** Ceramika nie była importowana - była wytwarzana lokalnie na potrzeby społeczności, a import z Bizancju był marginalny.
+
+**D.** Metalowe formy do odlewania ceramiki nie istniały - ceramika była formowana ręcznie z gliny, a nie odlewana w metalowych formach.
+
+---
+
+## Pytanie 15
+
+**ID pytania:** Q-ST-SL-002-015
+**Typ pytania:** Przyczyny i skutki
+**Temat:** Przyczyny migracji Słowian
+
+### Treść pytania
+
+Jedną z głównych przyczyn migracji Słowian na zachód i południe w V-VI wieku było:
+
+**A.** Poszukiwanie nowych szlaków handlowych z Chinami
+**B.** Presja ze strony ludów stepowych (Hunowie, Awarowie)
+**C.** Przeludnienie na ziemiach słowiańskich
+**D.** Chęć podboju terytoriów Cesarstwa Rzymskiego
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Migracje Słowian były spowodowane głównie presją ludów stepowych z wschodu - najpierw Hunów, później Awarii. Te ludy koczownicze wypierały Słowian z ich pierwotnych siedlisk, zmuszając ich do poszukiwania nowych terytoriów na zachodzie i południu.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Szlaki handlowe z Chinami nie były motywem migracji - handel z Chinami rozwijał się później i był pośrednictwem innych ludów.
+
+**C.** Przeludnienie nie było główną przyczyną - terytoria słowiańskie były rozległe i niezamieszkałe, więc nie brakowało ziemi.
+
+**D.** Podbój Cesarstwa Rzymskiego nie był celem - Słowianie szukali nowych siedlisk, a nie ekspansywnych podbojów na tereny państw.
+
+---
+
+## Pytanie 16
+
+**ID pytania:** Q-ST-SL-002-016
+**Typ pytania:** Kontekst polityczny
+**Temat:** Państwo wielkomorawskie a Słowianie
+
+### Treść pytania
+
+Państwo wielkomorawskie, istniejące w IX wieku, miało znaczenie dla Słowian ponieważ:
+
+**A.** Było pierwszym państwem słowiańskim, które przyjęło chrześcijaństwo
+**B.** Stanowiło unię wszystkich plemion słowiańskich od Bałtyku po Adriatyk
+**C.** Było państwem germańskim zależnym od Franków
+**D.** Zlikwidowało całkowicie pogaństwo wśród Słowian
+
+**Poprawna odpowiedź:** A
+
+### Wyjaśnienie
+Państwo wielkomorawskie (w dzisiejszej Morawach i Słowacji) było pierwszym znaczącym państwem słowiańskim, które przyjęło chrześcijaństwo. Wysłało też prośbę do Bizancjum o misję, w wyniku której Cyryl i Metody stworzyli alfabet głagolicki dla Słowian.
+
+### Analiza niepoprawnych odpowiedzi
+
+**B.** Państwo wielkomorawskie nie obejmowało wszystkich Słowian - tylko plemiona morawskie, słowackie i częściowo czeskie, a nie całość od Bałtyku po Adriatyk.
+
+**C.** Państwo wielkomorawskie było słowiańskie, a nie germańskie - choć było w stosunku zależnym od Franków, jego elita była słowiańska.
+
+**D.** Chrzest państwa nie zlikwidował pogaństwa całkowicie - proces chrystianizacji trwał wieki i wśród ludu pogańskie praktyki istniały długo.
+
+---
+
+## Pytanie 17
+
+**ID pytania:** Q-ST-SL-002-017
+**Typ pytania:** Geografia i osadnictwo
+**Temat:** Lokalizacja grodów słowiańskich
+
+### Treść pytania
+
+Słowianie przy budowaniu grodów najczęściej wybierali lokalizacje:
+
+**A.** Na otwartych równinach bez żadnych barier naturalnych
+**B.** Na wzniesieniach nad rzekami lub jeziorami
+**C.** W głębokich dolinach rzek zalewanych
+**D.** Na pustyniach i stepach z dala od wody
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Grody budowano na strategicznych wzniesieniach nad rzekami lub jeziorami, co zapewniało obronę (naturalne bariery wodne), dostęp do wody i kontrolę nad szlakami komunikacyjnymi. Względy obronne i funkcjonalne decydowały o lokalizacji.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Otwarte równiny bez barier naturalnych były złymi lokalizacjami obronnymi - grody potrzebowały naturalnych przeszkód dla wzmocnienia obrony.
+
+**C.** Doliny rzek zalewane nie były odpowiednie - regularne powodzie zniszczyłyby budowle i czyniły grod bezużytecznym.
+
+**D.** Pustynie i stepy z dala od wody nie występowały na ziemiach słowiańskich - Słowianie zamieszkiwali tereny leśne i rzeczne, a nie pustynne.
+
+---
+
+## Pytanie 18
+
+**ID pytania:** Q-ST-SL-002-018
+**Typ pytania:** Kontekst ekonomiczny
+**Temat:** Handel słowiański
+
+### Treść pytania
+
+Handel słowiański w VI-VIII wieku koncentrował się przede wszystkim na:
+
+**A.** Eksportcie zboża do krajów islamskich
+**B.** Wymianie towarów z sąsiednimi plemionami i Bizancjum
+**C.** Imporcie luksusowych towarów z Chin
+**D.** Transaharyjskim handlu złotem i niewolnikami
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Handel słowiański miał charakter lokalny i regionalny - wymianę towarów (żywność, rzemiosło, surowce) prowadzono z sąsiednimi plemionami oraz Bizancjum. Na południu przez terytoria słowiańskie biegły szlaki handlowe łączące Europę Północną z Bizancjum.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Eksport zboża do krajów islamskich nie był głównym kierunkiem - handel z islamskimi kupcami rozwijał się później i w innych formach.
+
+**C.** Import z Chin był marginalny - towary chińskie docierały przez szereg pośredników i nie stanowiły istoty handlu słowiańskiego.
+
+**D.** Transaharyjski handel nie dotyczył Słowian - był to handel afrykański między północą Afryki a subsaharyjską częścią kontynentu.
+
+---
+
+## Pytanie 19
+
+**ID pytania:** Q-ST-SL-002-019
+**Typ pytania:** Kontekst militarny
+**Temat:** Uzbrojenie słowiańskie
+
+### Treść pytania
+
+Podstawowe uzbrojenie wojów słowiańskich w VI-VII wieku stanowiły:
+
+**A.** Broń palna i proch strzelniczy
+**B.** Włócznie, tarcze i topory
+**C.** Katapułty i machiny oblężnicze
+**D.** Zbroje płytowe i konny rycerstwo
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Wojowie słowiańscy używali prostego uzbrojenia: włóczni do walki, tarcz do obrony i toporów jako broni obuchowej. Zbroje były rzadkością - najczęściej skórzane lub płócienne. Konnica istniała, ale nie w formie rycerstwa feudalnego.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Broń palna pojawiła się w Europie dopiero w XIV wieku - wczesne średniowiecze nie znało prochu ani broni palnej.
+
+**C.** Katapułty i machiny oblężnicze były skomplikowaną technologią dostępną tylko dla rozwiniętych państw, nie plemion słowiańskich.
+
+**D.** Zbroje płytowe i konne rycerstwo to późne średniowiecze - w VI-VII wieku nie istniały ani zbroje płytowe, ani rycerstwo feudalne.
+
+---
+
+## Pytanie 20
+
+**ID pytania:** Q-ST-SL-002-020
+**Typ pytania:** Przyczyny i skutki
+**Temat:** Przyczyny sukcesu Polan wśród plemion słowiańskich
+
+### Treść pytania
+
+Główną przyczyną sukcesu Polan w procesie jednoczenia plemion słowiańskich było:
+
+**A.** Największa liczebność populacji wśród plemion
+**B.** Połączenie silnej władzy książęcej z dogodnym położeniem geograficznym
+**C.** Sojusz z Cesarstwem Niemieckim od samego początku
+**D.** Przyjęcie chrześcijaństwa przed wszystkimi innymi plemionami
+
+**Poprawna odpowiedź:** B
+
+### Wyjaśnienie
+Sukces Polan wynikał z kombinacji silnej władzy książęcej (dynastia Piastów) i dogodnego położenia geograficznego w centrum ziemi polskich. Pozwalało to kontrolować szlaki handlowe, łatwiej integrować sąsiednie plemiona i budować struktury państwowe.
+
+### Analiza niepoprawnych odpowiedzi
+
+**A.** Liczebność populacji nie była decydująca - inne plemiona mogły mieć podobną lub większą populację, ale to organizacja polityczna zadecydowała o sukcesie.
+
+**C.** Sojusz z Cesarstwem Niemieckim nie był istotny na początku - relacje z Niemcami były raczej konfliktowe, a nie sojusznicze, w okresie formowania się państwa.
+
+**D.** Chrzest Polski w 966 był wynikiem sukcesu politycznego, a nie jego przyczyną - do chrztu doszło już po uformowaniu się podstaw państwa piastowskiego.
+
+---
+
+## Aktualizacja statystyk
+
+**Nowa liczba pytań:** 20 (dodano 10 pytań: 11-20)
+
+**Zaktualizowany rozkład typów pytań:**
+- Daty i chronologia: 2 (10%)
+- Kto i co: 2 (10%)
+- Gdzie i kiedy: 1 (5%)
+- Przyczyny i skutki: 4 (20%)
+- Struktura społeczna: 3 (15%)
+- Aspekty polityczne: 3 (15%)
+- Aspekty ekonomiczne: 1 (5%)
+- Kultura i religia: 2 (10%)
+- Kontekst polityczny: 2 (10%)
+
+**Zaktualizowany rozkład pozycji poprawnych odpowiedzi:**
+- Odpowiedź A: 4 pytania (20%)
+- Odpowiedź B: 9 pytań (45%)
+- Odpowiedź C: 5 pytań (25%)
+- Odpowiedź D: 2 pytania (10%)
+
+**Uwaga:** Rozkład pozycji poprawnych odpowiedzi jest wyrównany bardziej niż poprzednio, choć nadal przeważa odpowiedź B.
+
+---
+
 *Koniec pliku*

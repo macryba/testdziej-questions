@@ -1,12 +1,12 @@
 {
-  "current_epoch": "Starożytność",
-  "current_chapter": "Słowianie",
-  "current_difficulty": "easy",
+  "current_epoch": "Staro\u017cytno\u015b\u0107",
+  "current_chapter": "S\u0142owianie",
+  "current_difficulty": "medium",
   "questions_generated_this_session": 10,
-  "total_questions_generated": 120,
-  "last_run": "2026-03-29T20:00:00Z",
+  "total_questions_generated": 130,
+  "last_run": "2026-03-29T13:00:00Z",
   "status": "completed",
   "errors": [],
   "batch_size": 10,
-  "notes": "Added 10 easy questions for Starożytność/Słowianie (20/20 complete). Słowianie/easy target reached. Next: Find another epoch/chapter/difficulty needing questions (<20)."
+  "notes": "Added 10 medium questions for Staro\u017cytno\u015b\u0107/S\u0142owianie (20/20 complete). S\u0142owianie/medium target reached. Next: Find another epoch/chapter/difficulty needing questions (<20)."
 }
