@@ -1,15 +1,15 @@
 {
   "current_epoch": "Piastowie",
   "current_chapter": "Chrystianizacja",
-  "current_difficulty": "easy",
-  "questions_generated_this_session": 10,
-  "total_questions_generated": 81,
-  "last_run": "2026-03-29T14:30:00Z",
+  "current_difficulty": "medium",
+  "questions_generated_this_session": 9,
+  "total_questions_generated": 90,
+  "last_run": "2026-03-29T15:00:00Z",
   "status": "completed",
   "errors": [
     "Web search tools rate-limited - questions generated without source verification",
     "Disclaimer added to question file noting need for verification"
   ],
-  "batch_size": 10,
-  "notes": "Added 10 easy questions for Piastowie/Chrystianizacja (10/20). Next: Piastowie/Chrystianizacja/medium (1/20 needs 9 more) or Piastowie/Chrystianizacja/hard (0/20)."
+  "batch_size": 9,
+  "notes": "Added 9 medium questions for Piastowie/Chrystianizacja (10/20 total). Chrystianizacja now: easy=10, medium=10, hard=0. Next: Piastowie/Chrystianizacja/hard (0/20) or other Piastowie chapters."
 }
