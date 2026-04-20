@@ -12,7 +12,7 @@ tokens_output: 0
 
 ## Kontekst historyczny
 
-W latach 40. XIII wieku Europa została zaatakowana przez Mongołów, którzy pod wodzą Batu Chana najechali na Polskę, Węgry i inne państwa europejskie. Była to pierwsza konfrontacja Polaków z imperium mongolskim, które w tamtym czasie stanowiło najpotężniejszą siłę militarną świata. Mongołowie wykorzystywali zaawowane taktyki wojenne, w tym taktykę udanego ucieczki, która pozwalała im rozbijać wojska wroga.
+W latach 40. XIII wieku Europa została zaatakowana przez Mongołów, którzy pod wodzą Batu Chana najechali na Polskę, Węgry i inne państwa europejskie. Była to pierwsza konfrontacja Polaków z imperium mongolskim, które w tamtym czasie stanowiło najpotężniejszą siłę militarną świata. Mongołowie wykorzystywali zaawansowane taktyki wojenne, w tym taktykę udanej ucieczki, która pozwalała im rozbijać wojska wroga.
 
 Głównym punktem oporu polskiego była bitwa pod Legnicą, która miała miejsce 9 kwietnia 1241 roku. W walce z Mongołami wziął udział Henryk II Pobożny, książę śląski, który zgromadził koalicję polsko-niemiecką. Niestety, bitwa zakończyła się klęską wojsk chrześcijańskich, a sam Henryk II zginął w walce. Pomimo zwycięstwa, Mongołowie ostatecznie wycofali się z Europy Środkowej, jednak najazd ten pozostawił trwałe ślady w historii Polski.
 
@@ -36,9 +36,9 @@ D. Timur Chan
 - https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polskę
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Czyngis Chan** (B) - Założyciel imperium mongolskiego, zmarł w 1227 roku, przed najazdem na Polskę
-- **Kubilaj Chan** (D) - Wnuk Czyngis Chana, założył dynastię Yuan w Chinach w XIII wieku
-- **Timur Chan** (C) - Wódz mongolski z XIV wieku (Tamerlan), nie był związany z najazdem z 1241 roku
+- **Czyngis Chan** (B) — Założyciel imperium mongolskiego, zmarł w 1227 roku, przed najazdem na Polskę
+- **Kubilaj Chan** (D) — Wnuk Czyngis Chana, założył dynastię Yuan w Chinach w XIII wieku
+- **Timur Chan** (C) — Wódz mongolski z XIV wieku (Tamerlan), nie był związany z najazdem z 1241 roku
 
 ---
 
@@ -60,9 +60,9 @@ D. Bolesław Chrobry
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnicą_(1241)
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Władysław Łokietek** (A) - Król Polski z początku XIV wieku (1333-1370)
-- **Kazimierz Wielki** (C) - Król Polski z połowy XIV wieku (1333-1370)
-- **Bolesław Chrobry** (D) - Pierwszy król Polski z początku XI wieku (1025)
+- **Władysław Łokietek** (A) — Król Polski z początku XIV wieku (1333-1370)
+- **Kazimierz Wielki** (C) — Król Polski z połowy XIV wieku (1333-1370)
+- **Bolesław Chrobry** (D) — Pierwszy król Polski z początku XI wieku (1025)
 
 ---
 
@@ -84,9 +84,9 @@ D. 1410
 - https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polskę
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **1227** (A) - Rok zamordowania Leszka Białego w Gąsawie
-- **1320** (C) - Rok koronacji Władysława Łokietka na króla Polski
-- **1410** (D) - Rok bitwy pod Grunwaldem
+- **1227** (A) — Rok zamordowania Leszka Białego w Gąsawie
+- **1320** (C) — Rok koronacji Władysława Łokietka na króla Polski
+- **1410** (D) — Rok bitwy pod Grunwaldem
 
 ---
 
@@ -101,16 +101,16 @@ D. Taktyka pozycyjnej obrony
 
 **Prawidłowa odpowiedź:** A
 
-**Wyjaśnienie:** Mongołowie wykorzystali taktykę udanej ucieczki - udawali odwrót, aby wciągnąć wrogów w pułapkę, potem ich otaczali i niszczeli.
+**Wyjaśnienie:** Mongołowie wykorzystali taktykę udanej ucieczki — udawali odwrót, aby wciągnąć wrogów w pułapkę, potem ich otaczali i niszczeli.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnicą_(1241)
 - https://pl.wikipedia.org/wiki/Taktyka_wojskowa_Mongołów
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Taktyka frontalnego ataku** (B) - Nie była typowa dla Mongołów, którzy preferowali taktykę manewrową
-- **Taktyka oblężenia** (C) - Mongołowie oblężali miasta, ale nie była to główna taktyka w bitwie pod Legnicą
-- **Taktyka pozycyjnej obrony** (D) - Mongołowie nie stosowali statycznej obrony, preferowali działania manewrowe
+- **Taktyka frontalnego ataku** (B) — Nie była typowa dla Mongołów, którzy preferowali taktykę manewrową
+- **Taktyka oblężenia** (C) — Mongołowie oblegali miasta, ale nie była to główna taktyka w bitwie pod Legnicą
+- **Taktyka pozycyjnej obrony** (D) — Mongołowie nie stosowali statycznej obrony, preferowali działania manewrowe
 
 ---
 
@@ -132,9 +132,9 @@ D. Księstwo małopolskie
 - https://pl.wikipedia.org/wiki/Henryk_II_Pobożny
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Księstwo mazowieckie** (A) - Nie było głównym celem najazdu z 1241 roku
-- **Księstwo wielkopolskie** (C) - Mongołowie dotarli tam później, ale nie było to główne pole działań
-- **Księstwo małopolskie** (D) - Nie było głównym celem najazdu z 1241 roku
+- **Księstwo mazowieckie** (A) — Nie było głównym celem najazdu z 1241 roku
+- **Księstwo wielkopolskie** (C) — Mongołowie dotarli tam później, ale nie było to główne pole działań
+- **Księstwo małopolskie** (D) — Nie było głównym celem najazdu z 1241 roku
 
 ---
 
@@ -156,9 +156,9 @@ D. Z Węgrami i Czechami
 - https://pl.wikipedia.org/wiki/Henryk_II_Pobożny
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Z Wołochami i Serbami** (A) - Te kraje nie uczestniczyły w bitwie pod Legnicą
-- **Z Rusinami i Litwinami** (C) - Litwa i Ruś nie były sojusznikami Polski w tym okresie
-- **Z Węgrami i Czechami** (D) - Węgry były atakowane przez Mongołów niezależnie, a Czechy nie wysłały pomocy
+- **Z Wołochami i Serbami** (A) — Te kraje nie uczestniczyły w bitwie pod Legnicą
+- **Z Rusinami i Litwinami** (C) — Litwa i Ruś nie były sojusznikami Polski w tym okresie
+- **Z Węgrami i Czechami** (D) — Węgry były atakowane przez Mongołów niezależnie, a Czechy nie wysłały pomocy
 
 ---
 
@@ -180,9 +180,9 @@ D. Upadek zaopatrzenia
 - https://pl.wikipedia.org/wiki/Batu_Chan
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Trudne warunki klimatyczne** (B) - Klimat Europy nie był powodem wycofania się
-- **Sprzeciw cesarza bizantyjskiego** (C) - Cesarstwo bizantyjskie nie miało wpływu na działania Mongołów
-- **Upadek zaopatrzenia** (D) - Mongołowie skutecznie zdobywali zaopatrzenie podczas najazdu
+- **Trudne warunki klimatyczne** (B) — Klimat Europy nie był powodem wycofania się
+- **Sprzeciw cesarza bizantyjskiego** (C) — Cesarstwo bizantyjskie nie miało wpływu na działania Mongołów
+- **Upadek zaopatrzenia** (D) — Mongołowie skutecznie zdobywali zaopatrzenie podczas najazdu
 
 ---
 
@@ -204,9 +204,9 @@ D. Zakon kalatrawensis
 - https://pl.wikipedia.org/wiki/Zakon_krzyżacki
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Zakon templariuszy** (A) - Zakon templariuszy nie uczestniczył w tej bitwie
-- **Zakon joannitów** (C) - Zakon joannitów nie był obecny w tej bitwie
-- **Zakon kalatrawensis** (D) - Hiszpański zakon rycerski, nie związany z Polską
+- **Zakon templariuszy** (A) — Zakon templariuszy nie uczestniczył w tej bitwie
+- **Zakon joannitów** (C) — Zakon joannitów nie był obecny w tej bitwie
+- **Zakon kalatrawensis** (D) — Hiszpański zakon rycerski, nie związany z Polską
 
 ---
 
@@ -228,9 +228,9 @@ D. Została zabrana przez Mongołów do Azji
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnicą_(1241)
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Została pogrzebana w klasztorze w Trzebnicy** (B) - Ciało Henryka II zostało później pogrzebane w Trzebnicy, ale nie głowa
-- **Została wyeksponona na murach Legnicy** (C) - Mongołowie nie wywieszali głow na murach miast
-- **Została zabrana przez Mongołów do Azji** (D) - Głowa została odesłana do Batu Chana, nie bezpośrednio do Azji
+- **Została pogrzebana w klasztorze w Trzebnicy** (B) — Ciało Henryka II zostało później pogrzebane w Trzebnicy, ale nie głowa
+- **Została wyeksponowana na murach Legnicy** (C) — Mongołowie nie wywieszali głów na murach miast
+- **Została zabrana przez Mongołów do Azji** (D) — Głowa została odesłana do Batu Chana, nie bezpośrednio do Azji
 
 ---
 
@@ -252,9 +252,9 @@ D. Kraków
 - https://pl.wikipedia.org/wiki/Legnica
 
 **Analiza nieprawidłowych odpowiedzi:**
-- **Wrocław** (A) - Duże miasto śląskie, ale nie było miejscem bitwy
-- **Opole** (B) - Miasto śląskie, ale oddalone od pola bitwy
-- **Kraków** (D) - Miasto małopolskie, nie związane z bitwą pod Legnicą
+- **Wrocław** (A) — Duże miasto śląskie, ale nie było miejscem bitwy
+- **Opole** (B) — Miasto śląskie, ale oddalone od pola bitwy
+- **Kraków** (D) — Miasto małopolskie, nie związane z bitwą pod Legnicą
 
 ---
 

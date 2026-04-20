@@ -91,7 +91,7 @@ D) Wrocław
 Answer: A
 
 **Explanation**
-Gniezno było jednym z najważniejszych ośrodków państwa polskiego za panowania Mieszka I. Było to główne grody piastowskie i siedziba władcy. Badania archeologiczne potwierdzają istnienie w Gnieźnie w X wieku zespołu pałacowo-sakralnego, co świadczy o jego randze jako głównego ośrodka władzy w państwie Polan.
+Gniezno było jednym z najważniejszych ośrodków państwa polskiego za panowania Mieszka I. Były to główne grody piastowskie i siedziba władcy. Badania archeologiczne potwierdzają istnienie w Gnieźnie w X wieku zespołu pałacowo-sakralnego, co świadczy o jego randze jako głównego ośrodka władzy w państwie Polan.
 
 **Validation Status**
 - Historical accuracy verified
@@ -108,7 +108,7 @@ Gniezno było jednym z najważniejszych ośrodków państwa polskiego za panowan
 
 **Option B**
 Content: Warszawa
-Why it's incorrect: Warszawa w X wieku za panowania Mieszka I nie była jeszcze ważnym ośrodkiem miejskim. Miasto to zaczęło gaining znaczenie dopiero dużo później, a jej rola jako stolicy Polski sięga XIV wieku. W czasach Mieszka I Warszawa była małą osadą lub w ogóle nie istniała.
+Why it's incorrect: Warszawa w X wieku za panowania Mieszka I nie była jeszcze ważnym ośrodkiem miejskim. Miasto to zaczęło zyskiwać na znaczeniu dopiero dużo później, a jej rola jako stolicy Polski sięga XIV wieku. W czasach Mieszka I Warszawa była małą osadą lub w ogóle nie istniała.
 Verification: Pierwsza wzmianka o Warszawie pochodzi z XIV wieku, a główną rolę w państwie Mieszka I odgrywały Gniezno, Poznań i Ostrów Lednicki.
 
 **Option C**
@@ -347,7 +347,7 @@ D) Łużyce
 Answer: A
 
 **Explanation**
-Pomorze Zachodnie było jednym z najważniejszych terytoriów przyłączonych do państwa polskiego przez Mieszka I. W wyniku walk z Wieletami i Wolinianami oraz bitwy w 967 roku, Mieszko I zdołał opanować tereny nad dolną Odrą i zapewnić państwu polskiemu dostęp do Bałtyku. Podbój Pomorza Zachodniego był kluczowy dla rozwoju gospodarczego i handlowego Polski.
+Pomorze Zachodnie było jednym z najważniejszych terytoriów przyłączonych do państwa polskiego przez Mieszka I. W wyniku walk z Wieletami i Wolinianami oraz bitwy w 967 roku Mieszko I zdołał opanować tereny nad dolną Odrą i zapewnić państwu polskiemu dostęp do Bałtyku. Podbój Pomorza Zachodniego był kluczowy dla rozwoju gospodarczego i handlowego Polski.
 
 **Validation Status**
 - Historical accuracy verified

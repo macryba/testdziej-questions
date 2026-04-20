@@ -74,5 +74,5 @@ Verification: Historically true that Poland expanded eastward, but this occurred
 
 Option D
 Content: "Zabezpieczyło granice przed najazdami plemion skandynawskich"
-Why it's incorrect: Najazdy wikingów (skandynawskich) na Polskę były sporadyczne i nie stanowiły głównego zagrożenia. Głównym zagrożeniem dla państwa Mieszka byli plemiona połabskie (Wieleci, Wolinianie) oraz rywalizacja z Czechami przed sojuszem. Chrzest nie miał bezpośredniego związku z obroną przed Skandynawami.
+Why it's incorrect: Najazdy wikingów (skandynawskich) na Polskę były sporadyczne i nie stanowiły głównego zagrożenia. Głównym zagrożeniem dla państwa Mieszka były plemiona połabskie (Wieleci, Wolinianie) oraz rywalizacja z Czechami przed sojuszem. Chrzest nie miał bezpośredniego związku z obroną przed Skandynawami.
 Verification: Historically true that Viking raids occurred in Europe, but they were not the main threat to Mieszko's state

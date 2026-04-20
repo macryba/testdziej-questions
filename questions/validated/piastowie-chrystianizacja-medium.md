@@ -21,7 +21,7 @@
 
 ## Kontekst historyczny
 
-Chrystianizacja Polski przeprowadzona przez Mieszka I w 966 roku była jednym z najważniejszych wydarzeń w historii naszego kraju. Decyzja o przyjęciu chrztu nie była przypadkowa - wynikała z przemyślanej polityki księcia, który zdawał sobie sprawę z konieczności włączenia młodego państwa polskiego do kręgu kultury zachodniej.
+Chrystianizacja Polski przeprowadzona przez Mieszka I w 966 roku była jednym z najważniejszych wydarzeń w historii naszego kraju. Decyzja o przyjęciu chrztu nie była przypadkowa — wynikała z przemyślanej polityki księcia, który zdawał sobie sprawę z konieczności włączenia młodego państwa polskiego do kręgu kultury zachodniej.
 
 Proces chrystianizacji miał swoje przyczyny polityczne, militarne i cywilizacyjne. Od zachodu Polski zagrażały niemal stale ekspansywne dążenia cesarstwa niemieckiego, które uznało prawo do podbicia ziem pogańskich. Przyjęcie chrześcijaństwa z rąk biskupów czeskich (a nie niemieckich) pozwoliło Mieszkowi I na zachowanie pewnej niezależności politycznej przy jednoczesnym uzyskaniu ochrony przed oskarżeniami o bycie "wrogiem chrześcijaństwa".
 
@@ -137,7 +137,7 @@ Powstanie biskupstwa poznańskiego w 968 roku oznaczało dla Polski:
 **Poprawna odpowiedź:** B
 
 ### Wyjaśnienie
-Utworzenie biskupstwa w Poznaniu oznaczało początek organizacji kościelnej w Polsce z biskupem Jordanem na czele. To kluczowy krok w budowaniu struktur kościelnych po chrzcie władcy.
+Utworzenie biskupstwa w Poznaniu oznaczało początek organizacji kościelnej w Polsce na czele z biskupem Jordanem. To kluczowy krok w budowaniu struktur kościelnych po chrzcie władcy.
 
 ### Analiza niepoprawnych odpowiedzi
 
@@ -175,7 +175,7 @@ Chrzest sprawił, że Mieszko I został uznany za chrześcijańskiego władcę i
 
 **C.** Relacje nie zostały zerwane - Polska weszła w system powiązań politycznych z cesarstwem jako sojusznik.
 
-**D.** Chrześć miał ogromny wpływ na politykę - zmienił pozycję Polski od "państwa pogańskiego" do "chrześcijańskiego partnera".
+**D.** Chrzest miał ogromny wpływ na politykę — zmienił pozycję Polski od "państwa pogańskiego" do "chrześcijańskiego partnera".
 
 ---
 
@@ -542,17 +542,17 @@ Najstarsza informacja o chrzcie Polski pochodzi z Kroniki Thietmara z Merseburga
 
 ### Treść pytania
 
-Chrzesić Mieszka I nie był jedynie wydarzeniem religijnym, ale również włączył rodzące się państwo polskie:
+Chrzest Mieszka I nie był jedynie wydarzeniem religijnym, ale również włączył rodzące się państwo polskie:
 
 **A.** W krąg polityczno-kulturowy Europy łacińskiej
 **B.** W strefę wpływów bizantyjskich i prawosławia
-**C.** W systemDependencies polityczny Chin i Azji
+**C.** W system polityczny Chin i Azji
 **D.** W krąg kultur skandynawskich i wikińskich
 
 **Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
-Chrzest Mieszka I włączył rodzące się państwo polskie w krąg polityczno-kulturowy Europy łacińskiej. Wraz z przybyciem pierwszych misjonarzy rozpoczął się proces przejmowania zachodnich wzorców politycznych i kulturowych – struktury politycznej i administracyjnej państwa, systemu prawnego, obyczajów, pisma, łaciny jako języka urzędowego.
+Chrzest Mieszka I włączył rodzące się państwo polskie w krąg polityczno-kulturowy Europy łacińskiej. Wraz z przybyciem pierwszych misjonarzy rozpoczął się proces przejmowania zachodnich wzorców politycznych i kulturowych – struktur politycznych i administracyjnych państwa, systemu prawnego, obyczajów, pisma, łaciny jako języka urzędowego.
 
 ### Analiza niepoprawnych odpowiedzi
 

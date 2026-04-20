@@ -15,7 +15,7 @@ session_end: "2026-03-29T16:30:00Z"
 Summary: Starożytność - Pradzieje (easy) - Questions 21-30
 Historical Context
 
-Pradzieje ziem polskich obejmują okres od pojawienia się pierwszych ludzi na naszych ziemiach aż do połowy X wieku, czyli do przyjęcia chrztu przez Polskę. Jest to czas bardzo długi – tysiące lat, podczas których zmieniało się klimat, roślinność i życie ludzi. Najstarsze ślady obecności człowieka na ziemiach polskich pochodzą z okresu大约 500 tysięcy lat temu.
+Pradzieje ziem polskich obejmują okres od pojawienia się pierwszych ludzi na naszych ziemiach aż do połowy X wieku, czyli do przyjęcia chrztu przez Polskę. Jest to czas bardzo długi – tysiące lat, podczas których zmieniało się klimat, roślinność i życie ludzi. Najstarsze ślady obecności człowieka na ziemiach polskich pochodzą z okresu około 500 tysięcy lat temu.
 
 W okresie pradziejów ludzie żyli w małych grupach, zajmowali się zbieractwem i łowiectwem. Z czasem zaczęli uprawiać ziemię i hodować zwierzęta, co pozwoliło im na osiedlenie się. Zmieniały się także narzędzia – z kamiennych, przez brązowe, aż po żelazne. Okres ten kończy się wraz z nadejściem ery historycznej, czyli powstaniem państwa polskiego.
 
@@ -157,7 +157,7 @@ Correct Answer
 Answer: B
 
 Explanation
-Mamuty i renifery żyły na ziemiach polskich w czasach, gdy klimat był znacznie chłodniejszy niż dzisiaj. Były ważną zwierzyną łowną dla pierwszych ludzi, którzy dostarczali sobie w ten sposób mięso, skóry i kości na narzędzia. Gdy klimat ocieplił się, te zwierzęta wyginęły lub przemieszciły się na północ.
+Mamuty i renifery żyły na ziemiach polskich w czasach, gdy klimat był znacznie chłodniejszy niż dzisiaj. Były ważną zwierzyną łowną dla pierwszych ludzi, którzy dostarczali sobie w ten sposób mięso, skóry i kości na narzędzia. Gdy klimat ocieplił się, te zwierzęta wyginęły lub przemieściły się na północ.
 
 Validation Status
 ✓ Historical accuracy verified
@@ -261,7 +261,7 @@ Correct Answer
 Answer: A
 
 Explanation
-Brąz to stop miedzi i cyny. Miedź była miększa niż żelazo, ale dodatek cyny czynił ją twardszą i bardziej trwałą. Ludzie w epoce brązu odkryli, że mieszając te dwa metale w odpowiednich proporcjach,可以获得 materiał o doskonałych właściwościach do produkcji narzędzi i broni.
+Brąz to stop miedzi i cyny. Miedź była miększa niż żelazo, ale dodatek cyny czynił ją twardszą i trwalszą. Ludzie w epoce brązu odkryli, że mieszając te dwa metale w odpowiednich proporcjach, można uzyskać materiał o doskonałych właściwościach do produkcji narzędzi i broni.
 
 Validation Status
 ✓ Historical accuracy verified

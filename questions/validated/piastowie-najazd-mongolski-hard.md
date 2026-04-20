@@ -20,7 +20,7 @@ Historical Context
 
 Najazd mongolski na Polskę w latach 1241-1242 stanowił jeden z najbardziej dramatycznych wydarzeń w historii średniowiecznej Polski i był częścią większej ekspansji Mongołów na Europę Środkową. Inwazja rozpoczęła się w styczniu 1241 roku, gdy wojska mongolskie pod wodzą Bajdara przekroczyły granice Polski od wschodu, podzielone na dwa korpusy. Pierwszy korpus zaatakował Małopolskę, spalając Sandomierz i próbując bezskutecznie zdobyć Kraków, drugi natomiast skierował się na północ, niszcząc ziemię sieradzką i łęczycką. Kluczową bitwą wydarzeń na ziemiach polskich była stoczona 9 kwietnia 1241 roku bitwa pod Legnicą, w której zginął książę Henryk II Pobożny, a połączone wojska polsko-niemieckie poniosły całkowitą klęskę.
 
-Mongolska invazja miała głęboki i wielowymiarowy wpływ na dalsze dzieje Polski. Pośrednim skutkiem militarnych porażek było przyspieszenie procesu odrodzenia jedności państwa polskiego, który zmaterializował się w koronacji Przemysła II w 1295 roku. W sferze militarno-obronnej najazd ujawnił krytyczną nieskuteczność dotychczasowego systemu opartego na rycerstwie i motte i bailey castles, co zainicjowało stopniową transformację w kierunku nowoczesnych zamków kamienno-ceglanych na wzór zachodni. Zniszczenia gospodarcze i demograficzne, szczególnie dotkliwe na Śląsku i w Małopolsce, wpłynęły na opóźnienie rozwoju tych regionów w porównaniu z obszarami mniej dotkniętymi najazdem. Wycofanie się Mongołów z Europy po śmierci Wielkiego Chana Ögedeija w grudniu 1241 roku nie zakończyło zagrożenia – contacts dyplomatyczne z Ordą Nogaja i Złotą Ordą stanowiły istotny element polityki zagranicznej Piastów w kolejnych dekadach, kształtując równowagę sił w Europie Środkowej aż po XV wiek.
+Mongolska inwazja miała głęboki i wielowymiarowy wpływ na dalsze dzieje Polski. Pośrednim skutkiem militarnych porażek było przyspieszenie procesu odrodzenia jedności państwa polskiego, który zmaterializował się w koronacji Przemysła II w 1295 roku. W sferze militarno-obronnej najazd ujawnił krytyczną nieskuteczność dotychczasowego systemu opartego na rycerstwie i grodach drewniano-ziemnych (tzw. motte and bailey), co zainicjowało stopniową transformację w kierunku nowoczesnych zamków kamienno-ceglanych na wzór zachodni. Zniszczenia gospodarcze i demograficzne, szczególnie dotkliwe na Śląsku i w Małopolsce, wpłynęły na opóźnienie rozwoju tych regionów w porównaniu z obszarami mniej dotkniętymi najazdem. Wycofanie się Mongołów z Europy po śmierci Wielkiego Chana Ögedeija w grudniu 1241 roku nie zakończyło zagrożenia – kontakty dyplomatyczne z Ordą Nogaja i Złotą Ordą stanowiły istotny element polityki zagranicznej Piastów w kolejnych dekadach, kształtując równowagę sił w Europie Środkowej aż po XV wiek.
 
 Key Events
 
@@ -52,7 +52,7 @@ Answer Options
 A) Dysproporcja liczebna na niekorzyść wojsk chrześcijańskich przy zachowaniu porównywalnego poziomu uzbrojenia i taktyki
 B) Zastosowanie przez Mongołów mobilnej taktyki kawalerii łuczników w konfrontacji z ciężkim rycerstwem nieprzystosowanym do działań po łuku i brak skutecznej piechoty
 C) Brak jednego dowódcy naczelnego spowodowany rozbiciem dzielnicowym przy zachowaniu taktycznej jednolitości sił polskich
-D) Wyłączna reliance na grody drewniano-ziemne, któreMongołowie zdobywali przez podpalanie, przy całkowitym braku zamków kamiennych na ziemiach polskich
+D) Wyłączna reliance na grody drewniano-ziemne, które Mongołowie zdobywali przez podpalanie, przy całkowitym braku zamków kamiennych na ziemiach polskich
 
 Correct Answer
 Answer: B
@@ -85,7 +85,7 @@ Question Type: multiple_choice
 Difficulty: hard
 
 Question Text
-Jakie długoterminowe skutki polityczne wywarł najazd mongolski na strukturę władzy Piastów wŚląsku w perspektywie lat 1241-1270, biorąc pod uwagę procesy sukcesyjne i relacje z Czechami?
+Jakie długoterminowe skutki polityczne wywarł najazd mongolski na strukturę władzy Piastów w Śląsku w perspektywie lat 1241-1270, biorąc pod uwagę procesy sukcesyjne i relacje z Czechami?
 
 Answer Options
 A) Przyspieszenie procesu integracji Śląska z Koroną Czeską ze względu na potrzebę zewnętrznego sojuszu obronnego przeciwko Mongołom

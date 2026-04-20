@@ -20,7 +20,7 @@ tokens_total: 23500
 
 Rozbicie dzielnicowe w Polsce rozpoczęło się w 1138 roku po śmierci Bolesława III Krzywoustego. Jego testament podzielił państwo między czterech synów, wprowadzając zasadę senioratu, zgodnie z którą najstarszy z rodu miał sprawować władzę zwierzchnią jako książę senior z siedzibą w Krakowie. W praktyce jednak prowadziło to do licznych konfliktów między braćmi i stopniowego osłabienia władzy centralnej.
 
-W pierwszym okresie rozbicia (1138-1241) szczególnie ważne były postaci Władysława Wygnańca (najstarszego syna Krzywoustego), który został wygnany przez młodszych braci, oraz Bolesława Kędzierzawatego, który zmusił seniora do ucieczki. W 1146 roku Władysław Wygnaniec zwrócił się o pomoc do cesarza Fryderyka Barbarossy, co przyniosło mu tylko częściowe powodzenie. W 1163 roku synowie Wygnańca powrócili do Polski i odzyskali Śląsk. Okres ten zakończył najazd mongolski w 1241 roku, który pokazał konsekwencje podziału Polski.
+W pierwszym okresie rozbicia (1138-1241) szczególnie ważne były postaci Władysława Wygnańca (najstarszego syna Krzywoustego), który został wygnany przez młodszych braci, oraz Bolesława Kędzierzawego, który zmusił seniora do ucieczki. W 1146 roku Władysław Wygnaniec zwrócił się o pomoc do cesarza Fryderyka Barbarossy, co przyniosło mu tylko częściowe powodzenie. W 1163 roku synowie Wygnańca powrócili do Polski i odzyskali Śląsk. Okres ten zakończył najazd mongolski w 1241 roku, który pokazał konsekwencje podziału Polski.
 
 ---
 
@@ -44,7 +44,7 @@ Testament Bolesława III Krzywoustego z 1138 roku wprowadzał zasadę senioratu.
 System senioratu nie działał, ponieważ młodszy książęta nie akceptowali zwierzchnictwa seniora. Dążyli do pełnej niezależności, co prowadziło do ciągłych wojen domowych.
 
 **Źródła:**
-- pl.wikipedia.org/wiki/Bolesław_III_Krzzywousty
+- pl.wikipedia.org/wiki/Bolesław_III_Krzywousty
 - historiaposzkola.pl/rozbicie-dzielnicowe
 
 **Analiza nieprawidłowych odpowiedzi:**
@@ -105,7 +105,7 @@ Powrót synów Władysława Wygnańca na Śląsk w 1163 roku był wynikiem media
 
 **A:** Rozpoczęcie procesu niezależnego rozwoju dzielnicy śląskiej
 **B:** Uznanie przez Polskę zwierzchnictwa cesarza nad księstwami
-**C:** Odtworzenie senioratu pod przywództwem Bolesława Kędzierzawatego
+**C:** Odtworzenie senioratu pod przywództwem Bolesława Kędzierzawego
 **D:** Trwałe osłabienie pozycji politycznej książąt małopolskich
 
 **Prawidłowa odpowiedź:** A
@@ -251,7 +251,7 @@ Wojny z Bractwem Liwskim i innymi książętami pomorskimi w latach 1190-1220 by
 **Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:**
-Książęta pomorscy uznawali się za niezależnych władców i nie chętnie podporządkowywali się Polsce. Ich rosąca niezależność była główną przeszkodą.
+Książęta pomorscy uznawali się za niezależnych władców i nie chętnie podporządkowywali się Polsce. Ich rosnąca niezależność była główną przeszkodą.
 
 **Źródła:**
 - pl.wikipedia.org/wiki/Pomorze_Gdańskie

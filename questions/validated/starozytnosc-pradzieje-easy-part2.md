@@ -74,12 +74,12 @@ Verification: Historically true person, wrong time period
 
 Option C
 Content: Kazimierz Wielki
-Why it's incorrect: Kazimierz Wielki rządził w XIV wieku (1333-1370), almost 400 years after Mieszko I
+Why it's incorrect: Kazimierz Wielki rządził w XIV wieku (1333-1370), prawie 400 lat po Mieszku I
 Verification: Historically true person, wrong time period
 
 Option D
 Content: Władysław Łokietek
-Why it's incorrect: Władysław Łokietek rządził w XIV wieku (1306-1333), over 300 years after Mieszko I
+Why it's incorrect: Władysław Łokietek rządził w XIV wieku (1306-1333), ponad 300 lat po Mieszku I
 Verification: Historically true person, wrong time period
 
 
@@ -203,7 +203,7 @@ Answer Options
 A) Groby megalityczne
 B) Groby popielnicowe
 C) Kurhany
-D) Mummyjowiska
+D) Mumiojowiska
 
 Correct Answer
 Answer: B
@@ -235,7 +235,7 @@ Verification: Historically true burial type, different culture
 
 Option D
 Content: Mummyjowiska
-Why it's incorrect: Mummyjowiska to nieprawdziwe słowo; mumifikacja praktykowana była w Egipcie, nie na ziemiach polskich
+Why it's incorrect: Mumiojowiska to nieprawdziwe słowo; mumifikacja praktykowana była w Egipcie, nie na ziemiach polskich
 Verification: Made up term, mummification was practiced in different context (Egypt)
 
 
@@ -313,7 +313,7 @@ Correct Answer
 Answer: B
 
 Explanation
-W mezolicie, podobnie jak w innych okresach epoki kamienia, najważniejszym surowcem do wytwarzania narzędzi był krzemień. Z krzemienia wytwarzano małe, precyzyjne narzędzia takie jak mikrolity, które używane były jako groty strzał i włóczni.
+W mezolicie podobnie jak w innych okresach epoki kamienia, najważniejszym surowcem do wytwarzania narzędzi był krzemień. Z krzemienia wytwarzano małe, precyzyjne narzędzia takie jak mikrolity, które używane były jako groty strzał i włóczni.
 
 Validation Status
 ✓ Historical accuracy verified
@@ -386,12 +386,12 @@ Verification: Historically true term, wrong context (not tools, not Mesolithic)
 
 Option C
 Content: Topory
-Why it's incorrect: Topory były większymi narzędziami, nie małymi mikrolitami; pojawiły się też wcześniej lub później zależnie od typu
+Why it's incorrect: Topory były większymi narzędziami, niemałymi mikrolitami; pojawiły się też wcześniej lub później zależnie od typu
 Verification: Historically true tool type, wrong description
 
 Option D
 Content: Młoty
-Why it's incorrect: Młoty to większe narzędzia, nie małe mikrolity z krzemienia
+Why it's incorrect: Młoty to większe narzędzia, niemałe mikrolity z krzemienia
 Verification: Historically true tool type, wrong description
 
 

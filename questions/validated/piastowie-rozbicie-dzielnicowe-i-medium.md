@@ -34,9 +34,9 @@ D. Privilegium maius
 **Wyjaśnienie:** Testament Bolesława Krzywoustego z 1138 roku regulował zasady sukcesji i podziału państwa między synów. Ustanawiał on zasadę senioratu, gdzie najstarszy syn miał sprawować władzę zwierzchnią jako senior.
 
 **Analiza odpowiedzi błędnych:**
-- A. Statut Kaliski (1264) - przywilej dla Żydów w Wielkopolsce wydany 126 lata później
-- C. Zjazd w Gąsawie (1227) - spotkanie książąt piastowskich, podczas którego zamordowano Leszka Białego
-- D. Privilegium maius - przywilej dla Habsburgów w Austrii z 1356 roku
+- A. Statut Kaliski (1264) — przywilej dla Żydów w Wielkopolsce wydany 126 lat później
+- C. Zjazd w Gąsawie (1227) — spotkanie książąt piastowskich, podczas którego zamordowano Leszka Białego
+- D. Privilegium maius — przywilej dla Habsburgów w Austrii z 1356 roku
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Rozbicie_dzielnicowe_w_Polsce
@@ -58,7 +58,7 @@ D. Ze względu na interwencję wojsk węgierskich
 
 **Analiza odpowiedzi błędnych:**
 - A. Hołd lenny złożył dopiero Bolesław Kędzierzawy w 1157 roku
-- C. Krzyżacy pojawi się w Polsce dopiero w 1234 roku
+- C. Krzyżacy pojawiły się w Polsce dopiero w 1234 roku
 - D. Węgry nie interweniowały w Polsce w tym okresie
 
 **Źródła:**
@@ -123,10 +123,10 @@ D. Przemysł II i Wacław II Czeski
 
 **Poprawna odpowiedź:** B
 
-**Wyjaśnienie:** Henryk I Brodaty i Henryk II Pobożny (ojciec i syn) stworzyli tzw. Monarchię Henryków Śląskich - pierwszy poważny projekt zjednoczenia Polski po okresie rozbicia. Ich śmierć w walce z Mongołami w 1241 roku przerwała te próby.
+**Wyjaśnienie:** Henryk I Brodaty i Henryk II Pobożny (ojciec i syn) stworzyli tzw. Monarchię Henryków Śląskich — pierwszy poważny projekt zjednoczenia Polski po okresie rozbicia. Ich śmierć w walce z Mongołami w 1241 roku przerwała te próby.
 
 **Analiza odpowiedzi błędnych:**
-- A. Rywalizowali o władzę zamiast współpracować
+- A. Rywalizowali o władzę, zamiast współpracować
 - C. Działali w późniejszym okresie (XIV wiek)
 - D. Byli rywalami, nie sojusznikami
 
@@ -229,7 +229,7 @@ D. System oworówkowy
 
 ## Pytanie 10
 
-**Który bookąt śląski złożył hołd lenny królowi czeskiemu Janowi Luksemburskiemu w latach 1327-1331?**
+**Który książąt śląski złożył hołd lenny królowi czeskiemu Janowi Luksemburskiemu w latach 1327-1331?**
 
 A. Henryk IV Probus
 B. Władysław Opolczyk
@@ -238,7 +238,7 @@ D. Bolesław Wstydliwy
 
 **Poprawna odpowiedź:** C
 
-**Wyjaśnienie:** W latach 1327-1331 większość władców księstw śląskich złożyła hołd lenny czeskiemu królowi Janowi Luksemburskiemu. Ostatecznie cały Śląsk znalazł się pod wpływem Korony Czeskiej na mocy układu w Trenczynie w 1335 roku.
+**Wyjaśnienie:** W latach 1327-1331 większość władców księstw śląskich złożyła hołd lenny czeskiemu królowi Janowi Luksemburskiemu. Ostatecznie cały Śląsk znalazł się pod wpływem Korony czeskiej na mocy układu w Trenczynie w 1335 roku.
 
 **Analiza odpowiedzi błędnych:**
 - A. Zmarł przed tymi wydarzeniami

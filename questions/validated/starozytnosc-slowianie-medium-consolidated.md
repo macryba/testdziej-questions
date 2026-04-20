@@ -13,11 +13,11 @@ version: 1.0
 ---
 
 # Summary
-Słowianie stanowili jeden z największych ludów barbarzyńskich w Europie wczesnego średniowiecza, zamieszkując obszary od Odry i Bałtyku na zachodzie po Wołgę i Morze Czarne na wschodzie. Ich struktura społeczna opierała się na organizacji plemiennej z wodzami na czele, stopniowo przekształcającej się w władzę książęcą. Słowianie byli głównie rolnikami, zajmującymi się uprawą ziemi, hodowlą i rzemiosłem, co determinowało ich osiadły tryb życia i gospodarkę żywnościową. Wiara Słowian była politeistyczna, z wieloma bóstwami personifikującymi siły natury, a ich kult odbywał się w świętych gajach i grodach, gdzie stawiano idole bogom.
+Słowianie stanowili jeden z największych ludów barbarzyńskich w Europie wczesnego średniowiecza, zamieszkując obszary od Odry i Bałtyku na zachodzie po Wołgę i Morze Czarne na wschodzie. Ich struktura społeczna opierała się na organizacji plemiennej na czele z wodzami, stopniowo przekształcającej się we władzę książęcą. Słowianie byli głównie rolnikami, zajmującymi się uprawą ziemi, hodowlą i rzemiosłem, co determinowało ich osiadły tryb życia i gospodarkę żywnościową. Wiara Słowian była politeistyczna, z wieloma bóstwami personifikującymi siły natury, a ich kult odbywał się w świętych gajach i grodach, gdzie stawiano idole bogom.
 
-Gospodarka Słowian w okresie wczesnego średniowiecza opierała się przede wszystkim na rolnictwie, które stanowiło fundament ich egzystencji. Uprawiano głównie zboża (pszenicę, żyto, jęczmień, proso), a także warzywa i rośliny strączkowe. Ważną rolę odgrywała hodowla bydła, świń, owiec i kóz, która dostarczała nie tylko mięsa, ale także mleka, skór i wełny. Rzemiosło było wysoko rozwinięte - wyrabiano ceramikę, narzędzia żelazne, broń, biżuterię i tekstylia. Handel, zarówno lokalny, jak i dalekosiężny, obejmował głównie wyroby rzemieślnicze, futra, miód, wosk i niewolników.
+Gospodarka Słowian w okresie wczesnego średniowiecza opierała się przede wszystkim na rolnictwie, które stanowiło fundament ich egzystencji. Uprawiano głównie zboża (pszenicę, żyto, jęczmień, proso), a także warzywa i rośliny strączkowe. Ważną rolę odgrywała hodowla bydła, świń, owiec i kóz, która dostarczała nie tylko mięsa, ale także mleka, skór i wełny. Rzemiosło było wysoko rozwinięte — wyrabiano ceramikę, narzędzia żelazne, broń, biżuterię i tekstylia. Handel, zarówno lokalny, jak i dalekosiężny, obejmował głównie wyroby rzemieślnicze, futra, miód, wosk i niewolników.
 
-Migracje Słowian w VI-VII wieku były jednymi z najważniejszych zjawisk w historii Europy wczesnego średniowiecza. Słowianie przesunęli się ze swoich pierwotnych siedzib (terytorium między Wisłą a środkowym Dniestrem) na południe i zachód, zajmując rozległe obszary od Bałtyku i Adriatyku na zachodzie po Morze Czarne i Bałkany na południu oraz Wołgę na wschodzie. Przyczyny migracji nie są do końca jasne - wskazuje się na presję ludnościową, zmiany klimatyczne, nacisk ze strony ludów stepowych (Awarów) oraz możliwość szukania nowych ziem uprawnych.
+Migracje Słowian w VI-VII wieku były jednymi z najważniejszych zjawisk w historii Europy wczesnego średniowiecza. Słowianie przesunęli się ze swoich pierwotnych siedzib (terytorium między Wisłą a środkowym Dniestrem) na południe i zachód, zajmując rozległe obszary od Bałtyku i Adriatyku na zachodzie po Morze Czarne i Bałkany na południu oraz Wołgę na wschodzie. Przyczyny migracji nie są do końca jasne — wskazuje się na presję ludnościową, zmiany klimatyczne, nacisk ze strony ludów stepowych (Awarów) oraz możliwość szukania nowych ziem uprawnych.
 
 ---
 
@@ -118,7 +118,7 @@ Głównym czynnikiem tworzenia się różnic majątkowych wśród Słowian była
 Słowianie nie osiągnęli poziomu rozwoju przemysłowego, nie posiadało kapitału bankowego ani systemów kredytowych w okresie wczesnego średniowiecza. Gospodarka była oparta na rolnictwie i rzemiośle, a nie na przemyśle czy finansach.
 
 **Option C (Incorrect):**
-Niewolnicza siła robocza istniała, ale nie była wykorzystywana na masową skalę w rolnictwie słowiańskim - gospodarka opierała się głównie na pracy wolnych rolników. Industrializacja rolnictwa to pojęcie anachroniczne dla wczesnego średniowiecza.
+Niewolnicza siła robocza istniała, ale nie była wykorzystywana na masową skalę w rolnictwie słowiańskim — gospodarka opierała się głównie na pracy wolnych rolników. Industrializacja rolnictwa to pojęcie anachroniczne dla wczesnego średniowiecza.
 
 **Option D (Incorrect):**
 Podatki kościelne i biurokracja państwowa pojawiły się dopiero po chrystianizacji (X-XI wiek) i były skutkiem, a nie przyczyną różnic majątkowych. Różnice społeczne zaczęły tworzyć się wcześniej, w VII-IX wieku, przed przyjęciem chrześcijaństwa.
@@ -402,7 +402,7 @@ Jakie społeczne funkcje pełniła religia pogańska w życiu codziennym Słowia
 
 **B.** Tworzenie systemu prawnego opartego na kodeksach religijnych oraz sądownictwo kościelne
 
-**C.** Integracja społeczności poprzez wspólne obrzędy oraz legitymizacja władzy wodzów i książęght
+**C.** Integracja społeczności poprzez wspólne obrzędy oraz legitymizacja władzy wodzów i książąt
 
 **D.** Promocja równouprawnienia płci oraz zniesienie podziału na role społeczne mężczyzn i kobiet
 
@@ -427,10 +427,10 @@ Religia pełniła ważne funkcje społeczne, wykraczające poza aspekt duchowy. 
 ### Incorrect Answers Analysis
 
 **Option A (Incorrect):**
-Słowianie nie posiadali edukacji formalnej ani piśmienności przed chrystianizacją. Literatura sakralna nie istniała - mity były przekazywane ustnie. To jest anachronizm.
+Słowianie nie posiadali edukacji formalnej ani piśmienności przed chrystianizacją. Literatura sakralna nie istniała — mity były przekazywane ustnie. To jest anachronizm.
 
 **Option B (Incorrect):**
-Pogaństwo słowiańskie nie opierało się na sformalizowanym systemie prawnym czy kodeksach religijnych. Sądownictwo kościelne nie istniało przed chrystianizacją - rozstrzyganie sporów opierało się na zwyczaju i decyzjach władcy lub starszyzny.
+Pogaństwo słowiańskie nie opierało się na sformalizowanym systemie prawnym czy kodeksach religijnych. Sądownictwo kościelne nie istniało przed chrystianizacją — rozstrzyganie sporów opierało się na zwyczaju i decyzjach władcy lub starszyzny.
 
 **Option D (Incorrect):**
 Religia słowiańska nie promowała równouprawnienia płci - społeczeństwo było patriarchalne. Podział na role społeczne mężczyzn i kobiet był utrwalany przez wierzenia i praktyki religijne.
@@ -462,7 +462,7 @@ Jakie ekonomiczne i społeczne skutki dla społeczności słowiańskich miało u
 **D**
 
 ### Explanation
-Uczestnictwo w handlu międzynarodowym przynosiło znaczne zyski elicie słowiańskiej - władcy i drużyna kontrolujący szlaki handlowe i wymianę z zagranicą bogacili się szybciej niż reszta społeczeństwa, co zwiększało różnice majątkowe i społeczne. Równocześnie handel stymulował rozwój ośrodków miejskich - grody i osady położone na szlakach handlowych przekształcały się w centra wymiany, rzemiosła i administracji. To z kolei sprzyjało rozwojowi rzemiosła specjalistycznego (produkcja towarów na eksport, luksusowe wyroby dla elity) oraz przyspieszało procesy urbanizacyjne. Handel był więc ważnym czynnikiem rozwoju cywilizacyjnego i społecznego Słowian.
+Uczestnictwo w handlu międzynarodowym przynosiło znaczne zyski elicie słowiańskiej — władcy i drużyna kontrolujący szlaki handlowe i wymianę z zagranicą bogacili się szybciej niż reszta społeczeństwa, co zwiększało różnice majątkowe i społeczne. Równocześnie handel stymulował rozwój ośrodków miejskich — grody i osady położone na szlakach handlowych przekształcały się w centra wymiany, rzemiosła i administracji. To z kolei sprzyjało rozwojowi rzemiosła specjalistycznego (produkcja towarów na eksport, luksusowe wyroby dla elity) oraz przyspieszało procesy urbanizacyjne. Handel był więc ważnym czynnikiem rozwoju cywilizacyjnego i społecznego Słowian.
 
 ### Validation Status
 ✓ Historical accuracy verified

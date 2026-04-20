@@ -1,4 +1,4 @@
-# Pradzieje Ziem Polskich - Pytania Poziom Trudny
+# Pradzieje Ziem Polskich — Pytania Poziom Trudny
 
 **METADATA:**
 ---
@@ -22,7 +22,7 @@ verification_note: "⚠️ UWAGA: Web search tools were non-functional during ge
 
 Pradzieje ziem polskich obejmują okres od najstarszych śladów osadnictwa do około 500 roku n.e., kiedy to zaczęły pojawiać się pierwsze wzmianki o Słowianach. Ten tysiącleci trwający okres dzieli się na kilka epok: paleolit (starszy i młodszy, od ok. 500 tys. lat temu do 8000 p.n.e.), mezolit (8000-4500 p.n.e.), neolit (4500-1800 p.n.e.), epoka brązu (1800-650 p.n.e.) oraz wczesna epoka żelaza (650-0 p.n.e.).
 
-Najstarsze ślady obecności ludzi na ziemiach polskich pochodzą z paleolitu i są związane z migracjami w epokach lodowcowych. W mezolicie, po ustąpieniu lodowca, doszło do zmian w stylu życia ludności - od zbieracko-łowieckiego do bardziej osiadłego. Rewolucja neolityczna przyniosła rolnictwo, hodowlę i ceramikę, co zrewolucjonizowało społeczeństwa. W epoce brązu i żelaza nastąpiło zróżnicowanie społeczne, rozwój metalurgii oraz powstawanie pierwszych grodów i struktur plemiennych.
+Najstarsze ślady obecności ludzi na ziemiach polskich pochodzą z paleolitu i są związane z migracjami w epokach lodowcowych. W mezolicie, po ustąpieniu lodowca, doszło do zmian w stylu życia ludności — od zbieracko-łowieckiego do bardziej osiadłego. Rewolucja neolityczna przyniosła rolnictwo, hodowlę i ceramikę, co zrewolucjonizowało społeczeństwa. W epoce brązu i żelaza nastąpiło zróżnicowanie społeczne, rozwój metalurgii oraz powstawanie pierwszych grodów i struktur plemiennych.
 
 Kluczowe kultury archeologiczne to: kultura oryniacka (paleolit), kultura komornicka (mezolit), kultura ceramiki wstęgowej i pucharów lejkowatych (neolit), kultura unietycka i łużycka (epoka brązu) oraz kultura przeworska i kultura grobów kloszowych (epoka żelaza). Te kultury tworzyły sieć wymiany handlowej, kontaktów kulturowych i technologicznych innowacji rozciągających się od Bałtyku do Karpat.
 
@@ -45,7 +45,7 @@ W którym okresie prehistorycznym na ziemiach polskich doszło do fundamentalnej
 **POPRAWNA ODPOWIEDŹ:** A
 
 **WYJAŚNIENIE:**
-Neolit (4500-1800 p.n.e.) przyniósł rewolucję gospodarczą - uprawę roli i hodowlę zwierząt zastępując zbieractwo i łowiectwo. Ta zmiana umożliwiła osiadły tryb życia, gromadzenie nadwyżków i tworzenie się bardziej złożonych struktur społecznych, co było warunkiem koniecznym dla dalszego rozwoju cywilizacyjnego.
+Neolit (4500-1800 p.n.e.) przyniósł rewolucję gospodarczą — uprawę roli i hodowlę zwierząt zastępując zbieractwo i łowiectwo. Ta zmiana umożliwiła osiadły tryb życia, gromadzenie nadwyżków i tworzenie się bardziej złożonych struktur społecznych, co było warunkiem koniecznym dla dalszego rozwoju cywilizacyjnego.
 
 **ŹRÓDŁA:**
 - (Weryfikacja wymagana - web search niedostępny)
@@ -225,7 +225,7 @@ Pierwsze grody obronne pojawiają się w epoce brązu (szczególnie w kulturze �
 - (Weryfikacja wymagana - web search niedostępny)
 
 **ANALIZA BŁĘDNYCH ODPOWIEDZI:**
-- A (Paleolit): W paleolicu nie budowano grodów - ludzie żyli w jaskiniach i obozowiskach, a społeczeństwa były zbyt małe i zorganizowane, by budować umocnienia.
+- A (Paleolit): W paleolicie nie budowano grodów — ludzie żyli w jaskiniach i obozowiskach, a społeczeństwa były zbyt małe i zorganizowane, by budować umocnienia.
 - B (Okres rzymski): Okres wpływów rzymskich to późniejsza epoka żelaza (I-IV w. n.e.), daleko po pojawieniu się pierwszych grodów w epoce brązu.
 - C (Neolit): W neolicie istniały osady, ale nie były one fortyfikowane. Grody obronne pojawiają się dopiero w epoce brązu.
 
@@ -384,7 +384,7 @@ Kultura ceramiki sznurowej wyróżnia się ceramiką zdobioną odciskami sznura 
 Co charakteryzuje kulturę unietycką (2300-1600 p.n.e.) i jakie znaczenie miała dla rozwoju epoki brązu na ziemiach polskich?
 
 **ODPOWIEDŹ A:** Była kulturą wyłącznie zbieracko-łowiecką, która nie opanowała metalurgii brązu
-**ODPOWIEDŹ B:** Wprowadziła metallurgię brązu na ziemiach polskich i charakteryzowała się zróżnicowaniem społecznym widocznym w grobowcach
+**ODPOWIEDŹ B:** Wprowadziła metalurgię brązu na ziemiach polskich i charakteryzowała się zróżnicowaniem społecznym widocznym w grobowcach
 **ODPOWIEDŹ C:** Była kulturą megalityczną budującą tylko kamienne grobowce bez wykorzystania brązu
 **ODPOWIEDŹ D:** Istniała równolegle z kulturą łużycką, ale nie miała żadnego kontaktu z nią ani wymiany handlowej
 
@@ -397,7 +397,7 @@ Kultura unietycka była jedną z pierwszych kultur epoki brązu na ziemiach pols
 - (Weryfikacja wymagana - web search niedostępny)
 
 **ANALIZA BŁĘDNYCH ODPOWIEDZI:**
-- A (Zbieracko-łowiecka): Kultura unietycka była kulturą epoki brązu, która opanowała metallurgię brązu, a nie kulturą zbieracko-łowiecką.
+- A (Zbieracko-łowiecka): Kultura unietycka była kulturą epoki brązu, która opanowała metalurgię brązu, a nie kulturą zbieracko-łowiecką.
 - C (Megalityczna): Choć budowała grobowce, kultura unietycka jest znana przede wszystkim z metalurgii brązu, a nie tylko z konstrukcji megalitycznych.
 - D (Brak kontaktów): Kultury epoki brązu utrzymywały kontakty i wymianę handlową, co jest widoczne w podobieństwach znalezisk.
 
@@ -500,7 +500,7 @@ Po ustąpieniu lodowca (ok. 9500 p.n.e.) nastąpiło ocieplenie umożliwiające 
 Jakie główne zmiany w stylu życia i osadnictwie zaszły w mezolicie (8000-4500 p.n.e.) po ustąpieniu lodowca na ziemiach polskich?
 
 **ODPOWIEDŹ A:** Budowa permanentnych miast z kamienną architekturą i rozwiniętą infrastrukturą
-**ODPOWIEDŹ B:** Natychmiastowe przejście do rolnictwa i hodowli identyczne jak w neolicie
+**ODPOWIEDŹ B:** Natychmiastowe przejście do rolnictwa i hodowli identycznemu jak w neolicie
 **ODPOWIEDŹ C:** Mniejsze grupy ludzkie, bardziej osiadły tryb życia wykorzystujący zasoby leśne i wodne oraz specjalizacja w określonych stanowiskach
 **ODPOWIEDŹ D:** Masowa migracja do terenów śródziemnomorskich i porzucenie ziem polskich
 
@@ -513,9 +513,9 @@ Mezolit przyniósł zmianę środowiska (las po ustąpieniu lodowca). Ludność 
 - (Weryfikacja wymagana - web search niedostępny)
 
 **ANALIZA BŁĘDNYCH ODPOWIEDZI:**
-- A (Miasta): W mezolicie nie budowano miast - to okres obozowisk i małych osad, a nie permanetnej architektury kamiennej.
+- A (Miasta): W mezolicie nie budowano miast — to okres obozowisk i małych osad, a nie permanentnej architektury kamiennej.
 - B (Rolnictwo): Mezolit to jeszcze okres gospodarki zbieracko-łowieckiej, rolnictwo pojawiło się dopiero w neolicie.
-- D (Migracja): Nie doszło do masowej migracji - ludność adaptowała się do nowych warunków środowiskowych na ziemiach polskich.
+- D (Migracja): Nie doszło do masowej migracji — ludność adaptowała się do nowych warunków środowiskowych na ziemiach polskich.
 
 ---
 
@@ -594,15 +594,15 @@ Jaką rolę odgrywała technologia obróbki krzemienia w pradziejach ziem polski
 **POPRAWNA ODPOWIEDŹ:** D
 
 **WYJAŚNIENIE:**
-Krzemień miał kluczowe znaczenie przez większość pradziejów. W paleolicie prosty technik odłupków, w mezolicie i neolicie - rozwinięte techniki (mikrolity, grotów strzał). Powstawały kopalnie krzemienia (Krzemionki) i warsztaty jego obróbki. W epokach brązu i żelaza krzemień pozostał w użyciu jako dodatek do metalu (np. groty oszczepów), choć metal był dominujący.
+Krzemień miał kluczowe znaczenie przez większość pradziejów. W paleolicie prosty technik odłupków, w mezolicie i neolicie — rozwinięte techniki (mikrolity, grotów strzał). Powstawały kopalnie krzemienia (Krzemionki) i warsztaty jego obróbki. W epokach brązu i żelaza krzemień pozostał w użyciu jako dodatek do metalu (np. groty oszczepów), choć metal był dominujący.
 
 **ŹRÓDŁA:**
 - (Weryfikacja wymagana - web search niedostępny)
 
 **ANALIZA BŁĘDNYCH ODPOWIEDZI:**
 - A (Tylko paleolit): Krzemień był używany przez neolit i nawet w epokach metalu jako dodatek, a nie tylko w paleolicie.
-- B (Bez innowacji): Technologia obróbki krzemienia znacznie się rozwijała - od prostych odłupków do złożonych technik i kopalni.
-- C (Australia): Krzemień był pozyskiwany lokalnie (złóżom na ziemiach polskich), a nie importowany z Australii.
+- B (Bez innowacji): Technologia obróbki krzemienia znacznie się rozwijała — od prostych odłupków do złożonych technik i kopalni.
+- C (Australia): Krzemień był pozyskiwany lokalnie (złóż na ziemiach polskich), a nie importowany z Australii.
 
 ---
 

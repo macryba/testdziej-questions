@@ -25,7 +25,7 @@ Section 1: Pierwsze ślady człowieka
 Najstarsze ślady obecności wczesnego człowieka (Homo erectus) na ziemiach polskich odkryto na Śląsku – w Kończycach Wielkich, w okolicy Prudnika i na Dolnym Śląsku w okolicy Trzebnicy. Narzędzia kamienne z Trzebnicy pochodzą sprzed około 500 tysięcy lat i są jednymi z najstarszych śladów działalności ludzkiej w Polsce. Wraz z okresowymi ociepleniami klimatu ludzie zasiedlali tereny Polski, a podczas zlodowaceń musieli wycofywać się na południe.
 
 Section 2: Pierwsi rolnicy
-Około 5400 lat przed naszą erą na ziemiach polskich pojawiła się kultura ceramiki wstęgowej rytej, z którą wywodzą się pierwsi rolnicy i hodowcy. Byli to ludzie którzy przybyli z południa i przynieśli ze sobą wiedzę o uprawie roli i hodowli zwierząt. Prowadzili osiadły tryb życia, wznosili długie domy o prostokątnej konstrukcji i wytwarzali charakterystyczną ceramikę zdobioną ornamentami rytymi.
+Około 5400 lat przed naszą erą na ziemiach polskich pojawiła się kultura ceramiki wstęgowej rytej, z którą wywodzą się pierwsi rolnicy i hodowcy. Byli to ludzie, którzy przybyli z południa i przynieśli ze sobą wiedzę o uprawie roli i hodowli zwierząt. Prowadzili osiadły tryb życia, wznosili długie domy o prostokątnej konstrukcji i wytwarzali charakterystyczną ceramikę zdobioną ornamentami rytymi.
 
 Section 3: Osada obronna w Biskupinie
 Jednym z najważniejszych zabytków z epoki żelaza jest osada obronna w Biskupinie, wzniesiona w latach trzydziestych VIII wieku przed naszą erą. Osada ta została zbudowana na półwyspie jeziora i otoczona była wałem drewniano-ziemnym, co świadczy o rozwiniętych umiejętnościach budowlanych i potrzebie obrony. W Biskupinie odkryto ponad sto domów zbudowanych z drewna, w których mieszkało kilkaset osób, co czyniło ją jednym z największych osiedli tej epoki w Europie Środkowej.
@@ -42,7 +42,7 @@ Question Type: multiple_choice
 Difficulty: easy
 
 Question Text
-Kiedy rozpoczęła się pradzieja ziem polskich, czyli okres od pojawienia się pierwszych ludzi na terenie obecnego państwa polskiego?
+Kiedy rozpoczęły się pradzieje ziem polskich, czyli okres od pojawienia się pierwszych ludzi na terenie obecnego państwa polskiego?
 
 Answer Options
 A) około 1 tysiąca lat temu

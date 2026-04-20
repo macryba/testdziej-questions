@@ -15,9 +15,9 @@ question_count: 10
 Summary: Starożytność - Słowianie (easy)
 
 Historical Context
-Słowianie to lud, który pojawił się na ziemiach polskich w okresie wielkiej wędrówki ludów, około od V wieku naszej ery. Początkowo zamieszkiwali tereny między Odrą a Wisłą, a z czasem rozprzestrzenili się na większe obszary. Żyli w organizacji plemiennej, zajmując się rolnictwem, hodowlą i rzemiosłem. Słowianie wyznawali pogaństwo, czcząc siły przyrody i liczne bóstwa związane z słońcem, ogniem i płodnością.
+Słowianie to lud, który pojawił się na ziemiach polskich w okresie wielkiej wędrówki ludów, około od V wieku naszej ery. Początkowo zamieszkiwali tereny między Odrą a Wisłą, a z czasem rozprzestrzenili się na większe obszary. Żyli w organizacji plemiennej, zajmując się rolnictwem, hodowlą i rzemiosłem. Słowianie wyznawali pogaństwo, czcząc siły przyrody i liczne bóstwa związane ze słońcem, ogniem i płodnością.
 
-W okresie od VI do IX wieku Słowianie stworzyli rozległą sieć grodów warownych, które były centrami administracyjnymi i militarnymi. Grody te zazwyczaj powstawały na wzniesieniach lub trudno dostępnych miejscach, co ułatwiało obronę. Archaeologiczne znaleziska świadczą o rozwiniętej kulturze materialnej, włączając wyroby ceramiki, ozdoby z brązu i żelaza. Słowianie utrzymywali kontakty handlowe z innymi ludami, co przyczyniło się do rozwoju ich społeczności.
+W okresie od VI do IX wieku Słowianie stworzyli rozległą sieć grodów warownych, które były centrami administracyjnymi i militarnymi. Grody te zazwyczaj powstawały na wzniesieniach lub trudno dostępnych miejscach, co ułatwiało obronę. Archeologiczne znaleziska świadczą o rozwiniętej kulturze materialnej, włączając wyroby ceramiki, ozdoby z brązu i żelaza. Słowianie utrzymywali kontakty handlowe z innymi ludami, co przyczyniło się do rozwoju ich społeczności.
 
 Question 1
 Question ID: Q-ST-SL-E-001

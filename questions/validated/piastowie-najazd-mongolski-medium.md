@@ -28,7 +28,7 @@ Upadek Kijowa w grudniu 1240 roku połamał potęgę Rusi Kijowskiej i zniszczy�
 - https://pl.wikipedia.org/wiki/Oblężenie_Kijowa_(1240)
 
 **Analiza nieprawidłowych odpowiedzi:**
-- B: Bitwa pod Legnicą odbyła się dopiero w kwietniu 1241 roku, więc nie mogła poprzedzić najazd
+- B: Bitwa pod Legnicą odbyła się dopiero w kwietniu 1241 roku, więc nie mogła poprzedzić najazdu
 - C: Śmierć Ögedeja nastąpiła pod koniec 1241 roku i była powodem wycofania, nie przyczyną najazdu
 - D: Sojusz polsko-węgierski powstał jako reakcja na zagrożenie mongolskie, nie poprzedził najazdu
 
@@ -37,12 +37,12 @@ Upadek Kijowa w grudniu 1240 roku połamał potęgę Rusi Kijowskiej i zniszczy�
 ## Pytanie 2
 
 **Tekst pytania:**
-Dlaczego bitwa pod Legnicą z 9 kwietnia 1241 roku zakończyła się tak całkowitym zwycięstwem mongolskim, pomimo że wojska chrześcijańskie posiadały przewagę liczebną?
+Dlaczego bitwa pod Legnicą z 9 kwietnia 1241 roku zakończyła się tak całkowitym zwycięstwem mongolskim, pomimo że wojska chrześcijańskie miały przewagę liczebną?
 
 A. Mongołowie zastosowali taktykę fałszywego ucieczki i zasadzki
 B. Polacy nie mieli konnicy, podczas gdy Mongołowie walczyli tylko konno
 C. Henryk Pobożny zdradził sojuszników na polu bitwy
-D. Nieprzyjaciel uciekł z pola bitwy widząc przewagę Polaków
+D. Nieprzyjaciel uciekł z pola bitwy, widząc przewagę Polaków
 
 **Poprawna odpowiedź:** A
 
@@ -73,7 +73,7 @@ D. Wojska europejskie zebrały ogromną armię i wyparły najeźdźców
 **Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
-Śmierć wielkiego chana Ögedeja w grudniu 1241 roku przerwała kampanię europejską Batu Chana. Zgodnie z prawem mongolskim, wszyscy potomkowie Dżyngis-chana musieli stawić się na kurultaju - zgromadzeniu elektorskim do wyboru nowego wielkiego chana. Rywalizacja o sukcesję zmusiła Batu Chana do przerwania podboju Europy.
+Śmierć wielkiego chana Ögedeja w grudniu 1241 roku przerwała kampanię europejską Batu Chana. Zgodnie z prawem mongolskim, wszyscy potomkowie Dżyngis-chana musieli stawić się na kurultaju — zgromadzeniu elektorskim do wyboru nowego wielkiego chana. Rywalizacja o sukcesję zmusiła Batu Chana do przerwania podboju Europy.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polskę
@@ -99,7 +99,7 @@ D. Rozwój miast z powodu mongolskich inwestycji w infrastrukturę
 **Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
-Najazd spowodował ogromne zniszczenia materialne - spalone zostały grody, miasta i wsie, a ludność była masowo mordowana lub brana do niewoli i wywożona na wschód. Szacuje się, że Polska straciła znaczną część populacji, co zahamowało rozwój gospodarczy na dziesięciolecia.
+Najazd spowodował ogromne zniszczenia materialne — spalone zostały grody, miasta i wsie, a ludność była masowo mordowana lub brana do niewoli i wywożona na wschód. Szacuje się, że Polska straciła znaczną część populacji, co zahamowało rozwój gospodarczy na dziesięciolecia.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polskę
@@ -108,7 +108,7 @@ Najazd spowodował ogromne zniszczenia materialne - spalone zostały grody, mias
 **Analiza nieprawidłowych odpowiedzi:**
 - B: Mongołowie nie ustanowili administracji na terenie Polski, bo się wycofali
 - C: Najazd zniszczył istniejące szlaki handlowe, nie tworząc nowych
-- D: Mongołowie niszczli infrastrukturę, a nie inwestowali w nią
+- D: Mongołowie zniszczyli infrastrukturę, a nie inwestowali w nią
 
 ---
 
@@ -196,7 +196,7 @@ Po najazdzie mongolskim książęta polscy zrozumieli, że drewniane grody nie z
 Dlaczego śmierć księcia Henryka Pobożnego w bitwie pod Legnicą miała tak istotne znaczenie polityczne dla dzielnicowej Polski?
 
 A. Jego śmierć zakończyła próbę zjednoczenia polskich dzielnic pod jednym władcą
-B. Książę nie spadkobierców, więc jego księstwo przeszło pod bezpośrednie panowanie mongolskie
+B. Książę nie miał spadkobierców, więc jego księstwo przeszło pod bezpośrednie panowanie mongolskie
 C. Śmierć ta wzmocniła pozycję Przemyślidów czeskich w Polsce
 D. Władca ten był jedynym polskim księciem sprzeciwiającym się Mongołom
 

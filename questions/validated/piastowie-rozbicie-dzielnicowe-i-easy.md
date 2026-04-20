@@ -70,7 +70,7 @@ Why it's incorrect: Kazimierz Wielki panował w latach 1333-1370, kiedy rozbicie
 
 **Option D**
 Content: Władysław Łokietek
-Why it's incorrect: Władysław Łokietek panował w latach 1306-1333 i był władcą, który zakończył okres rozbicia dzielnicowego, zbieżając większość ziem polskich. Nie żył on w 1138 roku.
+Why it's incorrect: Władysław Łokietek panował w latach 1306-1333 i był władcą, który zakończył okres rozbicia dzielnicowego, zbierając większość ziem polskich. Nie żył on w 1138 roku.
 
 ---
 
@@ -429,7 +429,7 @@ D) Przemysł II
 Answer: A
 
 **Explanation**
-Władysław Łokietek zakończył okres rozbicia dzielnicowego, zbijając większość ziem polskich w jednym państwie. Jego wysiłki zostały ukoronowane koronacją w 1320 roku, co formalnie przywróciło królestwo polskie po prawie 200 latach podziału.
+Władysław Łokietek zakończył okres rozbicia dzielnicowego, zbierając większość ziem polskich w jednym państwie. Jego wysiłki zostały ukoronowane koronacją w 1320 roku, co formalnie przywróciło królestwo polskie po prawie 200 latach podziału.
 
 **Validation Status**
 - Historical accuracy verified

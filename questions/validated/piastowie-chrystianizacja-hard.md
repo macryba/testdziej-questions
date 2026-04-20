@@ -19,7 +19,7 @@ verification_note: "Generated based on comprehensive Wikipedia sources. Historic
 
 Chrzest Polski, tradycyjnie datowany na rok 966, stanowił przełomowy moment w historii państwa Polan. Przyjęcie chrześcijaństwa przez księcia Mieszka I nie tylko rozpoczęło proces chrystianizacji społeczeństwa, ale także włączyło rodzące się państwo polskie w krąg polityczno-kulturowy Europy łacińskiej. Decyzja ta zapoczątkowała proces przejmowania zachodnich wzorców politycznych, administracyjnych i kulturowych, a także stworzyła fundamenty pod organizację kościelną w Polsce.
 
-Kontekst polityczny chrztu Mieszka był złożony. W latach sześćdziesiątych X wieku państwo Polan znajdowało się w trudnej sytuacji militarnej i politycznej. Mieszko toczył walki z Wieletami o Pomorze Zachodnie, podczas gdy Wieleci zawarli sojusz z Czechami. Klęska Polan spowodowała podjęcie rozmów z Cesarstwem Niemieckim, co doprowadziło do zawarcia przymierza polańsko-czeskiego. Elementem tego sojuszu było małżeństwo Mieszka z Dobrawą, córką Bolesława I Srogiego. Chrzest księcia rozbił sojusz czesko-wielecki i pozwolił na zwycięstwo nad Wolinianami w 967 roku.
+Kontekst polityczny chrztu Mieszka był złożony. W latach sześćdziesiątych X wieku państwo Polan znajdowało się w trudnej sytuacji militarnej i politycznej. Mieszko toczył walki z Wieletami o Pomorze Zachodnie, podczas gdy Wieleci zawarli sojusz z Czechami. Klęska Polan spowodowała podjęcie rozmów z cesarstwem niemieckim, co doprowadziło do zawarcia przymierza polańsko-czeskiego. Elementem tego sojuszu było małżeństwo Mieszka z Dobrawą, córką Bolesława I Srogiego. Chrzest księcia rozbił sojusz czesko-wielecki i pozwolił na zwycięstwo nad Wolinianami w 967 roku.
 
 Źródła średniowieczne przekazują sprzeczne informacje o chrzcie Polski. Najstarsze informacje pochodzą z Kroniki Thietmara z Merseburga (XI wiek) oraz Kroniki Galla Anonima (początek XII wieku). Thietmar przedstawia tradycję, według której chrzest nastąpił po ślubie z Dobrawą, podczas gdy Gall Anonim twierdzi, że Mieszko ochrzcił się przed małżeństwem. Roczniki podają różne daty chrztu: 960, 964, 965, 966 lub 967 rok. Również miejsce chrztu pozostaje nieznane – proponowano Poznań, Gniezno, Ostrów Lednicki, a nawet Pragę czy Ratyzbonę.
 
@@ -412,7 +412,7 @@ Czechy przyjęły chrzest w 845 roku (masowy chrzest w Regensburgu) i ostateczni
 **Type:** Analiza społeczno-ekonomiczna
 **Focus:** Dziesięcina i uposażenie Kościoła
 
-### Treść pytanie
+### Treść pytania
 
 Jakie długofalowe ekonomiczne skutki dla struktury własnościowej w Polsce miało wprowadzenie dziesięciny po chrzcie 966?
 
@@ -505,7 +505,7 @@ Chrzest wprowadził łacinę jako język pisma, liturgii i edukacji. Proces ten 
 **Type:** Analiza porównawcza regionalna
 **Focus:** Model chrystianizacji
 
-### Treść pytanie
+### Treść pytania
 
 W czym istotnie różnił się model chrystianizacji polskiej od modelu użytego na Rusi Kijowskiej przez Włodzimierza Wielkiego?
 
@@ -536,7 +536,7 @@ Kluczowa różnica to podział na łaciński zachód i grecki wschód. Polska zn
 **Type:** Analiza procesualna
 **Focus:** Tempo chrystianizacji
 
-### Treść pytanie
+### Treść pytania
 
 Jakie tempo miała chrystianizacja społeczeństwa polskiego po chrzcie Mieszka I?
 
@@ -567,7 +567,7 @@ Proces chrystianizacji był długotrwały. Elementy pogaństwa (zwyczaje, wierze
 **Type:** Analiza militarno-polityczna
 **Focus:** Sojusze i konflikty
 
-### Treść pytanie
+### Treść pytania
 
 Jaki był bezpośredni skutek militarny chrztu Mieszka I dla polityki zagranicznej Polski w latach 966-972?
 
@@ -598,7 +598,7 @@ Chrzest pozwolił Mieszkowi uniezależnić się od cesarstwa (przynajmniej czaso
 **Type:** Analiza dynastycznej
 **Focus:** Sukcesja i stabilność
 
-### Treść pytanie
+### Treść pytania
 
 W jaki sposób chrystianizacja wpłynęła na stabilność dynastii Piastów w XI-XII wieku?
 
@@ -610,7 +610,7 @@ W jaki sposób chrystianizacja wpłynęła na stabilność dynastii Piastów w X
 **Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:**
-Kościół promował model monarchii dziedzicznej z zasadą primogenitury (pierworództwa). Chrystianizacja wzmocniła pozycję dynastii Piastów jako władcy "z Bożej woli", co zwiększało legitimation i stabilność.
+Kościół promował model monarchii dziedzicznej z zasadą primogenitury (pierworództwa). Chrystianizacja wzmocniła pozycję dynastii Piastów jako władcy "z Bożej woli", co zwiększało legitymację i stabilność.
 
 **Źródła:**
 - Monarchia w Polsce X-XIII wieku
@@ -629,28 +629,28 @@ Kościół promował model monarchii dziedzicznej z zasadą primogenitury (pierw
 **Type:** Synteza historyczna
 **Focus:** Znaczenie chrztu
 
-### Treść pytanie
+### Treść pytania
 
-Które stwierdzenie najlepiej syntezyzuje znaczenie chrztu Polski 966 dla dalszych dziejów państwa polskiego?
+Które stwierdzenie najlepiej syntetyzuje znaczenie chrztu Polski 966 dla dalszych dziejów państwa polskiego?
 
-**A:** Chrzt był jedynie epizodem religijnym bez wpływu na politykę
-**B:** Chrzt zabezpieczył Polskę przed wszelkimi zagrożeniami z zachodu na stulecia
-**C:** Chrzt był wydarzeniem kluczowym, które zdefiniowało przynależność cywilizacyjną Polski i umożliwiło rozwój państwowości
-**D:** Chrzt był błędem politycznym, który naraził Polskę na wpływ niemiecki
+**A:** Chrzest był jedynie epizodem religijnym bez wpływu na politykę
+**B:** Chrzest zabezpieczył Polskę przed wszelkimi zagrożeniami z zachodu na stulecia
+**C:** Chrzest był wydarzeniem kluczowym, które zdefiniowało przynależność cywilizacyjną Polski i umożliwiło rozwój państwowości
+**D:** Chrzest był błędem politycznym, który naraził Polskę na wpływ niemiecki
 
 **Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:**
-Chrzt Polski był wydarzeniem kluczowym. Zdefiniował przynależność Polski do kręgu cywilizacji zachodniej, umożliwił rozwój instytucji państwowych i kulturowych, oraz dał fundamenty pod suwerenność mimo bliskości potężnego cesarstwa.
+Chrzest Polski był wydarzeniem kluczowym. Zdefiniował przynależność Polski do kręgu cywilizacji zachodniej, umożliwił rozwój instytucji państwowych i kulturowych, oraz dał fundamenty pod suwerenność mimo bliskości potężnego cesarstwa.
 
 **Źródła:**
 - Gerard Labuda, Chrzest Polski w dziejach narodu
 - Henryk Łowmiański, Początki państwa polskiego
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A: Chrzt był kluczowy politycznie, nie tylko religijnie
-- B: Chrzt nie zabezpieczył przed wszystkimi zagrożeniami
-- D: Chrzt nie był błędem – był decyzją racjonalną i właściwą
+- A: Chrzest był kluczowy politycznie, nie tylko religijnie
+- B: Chrzest nie zabezpieczył przed wszystkimi zagrożeniami
+- D: Chrzest nie był błędem – był decyzją racjonalną i właściwą
 
 ---
 

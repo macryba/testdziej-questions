@@ -141,11 +141,11 @@ Dobrawa (lub Dąbrówka) była czeską księżniczką z dynastii Przemyślidów,
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Kinga żyła znacznie później - była żoną Bolesława Wstydliwego w XIII wieku.
+**A.** Kinga żyła znacznie później — była żoną Bolesława Wstydliwego w XIII wieku.
 
-**C.** Ryksa to imię kilku żon polskich książąt, ale nie Mieszka I - to imię pojawiło się później w dynastii.
+**C.** Ryksa to imię kilku żon polskich książąt, ale nie Mieszka I — to imię pojawiło się później w dynastii.
 
-**D.** Judyta to imię żony Władysława Hermana z XI wieku, nie Mieszka I - to późniejsza postać.
+**D.** Judyta to imię żony Władysława Hermana z XI wieku, nie Mieszka I — to późniejsza postać.
 
 ---
 
@@ -173,9 +173,9 @@ Chrzest Mieszka I oznaczał przyjęcie chrześcijaństwa i włączenie Polski do
 
 **A.** Chrzest nie oznaczał niezależności — wręcz przeciwnie, Polska uznała zwierzchnictwo cesarza i papieża.
 
-**C.** Mieszko I nie stał się najpotężniejszym władcą - był jednym z wielu książąt europejskich.
+**C.** Mieszko I nie stał się najpotężniejszym władcą — był jednym z wielu książąt europejskich.
 
-**D.** Nie wszyscy Polanie stali się chrześcijanami od razu - proces chrystianizacji trwał wiele pokoleń.
+**D.** Nie wszyscy Polanie stali się chrześcijanami od razu — proces chrystianizacji trwał wiele pokoleń.
 
 ---
 
@@ -231,11 +231,11 @@ Mieszko I pochodził z dynastii Piastów, która rządziła Polską od X do XIV 
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Jagiellonowie pojawili się znacznie później - od końca XIV wieku.
+**A.** Jagiellonowie pojawili się znacznie później — od końca XIV wieku.
 
 **C.** Przemyślidzi byli czeską dynastią, z której pochodziła Dobrawa, a nie Mieszko I.
 
-**D.** Wazowie to szwedzka dynastia, która rządziła Polską w XVII wieku - znacznie później.
+**D.** Wazowie to szwedzka dynastia, która rządziła Polską w XVII wieku — znacznie później.
 
 ---
 
@@ -261,11 +261,11 @@ Przed chrztem w 966 roku Polanie wyznawali pogaństwo - wierzyli w wielu bogów 
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Chrześcijaństwo prawosławne przyjęto na Rusi, a nie w Polsce - to inny obrządek.
+**A.** Chrześcijaństwo prawosławne przyjęto na Rusi, a nie w Polsce — to inny obrządek.
 
-**B.** Islam nie był religią Polan - to religia Bliskiego Wschodu i Afryki Północnej.
+**B.** Islam nie był religią Polan — to religia Bliskiego Wschodu i Afryki Północnej.
 
-**D.** Judaizm nie był religią Polan - to religia Żydów, nie Słowian.
+**D.** Judaizm nie był religią Polan — to religia Żydów, nie Słowian.
 
 ---
 
@@ -291,11 +291,11 @@ Po chrzcie zaczęto budować kościoły i katedry jako miejsca kultu chrześcija
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Nie tylko kapliczki - budowano także duże kościoły i katedry.
+**A.** Nie tylko kapliczki — budowano także duże kościoły i katedry.
 
 **C.** Po chrzcie nie budowano pogańskich świątyń — wręcz przeciwnie, zastępowano je kościołami.
 
-**D.** Meczęty to miejsca modlitwy muzułmańskiej, nie chrześcijańskiej.
+**D.** Meczet to miejsce modlitwy muzułmańskiej, niechrześcijańskiej.
 
 ---
 
@@ -321,11 +321,11 @@ Chrzest Mieszka I dał Polsce dostęp do kultury łacińskiej, edukacji, prawa i
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Mieszko I nie został cesarzem - był księciem, a nie cesarzem.
+**A.** Mieszko I nie został cesarzem — był księciem, a nie cesarzem.
 
-**C.** Chrzest nie zakończył wojen - Polska nadal prowadziła wojny, ale już jako państwo chrześcijańskie.
+**C.** Chrzest nie zakończył wojen — Polska nadal prowadziła wojny, ale już jako państwo chrześcijańskie.
 
-**D.** Chrzest nie natychmiast uczynił Polskę najbogatszym krajem - to był długotrwały proces rozwoju.
+**D.** Chrzest nie natychmiast uczynił Polskę najbogatszym krajem — to był długotrwały proces rozwoju.
 
 ---
 
@@ -441,7 +441,7 @@ Ostrów Lednicki to wyspa na jeziorze Lednica, gdzie odkryto pozostałości pala
 
 **A.** Wawel stał się głównym ośrodkiem władzy później — w okresie rozbicia dzielnicowego, nie w czasach Mieszka I.
 
-**B.** Czarny Las to miejsce bitwy z Niemcami w 1032 roku — nie związane z chrztem Polski.
+**B.** Czarny Las to miejsce bitwy z Niemcami w 1032 roku — niezwiązane z chrztem Polski.
 
 **C.** Kruszwica była ważnym grodem — ale nie ma dowodów na chrzest w tym miejscu.
 
@@ -503,7 +503,7 @@ Chrześcijaństwo to monoteistyczna religia wierząca w Jezusa Chrystusa jako Sy
 
 **A.** Wielu bogów to wiara pogańska, którą Polanie wyznawali przed chrztem.
 
-**C.** Proroka Mahometa to religia muzułmańska, nie chrześcijańska.
+**C.** Proroka Mahometa to religia muzułmańska, niechrześcijańska.
 
 **D.** Reinkarnacja i karma to religie wschodnie, takie jak buddyzm.
 
@@ -532,7 +532,7 @@ Gniezno było główną stolicą państwa Mieszka I i najważniejszym ośrodkiem
 
 ### Analiza niepoprawnych odpowiedzi
 
-**B.** Warszawa w tym czasie nie była jeszcze miastem - stała się stolicą Polski dopiero w XVI wieku.
+**B.** Warszawa w tym czasie nie była jeszcze miastem — stała się stolicą Polski dopiero w XVI wieku.
 
 **C.** Poznań był ważnym ośrodkiem — ale Gniezno było główną stolicą i siedzibą biskupa misyjnego.
 
@@ -563,9 +563,9 @@ Mieszko I przyjął chrzest od misjonarzy związanych ze Świętym Cesarstwie Rz
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Bizancjum (Cesarstwo Wschodnie) miało wpływ na Rus, ale nie na Polskę — Polska przyjęła chrzest od zachodu.
+**A.** Bizancjum (Cesarstwo Wschodnie) miało wpływ na Ruś, ale nie na Polskę — Polska przyjęła chrzest od zachodu.
 
-**C.** Ruś Kijowska przyjęła chrzest prawosławny od Bizancjum — nie związany z Polską.
+**C.** Ruś Kijowska przyjęła chrzest prawosławny od Bizancjum — niezwiązany z Polską.
 
 **D.** Anglia była zbyt daleko — i nie miała wpływu na chrzest Polski.
 

@@ -19,9 +19,9 @@ tokens_total: 60000
 
 ## Kontekst Historyczny
 
-Pradzieje ziem polskich obejmują okres od pojawienia się pierwszych ludzi na tych terenach aż do wczesnego średniowiecza. Jest to czas intensywnych zmian kulturowych, technologicznych i społecznych. Pierwsze ślady obecności ludzi na ziemiach polskich pochodzą z paleolitu, około 500 tysięcy lat temu. Wraz z końcem epoki lodowcowej, około 9600 r. p.n.e., rozpoczął się mezolit, a następnie neolit, który przyniósł rewolucję neolityczną - przejście od łowieckiego stylu życia do osiadłego rolnictwa.
+Pradzieje ziem polskich obejmują okres od pojawienia się pierwszych ludzi na tych terenach aż do wczesnego średniowiecza. Jest to czas intensywnych zmian kulturowych, technologicznych i społecznych. Pierwsze ślady obecności ludzi na ziemiach polskich pochodzą z paleolitu, około 500 tysięcy lat temu. Wraz z końcem epoki lodowcowej, około 9600 r. p.n.e., rozpoczął się mezolit, a następnie neolit, który przyniósł rewolucję neolityczną — przejście od łowieckiego stylu życia do osiadłego rolnictwa.
 
-Okres neolitu (ok. 5400-1900 r. p.n.e.) był czasem największych przemian. Zaczęły pojawiać się pierwsze społeczności rolnicze, które przywędrowały z południa. Rozwinęły się różne kultury archeologiczne, takie jak kultura linearnej ceramiki, kultura amfor kulistych czy kultura pucharów lejkowatych. Około 2400 r. p.n.e. rozpoczęła się epoka brązu, a około 750 r. p.n.e. - epoka żelaza. W ostatnich wiekach przed naszą erą ziemie polskie zostały opanowane przez Celtów, którzy wprowadzili zaawansowane techniki wytopu żelaza i ceramiki.
+Okres neolitu (ok. 5400-1900 r. p.n.e.) był czasem największych przemian. Zaczęły pojawiać się pierwsze społeczności rolnicze, które przywędrowały z południa. Rozwinęły się różne kultury archeologiczne, takie jak kultura linearnej ceramiki, kultura amfor kulistych czy kultura pucharów lejkowatych. Około 2400 r. p.n.e. rozpoczęła się epoka brązu, a około 750 r. p.n.e. — epoka żelaza. W ostatnich wiekach przed naszą erą ziemie polskie zostały opanowane przez Celtów, którzy wprowadzili zaawansowane techniki wytopu żelaza i ceramiki.
 
 ---
 
@@ -46,12 +46,12 @@ B
 Ludzie przybywali z południa i przynosili ze sobą wiedzę o rolnictwie, co zmieniło lokalne społeczeństwa. To nie było tylko miejscowe wynalezienie.
 
 ### Analiza Nieprawidłowych Odpowiedzi
-- A: Ocieplenie klimatu było ważne, ale samo w sobie nie wystarczyło - potrzeba było wiedzy o uprawie roli
+- A: Ocieplenie klimatu było ważne, ale samo w sobie nie wystarczyło — potrzeba było wiedzy o uprawie roli
 - C: Narzędzia kamienne używano już wcześniej, w okresie paleolitu i mezolitu
 - D: Osady obronne pojawiły się później, w epoce brązu i żelaza, gdy już istniały rozwinięte społeczności
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o pradziejach ziem polskich
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o pradziejach ziem polskich
 
 ---
 
@@ -76,12 +76,12 @@ A
 Rewolucja neolityczna polegała na przejściu od łowieckiego stylu życia do rolnictwa i osiadłego trybu życia. To fundament nowoczesnej cywilizacji.
 
 ### Analiza Nieprawidłowych Odpowiedzi
-- B: Technologie metalowe pojawiły się dopiero w epoce brązu (ok. 2400 r. p.n.e.), a miasta - jeszcze później
+- B: Technologie metalowe pojawiły się dopiero w epoce brązu (ok. 2400 r. p.n.e.), a miasta — jeszcze później
 - C: Pismo pojawiło się w Mezopotamii około 3000 r. p.n.e., na ziemiach polskich znacznie później
 - D: Struktury plemienne nie upadły, ale ewoluowały wraz z rozwojem społeczeństwa
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o rewolucji neolitycznej
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o rewolucji neolitycznej
 
 ---
 
@@ -111,7 +111,7 @@ Kultura linearnej ceramiki była pierwszą kulturą rolniczą na ziemiach polski
 - D: Kultura przeworska to kultura późnorzymska (ok. 1-5 w. n.e.), a nie neolityczna
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o kulturach neolitu
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o kulturach neolitu
 
 ---
 
@@ -137,11 +137,11 @@ Rzeki zapewniały żyzne gleby aluwialne i stały dostęp do wody, co było kluc
 
 ### Analiza Nieprawidłowych Odpowiedzi
 - A: Handel rozwijał się stopniowo, w neolicie był ograniczony
-- C: Osady w dolinach rzek nie miały dużych walorów obronnych - wręcz przeciwnie, były trudniejsze do obrony
+- C: Osady w dolinach rzek nie miały dużych walorów obronnych — wręcz przeciwnie, były trudniejsze do obrony
 - D: Wytop brązu pojawił się znacznie później, w epoce brązu, a nie w neolicie
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o osadnictwie neolitycznym
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o osadnictwie neolitycznym
 
 ---
 
@@ -163,7 +163,7 @@ D. Zrównanie się praw wszystkich członków społeczności
 A
 
 ### Wyjaśnienie
-Epoka brązu przyniósł większe zróżnicowanie majątkowe - niektórzy mieli dostęp do brązu, inni nie. To stworzyło początki hierarchii społecznej.
+Epoka brązu przyniósł większe zróżnicowanie majątkowe — niektórzy mieli dostęp do brązu, inni nie. To stworzyło początki hierarchii społecznej.
 
 ### Analiza Nieprawidłowych Odpowiedzi
 - B: Pierwsze scentralizowane państwa na ziemiach polskich pojawiły się znacznie później, w średniowieczu
@@ -171,7 +171,7 @@ Epoka brązu przyniósł większe zróżnicowanie majątkowe - niektórzy mieli 
 - D: Zamiast zrównania, epoka brązu przyniosła większe zróżnicowanie społeczne
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o epoce brązu
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o epoce brązu
 
 ---
 
@@ -201,7 +201,7 @@ Szlak bursztynowy istniał od epoki brązu, ale w okresie lateńskim (ok. 450-50
 - D: Słowianie pojawili się na ziemiach polskich w 5-6 w. n.e., czyli po okresie lateńskim
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o okresie lateńskim
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o okresie lateńskim
 
 ---
 
@@ -231,7 +231,7 @@ Głównym powodem migracji rolników była ekspansja rolnictwa na nowe tereny. K
 - D: Górnictwo na większą skalę pojawiło się znacznie później, w epoce brązu
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o migracjach neolitycznych
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o migracjach neolitycznych
 
 ---
 
@@ -256,12 +256,12 @@ A
 Żelazo było bardziej dostępne niż brąz i pozwalało na tworzenie lepszych narzędzi rolniczych i broni. To zwiększyło wydajność gospodarczą.
 
 ### Analiza Nieprawidłowych Odpowiedzi
-- B: Państwa nie powstały nagle - to był proces trwający wieki
+- B: Państwa nie powstały nagle — to był proces trwający wieki
 - C: Żelazo nie spowodowało utraty suwerenności - Rzymianie nigdy nie podbili ziem polskich
 - D: Żelazo było lepsze dla rolnictwa, nie hodowli, i nie zastąpiło rolnictwa
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o metalurgii żelaza
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o metalurgii żelaza
 
 ---
 
@@ -286,12 +286,12 @@ A
 Kultura pucharów lejkowatych (ok. 4300-2800 r. p.n.e.) zbudowała grobowce megalityczne na ziemiach polskich. To pierwsze monumentalne budowle w tej części Europy.
 
 ### Analiza Nieprawidłowych Odpowiedzi
-- B: Handel istniał, ale nie był tak zaawansowany jak w późniejszych okresach (np. rzymskim)
+- B: Handel istniał, ale nie był tak zaawansowany, jak w późniejszych okresach (np. rzymskim)
 - C: Rolnictwo zostało wprowadzone wcześniej, przez kulturę linearnej ceramiki (ok. 5400 r. p.n.e.)
 - D: Puchary lejkowate to neolit, a epoka żelaza zaczęła się znacznie później (ok. 750 r. p.n.e.)
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o kulturze pucharów lejkowatych
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o kulturze pucharów lejkowatych
 
 ---
 
@@ -313,7 +313,7 @@ D. Wyparcie całkowicie dotychczasowych kultur lokalnych
 A
 
 ### Wyjaśnienie
-Celtowie przyniśli zaawansowane techniki wytopu żelaza i wytwarzania ceramiki. Ich osady były większe i lepiej zorganizowane niż wcześniejsze.
+Celtowie przynieśli zaawansowane techniki wytopu żelaza i wytwarzania ceramiki. Ich osady były większe i lepiej zorganizowane niż wcześniejsze.
 
 ### Analiza Nieprawidłowych Odpowiedzi
 - B: Prawdziwe miasta i pieniądz pojawiły się znacznie później, w średniowieczu
@@ -321,7 +321,7 @@ Celtowie przyniśli zaawansowane techniki wytopu żelaza i wytwarzania ceramiki.
 - D: Celtowie nie wyparli lokalnych kultur, ale wpływali na nie i mieszali się z nimi
 
 ### Źródła
-- Brak dostępu do źródeł online - pytanie oparte na wiedzy ogólnej o Celtach na ziemiach polskich
+- Brak dostępu do źródeł online — pytanie oparte na wiedzy ogólnej o Celtach na ziemiach polskich
 
 ---
 
@@ -351,8 +351,8 @@ W późnym paleolicie rozwinięto technikę wiórową, co pozwoliło na tworzeni
 - D: Narzędzia metalowe pojawiły się dopiero w epoce brązu, tysiące lat później
 
 ### Źródła
-- Paleolit na ziemiach polskich - opracowania archeologiczne
-- Technika wiórowa w górnym paleolicie - badania nad przemysłem krzemiennym
+- Paleolit na ziemiach polskich — opracowania archeologiczne
+- Technika wiórowa w górnym paleolicie — badania nad przemysłem krzemiennym
 
 ---
 
@@ -382,8 +382,8 @@ Po ustąpieniu lodowca lasy zastąpiły tundrę, więc społeczności mezolitycz
 - D: Nie ma dowodów na masowe migracje z ziem polskich w mezolicie
 
 ### Źródła
-- Mezolit na ziemiach polskich - adaptacje środowiskowe
-- Zmiany klimatyczne po zlodowaceniu a kultury mezolityczne
+- Mezolit na ziemiach polskich — adaptacje środowiskowe
+- Zmiany klimatyczne po zlodowaceniu — a kultury mezolityczne
 
 ---
 
@@ -413,8 +413,8 @@ Kultura sznurowej ceramiki (ok. 2900-2350 r. p.n.e.) charakteryzowała się wię
 - D: Metalurgia brązu pojawiła się później, w epoce brązu (ok. 2300 r. p.n.e.)
 
 ### Źródła
-- Kultura ceramiki sznurowej w Polsce - badania archeologiczne
-- Pastoralizm w kulturze sznurowej - organizacja społeczna
+- Kultura ceramiki sznurowej w Polsce — badania archeologiczne
+- Pastoralizm w kulturze sznurowej — organizacja społeczna
 
 ---
 
@@ -444,8 +444,8 @@ Kultura unietycka (ok. 2300-1600 r. p.n.e.) była jedną z pierwszych kultur epo
 - D: Kultura unietycka nie prowadziła wielkich podbojów militarnych
 
 ### Źródła
-- Kultura unietycka w Polsce - początki epoki brązu
-- Metalurgia brązu we wczesnej epoce brązu
+- Kultura unietycka w Polsce — początki epoki brązu
+- Metalurgia brązu — we wczesnej epoce brązu
 
 ---
 
@@ -475,8 +475,8 @@ Kultura łużycka (ok. 1300-400 r. p.n.e.) była rozpowszechniona na niemal wszy
 - D: Pierwsze miasta pojawiły się dopiero w średniowieczu
 
 ### Źródła
-- Kultura łużycka w Polsce - zasięg i znaczenie
-- Cmentarzyska kurhanowe kultury łużyckiej - badania archeologiczne
+- Kultura łużycka w Polsce — zasięg i znaczenie
+- Cmentarzyska kurhanowe kultury łużyckiej — badania archeologiczne
 
 ---
 
@@ -506,8 +506,8 @@ Szlak bursztynowy służył wymianie towarów lokalnych (zboże, drewno, skóry,
 - D: Sól i miedź nie były głównymi towarami eksportowymi
 
 ### Źródła
-- Szlak bursztynowy - towary i kierunki handlu
-- Wymiana handlowa z Imperium Rzymskim - archeologia
+- Szlak bursztynowy — towary i kierunki handlu
+- Wymiana handlowa z Imperium Rzymskim — archeologia
 
 ---
 
@@ -537,8 +537,8 @@ Younger Dryas był krótkim okresem powrotu warunków lodowcowych i spadku tempe
 - D: Rolnictwo pojawiło się tysiące lat później, w neolicie
 
 ### Źródła
-- Younger Dryas - wpływ na społeczności mezolityczne
-- Zmiany klimatyczne na przełomie plejstocenu i holocenu
+- Younger Dryas — wpływ na społeczności mezolityczne
+- Zmiany klimatyczne — na przełomie plejstocenu i holocenu
 
 ---
 
@@ -568,8 +568,8 @@ Kultura ceramiki sznurowej charakteryzowała się unikalną techniką dekorowani
 - D: Koło garncarskie pojawiło się później, w epoce brązu
 
 ### Źródła
-- Ceramika sznurowa - techniki zdobnicze
-- Technologia produkcji ceramiki w neolicie
+- Ceramika sznurowa — techniki zdobnicze
+- Technologia produkcji ceramiki — w neolicie
 
 ---
 
@@ -599,8 +599,8 @@ Biskupin, założone około VIII wieku p.n.e., jest najlepiej zachowanym przykł
 - D: Wolica to cmentarzysko, a nie osada obronna
 
 ### Źródła
-- Biskupin - osada obronna z epoki brązu i żelaza
-- Archeologia Biskupina - badania i datowanie
+- Biskupin — osada obronna z epoki brązu i żelaza
+- Archeologia Biskupina — badania i datowanie
 
 ---
 
@@ -630,8 +630,8 @@ Krzemionki Opatowskie były jednym z największych centrów wydobycia i obróbki
 - D: Krzemionki były ośrodkiem wytwórczym, a nie fortecą
 
 ### Źródła
-- Krzemionki Opatowskie - neolityczne kopalnie krzemienia
-- Ekspansja wyrobów krzemiennych z Krzemionek na dalekie dystanse
+- Krzemionki Opatowskie — neolityczne kopalnie krzemienia
+- Ekspansja wyrobów krzemiennych — z Krzemionek na dalekie dystanse
 
 ---
 
