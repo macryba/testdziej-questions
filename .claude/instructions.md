@@ -215,31 +215,32 @@ Check that:
 - No answer contradicts another
 
 ## 7. Polish Language Validation
-**CRITICAL:** Before saving questions to validated folder, run Polish language check using the polish-check skill:
+**CRITICAL:** Before saving questions to validated folder, run Polish language check using the polish-grammar-checker subagent:
 
 ```bash
-# Invoke the Polish language checker skill
-claude skill polish-check [question-file.md]
+# Use the Agent tool to invoke the Polish grammar checker subagent
+Agent polish-grammar-checker "Check the Polish grammar of the questions in [question-file.md] and report any errors found"
 ```
 
-The skill will:
-- Check grammar errors (verb conjugations, case endings, gender agreement)
+The subagent will:
+- Check grammar errors using LanguageTool (verb conjugations, case endings, gender agreement)
 - Check spelling mistakes (Polish characters: ą, ć, ę, ł, ń, ó, ś, ź, ż)
+- Check typography errors (hyphens vs em dashes, spacing around punctuation)
 - Check punctuation (commas, periods, quotation marks)
-- Check style issues (awkward phrasing, unclear expressions)
-- Verify historical terminology is used correctly
-- Ensure question clarity and unambiguous wording
-- Check that answer options are parallel in structure
+- Provide specific error locations with rule IDs and replacement suggestions
+- Generate a structured report with error counts by type
 
 **If errors are found:**
-- Review the corrections suggested by the skill
-- Apply the corrections to the question file
-- Re-run the polish-check skill to verify all issues are resolved
-- Only proceed to step 8 when Polish language validation passes
+- Review the error report provided by the subagent
+- Apply the corrections suggested by the grammar checker
+- Re-run the polish-grammar-checker subagent to verify all issues are resolved
+- Only proceed to step 8 when Polish language validation passes (0 errors)
 
 **If no errors are found:**
 - Confirm the text is grammatically correct
 - Proceed to next step
+
+**Note:** The polish-grammar-checker subagent uses actual LanguageTool grammar rules and is more reliable than AI-only checking. It focuses on grammar, spelling, and typography - historical accuracy verification should be done separately.
 
 ## 8. Save Metadata for Each Question
 At the top of EACH file, save:

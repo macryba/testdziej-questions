@@ -23,7 +23,7 @@
 
 Chrystianizacja Polski to proces przyjęcia chrześcijaństwa przez księcia Mieszka I, który miał miejsce w 966 roku. To wydarzenie uznaje się za jeden z najważniejszych momentów w historii Polski, ponieważ włączyło nasz kraj do kręgu kultury zachodniej i rozpoczęło oficjalnie państwowość polską.
 
-Mieszko I był pierwszym historycznym władcą Polski, księciem Polan z dynastii Piastów. W 965 roku ożenił się z czeską księżniczką Dobrawą, a rok później - w 966 - przyjął chrzest. Chrzest odbył się prawdopodobnie w Poznaniu lub Gnieźnie. Oznaczał chrystianizację państwa Mieszka I i jego poddanych.
+Mieszko I był pierwszym historycznym władcą Polski, księciem Polan z dynastii Piastów. W 965 roku ożenił się z czeską księżniczką Dobrawą, a rok później — w 966 — przyjął chrzest. Chrzest odbył się prawdopodobnie w Poznaniu lub Gnieźnie. Oznaczał chrystianizację państwa Mieszka I i jego poddanych.
 
 Ważną postacią w procesie chrystianizacji był biskup Jordan, który przybył do Polski z Czech lub Niemiec. To on ochrzcił Mieszka I i został pierwszym biskupem Polski. W 968 roku utworzono biskupstwo w Poznaniu, co oznaczało, że Polska miała już własną organizację kościelną.
 
@@ -51,11 +51,11 @@ Mieszko I przyjął chrzest w 966 roku. Ta data jest uważana za początek chrys
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Rok 960 jest wcześniejszy niż chrzest Polski - w tym czasie Mieszko I nie był jeszcze chrześcijaninem.
+**A.** Rok 960 jest wcześniejszy niż chrzest Polski — w tym czasie Mieszko I nie był jeszcze chrześcijaninem.
 
-**C.** Rok 970 jest późniejszy niż chrzest - w tym czasie Polska była już chrześcijańska.
+**C.** Rok 970 jest późniejszy niż chrzest — w tym czasie Polska była już chrześcijańska.
 
-**D.** Rok 976 jest znacznie późniejszy - w tym czasie chrystianizacja Polski już trwała od dziesięciu lat.
+**D.** Rok 976 jest znacznie późniejszy — w tym czasie chrystianizacja Polski już trwała od dziesięciu lat.
 
 ---
 
@@ -81,11 +81,11 @@ Biskup Jordan był pierwszym biskupiem Polski i to on ochrzcił Mieszka I w 966 
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Biskup Wojciech (Adalbert) żył później - był męczennikiem z końca X wieku, nie brał udziału w chrzcie Mieszka I.
+**A.** Biskup Wojciech (Adalbert) żył później — był męczennikiem z końca X wieku, nie brał udziału w chrzcie Mieszka I.
 
-**C.** Biskup Stanisław ze Szczepanowa żył w XI wieku - był biskupem krakowskim, ale znacznie później niż chrzest Polski.
+**C.** Biskup Stanisław ze Szczepanowa żył w XI wieku — był biskupem krakowskim, ale znacznie później niż chrzest Polski.
 
-**D.** Biskup Prokop nie jest znany jako postać związana z chrztem Polski - to imię nie występuje w kontekście chrystianizacji.
+**D.** Biskup Prokop nie jest znany jako postać związana z chrztem Polski — to imię nie występuje w kontekście chrystianizacji.
 
 ---
 
@@ -113,9 +113,9 @@ Pierwsze polskie biskupstwo utworzono w Poznaniu w 968 roku, dwa lata po chrzcie
 
 **A.** Gniezno było ważnym ośrodkiem, ale arcybiskupstwo powstało tam dopiero w roku 1000.
 
-**B.** Kraków w tym czasie nie był jeszcze głównym ośrodkiem Polski - biskupstwo krakowskie powstało później.
+**B.** Kraków w tym czasie nie był jeszcze głównym ośrodkiem Polski — biskupstwo krakowskie powstało później.
 
-**D.** Wrocław był wówczas pod panowaniem Czech i nie był ośrodkiem polskim - biskupstwo wrocławskie powstało znacznie później.
+**D.** Wrocław był wówczas pod panowaniem Czech i nie był ośrodkiem polskim — biskupstwo wrocławskie powstało znacznie później.
 
 ---
 
@@ -171,7 +171,7 @@ Chrzest Mieszka I oznaczał przyjęcie chrześcijaństwa i włączenie Polski do
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Chrzest nie oznaczał niezależności - wręcz przeciwnie, Polska uznała zwierzchnictwo cesarza i papieża.
+**A.** Chrzest nie oznaczał niezależności — wręcz przeciwnie, Polska uznała zwierzchnictwo cesarza i papieża.
 
 **C.** Mieszko I nie stał się najpotężniejszym władcą - był jednym z wielu książąt europejskich.
 
@@ -201,11 +201,11 @@ Mieszko I ożenił się z czeską księżniczką Dobrawą w 965 roku. To małże
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Nie ma danych o małżeństwie z Niemkami w 965 roku - Dobrawa była Czeszką.
+**A.** Nie ma danych o małżeństwie z Niemkami w 965 roku — Dobrawa była Czeszką.
 
-**C.** Nie ma danych o małżeństwie z ruskimi księżniczkami w tym czasie - to sojusz późniejszy.
+**C.** Nie ma danych o małżeństwie z ruskimi księżniczkami w tym czasie — to sojusz późniejszy.
 
-**D.** Nie ma danych o małżeństwie ze szwedzkimi księżniczkami - to państwo zbyt dalekie.
+**D.** Nie ma danych o małżeństwie ze szwedzkimi księżniczkami — to państwo zbyt dalekie.
 
 ---
 
@@ -293,7 +293,7 @@ Po chrzcie zaczęto budować kościoły i katedry jako miejsca kultu chrześcija
 
 **A.** Nie tylko kapliczki - budowano także duże kościoły i katedry.
 
-**C.** Po chrzcie nie budowano pogańskich świątyń - wręcz przeciwnie, zastępowano je kościołami.
+**C.** Po chrzcie nie budowano pogańskich świątyń — wręcz przeciwnie, zastępowano je kościołami.
 
 **D.** Meczęty to miejsca modlitwy muzułmańskiej, nie chrześcijańskiej.
 
@@ -439,11 +439,11 @@ Ostrów Lednicki to wyspa na jeziorze Lednica, gdzie odkryto pozostałości pala
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Wawel stał się głównym ośrodkiem władzy później - w okresie rozbicia dzielnicowego, nie w czasach Mieszka I.
+**A.** Wawel stał się głównym ośrodkiem władzy później — w okresie rozbicia dzielnicowego, nie w czasach Mieszka I.
 
-**B.** Czarny Las to miejsce bitwy z Niemcami w 1032 roku, nie związane z chrztem Polski.
+**B.** Czarny Las to miejsce bitwy z Niemcami w 1032 roku — nie związane z chrztem Polski.
 
-**C.** Kruszwica była ważnym grodem, ale nie ma dowodów na chrzest w tym miejscu.
+**C.** Kruszwica była ważnym grodem — ale nie ma dowodów na chrzest w tym miejscu.
 
 ---
 
@@ -470,11 +470,11 @@ Bolesław Chrobry był synem Mieszka I i Dobrawy. W 1025 roku został pierwszym 
 
 ### Analiza niepoprawnych odpowiedzi
 
-**B.** Władysław Łokietek żył w XIV wieku - był królem Polski, ale znacznie później niż Mieszko I.
+**B.** Władysław Łokietek żył w XIV wieku — był królem Polski, ale znacznie później niż Mieszko I.
 
-**C.** Kazimierz Wielki rządził w XIV wieku - był jednym z ostatnich Piastów.
+**C.** Kazimierz Wielki rządził w XIV wieku — był jednym z ostatnich Piastów.
 
-**D.** Zygmunt Stary był królem Polski w XVI wieku - z dynastii Jagiellonów.
+**D.** Zygmunt Stary był królem Polski w XVI wieku — z dynastii Jagiellonów.
 
 ---
 
@@ -534,9 +534,9 @@ Gniezno było główną stolicą państwa Mieszka I i najważniejszym ośrodkiem
 
 **B.** Warszawa w tym czasie nie była jeszcze miastem - stała się stolicą Polski dopiero w XVI wieku.
 
-**C.** Poznań był ważnym ośrodkiem, ale Gniezno było główną stolicą i siedzibą biskupa misyjnego.
+**C.** Poznań był ważnym ośrodkiem — ale Gniezno było główną stolicą i siedzibą biskupa misyjnego.
 
-**D.** Kraków nie należał jeszcze do państwa Mieszka I - został włączony później.
+**D.** Kraków nie należał jeszcze do państwa Mieszka I — został włączony później.
 
 ---
 
@@ -563,11 +563,11 @@ Mieszko I przyjął chrzest od misjonarzy związanych ze Świętym Cesarstwie Rz
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Bizancjum (Cesarstwo Wschodnie) miało wpływ na Rus, ale nie na Polskę - Polska przyjęła chrzest od zachodu.
+**A.** Bizancjum (Cesarstwo Wschodnie) miało wpływ na Rus, ale nie na Polskę — Polska przyjęła chrzest od zachodu.
 
-**C.** Ruś Kijowska przyjęła chrzest prawosławny od Bizancjum, nie związany z Polską.
+**C.** Ruś Kijowska przyjęła chrzest prawosławny od Bizancjum — nie związany z Polską.
 
-**D.** Anglia była zbyt daleko i nie miała wpływu na chrzest Polski.
+**D.** Anglia była zbyt daleko — i nie miała wpływu na chrzest Polski.
 
 ---
 
@@ -594,11 +594,11 @@ W 968 roku utworzono biskupstwo w Poznaniu, podporządkowane bezpośrednio papie
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Rok 960 jest przed chrztem Polski - biskupstwo nie mogło istnieć przed chrystianizacją.
+**A.** Rok 960 jest przed chrztem Polski — biskupstwo nie mogło istnieć przed chrystianizacją.
 
-**C.** Rok 972 to data bitwy pod Cedynią, nie utworzenia biskupstwa.
+**C.** Rok 972 to data bitwy pod Cedynią — nie utworzenia biskupstwa.
 
-**D.** Rok 1000 to zjazd gnieźnieński, kiedy utworzono arcybiskupstwo, a nie pierwsze biskupstwo.
+**D.** Rok 1000 to zjazd gnieźnieński — kiedy utworzono arcybiskupstwo, a nie pierwsze biskupstwo.
 
 ---
 
@@ -627,9 +627,9 @@ Pierwsze kościoły w Polsce budowano z kamienia (romańskie), co było nową te
 
 **A.** Drewno było powszechnie używane przed chrztem, ale kościoły chrześcijańskie budowano z kamienia.
 
-**C.** Cegła pojawiła się później - styl gotycki używał cegieł, ale nie w czasach Mieszka I.
+**C.** Cegła pojawiła się później — styl gotycki używał cegieł, ale nie w czasach Mieszka I.
 
-**D.** Glina nie była używana do budowy kościołów - to materiał na chaty, nie na świątynie.
+**D.** Glina nie była używana do budowy kościołów — to materiał na chaty, nie na świątynie.
 
 ---
 
@@ -656,11 +656,11 @@ Chrzest dał Polsce uznanie jako państwa chrześcijańskiego przez inne kraje E
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Chrzest nie dał natychmiastowego pokonania wrogów - Polska nadal musiała walczyć.
+**A.** Chrzest nie dał natychmiastowego pokonania wrogów — Polska nadal musiała walczyć.
 
-**C.** Chrzest nie oznaczał zdobycia terytoriów bez walki - ziemie trzeba było zdobywać.
+**C.** Chrzest nie oznaczał zdobycia terytoriów bez walki — ziemie trzeba było zdobywać.
 
-**D.** Chrzest nie znosił podatków - ludność nadal płaciła podatki na rzecz księcia i kościoła.
+**D.** Chrzest nie znosił podatków — ludność nadal płaciła podatki na rzecz księcia i kościoła.
 
 ---
 
@@ -687,11 +687,11 @@ Chrystianizacja Polski była długotrwałym procesem trwającym wiele pokoleń. 
 
 ### Analiza niepoprawnych odpowiedzi
 
-**A.** Nie był natychmiastowy - ludzie stopniowo porzucali pogaństwo przez wiele lat.
+**A.** Nie był natychmiastowy — ludzie stopniowo porzucali pogaństwo przez wiele lat.
 
-**C.** Nie zakończył się w 1000 roku - proces trwał znacznie dłużej.
+**C.** Nie zakończył się w 1000 roku — proces trwał znacznie dłużej.
 
-**D.** Nie dotyczył tylko elit - chrystianizacja obejmowała całą ludność.
+**D.** Nie dotyczył tylko elit — chrystianizacja obejmowała całą ludność.
 
 ---
 
