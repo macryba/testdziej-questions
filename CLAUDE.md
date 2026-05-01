@@ -4,95 +4,164 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository generates Polish history quiz questions for the Testdziej app. The system runs in a loop (typically via Claude Code `/loop` command) directly on the host OS to automatically create and validate questions, storing them locally as markdown files.
+Automated Polish history quiz question generation for the Testdziej app. The system generates **~750+ questions** (10 per epoch/chapter/difficulty combination) covering 9 historical epochs from Starożytność to III RP.
 
-**Target:** 10 questions per epoch/chapter/difficulty combination (9 epochs × ~50 chapters × 3 difficulties = ~750+ questions needed).
+**Execution method:** External bash script launches Claude Code for one iteration, then exits. Process repeats until all questions generated.
 
-**Batch size:** Each loop iteration generates 10 questions for the same epoch/chapter/difficulty combination.
+**Target:** 10 questions per epoch/chapter/difficulty (9 epochs × ~50 chapters × 3 difficulties = ~750+ questions).
 
-**IMPORTANT:** This version operates on local files ONLY. No database or Docker container is required.
+## Workflow Instructions - SINGLE SOURCE OF TRUTH
+
+**IMPORTANT:** The complete loop workflow is in `.claude/instructions.md`
+
+**ALWAYS read and follow `.claude/instructions.md` when:**
+- Generating questions
+- Validating answers
+- Checking Polish grammar
+- Managing state files
+- Creating commits
+
+**That file contains:**
+- Step-by-step question generation process
+- Validation workflow with Polish grammar checking
+- File naming rules (ONE file = 10 questions)
+- State management (questions-tracker.json, state.json)
+- Git commit conventions
+- Exit conditions
+
+**When updating the workflow:** Only edit `.claude/instructions.md` - it is the authoritative source.
 
 ## Architecture
 
 ### Directory Structure
 
 ```
-.claude/               # Claude Code configuration and state
-  ├── instructions.md       # Main loop workflow instructions
-  ├── validation-rules.md   # Question validation rules
-  └── state.json            # Current loop state (epoch, chapter, difficulty)
-epochs/               # Epoch definitions and chapter mappings
+.claude/                    # Claude Code configuration and workflow
+  ├── instructions.md       # ★ COMPLETE WORKFLOW (read this first)
+  ├── validation-rules.md   # Incorrect answer validation rules
+  ├── questions-tracker.json # Progress per epoch/chapter/difficulty
+  └── state.json            # Current loop state
+
+epochs/                     # Historical epochs and chapters
   └── master-list.json      # All epochs with chapters and year ranges
-chapters/             # Chapter source materials (empty - use web sources)
-questions/            # Generated questions
-  ├── pending/             # Questions being generated
-  └── validated/           # Questions that passed validation
-scripts/              # Automation scripts
-  ├── loop-controller.sh   # Main loop entry point
-  └── validate-question.sh # Question validation (TODO)
-templates/            # Question templates
-  └── question-template.md # Question file format
-logs/                 # Loop execution logs
+
+questions/                  # Generated questions
+  ├── pending/              # Questions being generated (currently unused)
+  └── validated/            # Questions that passed validation
+
+scripts/                    # Automation scripts
+  ├── run-autonomous-loop.sh # Main entry point - launches Claude externally
+  └── validate-question.sh   # Question validation script
+
+templates/                  # Question templates
+  └── question-template.md   # Question file format reference
+
+logs/                       # Loop execution logs
 ```
 
 ### Key Files
 
-- **`epochs/master-list.json`**: Defines 9 historical epochs (Starożytność → III RP) with ~50 chapters total
-- **`.claude/state.json`**: Tracks current progress (current_epoch, current_chapter, current_difficulty)
-- **`.claude/questions-tracker.json`**: Tracks question counts per epoch/chapter/difficulty combination
-- **`.claude/instructions.md`**: Complete loop workflow - read this before generating questions
-- **`.claude/validation-rules.md`**: Critical rules for creating plausible incorrect answers
+**Workflow:**
+- **`.claude/instructions.md`** - Complete loop workflow (SINGLE SOURCE OF TRUTH)
+- **`.claude/validation-rules.md`** - Rules for creating plausible incorrect answers
 
-## Common Commands
+**Data:**
+- **`epochs/master-list.json`** - Defines 9 epochs with ~50 chapters
+- **`.claude/questions-tracker.json`** - Tracks progress per combination
+- **`.claude/state.json`** - Tracks current epoch/chapter/difficulty
 
-### Initial Setup (one-time)
+**Execution:**
+- **`scripts/run-autonomous-loop.sh`** - External launch script (main entry point)
 
-```bash
-# Install Claude Code and dependencies on host OS
-source claude_code_zai_env.sh
+## Question File Format
+
+Generated questions follow `templates/question-template.md`:
+
+**Metadata:**
+- `epoch`, `chapter`, `difficulty` - Classification
+- `question_count` - Always 10 per file
+- `created_at`, `session_start`, `session_end` - Timestamps
+- `tokens_input`, `tokens_output`, `tokens_total` - Token usage
+
+**Content:**
+- Historical summary (Polish, 2-3 paragraphs)
+- 10 questions with:
+  - Question text (Polish)
+  - 4 answer options (A, B, C, D)
+  - Correct answer letter
+  - Explanation (1-3 sentences, simple language)
+  - Sources (URLs)
+  - Incorrect answers analysis
+
+**File naming:** `[epoch]-[chapter]-[difficulty].md`
+- ✅ CORRECT: `starozytnosc-pradzieje-easy.md` (one file with 10 questions)
+- ❌ WRONG: `pradzieje-easy-001.md`, `pradzieje-easy-002.md` (separate numbered files)
+
+## Validation Rules
+
+**CRITICAL:** When generating incorrect answers, follow rules in `.claude/validation-rules.md`
+
+**Key rules:**
+1. All 4 answers similar length (within 20% variance)
+2. Incorrect answers must be historically TRUE but wrong context
+3. No direct opposites (zyskała/utraciła)
+4. If question has date, no answers should contain dates
+5. Vary correct answer position (A, B, C, D)
+
+**Validation process:**
+- Web search to verify historical accuracy
+- Polish grammar checking via polish-grammar-checker subagent
+- Plausibility review of incorrect answers
+
+See `.claude/validation-rules.md` for complete rules and examples.
+
+## State Files
+
+### `.claude/questions-tracker.json`
+
+Tracks progress per epoch/chapter/difficulty combination:
+
+```json
+{
+  "tracking": {
+    "Piastowie": {
+      "Chrystianizacja": {
+        "easy": 10,
+        "medium": 5,
+        "hard": 0
+      }
+    }
+  },
+  "last_updated": "2026-03-28T12:00:00Z"
+}
 ```
 
-This script installs:
-- Node.js (v22+)
-- Claude Code CLI via npm
-- Configures API keys
+**Used by:**
+- `run-autonomous-loop.sh` to find next target
+- Workflow to determine what to generate next
 
-### Running the Loop
+### `.claude/state.json`
 
-```bash
-# Start Claude Code
-claude
+Tracks current loop iteration:
 
-# Within Claude Code, the loop follows .claude/instructions.md:
-# 1. Read questions-tracker.json to find next epoch/chapter/difficulty needing questions
-# 2. Research historical sources using WebSearch
-# 3. Generate question following templates and validation rules
-# 4. Validate and save to questions/validated/
-# 5. Update counters in both state.json and questions-tracker.json
+```json
+{
+  "current_epoch": "Piastowie",
+  "current_chapter": "Chrystianizacja",
+  "current_difficulty": "easy",
+  "questions_generated_this_session": 10,
+  "total_questions_generated": 42,
+  "last_run": "2026-03-28T12:00:00Z",
+  "status": "completed",
+  "errors": []
+}
 ```
 
-### Monitoring Progress
+**Updated after:** Each iteration completes
 
-```bash
-# View current state
-cat .claude/state.json | jq
+## Common Commands (for Claude)
 
-# View questions tracker
-cat .claude/questions-tracker.json | jq
-
-# View loop logs
-tail -f logs/loop-$(date +%Y%m%d).log
-
-# Count generated questions
-find questions/validated/ -name "*.md" | wc -l
-
-# Rebuild tracker from actual validated questions (if out of sync)
-./scripts/rebuild-tracker.sh
-```
-
-### File-based Queries
-
-**Find next epoch/chapter needing questions:**
+**Find next combination needing questions:**
 ```bash
 jq -r '
   to_entries[] |
@@ -104,7 +173,7 @@ jq -r '
   .value |
   to_entries[] |
   select(.value < 10) |
-  "\($epoch)|\($chapter)|\(.key)|\(.value)"
+  "\($epoch)|\($chapter)|\(.key)"
 ' .claude/questions-tracker.json | head -1
 ```
 
@@ -113,137 +182,57 @@ jq -r '
 jq -r '.tracking["Piastowie"]["Chrystianizacja"]["easy"]' .claude/questions-tracker.json
 ```
 
-**Recount all questions from validated folder:**
+**View current state:**
 ```bash
-# This script scans all validated questions and rebuilds the tracker
-for file in questions/validated/*.md; do
-  epoch=$(grep '^epoch:' "$file" | cut -d':' -f2 | xargs)
-  chapter=$(grep '^chapter:' "$file" | cut -d':' -f2 | xargs)
-  difficulty=$(grep '^difficulty:' "$file" | cut -d':' -f2 | xargs)
-  echo "$epoch $chapter $difficulty"
-done | sort | uniq -c
+cat .claude/state.json | jq
 ```
 
-## Question Generation Workflow
-
-When the loop runs, each iteration generates **10 questions** for the same epoch/chapter/difficulty combination:
-
-1. **Identify target:** Read questions-tracker.json for next epoch/chapter/difficulty with < 10 questions
-2. **Research:** Use WebSearch tool to find Polish historical sources (pl.wikipedia.org, historiaposzkola.pl, etc.)
-3. **Create summary:** Write 2-3 paragraphs of historical context in Polish
-4. **Generate question:** Based on difficulty level:
-   - **Easy:** Simple facts (who, what, where, when) - primary school level
-   - **Medium:** Causes and effects - secondary school level
-   - **Hard:** Analytical questions - extended matura level
-5. **Create incorrect answers:** Follow strict validation rules (see below)
-6. **Validate:** Verify historical accuracy and answer plausibility
-7. **Save:** Save ALL 10 questions in ONE file to `questions/validated/[epoch]-[chapter]-[difficulty].md`
-   - ✅ CORRECT: `starozytnosc-pradzieje-easy.md` (one file with all 10 questions)
-   - ❌ WRONG: `pradzieje-easy-001.md`, `pradzieje-easy-002.md`, etc. (separate numbered files)
-8. **Update state:** Write progress to both `.claude/state.json` and `.claude/questions-tracker.json`
-
-## Critical Validation Rules for Incorrect Answers
-
-When generating incorrect answers, follow these rules **exactly**:
-
-1. **All 4 answers must have similar length** (within 20% variance)
-2. **Incorrect answers must be:**
-   - Historically TRUE facts (not made up)
-   - From different time periods (50-150 years difference) OR different contexts
-3. **Incorrect answers must NOT be:**
-   - Direct opposites of the correct answer (e.g., "zyskała" vs "utraciła")
-   - Obviously wrong historical errors
-4. **Date rule:** If the question contains a year/date, **no answers should contain dates**
-5. **Position:** Correct answer should not always be in the same position
-
-Example for "W którym roku Polska odzyskała niepodległość w 1918?":
-- ❌ Bad: "W 1918", "W 1939", "W 1945", "W 1989" (all dates, question has date)
-- ✅ Good: "Po zakończeniu I wojny światowej", "Po upadku komunizmu", "Po II wojnie światowej", "Po trzecim rozbiorze"
-
-## State File Format
-
-`.claude/state.json` tracks loop progress:
-
-```json
-{
-  "current_epoch": "Piastowie",
-  "current_chapter": "Chrystianizacja",
-  "current_difficulty": "easy",
-  "questions_generated_this_session": 5,
-  "total_questions_generated": 42,
-  "last_run": "2026-03-28T12:00:00Z",
-  "status": "completed",
-  "errors": []
-}
+**Count generated questions:**
+```bash
+find questions/validated/ -name "*.md" | wc -l
 ```
+
+## Difficulty Levels
+
+Questions vary by difficulty:
+
+- **Easy:** Simple facts (who, what, where, when) - primary school level
+- **Medium:** Causes and effects - secondary school level
+- **Hard:** Analytical questions - extended matura level
+
+See `.claude/instructions.md` for detailed difficulty guidelines.
 
 ## Environment Variables
 
-- `CLAUDE_API_KEY`: Configured via `claude_code_zai_env.sh` or in `~/.claude/settings.json`
+- `CLAUDE_API_KEY` - Configured in `~/.claude/settings.json`
+- No additional environment variables required
 
-## Question File Format
+## Git Conventions
 
-Follow `templates/question-template.md`. Key sections:
-- Metadata header (epoch, chapter, difficulty, timestamps, token counts)
-- Historical summary (Polish, 2-3 paragraphs)
-- Question text (Polish)
-- 4 answer options (A, B, C, D)
-- Correct answer letter
-- Explanation (1-3 sentences)
-- Validation checklist
-- Sources (URLs)
-- Incorrect answers analysis (why each is plausible but wrong)
+**CRITICAL:** Commit message format
+- NEVER add "Co-Authored-By: Claude", "Authored-By: Claude", or similar
+- Use simple, direct messages: `"Add 10 questions for EPOCH/CHAPTER (DIFFICULTY)"`
+- Focus on what changed and why
 
-## Loop Exit Conditions
-
-Stop generation when:
-- All epoch/chapter/difficulty combinations have 10 questions
-- 10 consecutive errors occur
-- User interrupts (Ctrl+C)
-- Token budget exceeded (if configured)
+**Auto-commit workflow:**
+- Each iteration commits: question files + state files
+- Uses `--no-verify` flag to bypass hooks
+- Local commits only (no automatic push)
 
 ## Language Context
 
 - **Questions:** Polish
-- **Historical sources:** Prioritize Polish Wikipedia (pl.wikipedia.org), historiaposzkola.pl, dlaucznia.pl
-- **Comments:** English (this repo)
-- **Epoch names:** Polish (e.g., "Piastowie", "Rzeczpospolita Obojga Narodów")
+- **Historical sources:** Polish Wikipedia (pl.wikipedia.org), historiaposzkola.pl, dlaucznia.pl
+- **Code/comments:** English
+- **Epoch names:** Polish (Piastowie, Rzeczpospolita Obojga Narodów, etc.)
 
-## Batch Generation Strategy
+## For Complete Workflow
 
-Each loop iteration generates **10 questions** for the same epoch/chapter/difficulty:
+**ALL workflow details are in:** `.claude/instructions.md`
 
-1. **Vary topics across the 10 questions:**
-   - Political events
-   - Social changes
-   - Economic factors
-   - Cultural developments
-   - Military conflicts
-   - Diplomatic relations
-   - Key biographies
-   - Geographic aspects
-   - Chronological milestones
-   - Cause-effect relationships
+When working on this project:
+1. Read `.claude/instructions.md` for the complete workflow
+2. Reference `.claude/validation-rules.md` for answer validation
+3. Use this file (CLAUDE.md) for technical reference only
 
-2. **Vary question types:**
-   - Who (people/figures)
-   - What (events/actions)
-   - When (dates/timeline)
-   - Where (places/locations)
-   - Why (causes/reasons)
-   - How (consequences/methods)
-
-3. **Rotate answer positions:**
-   - Ensure correct answer appears as A, B, C, and D evenly across the 10 questions
-   - Don't make correct answer always the same position
-
-## Git Conventions
-
-**CRITICAL: Commit Message Format**
-- NEVER add "Co-Authored-By: Claude", "Authored-By: Claude", or similar attributions
-- Use simple, direct commit messages
-- Focus on what changed and why
-- Example: "Add batch question generation for Piastowie epoch"
-- Example: "Update validation rules for incorrect answer generation"
-
-This is a user repository - commits should not include AI/assistant attribution.
+**To modify workflow:** Only edit `.claude/instructions.md`

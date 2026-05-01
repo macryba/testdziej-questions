@@ -56,14 +56,16 @@ while true; do
     log "Starting Claude Code for iteration $ITERATION..."
 
     cd "$PROJECT_DIR"
-    claude --print "Execute question generation workflow:
-1. Run: jq -r '.tracking | to_entries[] | select(.key != \"last_updated\") | .key as \$epoch | .value | to_entries[] | .key as \$chapter | .value | to_entries[] | select(.value < 20) | \"\(\$epoch)|\(\$chapter)|\(.key)\"' .claude/questions-tracker.json | head -1
-2. For the target epoch/chapter/difficulty, generate 10 questions
-3. Save to: questions/validated/[epoch]-[chapter]-[difficulty].md
-4. Update both .claude/state.json and .claude/questions-tracker.json (+10)
-5. Run: git add questions/validated/*.md .claude/*.json && git commit --no-verify -m \"Add 10 questions for EPOCH/CHAPTER (DIFFICULTY)\"
+    claude --print "Follow the complete workflow in .claude/instructions.md to generate questions.
 
-Complete ALL 5 steps including git commit before exiting." &
+Key steps:
+1. Find next target epoch/chapter/difficulty from questions-tracker.json
+2. Research and generate 10 questions following instructions.md
+3. Validate questions and check Polish grammar
+4. Save to questions/validated/[epoch]-[chapter]-[difficulty].md
+5. Update state files and commit changes
+
+Complete ALL steps in .claude/instructions.md before exiting." &
     CLAUDE_PID=$!
 
     log "Claude Code started (PID: $CLAUDE_PID)"
