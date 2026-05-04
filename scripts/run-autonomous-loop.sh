@@ -16,7 +16,7 @@ log() {
 }
 
 check_completion() {
-    # Check all combinations in questions-tracker.json
+    # Check if any chapter has incomplete questions
     INCOMPLETE=$(jq -r '
         [.tracking |
         to_entries[] |
@@ -26,13 +26,10 @@ check_completion() {
         to_entries[] |
         .key as $chapter |
         .value |
-        to_entries[] |
         select(
-            (.value < 10) and
-            (if .key == "easy" then (.value.easy_completed | not)
-              elif .key == "medium" then (.value.medium_completed | not)
-              elif .key == "hard" then (.value.hard_completed | not)
-              else true end)
+            (.easy < 10 or .easy_completed != true) or
+            (.medium < 10 or .medium_completed != true) or
+            (.hard < 10 or .hard_completed != true)
         )] |
         length
     ' /home/macryba/testdziej-questions/history-data/questions-tracker.json)
