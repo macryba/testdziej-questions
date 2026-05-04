@@ -1,12 +1,12 @@
 {
   "current_epoch": "Piastowie",
-  "current_chapter": "Zjednoczenie",
+  "current_chapter": "Łokietek",
   "current_difficulty": "all",
-  "questions_generated_this_session": 30,
-  "total_questions_generated": 150,
-  "last_run": "2026-05-04T16:00:00Z",
+  "questions_generated_this_session": 20,
+  "total_questions_generated": 170,
+  "last_run": "2026-05-04T20:25:00Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 30,
-  "notes": "Added 10 hard questions for Piastowie/Chrystianizacja (20/20 complete). Chrystianizacja now: easy=10, medium=10, hard=20. Chapter complete! Next: Piastowie/Ekspansja (0/0/0) or other Piastowie chapters."
+  "batch_size": 20,
+  "notes": "Added 20 questions for Piastowie/Łokietek (easy: 0 N/A - not in primary school curriculum, medium: 10, hard: 10). Chapter complete! Next: Piastowie/Kazimierz Wielki (0/0/0) or other Piastowie chapters."
 }
