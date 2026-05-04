@@ -27,7 +27,13 @@ check_completion() {
         .key as $chapter |
         .value |
         to_entries[] |
-        select(.value < 10)] |
+        select(
+            (.value < 10) and
+            (if .key == "easy" then (.value.easy_completed | not)
+              elif .key == "medium" then (.value.medium_completed | not)
+              elif .key == "hard" then (.value.hard_completed | not)
+              else true end)
+        )] |
         length
     ' /home/macryba/testdziej-questions/history-data/questions-tracker.json)
 

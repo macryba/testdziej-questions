@@ -28,7 +28,11 @@ NEXT_TARGET=$(jq -r '
   .value |
   to_entries[] |
   .key as $chapter |
-  select(.value.easy < 10 or .value.medium < 10 or .value.hard < 10) |
+  select(
+    (.value.easy < 10 and (.value.easy_completed | not)) or
+    (.value.medium < 10 and (.value.medium_completed | not)) or
+    (.value.hard < 10 and (.value.hard_completed | not))
+  ) |
   "\($epoch)|\($chapter)|easy:\(.value.easy) medium:\(.value.medium) hard:\(.value.hard)"
 ' "$PROJECT_DIR/history-data/questions-tracker.json" | head -1)
 
@@ -81,7 +85,11 @@ cat "$PROJECT_DIR/history-data/questions-tracker.json" | jq -r '
   .value |
   to_entries[] |
   .key as $chapter |
-  select(.value.easy < 10 or .value.medium < 10 or .value.hard < 10) |
+  select(
+    (.value.easy < 10 and (.value.easy_completed | not)) or
+    (.value.medium < 10 and (.value.medium_completed | not)) or
+    (.value.hard < 10 and (.value.hard_completed | not))
+  ) |
   "  \($epoch)/\($chapter): easy=\(.value.easy) medium=\(.value.medium) hard=\(.value.hard)"
 ' | head -5
 

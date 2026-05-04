@@ -20,25 +20,33 @@ Read history-data/state.json to find:
 - Current epoch
 - Current chapter
 
-If state is empty/null, read history-data/questions-tracker.json to find the first combination where ANY difficulty has count < 10.
+If state is empty/null, read history-data/questions-tracker.json to find the first combination where ANY difficulty has count < 10 **and is not marked as completed**.
 
 Use this jq command to find next combination:
 ```bash
 jq -r '
+  .tracking |
   to_entries[] |
   select(.key != "last_updated") |
   .key as $epoch |
   .value |
   to_entries[] |
   .key as $chapter |
-  .value |
-  to_entries[] |
-  select(.value < 10) |
-  "\($epoch)|\($chapter)|\(.key)"
+  select(
+    (.value.easy < 10 and (.value.easy_completed | not)) or
+    (.value.medium < 10 and (.value.medium_completed | not)) or
+    (.value.hard < 10 and (.value.hard_completed | not))
+  ) |
+  "\($epoch)|\($chapter)|easy:\(.value.easy) medium:\(.value.medium) hard:\(.value.hard)"
 ' history-data/questions-tracker.json | head -1
 ```
 
 **IMPORTANT**: Extract only the epoch and chapter from the result. The loop processes ALL difficulties for one chapter, not just one difficulty.
+
+**CRITICAL**: The `_completed` flag distinguishes between:
+- Not started (count: 0, completed: false) → needs questions
+- Completed with 0 questions (count: 0, completed: true) → intentionally not in curriculum
+- Completed with questions (count: 10, completed: true) → done
 
 ## 2. Determine Missing Questions
 Check the current counts in history-data/questions-tracker.json for the selected chapter:
@@ -46,9 +54,16 @@ Check the current counts in history-data/questions-tracker.json for the selected
 jq -r '.tracking["[EPOCH]"]["[CHAPTER]"]' history-data/questions-tracker.json
 ```
 
-Calculate how many questions are needed per difficulty: 10 - current_count
-- If ALL difficulties (easy, medium, hard) have count >= 10, skip to next chapter
-- Generate exactly 10 questions per difficulty (30 total questions per chapter)
+Calculate how many questions are needed per difficulty:
+- For each difficulty level (easy, medium, hard):
+  - Check if `[difficulty]_completed` flag is true → skip this difficulty
+  - Check if count < 10 → need 10 - current_count questions
+  - If count >= 10 and completed is true → skip this difficulty
+
+**Important rules:**
+- If ALL difficulties have count >= 10 OR completed=true, skip to next chapter
+- If EASY is not in curriculum: Create file with question_count=0 and set easy_completed=true
+- Generate appropriate number of questions per difficulty based on curriculum coverage
 
 ## 3. Research Chapter Content (ONCE per iteration)
 Use MCP polish-history tools to search for reliable Polish historical sources for this epoch/chapter.
@@ -515,7 +530,7 @@ Update history-data/state.json:
 - HARD: 0-5 (only if content warrants it)
 - Total: Typically 10-30 questions per chapter
 
-Also increment difficulty counters in history-data/questions-tracker.json:
+Also increment difficulty counters and set completed flags in history-data/questions-tracker.json:
 ```bash
 jq --arg epoch "[CURRENT_EPOCH]" \
    --arg chapter "[CHAPTER]" \
@@ -523,15 +538,29 @@ jq --arg epoch "[CURRENT_EPOCH]" \
    --arg mediumcount [MEDIUM_COUNT] \
    --arg hardcount [HARD_COUNT] \
    '.tracking[$epoch][$chapter]["easy"] += $easycount |
+    .tracking[$epoch][$chapter]["easy_completed"] |= (. or ($easycount > 0)) |
     .tracking[$epoch][$chapter]["medium"] += $mediumcount |
+    .tracking[$epoch][$chapter]["medium_completed"] |= (. or ($mediumcount > 0)) |
     .tracking[$epoch][$chapter]["hard"] += $hardcount |
+    .tracking[$epoch][$chapter]["hard_completed"] |= (. or ($hardcount > 0)) |
+    .last_updated = "[TIMESTAMP]"' \
+   history-data/questions-tracker.json > history-data/questions-tracker.json.tmp && \
+mv history-data/questions-tracker.json.tmp history-data/questions-tracker.json
+```
+
+**CRITICAL for EASY level when not in curriculum:**
+If EASY count is 0 because topic is not in primary school curriculum, you must explicitly set the completed flag:
+```bash
+jq --arg epoch "[CURRENT_EPOCH]" \
+   --arg chapter "[CHAPTER]" \
+   '.tracking[$epoch][$chapter]["easy_completed"] = true |
     .last_updated = "[TIMESTAMP]"' \
    history-data/questions-tracker.json > history-data/questions-tracker.json.tmp && \
 mv history-data/questions-tracker.json.tmp history-data/questions-tracker.json
 ```
 
 **Replace counts with actual numbers:**
-- `[EASY_COUNT]`: 0 (not in curriculum), 3-5 (limited), or up to 10 (full)
+- `[EASY_COUNT]`: 0 (not in curriculum - set completed=true), 3-5 (limited), or up to 10 (full)
 - `[MEDIUM_COUNT]`: 10-15 (based on content coverage)
 - `[HARD_COUNT]`: 0-5 (only if summary has HARD topics or specialized factual content)
 

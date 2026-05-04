@@ -3,304 +3,475 @@
     "Starożytność": {
       "Pradzieje": {
         "easy": 10,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 10
+        "medium_completed": true,
+        "hard": 10,
+        "hard_completed": true
       },
       "Słowianie": {
         "easy": 10,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 10
+        "medium_completed": true,
+        "hard": 10,
+        "hard_completed": true
       }
     },
     "Piastowie": {
       "Chrystianizacja": {
         "easy": 10,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 20
+        "medium_completed": true,
+        "hard": 20,
+        "hard_completed": true
       },
       "Ekspansja": {
         "easy": 10,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 10
+        "medium_completed": true,
+        "hard": 10,
+        "hard_completed": true
       },
       "Rozbicie dzielnicowe I": {
         "easy": 10,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 10
+        "medium_completed": true,
+        "hard": 10,
+        "hard_completed": true
       },
       "Najazd mongolski": {
         "easy": 10,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 10
+        "medium_completed": true,
+        "hard": 10,
+        "hard_completed": true
       },
       "Zjednoczenie": {
         "easy": 10,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 10
+        "medium_completed": true,
+        "hard": 10,
+        "hard_completed": true
       },
       "Łokietek": {
         "easy": 0,
+        "easy_completed": true,
         "medium": 10,
-        "hard": 10
+        "medium_completed": true,
+        "hard": 10,
+        "hard_completed": true
       },
       "Kazimierz Wielki": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "Jagiellonowie": {
       "Unia Krewska": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Grunwald": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Warneńczyk": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Kazimierz Jagiellończyk": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Wojna trzynastoletnia": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Zygmunt Stary": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Zygmunt August": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "Rzeczpospolita": {
       "Unia Lubelska": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Wazowie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Wojny polsko-tureckie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Potop": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Sobieski": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Czasy saskie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Oświecenie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Upadek": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "Rozbiory": {
       "Rozbiory": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Insurekcja": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Księstwo Warszawskie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Kongresówka": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Powstanie listopadowe": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Wiosna Ludów": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Powstanie styczniowe": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Praca organiczna": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "Międzywojnie": {
       "Odrodzenie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Wojna bolszewicka": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Budowa państwa": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Przewrót majowy": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Sanacja": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Zagrożenie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "II WŚ": {
       "Kampania wrześniowa": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Okupacja": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Ruch oporu": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Powstanie warszawskie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Holocaust": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Wyzwolenie": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "PRL": {
       "Początki PRL": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Stalinizm": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Październik 56": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Gomułka": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Grudzień 70": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Gierek": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Solidarność": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Stan wojenny": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Okrągły Stół": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "III RP": {
       "Transformacja": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Balcerowicz": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Rządy III RP": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Integracja": {
         "easy": 0,
+        "easy_completed": false,
         "medium": 0,
-        "hard": 0
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     }
   },

@@ -43,8 +43,11 @@ if [ -f "$MASTER_LIST" ]; then
                   . + {
                     ($chapter.short_name): {
                       easy: 0,
+                      easy_completed: false,
                       medium: 0,
-                      hard: 0
+                      medium_completed: false,
+                      hard: 0,
+                      hard_completed: false
                     }
                   }
                 )
@@ -60,79 +63,79 @@ else
     jq '{
       tracking: {
         "Starożytność": {
-          "Pradzieje": {"easy": 0, "medium": 0, "hard": 0},
-          "Słowianie": {"easy": 0, "medium": 0, "hard": 0}
+          "Pradzieje": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Słowianie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "Piastowie": {
-          "Chrystianizacja": {"easy": 0, "medium": 0, "hard": 0},
-          "Ekspansja": {"easy": 0, "medium": 0, "hard": 0},
-          "Rozbicie dzielnicowe I": {"easy": 0, "medium": 0, "hard": 0},
-          "Najazd mongolski": {"easy": 0, "medium": 0, "hard": 0},
-          "Zjednoczenie": {"easy": 0, "medium": 0, "hard": 0},
-          "Łokietek": {"easy": 0, "medium": 0, "hard": 0},
-          "Kazimierz Wielki": {"easy": 0, "medium": 0, "hard": 0}
+          "Chrystianizacja": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Ekspansja": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Rozbicie dzielnicowe I": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Najazd mongolski": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Zjednoczenie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Łokietek": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Kazimierz Wielki": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "Jagiellonowie": {
-          "Unia Krewska": {"easy": 0, "medium": 0, "hard": 0},
-          "Grunwald": {"easy": 0, "medium": 0, "hard": 0},
-          "Warneńczyk": {"easy": 0, "medium": 0, "hard": 0},
-          "Kazimierz Jagiellończyk": {"easy": 0, "medium": 0, "hard": 0},
-          "Wojna trzynastoletnia": {"easy": 0, "medium": 0, "hard": 0},
-          "Zygmunt Stary": {"easy": 0, "medium": 0, "hard": 0},
-          "Zygmunt August": {"easy": 0, "medium": 0, "hard": 0}
+          "Unia Krewska": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Grunwald": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Warneńczyk": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Kazimierz Jagiellończyk": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Wojna trzynastoletnia": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Zygmunt Stary": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Zygmunt August": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "Rzeczpospolita": {
-          "Unia Lubelska": {"easy": 0, "medium": 0, "hard": 0},
-          "Wazowie": {"easy": 0, "medium": 0, "hard": 0},
-          "Wojny polsko-tureckie": {"easy": 0, "medium": 0, "hard": 0},
-          "Potop": {"easy": 0, "medium": 0, "hard": 0},
-          "Sobieski": {"easy": 0, "medium": 0, "hard": 0},
-          "Czasy saskie": {"easy": 0, "medium": 0, "hard": 0},
-          "Oświecenie": {"easy": 0, "medium": 0, "hard": 0},
-          "Upadek": {"easy": 0, "medium": 0, "hard": 0}
+          "Unia Lubelska": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Wazowie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Wojny polsko-tureckie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Potop": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Sobieski": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Czasy saskie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Oświecenie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Upadek": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "Rozbiory": {
-          "Rozbiory": {"easy": 0, "medium": 0, "hard": 0},
-          "Insurekcja": {"easy": 0, "medium": 0, "hard": 0},
-          "Księstwo Warszawskie": {"easy": 0, "medium": 0, "hard": 0},
-          "Kongresówka": {"easy": 0, "medium": 0, "hard": 0},
-          "Powstanie listopadowe": {"easy": 0, "medium": 0, "hard": 0},
-          "Wiosna Ludów": {"easy": 0, "medium": 0, "hard": 0},
-          "Powstanie styczniowe": {"easy": 0, "medium": 0, "hard": 0},
-          "Praca organiczna": {"easy": 0, "medium": 0, "hard": 0}
+          "Rozbiory": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Insurekcja": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Księstwo Warszawskie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Kongresówka": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Powstanie listopadowe": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Wiosna Ludów": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Powstanie styczniowe": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Praca organiczna": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "Międzywojnie": {
-          "Odrodzenie": {"easy": 0, "medium": 0, "hard": 0},
-          "Wojna bolszewicka": {"easy": 0, "medium": 0, "hard": 0},
-          "Budowa państwa": {"easy": 0, "medium": 0, "hard": 0},
-          "Przewrót majowy": {"easy": 0, "medium": 0, "hard": 0},
-          "Sanacja": {"easy": 0, "medium": 0, "hard": 0},
-          "Zagrożenie": {"easy": 0, "medium": 0, "hard": 0}
+          "Odrodzenie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Wojna bolszewicka": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Budowa państwa": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Przewrót majowy": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Sanacja": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Zagrożenie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "II WŚ": {
-          "Kampania wrześniowa": {"easy": 0, "medium": 0, "hard": 0},
-          "Okupacja": {"easy": 0, "medium": 0, "hard": 0},
-          "Ruch oporu": {"easy": 0, "medium": 0, "hard": 0},
-          "Powstanie warszawskie": {"easy": 0, "medium": 0, "hard": 0},
-          "Holocaust": {"easy": 0, "medium": 0, "hard": 0},
-          "Wyzwolenie": {"easy": 0, "medium": 0, "hard": 0}
+          "Kampania wrześniowa": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Okupacja": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Ruch oporu": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Powstanie warszawskie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Holocaust": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Wyzwolenie": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "PRL": {
-          "Początki PRL": {"easy": 0, "medium": 0, "hard": 0},
-          "Stalinizm": {"easy": 0, "medium": 0, "hard": 0},
-          "Październik 56": {"easy": 0, "medium": 0, "hard": 0},
-          "Gomułka": {"easy": 0, "medium": 0, "hard": 0},
-          "Grudzień 70": {"easy": 0, "medium": 0, "hard": 0},
-          "Gierek": {"easy": 0, "medium": 0, "hard": 0},
-          "Solidarność": {"easy": 0, "medium": 0, "hard": 0},
-          "Stan wojenny": {"easy": 0, "medium": 0, "hard": 0},
-          "Okrągły Stół": {"easy": 0, "medium": 0, "hard": 0}
+          "Początki PRL": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Stalinizm": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Październik 56": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Gomułka": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Grudzień 70": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Gierek": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Solidarność": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Stan wojenny": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Okrągły Stół": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         },
         "III RP": {
-          "Transformacja": {"easy": 0, "medium": 0, "hard": 0},
-          "Balcerowicz": {"easy": 0, "medium": 0, "hard": 0},
-          "Rządy III RP": {"easy": 0, "medium": 0, "hard": 0},
-          "Integracja": {"easy": 0, "medium": 0, "hard": 0}
+          "Transformacja": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Balcerowicz": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Rządy III RP": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false},
+          "Integracja": {"easy": 0, "easy_completed": false, "medium": 0, "medium_completed": false, "hard": 0, "hard_completed": false}
         }
       },
       last_updated: null
@@ -155,12 +158,24 @@ for file in $(find "$HISTORY_DIR" -name "*_questions_*.md" -type f); do
     if [ -n "$epoch" ] && [ -n "$chapter" ] && [ -n "$difficulty" ]; then
         echo "  Found: $epoch/$chapter/$difficulty ($question_count questions)"
 
+        # Check if this is an intentional "0 questions" file (topic not in curriculum)
+        # by looking for the "Brak pytań" or "not in curriculum" marker
+        is_intentional_zero=0
+        if [ "$question_count" -eq 0 ]; then
+            if grep -q "Brak pytań\|nie ujęty w podstawie programowej\|not in curriculum" "$file" 2>/dev/null; then
+                is_intentional_zero=1
+            fi
+        fi
+
         # Add the question count to the tracker
+        # If question_count > 0 OR is_intentional_zero, mark as completed
         jq --arg epoch "$epoch" \
            --arg chapter "$chapter" \
            --arg difficulty "$difficulty" \
            --argjson count "$question_count" \
-           '.tracking[$epoch][$chapter][$difficulty] += $count' \
+           --argjson intentional "$is_intentional_zero" \
+           '.tracking[$epoch][$chapter][$difficulty] += $count |
+            .tracking[$epoch][$chapter][($difficulty + "_completed")] |= (. or ($count > 0) or $intentional)' \
            "$TRACKER_FILE.tmp" > "$TRACKER_FILE.tmp2" && \
         mv "$TRACKER_FILE.tmp2" "$TRACKER_FILE.tmp"
 
@@ -236,7 +251,11 @@ jq -r '
   .value |
   to_entries[] |
   .key as $chapter |
-  select(.value.easy < 10 or .value.medium < 10 or .value.hard < 10) |
+  select(
+    (.value.easy < 10 and (.value.easy_completed | not)) or
+    (.value.medium < 10 and (.value.medium_completed | not)) or
+    (.value.hard < 10 and (.value.hard_completed | not))
+  ) |
   "  \($epoch)/\($chapter): easy=\(.value.easy) medium=\(.value.medium) hard=\(.value.hard)"
 ' "$TRACKER_FILE" | head -10
 
