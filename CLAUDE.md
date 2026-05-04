@@ -10,6 +10,10 @@ Automated Polish history quiz question generation for the Testdziej app. The sys
 
 **Target:** 10 questions per epoch/chapter/difficulty (9 epochs × ~50 chapters × 3 difficulties = ~750+ questions).
 
+**New workflow (2026-05-04):** Each loop iteration processes ONE chapter for ALL difficulties (easy, medium, hard) - generating 30 questions total per chapter + chapter summary. Uses MCP polish-history tools (unlimited) instead of web search.
+
+**New workflow (2026-05-04):** Each loop iteration processes ONE chapter for ALL difficulties (easy, medium, hard) - generating 30 questions total per chapter. Questions are stored in history-data/{epoch}/{chapter}/ alongside the chapter summary.
+
 ## Workflow Instructions - SINGLE SOURCE OF TRUTH
 
 **IMPORTANT:** The complete loop workflow is in `.claude/instructions.md`
@@ -38,20 +42,21 @@ Automated Polish history quiz question generation for the Testdziej app. The sys
 ```
 .claude/                    # Claude Code configuration and workflow
   ├── instructions.md       # ★ COMPLETE WORKFLOW (read this first)
-  ├── validation-rules.md   # Incorrect answer validation rules
+  └── validation-rules.md   # Incorrect answer validation rules
+
+history-data/               # Historical data and state management
+  ├── master-list.json      # All epochs with chapters and year ranges
+  ├── state.json            # Current loop state
   ├── questions-tracker.json # Progress per epoch/chapter/difficulty
-  └── state.json            # Current loop state
-
-epochs/                     # Historical epochs and chapters
-  └── master-list.json      # All epochs with chapters and year ranges
-
-questions/                  # Generated questions
-  ├── pending/              # Questions being generated (currently unused)
-  └── validated/            # Questions that passed validation
+  ├── 01-starozytnosc/      # Epoch directories with chapter subdirectories
+  ├── 02-piastowie/
+  └── ...
 
 scripts/                    # Automation scripts
-  ├── run-autonomous-loop.sh # Main entry point - launches Claude externally
-  └── validate-question.sh   # Question validation script
+  ├── README.md             # Scripts documentation
+  ├── run-single-iteration.sh # Single iteration (30 questions + summary)
+  ├── run-autonomous-loop.sh  # Continuous autonomous loop
+  └── rebuild-tracker.sh      # Rebuild tracker from question files
 
 templates/                  # Question templates
   └── question-template.md   # Question file format reference
@@ -66,9 +71,9 @@ logs/                       # Loop execution logs
 - **`.claude/validation-rules.md`** - Rules for creating plausible incorrect answers
 
 **Data:**
-- **`epochs/master-list.json`** - Defines 9 epochs with ~50 chapters
-- **`.claude/questions-tracker.json`** - Tracks progress per combination
-- **`.claude/state.json`** - Tracks current epoch/chapter/difficulty
+- **`history-data/master-list.json`** - Defines 9 epochs with ~50 chapters
+- **`history-data/questions-tracker.json`** - Tracks progress per combination
+- **`history-data/state.json`** - Tracks current epoch/chapter
 
 **Execution:**
 - **`scripts/run-autonomous-loop.sh`** - External launch script (main entry point)
@@ -97,6 +102,59 @@ Generated questions follow `templates/question-template.md`:
 - ✅ CORRECT: `starozytnosc-pradzieje-easy.md` (one file with 10 questions)
 - ❌ WRONG: `pradzieje-easy-001.md`, `pradzieje-easy-002.md` (separate numbered files)
 
+## New Workflow Features (2026-05-04)
+
+### MCP Polish-History Tools
+
+**Unlimited usage** (hosted locally) instead of web search:
+
+- `mcp__polish-history__search_polish_history()` - Search Polish Wikipedia and Dzieje.pl
+- `mcp__polish-history__extract_article()` - Extract full article content
+- `mcp__polish-history__search_wikipedia()` - Quick Wikipedia searches
+
+**Benefits:**
+- No rate limits
+- Better Polish sources
+- Optimized for historical research
+- More reliable than web scraping
+
+### Skills
+
+Two specialized skills for quality control:
+
+**chapter-summary skill:**
+- Creates comprehensive chapter overview (max 300 words)
+- Categorizes topics by difficulty (EASY, MEDIUM, HARD)
+- Provides source links
+- Creates foundation for question generation
+
+**difficulty-reviewer skill:**
+- Validates questions are correctly classified by difficulty
+- Checks against curriculum standards
+- Returns verdict with reasoning
+
+**Usage:**
+```bash
+skill: "chapter-summary"
+args: "[chapter_tech_name]"
+
+skill: "difficulty-reviewer"
+args: "[question_file]"
+```
+
+### File Storage
+
+**New structure:**
+```
+history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/
+  ├── {chapter}_summary.md
+  ├── {chapter}_questions_easy.md
+  ├── {chapter}_questions_medium.md
+  └── {chapter}_questions_hard.md
+```
+
+**Old structure still supported:** `questions/validated/[epoch]-[chapter]-[difficulty].md`
+
 ## Validation Rules
 
 **CRITICAL:** When generating incorrect answers, follow rules in `.claude/validation-rules.md`
@@ -109,7 +167,8 @@ Generated questions follow `templates/question-template.md`:
 5. Vary correct answer position (A, B, C, D)
 
 **Validation process:**
-- Web search to verify historical accuracy
+- MCP polish-history tools to verify historical accuracy
+- difficulty-reviewer skill to verify difficulty classification
 - Polish grammar checking via polish-grammar-checker subagent
 - Plausibility review of incorrect answers
 
@@ -117,7 +176,7 @@ See `.claude/validation-rules.md` for complete rules and examples.
 
 ## State Files
 
-### `.claude/questions-tracker.json`
+### `history-data/questions-tracker.json`
 
 Tracks progress per epoch/chapter/difficulty combination:
 
@@ -127,20 +186,21 @@ Tracks progress per epoch/chapter/difficulty combination:
     "Piastowie": {
       "Chrystianizacja": {
         "easy": 10,
-        "medium": 5,
-        "hard": 0
+        "medium": 10,
+        "hard": 10
       }
     }
   },
-  "last_updated": "2026-03-28T12:00:00Z"
+  "last_updated": "2026-05-04T12:00:00Z"
 }
 ```
 
 **Used by:**
-- `run-autonomous-loop.sh` to find next target
+- Scripts to find next target chapter
 - Workflow to determine what to generate next
+- `rebuild-tracker.sh` to verify progress
 
-### `.claude/state.json`
+### `history-data/state.json`
 
 Tracks current loop iteration:
 
@@ -148,14 +208,17 @@ Tracks current loop iteration:
 {
   "current_epoch": "Piastowie",
   "current_chapter": "Chrystianizacja",
-  "current_difficulty": "easy",
-  "questions_generated_this_session": 10,
-  "total_questions_generated": 42,
-  "last_run": "2026-03-28T12:00:00Z",
+  "current_difficulty": "all",
+  "questions_generated_this_session": 30,
+  "total_questions_generated": 120,
+  "last_run": "2026-05-04T12:00:00Z",
   "status": "completed",
-  "errors": []
+  "errors": [],
+  "batch_size": 30
 }
 ```
+
+**Note:** `current_difficulty` is now "all" (instead of "easy"/"medium"/"hard") since one loop processes all difficulties.
 
 **Updated after:** Each iteration completes
 
@@ -174,22 +237,22 @@ jq -r '
   to_entries[] |
   select(.value < 10) |
   "\($epoch)|\($chapter)|\(.key)"
-' .claude/questions-tracker.json | head -1
+' history-data/questions-tracker.json | head -1
 ```
 
 **Check specific combination count:**
 ```bash
-jq -r '.tracking["Piastowie"]["Chrystianizacja"]["easy"]' .claude/questions-tracker.json
+jq -r '.tracking["Piastowie"]["Chrystianizacja"]["easy"]' history-data/questions-tracker.json
 ```
 
 **View current state:**
 ```bash
-cat .claude/state.json | jq
+cat history-data/state.json | jq
 ```
 
 **Count generated questions:**
 ```bash
-find questions/validated/ -name "*.md" | wc -l
+find history-data/ -name "*_questions_*.md" | wc -l
 ```
 
 ## Difficulty Levels

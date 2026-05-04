@@ -27,9 +27,9 @@ check_completion() {
         .key as $chapter |
         .value |
         to_entries[] |
-        select(.value < 20)] |
+        select(.value < 10)] |
         length
-    ' /home/macryba/testdziej-questions/.claude/questions-tracker.json)
+    ' /home/macryba/testdziej-questions/history-data/questions-tracker.json)
 
     if [ "$INCOMPLETE" -eq 0 ]; then
         return 0  # Complete
@@ -59,11 +59,13 @@ while true; do
     claude --print "Follow the complete workflow in .claude/instructions.md to generate questions.
 
 Key steps:
-1. Find next target epoch/chapter/difficulty from questions-tracker.json
-2. Research and generate 10 questions following instructions.md
-3. Validate questions and check Polish grammar
-4. Save to questions/validated/[epoch]-[chapter]-[difficulty].md
-5. Update state files and commit changes
+1. Find next target epoch/chapter from questions-tracker.json
+2. Research chapter using MCP polish-history tools
+3. Create chapter summary using chapter-summary skill
+4. Generate questions for ALL difficulties (easy, medium, hard) - 10 questions each = 30 total
+5. Validate questions with difficulty-reviewer skill and check Polish grammar
+6. Save to history-data/{epoch}/{chapter}/ directory (one file per difficulty)
+7. Update state files and commit changes
 
 Complete ALL steps in .claude/instructions.md before exiting." &
     CLAUDE_PID=$!

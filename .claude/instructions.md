@@ -1,7 +1,7 @@
 Claude Code Loop Instructions for Testdziej Question Generation
 
 # Overview
-You are running in a loop to generate Polish history quiz questions for the Testdziej app. Each loop iteration generates TEN questions for the SAME epoch-chapter-difficulty combination. **All 10 questions are saved in ONE file per chapter-difficulty.**
+You are running in a loop to generate Polish history quiz questions for the Testdziej app. Each loop iteration generates questions for the SAME epoch-chapter combination for ALL difficulty levels (easy, medium, hard). **All 30 questions are saved in the history-data chapter folder: one file per difficulty (3 files total).**
 
 ## Automated Git Commits
 **This loop automatically commits all work at the end of each iteration without requiring user approval.**
@@ -16,12 +16,11 @@ All commits are LOCAL only. No pushing to remote repositories.
 # Loop Workflow
 
 ## 1. Pick Epoch and Chapter
-Read .claude/state.json to find:
+Read history-data/state.json to find:
 - Current epoch
 - Current chapter
-- Current difficulty
 
-If state is empty/null, read .claude/questions-tracker.json to find the first combination with count < 10.
+If state is empty/null, read history-data/questions-tracker.json to find the first combination where ANY difficulty has count < 10.
 
 Use this jq command to find next combination:
 ```bash
@@ -36,56 +35,106 @@ jq -r '
   to_entries[] |
   select(.value < 10) |
   "\($epoch)|\($chapter)|\(.key)"
-' .claude/questions-tracker.json | head -1
+' history-data/questions-tracker.json | head -1
 ```
+
+**IMPORTANT**: Extract only the epoch and chapter from the result. The loop processes ALL difficulties for one chapter, not just one difficulty.
 
 ## 2. Determine Missing Questions
-Check the current count in questions-tracker.json for the selected combination:
+Check the current counts in history-data/questions-tracker.json for the selected chapter:
 ```bash
-jq -r '.tracking["[EPOCH]"]["[CHAPTER]"]["[DIFFICULTY]"]' .claude/questions-tracker.json
+jq -r '.tracking["[EPOCH]"]["[CHAPTER]"]' history-data/questions-tracker.json
 ```
 
-Calculate how many questions are needed: 10 - current_count
-- If count >= 10, skip to next combination
-- Generate exactly 10 questions per chapter per difficulty (ONE iteration only)
+Calculate how many questions are needed per difficulty: 10 - current_count
+- If ALL difficulties (easy, medium, hard) have count >= 10, skip to next chapter
+- Generate exactly 10 questions per difficulty (30 total questions per chapter)
 
-## 3. Research Sources (ONCE per iteration)
-Use web tool to search for reliable Polish historical sources for this epoch/chapter:
+## 3. Research Chapter Content (ONCE per iteration)
+Use MCP polish-history tools to search for reliable Polish historical sources for this epoch/chapter.
 
-**Priority sources:**
-
-pl.wikipedia.org (Polish Wikipedia)
-historiaposzkola.pl
-dlaucznia.pl
-bryk.pl
-Polskie Radio - historiapolskich.pl
-
-**Search query format:**
-
-```text
-site:pl.wikipedia.org [epoka] [rozdział] historia Polski
-site:historiaposzkola.pl [wydarzenie] lekcja
+**Step 3a: Search for articles**
+```bash
+mcp__polish-history__search_polish_history(
+  query: "[EPOCH] [CHAPTER] historia Polski",
+  domains: ["wikipedia", "dzieje"],
+  limit: 10
+)
 ```
 
-## 4. Generate 10 Questions
-For the selected epoch-chapter-difficulty, create 10 DIFFERENT questions in ONE file.
+**Step 3b: Extract article content**
+For the most relevant URLs from the search results:
+```bash
+mcp__polish-history__extract_article(
+  url: "[URL from search results]"
+)
+```
 
-**CRITICAL: FILE NAMING RULE**
-- ✅ CORRECT: `starozytnosc-pradzieje-easy.md` (ONE file containing ALL 10 questions)
-- ❌ WRONG: `Starozytnosc-Pradzieje-easy-0011.md`, `0012.md`, etc. (NEVER create separate numbered files!)
-- ❌ WRONG: `pradzieje-easy-1.md`, `pradzieje-easy-2.md`, etc. (NEVER create multiple files!)
+**Why MCP tools?**
+- Unlimited usage (hosted locally, no rate limits)
+- Better Polish sources (Wikipedia Polska, Dzieje.pl)
+- More reliable than web scraping
+- Optimized for Polish historical research
 
-**The file name MUST be exactly:** `[epoch]-[chapter]-[difficulty].md`
-- All lowercase
-- Spaces replaced with hyphens
-- NO numbers in the filename
-- NO individual files per question
+**DO NOT use:**
+- WebSearch tool (not needed)
+- mcp__web_reader__webReader (limited usage, use MCP polish-history instead)
 
-### Question Creation Process (Repeat 10 times in same file):
+## 4. Create Chapter Summary
+After researching the chapter, create a comprehensive summary using the chapter-summary skill.
 
-**A. Create Historical Summary**
-- Research different aspects of the chapter
-- Each question should focus on a different topic/event
+```bash
+skill: "chapter-summary"
+args: "[chapter_tech_name]"
+```
+
+**What this does:**
+1. Creates a summary file with historical context
+2. Categorizes topics by difficulty level (EASY, MEDIUM, HARD)
+3. Provides source links
+4. Establishes foundation for question generation
+
+**Output location:**
+```
+history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/{chapter_tech_name}_summary.md
+```
+
+**Example:**
+```
+history-data/02-piastowie/01-chrystianizacja/chrystianizacja_summary.md
+```
+
+**Use this summary as the historical context** for generating questions. Do NOT re-research for each difficulty - use the summary as the single source of truth for all three difficulty levels.
+
+## 5. Generate Questions for ALL Difficulties
+For the selected epoch-chapter, generate questions for ALL THREE difficulty levels (easy, medium, hard) in this single loop iteration.
+
+**CRITICAL: FILE NAMING RULES**
+- ✅ CORRECT: `{chapter_tech_name}_questions_easy.md` (one file containing ALL 10 easy questions)
+- ✅ CORRECT: `{chapter_tech_name}_questions_medium.md` (one file containing ALL 10 medium questions)
+- ✅ CORRECT: `{chapter_tech_name}_questions_hard.md` (one file containing ALL 10 hard questions)
+- ❌ WRONG: `chrystianizacja-easy-001.md`, `chrystianizacja-easy-002.md`, etc. (NEVER create separate numbered files!)
+
+**The file names MUST be exactly:**
+- `{chapter_tech_name}_questions_easy.md`
+- `{chapter_tech_name}_questions_medium.md`
+- `{chapter_tech_name}_questions_hard.md`
+
+**File location:**
+```
+history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/
+  ├── {chapter_tech_name}_summary.md
+  ├── {chapter_tech_name}_questions_easy.md
+  ├── {chapter_tech_name}_questions_medium.md
+  └── {chapter_tech_name}_questions_hard.md
+```
+
+### Question Creation Process (Repeat 10 times for EACH difficulty):
+
+**A. Use Chapter Summary as Context**
+- Read the `{chapter_tech_name}_summary.md` file created in Step 4
+- Use the categorized topics as a guide for question difficulty
+- Each question should focus on a different topic from the summary
 - Rotate between: causes, effects, key figures, dates, locations, consequences
 
 **B. Generate Question based on difficulty:**
@@ -94,16 +143,22 @@ For the selected epoch-chapter-difficulty, create 10 DIFFERENT questions in ONE 
 - Simple factual questions (who, what, where, when)
 - Well-known dates, names, events
 - Primary school level
+- Reference: EASY topics from chapter summary
+- Use summary's "Postacie", "Wydarzenia", "Miejsca", "Pojęcia" sections
 
 **For MEDIUM difficulty:**
 - Causes and effects
 - More detailed understanding
-- Secondary school level
+- Secondary school level (basic scope)
+- Reference: MEDIUM topics from chapter summary
+- Use summary's "Przyczyny wydarzeń", "Skutki historyczne", "Procesy", "Porównania" sections
 
 **For HARD difficulty:**
 - Analytical questions
 - Complex relationships
 - Extended matura level
+- Reference: HARD topics from chapter summary
+- Use summary's "Analiza", "Ocena z perspektywy", "Synteza", "Interpretacje" sections
 
 **C. Create Incorrect Answers**
 
@@ -122,8 +177,10 @@ For the selected epoch-chapter-difficulty, create 10 DIFFERENT questions in ONE 
   - Incorrect answers must NOT contain dates
   - All answers should reference events only
 
+See `.claude/validation-rules.md` for complete rules and examples.
+
 **D. Vary Question Topics:**
-For 10 questions, ensure diversity:
+For 10 questions per difficulty, ensure diversity:
 1. Question about causes
 2. Question about immediate effects
 3. Question about key figures
@@ -135,25 +192,20 @@ For 10 questions, ensure diversity:
 9. Question about social/cultural aspects
 10. Question about comparisons/relationships
 
-**E. Create Question File**
+**E. Create Question Files**
 
 **STOP! READ THIS BEFORE CREATING ANY FILE!**
-You MUST create EXACTLY ONE file that contains ALL 10 questions.
-- Do NOT create 10 separate files
-- Do NOT number your files (no -0011, -0012, etc.)
-- Do NOT create multiple files for the same epoch/chapter/difficulty
+You MUST create EXACTLY THREE files that contain ALL 10 questions for each difficulty level.
+- Do NOT create 30 separate files
+- Do NOT number your files (no -001, -002, etc.)
+- Do NOT create multiple files for the same difficulty
 
-**Create ONLY this file:** `questions/validated/[epoch]-[chapter]-[difficulty].md`
-
-Examples:
-- ✅ CORRECT: `questions/validated/starozytnosc-pradzieje-easy.md` (one file with 10 questions)
-- ❌ WRONG: `questions/validated/starozytnosc-pradzieje-easy-001.md` (numbered file)
-- ❌ WRONG: `questions/validated/pradzieje-easy-1.md`, `pradzieje-easy-2.md`, etc. (multiple files)
-
-**CRITICAL: ONE FILE per chapter-difficulty**
-- All 10 questions go into ONE file
-- File name format: [epoch]-[chapter]-[difficulty].md (no numbers)
-- Example: starozytnosc-pradzieje-easy.md contains 10 questions
+**Create ONLY these THREE files:**
+```
+history-data/{epoch}/{chapter}/{chapter_tech_name}_questions_easy.md
+history-data/{epoch}/{chapter}/{chapter_tech_name}_questions_medium.md
+history-data/{epoch}/{chapter}/{chapter_tech_name}_questions_hard.md
+```
 
 Follow the template below for consolidated format:
 
@@ -168,7 +220,7 @@ question_count: 10
 created_at: "[TIMESTAMP]"
 ...
 
-[Historical Context - shared for all questions]
+[Historical Context - use from chapter summary]
 
 Question 1
 Question ID: Q-XXX-001
@@ -190,36 +242,54 @@ Question ID: Q-XXX-002
 - Focus on answering "why" in plain Polish
 - Example: "X wydarzyło się w tym roku, ponieważ Y. To było ważne, bo Z."
 
-## 5. Verify Questions
-For each of the 10 questions, use web tool to verify:
+## 6. Verify Questions
+For each of the 30 questions, verify historical accuracy using the MCP polish-history tools:
 
 ```bash
-# Example verification
 # Search for the historical fact
-"site:pl.wikipedia.org [event name] [year]"
+mcp__polish-history__search_polish_history(
+  query: "[event name] [year]",
+  limit: 5
+)
 
 # Verify each incorrect answer is historically true
-"site:pl.wikipedia.org [incorrect answer event]"
+mcp__polish-history__search_polish_history(
+  query: "[incorrect answer event]",
+  limit: 5
+)
 ```
 
-## 6. Validate No Correct Answers in Incorrect Options
-Run validation script for each question:
+## 7. Validate Difficulty Levels
+**CRITICAL:** After generating questions for each difficulty, validate the difficulty classification using the difficulty-reviewer skill.
 
+For each difficulty file:
 ```bash
-scripts/validate-question.sh [question-file.md]
+skill: "difficulty-reviewer"
+args: "history-data/{epoch}/{chapter}/{chapter_tech_name}_questions_easy.md"
 ```
 
-Check that:
-- Correct answer is actually correct
-- Each incorrect answer is factually true (but wrong context)
-- No answer contradicts another
+The difficulty reviewer will:
+- Verify questions are correctly classified as EASY, MEDIUM, or HARD
+- Check against curriculum standards
+- Return verdict with reasoning
 
-## 7. Polish Language Validation
-**CRITICAL:** Before saving questions to validated folder, run Polish language check using the polish-grammar-checker subagent:
+**If questions fail validation:**
+- Review the verdict provided by the difficulty reviewer
+- Adjust the questions or reclassify them
+- Re-run the difficulty reviewer to verify corrections
+- Only proceed to step 8 when all questions pass validation
 
+**If questions pass validation:**
+- Confirm the difficulty levels are correct
+- Proceed to next step
+
+## 8. Polish Language Validation
+**CRITICAL:** Before saving questions to final location, run Polish language check using the polish-grammar-checker subagent:
+
+For each difficulty file:
 ```bash
 # Use the Agent tool to invoke the Polish grammar checker subagent
-Agent polish-grammar-checker "Check the Polish grammar of the questions in [question-file.md] and report any errors found"
+Agent polish-grammar-checker "Check the Polish grammar of the questions in history-data/{epoch}/{chapter}/{chapter_tech_name}_questions_[difficulty].md and report any errors found"
 ```
 
 The subagent will:
@@ -234,7 +304,7 @@ The subagent will:
 - Review the error report provided by the subagent
 - Apply the corrections suggested by the grammar checker
 - Re-run the polish-grammar-checker subagent to verify all issues are resolved
-- Only proceed to step 8 when Polish language validation passes (0 errors)
+- Only proceed to step 9 when Polish language validation passes (0 errors)
 
 **If no errors are found:**
 - Confirm the text is grammatically correct
@@ -242,7 +312,7 @@ The subagent will:
 
 **Note:** The polish-grammar-checker subagent uses actual LanguageTool grammar rules and is more reliable than AI-only checking. It focuses on grammar, spelling, and typography - historical accuracy verification should be done separately.
 
-## 8. Save Metadata for Each Question
+## 9. Save Metadata for Each File
 At the top of EACH file, save:
 
 created_at: [ISO 8601 timestamp]
@@ -252,68 +322,75 @@ tokens_input: [from API response or estimate]
 tokens_output: [from API response or estimate]
 tokens_total: [sum]
 
-## 9. Update State File
-Update .claude/state.json:
+## 10. Update State Files
+Update history-data/state.json:
 
 ```json
 {
   "current_epoch": "[CURRENT_EPOCH]",
   "current_chapter": "[CURRENT_CHAPTER]",
-  "current_difficulty": "[CURRENT_DIFFICULTY]",
-  "questions_generated_this_session": [N+10],
-  "total_questions_generated": [TOTAL+10],
+  "current_difficulty": "all",
+  "questions_generated_this_session": [N+30],
+  "total_questions_generated": [TOTAL+30],
   "last_run": "[TIMESTAMP]",
   "status": "completed",
-  "errors": []
+  "errors": [],
+  "batch_size": 30
 }
 ```
 
-Also increment the counter in .claude/questions-tracker.json by 10:
+Also increment ALL difficulty counters in history-data/questions-tracker.json by 10 each:
 ```bash
 jq --arg epoch "[CURRENT_EPOCH]" \
    --arg chapter "[CURRENT_CHAPTER]" \
-   --arg difficulty "[DIFFICULTY]" \
-   '.tracking[$epoch][$chapter][$difficulty] += 10 | .last_updated = "[TIMESTAMP]"' \
-   .claude/questions-tracker.json > .claude/questions-tracker.json.tmp && \
-mv .claude/questions-tracker.json.tmp .claude/questions-tracker.json
+   '.tracking[$epoch][$chapter]["easy"] += 10 |
+    .tracking[$epoch][$chapter]["medium"] += 10 |
+    .tracking[$epoch][$chapter]["hard"] += 10 |
+    .last_updated = "[TIMESTAMP]"' \
+   history-data/questions-tracker.json > history-data/questions-tracker.json.tmp && \
+mv history-data/questions-tracker.json.tmp history-data/questions-tracker.json
 ```
 
-IMPORTANT: Always generate exactly 10 questions per chapter per difficulty. No partial batches.
+IMPORTANT: Always generate exactly 10 questions per difficulty per chapter. No partial batches.
 
-## 10. All Questions Saved to Validated
-All 10 questions are saved in ONE file: questions/validated/[epoch]-[chapter]-[difficulty].md
+## 11. All Questions Saved to Chapter Folder
+All 30 questions (10 per difficulty × 3 difficulties) are saved in THREE files in the chapter folder:
+```
+history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/
+  ├── {chapter_tech_name}_questions_easy.md
+  ├── {chapter_tech_name}_questions_medium.md
+  └── {chapter_tech_name}_questions_hard.md
+```
 
 **FINAL FILE CHECK - Before committing, verify:**
-- [ ] Only ONE .md file was created for this epoch/chapter/difficulty
-- [ ] The filename has NO numbers (no -001, -002, etc.)
-- [ ] The file contains ALL 10 questions
-- [ ] Each question has a unique Question ID (Q-XXX-001, Q-XXX-002, etc.)
+- [ ] Exactly THREE .md files were created for this epoch/chapter (one per difficulty)
+- [ ] The filenames have NO numbers (no -001, -002, etc.)
+- [ ] Each file contains ALL 10 questions for that difficulty
+- [ ] Each question has a unique Question ID (Q-XXX-001 through Q-XXX-010)
+- [ ] Summary file exists from Step 4
 
-If you see multiple numbered files (like `file-001.md`, `file-002.md`), **STOP** and consolidate them into ONE file before committing.
+If you see multiple numbered files (like `file-001.md`, `file-002.md`), **STOP** and consolidate them into the correct THREE files before committing.
 
-## 11. Commit Work Automatically
+## 12. Commit Work Automatically
 After each successful iteration, commit all changes to git WITHOUT requiring user approval:
 
 ```bash
-# Determine the file that was just created
-QUESTION_FILE="questions/validated/$(echo ${CURRENT_EPOCH} | tr '[:upper:]' '[:lower:]' | tr ' ' '-')-$(echo ${CURRENT_CHAPTER} | tr '[:upper:]' '[:lower:]' | tr ' ' '-')-${CURRENT_DIFFICULTY}.md"
+# Determine the chapter directory that was just created/updated
+CHAPTER_DIR="history-data/$(echo ${CURRENT_EPOCH_ID} | tr '[:upper:]' '[:lower:]' | tr ' ' '-')-$(echo ${CURRENT_EPOCH_TECH} | tr '[:upper:]' '[:lower:]' | tr ' ' '-')/$(echo ${CURRENT_CHAPTER_ID} | tr '[:upper:]' '[:lower:]' | tr ' ' '-')-$(echo ${CURRENT_CHAPTER_TECH} | tr '[:upper:]' '[:lower:]' | tr ' ' '-')"
 
-# Stage all changes (questions, state files, tracker)
-git add questions/validated/*.md .claude/state.json .claude/questions-tracker.json
-
-# Get actual question count from the file
-QUESTION_COUNT=$(jq -r '.question_count // 10' "$QUESTION_FILE" 2>/dev/null || echo "10")
+# Stage all changes (chapter directory, state files, tracker)
+git add "${CHAPTER_DIR}" history-data/state.json history-data/questions-tracker.json
 
 # Create commit with descriptive message
-git commit --no-verify -m "Add ${QUESTION_COUNT} questions for ${CURRENT_EPOCH}/${CURRENT_CHAPTER} (${CURRENT_DIFFICULTY})"
+git commit --no-verify -m "Add 30 questions for ${CURRENT_EPOCH}/${CURRENT_CHAPTER} (all difficulties: easy, medium, hard)"
 ```
 
 **IMPORTANT:** Always use `--no-verify` flag to bypass any pre-commit hooks that might block automated commits. This ensures the loop can run fully autonomously.
 
 **Commit message format:**
-- Include epoch, chapter, and difficulty
-- Include number of questions added
-- Example: "Add 10 questions for Piastowie/Chrystianizacja (easy)"
+- Include epoch and chapter
+- Include number of questions added (30 for all difficulties)
+- Example: "Add 30 questions for Piastowie/Chrystianizacja (all difficulties: easy, medium, hard)"
 
 **DO NOT push to remote** - only commit locally. Pushing can be done manually by the user.
 
@@ -330,14 +407,14 @@ If error occurs:
 
 - Log error to logs/errors.log
 - Update state file with error message
-- Skip to next combination
+- Skip to next chapter
 - If 3 consecutive errors, pause and notify
 
 # Batch Generation Tips
 
-To generate 10 different questions for one chapter:
+To generate 30 different questions for one chapter (10 per difficulty):
 
-1. **Vary the focus:**
+1. **Vary the focus within each difficulty:**
    - Political events
    - Social changes
    - Economic factors
@@ -349,7 +426,7 @@ To generate 10 different questions for one chapter:
    - Chronological milestones
    - Cause-effect relationships
 
-2. **Vary question types:**
+2. **Vary question types within each difficulty:**
    - Who questions (people)
    - What questions (events)
    - When questions (dates)
@@ -369,3 +446,18 @@ To generate 10 different questions for one chapter:
    - Background causes
    - Immediate effects
    - Long-term consequences
+
+5. **Align with chapter summary topics:**
+   - Use EASY topics for easy questions
+   - Use MEDIUM topics for medium questions
+   - Use HARD topics for hard questions
+   - This ensures questions match curriculum standards
+
+# Key Differences from Previous Workflow
+
+1. **One loop per chapter, not per difficulty**: Generate all 30 questions (10 per difficulty × 3) in one iteration
+2. **MCP tools only**: Use polish-history MCP tools instead of web search (unlimited usage)
+3. **Chapter summary**: Created once and used as context for all difficulties
+4. **Centralized storage**: All files in history-data/{epoch}/{chapter}/ directory
+5. **Difficulty validation**: Use difficulty-reviewer skill to verify correct classification
+6. **State location**: history-data/state.json (moved from .claude/)
