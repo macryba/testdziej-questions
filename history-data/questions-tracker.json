@@ -94,12 +94,12 @@
         "hard_completed": true
       },
       "Warneńczyk": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": "0",
+        "easy_completed": true,
+        "medium": 15,
+        "medium_completed": true,
+        "hard": 3,
+        "hard_completed": true
       },
       "Kazimierz Jagiellończyk": {
         "easy": 0,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-04T23:45:00Z"
+  "last_updated": "2026-05-04T23:59:00Z"
 }
