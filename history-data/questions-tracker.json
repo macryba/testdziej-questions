@@ -119,11 +119,11 @@
       },
       "Zygmunt Stary": {
         "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
+        "easy_completed": true,
+        "medium": 15,
+        "medium_completed": true,
         "hard": 0,
-        "hard_completed": false
+        "hard_completed": true
       },
       "Zygmunt August": {
         "easy": 0,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-04T23:59:45Z"
+  "last_updated": "2026-05-04T23:43:01+00:00"
 }

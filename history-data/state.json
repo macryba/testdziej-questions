@@ -1,11 +1,11 @@
 {
   "current_epoch": "Jagiellonowie",
-  "current_chapter": "Wojna trzynastoletnia",
+  "current_chapter": "Zygmunt Stary",
   "current_difficulty": "all",
-  "questions_generated_this_session": 25,
-  "total_questions_generated": 178,
-  "last_run": "2026-05-04T23:00:21Z",
+  "questions_generated_this_session": 15,
+  "total_questions_generated": 193,
+  "last_run": "2026-05-04T23:34:42Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 25
+  "batch_size": 15
 }
