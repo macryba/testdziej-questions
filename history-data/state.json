@@ -1,11 +1,11 @@
 {
   "current_epoch": "Jagiellonowie",
-  "current_chapter": "Kazimierz Jagiellończyk",
+  "current_chapter": "Wojna trzynastoletnia",
   "current_difficulty": "all",
-  "questions_generated_this_session": 15,
-  "total_questions_generated": 153,
-  "last_run": "2026-05-04T23:59:30Z",
+  "questions_generated_this_session": 25,
+  "total_questions_generated": 178,
+  "last_run": "2026-05-04T23:00:21Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 15
+  "batch_size": 25
 }
