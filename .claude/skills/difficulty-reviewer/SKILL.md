@@ -7,13 +7,33 @@ description: Verify if historical quiz questions are correctly classified as EAS
 
 You are a specialized AI agent responsible for verifying whether historical quiz questions are correctly classified as **EASY**, **MEDIUM**, or **HARD** according to the educational standards defined in this project.
 
+## Important: File Location Context
+
+**Skill location:** This skill runs from `.claude/skills/difficulty-reviewer/`
+
+**Project root:** The curriculum files are located in the project root at `history-data/podstawa/`
+
+**When accessing curriculum files:**
+- Use **absolute paths from project root**: `/home/macryba/testdziej-questions/history-data/podstawa/`
+- OR use **relative paths from project root**: `history-data/podstawa/`
+- DO NOT search for files in the skill directory (`.claude/skills/difficulty-reviewer/podstawa/`) - they are NOT there
+
+**Example:**
+```bash
+# ✅ CORRECT - Read from project root
+Read /home/macryba/testdziej-questions/history-data/podstawa/szkola_podstawowa_zpe.md
+
+# ❌ WRONG - This path does not exist
+Read .claude/skills/difficulty-reviewer/podstawa/szkola_podstawowa_zpe.md
+```
+
 ## Available Resources
 
-You have access to the following curriculum foundation files:
+You have access to the following curriculum foundation files located in `history-data/podstawa/`:
 
-1. **`podstawa/klasyfikacja.md`** - Main guide for difficulty levels
-2. **`podstawa/szkola_podstawowa_zpe.md`** - Official curriculum for primary schools (EASY level)
-3. **`podstawa/liceum_technikum_zpe.md`** - Official curriculum for high schools (MEDIUM and HARD levels)
+1. **`history-data/podstawa/klasyfikacja.md`** - Main guide for difficulty levels
+2. **`history-data/podstawa/szkola_podstawowa_zpe.md`** - Official curriculum for primary schools (EASY level)
+3. **`history-data/podstawa/liceum_technikum_zpe.md`** - Official curriculum for high schools (MEDIUM and HARD levels)
    - **ZAKRES PODSTAWOWY** section → MEDIUM level
    - **ZAKRES ROZSZERZONY** section → HARD level
 
@@ -25,7 +45,7 @@ You have access to the following curriculum foundation files:
 - Questions about concrete facts: who? what? where? when?
 - Answers: one word, date, or name
 - No cause-and-effect analysis
-- Scope: podstawa/szkola_podstawowa_zpe.md
+- Scope: history-data/podstawa/szkola_podstawowa_zpe.md
 
 **Source sections:**
 - Dział IV: Postacie i wydarzenia (17 figures)
@@ -42,7 +62,7 @@ You have access to the following curriculum foundation files:
 - Questions about causes and effects: why? what effects?
 - Answers: 2-3 sentences of explanation
 - Analysis and comparison of phenomena
-- Scope: podstawa/liceum_technikum_zpe.md → ZAKRES PODSTAWOWY
+- Scope: history-data/podstawa/liceum_technikum_zpe.md → ZAKRES PODSTAWOWY
 
 **Question patterns:**
 - "Wyjaśnij przyczyny..."
@@ -61,7 +81,7 @@ You have access to the following curriculum foundation files:
 - Answers: a paragraph or more
 - Deep analysis of historical phenomena
 - Detailed information beyond basic curriculum
-- Scope: podstawa/liceum_technikum_zpe.md → ZAKRES ROZSZERZONY
+- Scope: history-data/podstawa/liceum_technikum_zpe.md → ZAKRES ROZSZERZONY
 
 **Question patterns:**
 - "Dokonaj analizy/syntezy/bilansu..."
@@ -92,18 +112,20 @@ You have access to the following curriculum foundation files:
 
 ### Step 3: Verify Against Curriculum
 
+**IMPORTANT:** Always use absolute paths from project root when accessing curriculum files.
+
 1. **For EASY:**
-   - Open `podstawa/szkola_podstawowa_zpe.md`
+   - Open `/home/macryba/testdziej-questions/history-data/podstawa/szkola_podstawowa_zpe.md`
    - Check if the topic/person/event is listed
    - Especially Dział IV and additional content
 
 2. **For MEDIUM:**
-   - Open `podstawa/liceum_technikum_zpe.md`
+   - Open `/home/macryba/testdziej-questions/history-data/podstawa/liceum_technikum_zpe.md`
    - Go to **ZAKRES PODSTAWOWY** section
    - Check if requirements match the question scope
 
 3. **For HARD:**
-   - Open `podstawa/liceum_technikum_zpe.md`
+   - Open `/home/macryba/testdziej-questions/history-data/podstawa/liceum_technikum_zpe.md`
    - Go to **ZAKRES ROZSZERZONY** section
    - Check if the question extends beyond basic scope
 
@@ -133,7 +155,7 @@ Return a report in the following format:
 - **Topic:** [topic description]
 
 **Curriculum verification:**
-- **File:** [podstawa/...md]
+- **File:** [history-data/podstawa/...md]
 - **Section:** [Dział IV / ZAKRES PODSTAWOWY / ZAKRES ROZSZERZONY]
 - **Justification:** [why this level]
 
@@ -235,10 +257,11 @@ Some topics (e.g., World War II) appear at all levels, but detail varies:
 
 ## Notes for the Agent
 
-1. **Consistency:** Always verify in the appropriate curriculum
-2. **Precision:** If unsure, check both curricula (primary and high school)
-3. **Justification:** Always provide reason for decision with reference to specific sections
-4. **Flexibility:** Some questions may be borderline - use common sense
+1. **File paths:** ALWAYS use absolute paths from project root (`/home/macryba/testdziej-questions/history-data/podstawa/`). The curriculum files are NOT in the skill directory.
+2. **Consistency:** Always verify in the appropriate curriculum
+3. **Precision:** If unsure, check both curricula (primary and high school)
+4. **Justification:** Always provide reason for decision with reference to specific sections
+5. **Flexibility:** Some questions may be borderline - use common sense
 
 ## Integration with Question Generation System
 

@@ -92,7 +92,8 @@ args: "[chapter_tech_name]"
 1. Creates a summary file with historical context
 2. Categorizes topics by difficulty level (EASY, MEDIUM, HARD)
 3. Provides source links
-4. Establishes foundation for question generation
+4. **Verifies EASY topics against primary school curriculum**
+5. **Recommends EASY question count based on curriculum coverage**
 
 **Output location:**
 ```
@@ -104,13 +105,27 @@ history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/{chap
 history-data/02-piastowie/01-chrystianizacja/chrystianizacja_summary.md
 ```
 
+**Curriculum Verification for EASY Level:**
+
+The summary includes a section "## Tematy poziom EASY (szkoła podstawowa)" which will indicate:
+
+1. **If topic IS in primary school curriculum:**
+   - Lists specific topics covered (Postacie, Wydarzenia, Miejsca, Pojęcia)
+   - Notes if coverage is limited (e.g., "Temat ograniczony w podstawie programowej")
+   - May recommend reduced question count (e.g., "Zalecana liczba pytań EASY: 3")
+
+2. **If topic is NOT in primary school curriculum:**
+   - States: "Temat nie ujęty w poziomie szkoły podstawowej"
+   - No EASY topics listed
+   - EASY questions file should only contain a statement (see Step 5)
+
 **Use this summary as the historical context** for generating questions. Do NOT re-research for each difficulty - use the summary as the single source of truth for all three difficulty levels.
 
 ## 5. Generate Questions for ALL Difficulties
 For the selected epoch-chapter, generate questions for ALL THREE difficulty levels (easy, medium, hard) in this single loop iteration.
 
 **CRITICAL: FILE NAMING RULES**
-- ✅ CORRECT: `{chapter_tech_name}_questions_easy.md` (one file containing ALL 10 easy questions)
+- ✅ CORRECT: `{chapter_tech_name}_questions_easy.md` (one file containing ALL easy questions)
 - ✅ CORRECT: `{chapter_tech_name}_questions_medium.md` (one file containing ALL 10 medium questions)
 - ✅ CORRECT: `{chapter_tech_name}_questions_hard.md` (one file containing ALL 10 hard questions)
 - ❌ WRONG: `chrystianizacja-easy-001.md`, `chrystianizacja-easy-002.md`, etc. (NEVER create separate numbered files!)
@@ -129,7 +144,33 @@ history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/
   └── {chapter_tech_name}_questions_hard.md
 ```
 
-### Question Creation Process (Repeat 10 times for EACH difficulty):
+### Step 5a: Check EASY Level Curriculum Coverage
+
+**BEFORE generating EASY questions, read the chapter summary and check:**
+
+```bash
+grep -A 10 "## Tematy poziom EASY" history-data/{epoch}/{chapter}/{chapter_tech_name}_summary.md
+```
+
+**Three possible outcomes:**
+
+1. **Topic NOT in primary school curriculum:**
+   - Summary states: "Temat nie ujęty w poziomie szkoły podstawowej"
+   - **ACTION:** Create EASY file with statement only (see Step 5b Special Case 1)
+   - **Question count:** 0 (mark as "N/A" in metadata)
+
+2. **Topic HAS limited curriculum coverage:**
+   - Summary lists some topics but notes "Temat ograniczony"
+   - Summary may recommend: "Zalecana liczba pytań EASY: X"
+   - **ACTION:** Generate only the recommended number of EASY questions (e.g., 3-5 instead of 10)
+   - **Question count:** Use recommended number from summary
+
+3. **Topic HAS full curriculum coverage:**
+   - Summary lists comprehensive EASY topics
+   - **ACTION:** Generate full 10 EASY questions
+   - **Question count:** 10
+
+### Step 5b: Generate Questions for Each Difficulty
 
 **A. Use Chapter Summary as Context**
 - Read the `{chapter_tech_name}_summary.md` file created in Step 4
@@ -140,25 +181,103 @@ history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/
 **B. Generate Question based on difficulty:**
 
 **For EASY difficulty:**
+
+**Special Case 1 - Topic NOT in curriculum:**
+```markdown
+---
+epoch: "[EPOCH]"
+epoch_id: [ID]
+chapter: "[CHAPTER]"
+chapter_id: [ID]
+difficulty: "easy"
+question_count: 0
+created_at: "[TIMESTAMP]"
+---
+
+# Pytania poziom łatwy - Brak pytań
+
+**Temat nie ujęty w poziomie szkoły podstawowej.**
+
+Ten rozdział wykracza poza zakres podstawy programowej szkoły podstawowej. Pytania na poziomie łatwym dotyczą tylko tematów ujętych w podstawie programowej dla klas IV-VIII szkoły podstawowej.
+
+Zgodnie z podstawą programową (Dział IV: Postacie i wydarzenia o doniosłym znaczeniu), temat ten nie jest objęty wymaganiami dla szkoły podstawowej.
+
+**Uwaga:** Proste pytania faktyczne (Kto? Co? Gdzie? Kiedy?) z tego rozdziału znajdują się w pytaniach poziomu średniego (MEDIUM).
+
+---
+**Brak pytań do wyświetlenia.**
+```
+
+**Special Case 2 - Topic HAS limited coverage:**
+- Generate ONLY the recommended number of questions (e.g., 3-5)
+- Set `question_count` to actual number generated
+- Use only EASY topics listed in the summary
+
+**Normal Case - Full coverage:**
 - Simple factual questions (who, what, where, when)
 - Well-known dates, names, events
 - Primary school level
 - Reference: EASY topics from chapter summary
 - Use summary's "Postacie", "Wydarzenia", "Miejsca", "Pojęcia" sections
+- Generate up to 10 questions
 
 **For MEDIUM difficulty:**
-- Causes and effects
-- More detailed understanding
-- Secondary school level (basic scope)
-- Reference: MEDIUM topics from chapter summary
-- Use summary's "Przyczyny wydarzeń", "Skutki historyczne", "Procesy", "Porównania" sections
+
+**IMPORTANT:** MEDIUM level includes BOTH simple factual questions AND analytical questions:
+
+1. **Simple factual questions (Kto? Co? Gdzie? Kiedy?):**
+   - These are NOT exclusive to EASY level
+   - When EASY is not covered by curriculum, these questions belong in MEDIUM
+   - All curriculum-covered simple factual questions should be here
+   - Reference: EASY topics from chapter summary (if EASY not in curriculum)
+
+2. **Analytical questions (Dlaczego? Jakie skutki?):**
+   - Causes and effects
+   - More detailed understanding
+   - Secondary school level (basic scope)
+   - Reference: MEDIUM topics from chapter summary
+   - Use summary's "Przyczyny wydarzeń", "Skutki historyczne", "Procesy", "Porównania" sections
+
+3. **Question count guidance:**
+   - **Target: 10-15 questions** (flexible based on content)
+   - Use common sense - if topic has many important facts/events, generate more
+   - If EASY not in curriculum: Include 3-5 simple factual + 7-10 analytical = 10-15 total
+   - If EASY in curriculum: Focus on analytical questions, 10 total
 
 **For HARD difficulty:**
-- Analytical questions
-- Complex relationships
-- Extended matura level
-- Reference: HARD topics from chapter summary
-- Use summary's "Analiza", "Ocena z perspektywy", "Synteza", "Interpretacje" sections
+
+**IMPORTANT:** HARD level should only be generated if the summary identifies appropriate analytical topics:
+- Target: **0-5 questions maximum**
+- Only generate if summary has clear HARD-level topics (analiza, ocena, synteza)
+- If summary lacks HARD topics, set count to 0
+
+**Question types at HARD level:**
+1. **Analytical questions** (when available):
+   - Analysis and synthesis
+   - Complex relationships
+   - Extended matura level
+   - Reference: HARD topics from chapter summary
+   - Use summary's "Analiza", "Ocena z perspektywy", "Synteza", "Interpretacje" sections
+
+2. **Specialized factual questions** (NEW):
+   - Simple question types (Kto? Co? Gdzie? Kiedy?) for topics NOT in curriculum
+   - Events, places, figures outside standard curriculum coverage
+   - More obscure but historically significant details
+   - Examples: minor figures, specific locations, detailed dates not in liceum_technikum_zpe.md
+
+**When to include factual questions in HARD:**
+- Summary mentions places/events/figures not covered in curriculum
+- Content is historically important but not in standard educational scope
+- Factual content provides context for analytical questions
+
+**Question count guidance:**
+- **0 questions:** If summary has no HARD topics and no specialized factual content
+- **3-5 questions:** If summary has analytical topics OR specialized factual content
+- Prioritize analytical over factual when both exist
+
+### Question Creation Process
+
+Repeat the following for each question needed (adjusted count for EASY if limited):
 
 **C. Create Incorrect Answers**
 
@@ -195,7 +314,10 @@ For 10 questions per difficulty, ensure diversity:
 **E. Create Question Files**
 
 **STOP! READ THIS BEFORE CREATING ANY FILE!**
-You MUST create EXACTLY THREE files that contain ALL 10 questions for each difficulty level.
+You MUST create EXACTLY THREE files (one per difficulty level).
+- EASY file may contain 0, 3-5, or 10 questions (based on curriculum coverage)
+- MEDIUM file must contain 10 questions
+- HARD file must contain 10 questions
 - Do NOT create 30 separate files
 - Do NOT number your files (no -001, -002, etc.)
 - Do NOT create multiple files for the same difficulty
@@ -207,6 +329,22 @@ history-data/{epoch}/{chapter}/{chapter_tech_name}_questions_medium.md
 history-data/{epoch}/{chapter}/{chapter_tech_name}_questions_hard.md
 ```
 
+**Question counts by difficulty:**
+- **EASY:** 0 (if not in curriculum) OR recommended count (3-5 if limited) OR up to 10 (if full coverage)
+- **MEDIUM:** 10-15 questions (flexible based on curriculum coverage and content)
+  - If EASY not in curriculum: Include simple factual questions + analytical questions
+  - If EASY in curriculum: Focus on analytical questions
+- **HARD:** 0-5 questions maximum
+  - Only if summary identifies HARD-level analytical topics
+  - OR if summary has specialized factual content outside curriculum
+  - If summary has neither: Set to 0
+
+**Important:** Question counts are guidelines, not hard rules. Use common sense:
+- Rich historical periods may need more questions
+- Limited curriculum topics may need fewer
+- Priority: Cover the topic completely over hitting an exact number
+- HARD is optional - only generate if content warrants it
+
 Follow the template below for consolidated format:
 
 ```markdown
@@ -216,7 +354,7 @@ epoch_id: [ID]
 chapter: "[CHAPTER]"
 chapter_id: [ID]
 difficulty: "[DIFFICULTY]"
-question_count: 10
+question_count: [ACTUAL_COUNT]
 created_at: "[TIMESTAMP]"
 ...
 
@@ -232,8 +370,40 @@ Question ID: Q-XXX-002
 ...
 [Full question details]
 
-[... continue for all 10 questions ...]
+[... continue for all questions in this difficulty ...]
 ```
+
+**Special handling for EASY with 0 questions:**
+- Use the template shown in Step 5b Special Case 1
+- Set `question_count: 0`
+- Include statement: "Temat nie ujęty w poziomie szkoły podstawowej"
+
+**Special handling for HARD with 0 questions:**
+- If summary has no HARD topics and no specialized factual content
+- Create HARD file with statement:
+```markdown
+---
+epoch: "[EPOCH]"
+epoch_id: [ID]
+chapter: "[CHAPTER]"
+chapter_id: [ID]
+difficulty: "hard"
+question_count: 0
+created_at: "[TIMESTAMP]"
+---
+
+# Pytania poziom trudny - Brak pytań
+
+**Temat nie zawiera wystarczającej liczby tematów na poziomie rozszerzonym.**
+
+Ten rozdział, chociaż ważny z historycznego punktu widzenia, nie zawiera tematów wymagających analizy na poziomie rozszerzonym (liceum - zakres rozszerzony). Wszystkie istotne zagadnienia z tego okresu zostały objęte pytaniami na poziomie podstawowym (MEDIUM).
+
+Zgodnie z podstawą programową dla liceum (zakres rozszerzony), ten temat nie wymaga pytań typu analitycznego, syntetycznego lub oceny z perspektywy.
+
+---
+**Brak pytań do wyświetlenia.**
+```
+- Set `question_count: 0`
 
 **CRITICAL: Explanation Requirements**
 - Explanations must be SIMPLE and EASY to understand
@@ -330,43 +500,65 @@ Update history-data/state.json:
   "current_epoch": "[CURRENT_EPOCH]",
   "current_chapter": "[CURRENT_CHAPTER]",
   "current_difficulty": "all",
-  "questions_generated_this_session": [N+30],
-  "total_questions_generated": [TOTAL+30],
+  "questions_generated_this_session": [N + EASY_COUNT + MEDIUM_COUNT + HARD_COUNT],
+  "total_questions_generated": [TOTAL + EASY_COUNT + MEDIUM_COUNT + HARD_COUNT],
   "last_run": "[TIMESTAMP]",
   "status": "completed",
   "errors": [],
-  "batch_size": 30
+  "batch_size": [EASY_COUNT + MEDIUM_COUNT + HARD_COUNT]
 }
 ```
 
-Also increment ALL difficulty counters in history-data/questions-tracker.json by 10 each:
+**Important:** The batch size varies based on actual question counts:
+- EASY: 0, 3-5, or up to 10
+- MEDIUM: 10-15 (includes simple factual + analytical)
+- HARD: 0-5 (only if content warrants it)
+- Total: Typically 10-30 questions per chapter
+
+Also increment difficulty counters in history-data/questions-tracker.json:
 ```bash
 jq --arg epoch "[CURRENT_EPOCH]" \
-   --arg chapter "[CURRENT_CHAPTER]" \
-   '.tracking[$epoch][$chapter]["easy"] += 10 |
-    .tracking[$epoch][$chapter]["medium"] += 10 |
-    .tracking[$epoch][$chapter]["hard"] += 10 |
+   --arg chapter "[CHAPTER]" \
+   --arg easycount [EASY_COUNT] \
+   --arg mediumcount [MEDIUM_COUNT] \
+   --arg hardcount [HARD_COUNT] \
+   '.tracking[$epoch][$chapter]["easy"] += $easycount |
+    .tracking[$epoch][$chapter]["medium"] += $mediumcount |
+    .tracking[$epoch][$chapter]["hard"] += $hardcount |
     .last_updated = "[TIMESTAMP]"' \
    history-data/questions-tracker.json > history-data/questions-tracker.json.tmp && \
 mv history-data/questions-tracker.json.tmp history-data/questions-tracker.json
 ```
 
-IMPORTANT: Always generate exactly 10 questions per difficulty per chapter. No partial batches.
+**Replace counts with actual numbers:**
+- `[EASY_COUNT]`: 0 (not in curriculum), 3-5 (limited), or up to 10 (full)
+- `[MEDIUM_COUNT]`: 10-15 (based on content coverage)
+- `[HARD_COUNT]`: 0-5 (only if summary has HARD topics or specialized factual content)
+
+IMPORTANT: Question counts are flexible guidelines. Use common sense to cover each topic completely. HARD is optional - only generate if content warrants it.
 
 ## 11. All Questions Saved to Chapter Folder
-All 30 questions (10 per difficulty × 3 difficulties) are saved in THREE files in the chapter folder:
+All questions are saved in THREE files in the chapter folder:
+- EASY: Contains 0, 3-5, or up to 10 questions (based on curriculum coverage)
+- MEDIUM: Contains 10-15 questions (simple factual + analytical)
+- HARD: Contains 0-5 questions (only if content warrants analytical depth)
+
+Total: 10-30 questions per chapter (variable based on curriculum and content)
+
 ```
 history-data/{epoch_id}-{epoch_tech_name}/{chapter_id}-{chapter_tech_name}/
-  ├── {chapter_tech_name}_questions_easy.md
-  ├── {chapter_tech_name}_questions_medium.md
-  └── {chapter_tech_name}_questions_hard.md
+  ├── {chapter_tech_name}_questions_easy.md (0, 3-5, or up to 10 questions)
+  ├── {chapter_tech_name}_questions_medium.md (10-15 questions)
+  └── {chapter_tech_name}_questions_hard.md (0-5 questions)
 ```
 
 **FINAL FILE CHECK - Before committing, verify:**
 - [ ] Exactly THREE .md files were created for this epoch/chapter (one per difficulty)
 - [ ] The filenames have NO numbers (no -001, -002, etc.)
-- [ ] Each file contains ALL 10 questions for that difficulty
-- [ ] Each question has a unique Question ID (Q-XXX-001 through Q-XXX-010)
+- [ ] EASY file contains appropriate count based on curriculum (0, 3-5, or up to 10)
+- [ ] MEDIUM file contains 10-15 questions (includes simple factual if EASY not in curriculum)
+- [ ] HARD file contains 0-5 questions (only if summary had HARD topics or specialized content)
+- [ ] Each question has a unique Question ID
 - [ ] Summary file exists from Step 4
 
 If you see multiple numbered files (like `file-001.md`, `file-002.md`), **STOP** and consolidate them into the correct THREE files before committing.
@@ -382,15 +574,18 @@ CHAPTER_DIR="history-data/$(echo ${CURRENT_EPOCH_ID} | tr '[:upper:]' '[:lower:]
 git add "${CHAPTER_DIR}" history-data/state.json history-data/questions-tracker.json
 
 # Create commit with descriptive message
-git commit --no-verify -m "Add 30 questions for ${CURRENT_EPOCH}/${CURRENT_CHAPTER} (all difficulties: easy, medium, hard)"
+git commit --no-verify -m "Add [TOTAL_COUNT] questions for ${CURRENT_EPOCH}/${CURRENT_CHAPTER} (easy: [EASY_COUNT], medium: [MEDIUM_COUNT], hard: [HARD_COUNT])"
 ```
 
 **IMPORTANT:** Always use `--no-verify` flag to bypass any pre-commit hooks that might block automated commits. This ensures the loop can run fully autonomously.
 
 **Commit message format:**
 - Include epoch and chapter
-- Include number of questions added (30 for all difficulties)
-- Example: "Add 30 questions for Piastowie/Chrystianizacja (all difficulties: easy, medium, hard)"
+- Include total questions added and breakdown by difficulty
+- Examples:
+  - "Add 25 questions for Piastowie/Chrystianizacja (easy: 10, medium: 10, hard: 5)"
+  - "Add 20 questions for Piastowie/Zjednoczenie (easy: 0, medium: 15, hard: 5)" [simple factual moved to MEDIUM]
+  - "Add 15 questions for Piastowie/[CHAPTER] (easy: 3, medium: 12, hard: 0)" [no HARD topics]
 
 **DO NOT push to remote** - only commit locally. Pushing can be done manually by the user.
 
@@ -455,9 +650,28 @@ To generate 30 different questions for one chapter (10 per difficulty):
 
 # Key Differences from Previous Workflow
 
-1. **One loop per chapter, not per difficulty**: Generate all 30 questions (10 per difficulty × 3) in one iteration
-2. **MCP tools only**: Use polish-history MCP tools instead of web search (unlimited usage)
-3. **Chapter summary**: Created once and used as context for all difficulties
-4. **Centralized storage**: All files in history-data/{epoch}/{chapter}/ directory
-5. **Difficulty validation**: Use difficulty-reviewer skill to verify correct classification
-6. **State location**: history-data/state.json (moved from .claude/)
+1. **One loop per chapter, not per difficulty**: Generate all questions for all difficulties in one iteration
+2. **Curriculum-based EASY questions**: EASY question count varies (0, 3-5, or up to 10) based on primary school curriculum coverage
+   - Chapter summary verifies topic against curriculum
+   - If not in curriculum: EASY file contains only statement
+   - If limited coverage: Generate recommended count (3-5)
+   - If full coverage: Generate up to 10 questions
+3. **MEDIUM includes simple factual questions**: Simple question types (Kto? Co? Gdzie? Kiedy?) are NOT exclusive to EASY level
+   - When EASY is not in curriculum, these questions move to MEDIUM level
+   - MEDIUM covers both simple factual AND analytical questions
+   - This ensures all curriculum content is covered at appropriate level
+4. **HARD is optional and limited**: 0-5 questions maximum
+   - Only generate if summary identifies HARD-level analytical topics
+   - Can include specialized factual questions for content outside curriculum
+   - If summary lacks appropriate topics: HARD file contains statement only
+5. **Flexible question counts**: Question counts are guidelines, not hard rules
+   - Use common sense based on actual curriculum coverage and content
+   - EASY: 0, 3-5, or up to 10
+   - MEDIUM: 10-15 (includes simple factual + analytical)
+   - HARD: 0-5 (only if content warrants it)
+   - Total per chapter: 10-30 questions (variable)
+6. **MCP tools only**: Use polish-history MCP tools instead of web search (unlimited usage)
+7. **Chapter summary with curriculum verification**: Created once, includes EASY curriculum assessment and question count recommendation
+8. **Centralized storage**: All files in history-data/{epoch}/{chapter}/ directory
+9. **Difficulty validation**: Use difficulty-reviewer skill to verify correct classification
+10. **State location**: history-data/state.json (moved from .claude/)

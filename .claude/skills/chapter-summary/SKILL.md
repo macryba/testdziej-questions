@@ -93,56 +93,158 @@ Paragraph 3: Historical significance and legacy (why important)
 
 Analyze the chapter content and categorize topics by difficulty level based on curriculum files:
 
-#### **EASY Topics (szkoła podstawowa)**
-Characteristics:
+#### **EASY Topics (szkoła podstawowa) - WITH CURRICULUM VERIFICATION**
+
+**CRITICAL:** Before categorizing EASY topics, verify against primary school curriculum:
+1. Read `/home/macryba/testdziej-questions/history-data/podstawa/szkola_podstawowa_zpe.md`
+2. Check if the chapter topic appears in:
+   - **Dział IV:** 17 key figures (Mieszko, Bolesław Chrobry, Kazimierz Wielki, etc.)
+   - **Dział VI:** Rozbicie dzielnicowe and zjednoczenie (general coverage only)
+   - **Treści dodatkowe:** 9 optional topics
+3. Make a determination:
+
+**Case 1: Topic NOT in primary school curriculum**
+- Summary states: `**Temat nie ujęty w poziomie szkoły podstawowej.**`
+- No EASY topics listed
+- Recommendation: EASY questions file should contain only the statement
+
+**Case 2: Topic HAS limited curriculum coverage**
+- List available topics but note: `**Temat ograniczony w podstawie programowej.**`
+- Recommend specific question count: `**Zalecana liczba pytań EASY: X**` (where X = 3-5)
+- Only list topics that are actually in the curriculum
+
+**Case 3: Topic HAS full curriculum coverage**
+- List all relevant topics normally
+- Default recommendation: 10 questions
+
+Characteristics of EASY topics:
 - Concrete facts: who, what, where, when
 - Simple names, dates, places
 - No cause-and-effect analysis
-- Reference: `podstawa/szkola_podstawowa_zpe.md`
+- Reference: `/home/macryba/testdziej-questions/history-data/podstawa/szkola_podstawowa_zpe.md`
 
-**Example format:**
+**Example format (Case 1 - Not in curriculum):**
+```markdown
+## Tematy poziom EASY (szkoła podstawowa)
+
+**Temat nie ujęty w poziomie szkoły podstawowej.**
+
+Ten rozdział wykracza poza zakres podstawy programowej szkoły podstawowej (klasy IV-VIII). Zgodnie z podstawą programową, ten temat nie jest objęty wymaganiami dla szkoły podstawowej.
+
+**Uwaga:** Proste pytania faktyczne (Kto? Co? Gdzie? Kiedy?) związane z tym tematem powinny być zawarte w pytaniach poziomu średniego (MEDIUM).
+
+**Zalecana liczba pytań EASY:** 0 (plik z informacją o braku pytań)
+**Zalecana liczba pytań MEDIUM:** 10-15 (w tym pytania faktograficzne z podstawy programowej)
+```
+
+**Example format (Case 2 - Limited coverage):**
+```markdown
+## Tematy poziom EASY (szkoła podstawowa)
+
+**Temat ograniczony w podstawie programowej.**
+
+- **Postacie:** [Only figures listed in Dział IV]
+- **Wydarzenia:** [Only events from curriculum]
+- **Miejsca:** [Key locations from curriculum]
+- **Pojęcia:** [Basic terms from curriculum]
+
+**Zalecana liczba pytań EASY:** 3-5 (zgodnie z zakresem w podstawie programowej)
+```
+
+**Example format (Case 3 - Full coverage):**
 ```markdown
 ## Tematy poziom EASY (szkoła podstawowa)
 
 - **Postacie:** [Key figures with simple descriptions]
 - **Wydarzenia:** [Major events with dates]
-- **Miejsca:** **Important locations]
-- **Pojęcia:** **Basic terms]
+- **Miejsca:** [Important locations]
+- **Pojęcia:** [Basic terms]
+
+**Zalecana liczba pytań EASY:** 10
 ```
 
 #### **MEDIUM Topics (liceum - zakres podstawowy)**
 Characteristics:
-- Causes and effects: why, what effects
-- Analysis of processes and phenomena
-- Comparison of events
-- Reference: `podstawa/liceum_technikum_zpe.md` → ZAKRES PODSTAWOWY
+- **Simple factual questions (Kto? Co? Gdzie? Kiedy?)** - IMPORTANT: These are NOT exclusive to EASY level
+  - When EASY is not in curriculum, these questions belong in MEDIUM
+  - All simple factual questions from curriculum should be at MEDIUM level
+  - Examples: names, dates, places, events
+- **Analytical questions (Dlaczego? Jakie skutki?)**
+  - Causes and effects: why, what effects
+  - Analysis of processes and phenomena
+  - Comparison of events
+- Reference: `/home/macryba/testdziej-questions/history-data/podstawa/liceum_technikum_zpe.md` → ZAKRES PODSTAWOWY
 
-**Example format:**
+**Example format (when EASY IS in curriculum):**
 ```markdown
 ## Tematy poziom MEDIUM (liceum - zakres podstawowy)
 
 - **Przyczyny wydarzeń:** [What caused major events]
 - **Skutki historyczne:** [Consequences and effects]
 - **Procesy:** [Historical processes and developments]
-- **Porównania:** **Comparisons with other periods/events]
+- **Porównania:** [Comparisons with other periods/events]
+
+**Zalecana liczba pytań MEDIUM:** 10
+```
+
+**Example format (when EASY is NOT in curriculum):**
+```markdown
+## Tematy poziom MEDIUM (liceum - zakres podstawowy)
+
+**Uwaga:** Poziom łatwy (EASY) nie jest objęty podstawą programową dla tego tematu. Proste pytania faktograficzne (Kto? Co? Gdzie? Kiedy?) znajdują się na poziomie średnim.
+
+- **Pytania faktograficzne (Kto? Co? Gdzie? Kiedy?):**
+  - [Key figures from the period]
+  - [Major events with dates]
+  - [Important locations]
+  - [Basic terms and concepts]
+- **Przyczyny wydarzeń:** [What caused major events]
+- **Skutki historyczne:** [Consequences and effects]
+- **Procesy:** [Historical processes and developments]
+- **Porównania:** [Comparisons with other periods/events]
+
+**Zalecana liczba pytań MEDIUM:** 12-15 (z uwzględnieniem pytań faktograficznych)
 ```
 
 #### **HARD Topics (liceum - zakres rozszerzony)**
 Characteristics:
-- Analysis and synthesis
-- Evaluations from perspectives
-- Complex interdependencies
-- Detailed historiography
-- Reference: `podstawa/liceum_technikum_zpe.md` → ZAKRES ROZSZERZONY
+- **Analytical questions** (primary focus):
+  - Analysis and synthesis
+  - Evaluations from perspectives
+  - Complex interdependencies
+  - Detailed historiography
+  - Reference: `/home/macryba/testdziej-questions/history-data/podstawa/liceum_technikum_zpe.md` → ZAKRES ROZSZERZONY
+- **Specialized factual questions** (secondary):
+  - Simple question types (Kto? Co? Gdzie? Kiedy?) for topics NOT in curriculum
+  - Events, places, figures outside standard curriculum coverage
+  - More obscure but historically significant details
+  - Content not covered in liceum_technikum_zpe.md
 
-**Example format:**
+**Question count:** 0-5 maximum
+- Only generate if summary has clear HARD topics OR specialized factual content
+- If neither exists: HARD section should state "Brak pytań na poziomie rozszerzonym"
+
+**Example format (with HARD topics):**
 ```markdown
 ## Tematy poziom HARD (liceum - zakres rozszerzony)
 
 - **Analiza:** [Deep analysis of phenomena]
 - **Ocena z perspektywy:** [Evaluations from different viewpoints]
 - **Synteza:** [Synthesis of multiple factors]
-- **Interpretacje:** [Historiographical interpretations]
+- **Treści specjalistyczne (poza programem):** [Specialized factual content outside curriculum]
+
+**Zalecana liczba pytań HARD:** 3-5
+```
+
+**Example format (without HARD topics):**
+```markdown
+## Tematy poziom HARD (liceum - zakres rozszerzony)
+
+**Brak tematów na poziomie rozszerzonym.**
+
+Ten rozdział nie zawiera tematów wymagających analizy na poziomie rozszerzonym (zakres rozszerzony podstawy programowej). Wszystkie istotne zagadnienia zostały objęte poziomem podstawowym (MEDIUM).
+
+**Zalecana liczba pytań HARD:** 0
 ```
 
 ### Step 5: Create Summary File
@@ -170,6 +272,10 @@ Characteristics:
    period: "[start_year]-[end_year]"
    created_at: "[ISO 8601 timestamp]"
    summary_type: "chapter_overview"
+   easy_question_count: [0 or 3-5 or up to 10]
+   medium_question_count: [10-15]
+   hard_question_count: [0-5]
+   curriculum_coverage: ["none" or "limited" or "full"]
    ---
 
    # [Chapter short_name]: [Chapter long_name]
@@ -187,24 +293,22 @@ Characteristics:
 
    ## Tematy poziom EASY (szkoła podstawowa)
 
-   - **Postacie:** [...]
-   - **Wydarzenia:** [...]
-   - **Miejsca:** [...]
-   - **Pojęcia:** [...]
+   [One of three formats based on curriculum verification:
+   1. "Temat nie ujęty w podstawie programowej" + easy_question_count: 0
+   2. "Temat ograniczony" + topics list + easy_question_count: 3-5
+   3. Full topics list + easy_question_count: up to 10]
 
    ## Tematy poziom MEDIUM (liceum - zakres podstawowy)
 
-   - **Przyczyny wydarzeń:** [...]
-   - **Skutki historyczne:** [...]
-   - **Procesy:** [...]
-   - **Porównania:** [...]
+   [If EASY in curriculum: Focus on analytical topics]
+   [If EASY NOT in curriculum: Include simple factual + analytical topics]
+   [Recommended count varies: 10-15]
 
    ## Tematy poziom HARD (liceum - zakres rozszerzony)
 
-   - **Analiza:** [...]
-   - **Ocena z perspektywy:** [...]
-   - **Synteza:** [...]
-   - **Interpretacje:** [...]
+   [One of two formats:
+   1. With HARD topics: lista tematów analitycznych + treści specjalistyczne (0-5 pytań)
+   2. Without HARD topics: "Brak tematów na poziomie rozszerzonym" (0 pytań)]
    ```
 
 ## Working Modes
@@ -227,9 +331,21 @@ If you receive a chapter identifier (tech_name or full path):
        "medium": 6,
        "hard": 5
      },
+     "curriculum": {
+       "easy_coverage": "full",
+       "easy_question_count": 10,
+       "medium_question_count": 10,
+       "hard_question_count": 3
+     },
      "status": "success"
    }
    ```
+
+**Curriculum field values:**
+- `easy_coverage`: "none" | "limited" | "full"
+- `easy_question_count`: 0 | 3-5 | up to 10
+- `medium_question_count`: 10-15 (higher if EASY not in curriculum)
+- `hard_question_count`: 0-5 (only if HARD topics exist)
 4. Return exit code:
    - `0`: success (summary created)
    - `1`: failure (chapter not found or error)
@@ -306,10 +422,21 @@ The legacy of this period includes the foundation of Polish statehood, the estab
 
 1. **Research accuracy:** Always verify historical facts using multiple sources
 2. **Conciseness:** Keep summaries under 300 words - focus on essential information
-3. **Curriculum alignment:** Use curriculum files to ensure proper difficulty categorization
-4. **Source diversity:** Use both Wikipedia Polska and Dzieje.pl when available
-5. **Polish grammar:** Ensure high-quality Polish language (consider using polish-grammar-checker)
-6. **File organization:** Use consistent naming and location
+3. **Curriculum verification:**
+   - **CRITICAL for EASY level:** Always verify against `/home/macryba/testdziej-questions/history-data/podstawa/szkola_podstawowa_zpe.md`
+   - Check Dział IV (17 figures) and Dział VI (rozbicie dzielnicowe)
+   - Be honest about curriculum coverage - don't force topics into EASY if they're not there
+   - Mark topics as "none", "limited", or "full" coverage
+   - Recommend appropriate question counts (0, 3-5, or 10)
+4. **HARD topic identification:**
+   - Look for analytical, evaluative, or synthetic topics in the research
+   - Check against `/home/macryba/testdziej-questions/history-data/podstawa/liceum_technikum_zpe.md` → ZAKRES ROZSZERZONY
+   - Identify specialized factual content outside curriculum (obscure figures, detailed dates, specific locations)
+   - Be conservative - if no clear HARD topics exist, set count to 0
+   - HARD should be the exception, not the rule
+5. **Source diversity:** Use both Wikipedia Polska and Dzieje.pl when available
+6. **Polish grammar:** Ensure high-quality Polish language (consider using polish-grammar-checker)
+7. **File organization:** Use consistent naming and location
 
 ## Error Handling
 
@@ -323,8 +450,25 @@ The legacy of this period includes the foundation of Polish statehood, the estab
 This skill supports:
 - **Pre-generation research** - Understanding chapter before creating questions
 - **Topic mapping** - Identifying question topics by difficulty
+- **Curriculum verification** - Checking EASY topics against primary school curriculum
+- **Question count recommendation** - Suggesting appropriate question counts for all levels
 - **Content validation** - Ensuring questions align with chapter content
 - **Batch processing** - Creating summaries for multiple chapters
+
+**Workflow integration:**
+1. Chapter summary is created first (with curriculum verification)
+2. Question generation uses the summary's assessment:
+   - **EASY level:**
+     - If "none": Create EASY file with statement only (0 questions)
+     - If "limited": Generate recommended count (3-5 questions)
+     - If "full": Generate up to 10 questions
+   - **MEDIUM level:**
+     - If EASY "none" or "limited": Include simple factual questions + analytical (12-15 questions)
+     - If EASY "full": Focus on analytical questions (10 questions)
+   - **HARD level:**
+     - If summary has HARD topics OR specialized factual content: Generate 3-5 questions
+     - If summary has neither: Create HARD file with statement only (0 questions)
+3. Total questions per chapter: 10-30 (variable based on curriculum coverage and content depth)
 
 ---
 
