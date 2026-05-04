@@ -68,12 +68,12 @@
         "hard_completed": true
       },
       "Kazimierz Wielki": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 10,
+        "easy_completed": true,
+        "medium": 12,
+        "medium_completed": true,
+        "hard": 4,
+        "hard_completed": true
       }
     },
     "Jagiellonowie": {
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-04T20:25:00Z"
+  "last_updated": "2026-05-04T21:00:44Z"
 }
