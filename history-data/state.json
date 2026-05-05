@@ -1,11 +1,11 @@
 {
-  "current_epoch": "Międzywojnie",
-  "current_chapter": "Zagrożenie",
+  "current_epoch": "II WŚ",
+  "current_chapter": "Kampania wrześniowa",
   "current_difficulty": "all",
-  "questions_generated_this_session": 15,
-  "total_questions_generated": 384,
-  "last_run": "2026-05-05T13:40:00Z",
+  "questions_generated_this_session": 20,
+  "total_questions_generated": 404,
+  "last_run": "2026-05-05T12:10:51Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 15
+  "batch_size": 20
 }
