@@ -1,11 +1,11 @@
 {
-  "current_epoch": "II WŚ",
-  "current_chapter": "Wyzwolenie",
+  "current_epoch": "PRL",
+  "current_chapter": "Początki PRL",
   "current_difficulty": "all",
-  "questions_generated_this_session": 22,
-  "total_questions_generated": 518,
-  "last_run": "2026-05-05T19:45:00Z",
+  "questions_generated_this_session": 25,
+  "total_questions_generated": 543,
+  "last_run": "2026-05-05T20:30:00Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 22
+  "batch_size": 25
 }
