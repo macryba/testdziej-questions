@@ -1,11 +1,11 @@
 {
-  "current_epoch": "Rozbiory",
-  "current_chapter": "Praca organiczna",
+  "current_epoch": "Międzywojnie",
+  "current_chapter": "Odrodzenie",
   "current_difficulty": "all",
-  "questions_generated_this_session": 20,
-  "total_questions_generated": 277,
-  "last_run": "2026-05-05T11:30:00Z",
+  "questions_generated_this_session": 23,
+  "total_questions_generated": 300,
+  "last_run": "2026-05-05T10:06:28Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 20
+  "batch_size": 23
 }
