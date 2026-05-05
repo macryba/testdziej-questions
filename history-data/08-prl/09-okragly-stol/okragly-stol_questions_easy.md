@@ -1,0 +1,158 @@
+---
+epoch: "PRL"
+epoch_id: 8
+chapter: "Okrągły Stół"
+chapter_id: 9
+difficulty: "easy"
+question_count: 5
+created_at: "2026-05-05T17:45:00Z"
+session_start: "2026-05-05T17:30:00Z"
+session_end: "2026-05-05T17:45:00Z"
+tokens_input: 1500
+tokens_output: 3200
+tokens_total: 4700
+---
+
+# Pytania poziom łatwy - Okrągły Stół
+
+**Epoka:** PRL (1945-1989)
+**Rozdział:** Okrągły Stół (1989)
+
+## Kontekst historyczny
+
+Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną związaną z „Solidarnością", które odbyły się od 6 lutego do 5 kwietnia 1989 roku w Warszawie. Było to bezprecedensowe wydarzenie w historii krajów bloku wschodniego, które doprowadziło do częściowo wolnych wyborów i rozpoczęcia transformacji ustrojowej Polski. Główni uczestnicy to: Lech Wałęsa (przywódca „Solidarności"), gen. Czesław Kiszczak (minister spraw wewnętrznych) oraz mediatorzy z Kościoła katolickiego. Bezpośrednim skutkiem były wybory 4 czerwca 1989 roku, które zdecydowanie wygrała „Solidarność", co doprowadziło do powstania pierwszego niekomunistycznego rządu Tadeusza Mazowieckiego.
+
+---
+
+## Pytanie 1
+
+**Question ID:** Q-PRL-OS-001
+
+**Pytanie:** Kto był głównym przedstawicielem strony solidarnościowej podczas obrad Okrągłego Stołu w 1989 roku?
+
+**A.** Lech Wałęsa
+**B.** Czesław Kiszczak
+**C.** Tadeusz Mazowiecki
+**D.** Wojciech Jaruzelski
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Lech Wałęsa był liderem „Solidarności" i głównym negocjatorem strony opozycyjnej podczas obrad Okrągłego Stołu. Został wybrany na tę rolę przez Komitet Obywatelski przy przewodniczącym NSZZ „Solidarność".
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odpowiedź B (Czesław Kiszczak) – był głównym negocjatorem strony rządowej jako minister spraw wewnętrznych
+- Odpowiedź C (Tadeusz Mazowiecki) – był ważnym doradcą strony opozycyjnej, ale nie głównym negocjatorem
+- Odpowiedź D (Wojciech Jaruzelski) – był I sekretarzem PZPR, ale nie bezpośrednim uczestnikiem rozmów
+
+---
+
+## Pytanie 2
+
+**Question ID:** Q-PRL-OS-002
+
+**Pytanie:** Gdzie odbywały się główne obrady Okrągłego Stołu w 1989 roku?
+
+**A.** W Belwederze w Warszawie
+**B.** W Pałacu Namiestnikowskim w Warszawie
+**C.** W Zamku Królewskim w Warszawie
+**D.** W Pałacu Kultury i Nauki w Warszawie
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Obrady Okrągłego Stołu odbywały się w siedzibie Urzędu Rady Ministrów PRL w Pałacu Namiestnikowskim (obecnie Pałac Prezydencki) w Warszawie. Zarówno rozpoczęcie, jak i zakończenie negocjacji miało miejsce w tym budynku.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odpowiedź A (Belweder) – była to siedziba Rady Państwa, ale nie miejsce obrad Okrągłego Stołu
+- Odpowiedź C (Zamek Królewski) – nie był wykorzystywany do obrad Okrągłego Stołu
+- Odpowiedź D (Pałac Kultury i Nauki) – nie był miejscem negocjacji politycznych
+
+---
+
+## Pytanie 3
+
+**Question ID:** Q-PRL-OS-003
+
+**Pytanie:** Kiedy odbyły się wybory parlamentarne będące skutkiem porozumienia Okrągłego Stołu?
+
+**A.** 4 czerwca 1989 roku
+**B.** 13 grudnia 1981 roku
+**C.** 31 sierpnia 1980 roku
+**D.** 5 kwietnia 1989 roku
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Wybory parlamentarne, nazywane wyborami czerwcowymi lub wyborami kontraktowymi, odbyły się 4 czerwca 1989 roku (pierwsza tura) i 18 czerwca 1989 roku (druga tura). Były to pierwsze częściowo wolne wybory w historii Polski po II wojnie światowej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odpowiedź B (13 grudnia 1981) – to data wprowadzenia stanu wojennego w Polsce
+- Odpowiedź C (31 sierpnia 1980) – to data podpisania porozumień sierpniowych w Szczecinie
+- Odpowiedź D (5 kwietnia 1989) – to data zakończenia obrad Okrągłego Stołu, a nie wyborów
+
+---
+
+## Pytanie 4
+
+**Question ID:** Q-PRL-OS-004
+
+**Pytanie:** Kto został pierwszym niekomunistycznym premierem Polski po wyborach z 1989 roku?
+
+**A.** Lech Wałęsa
+**B.** Czesław Kiszczak
+**C.** Tadeusz Mazowiecki
+**D.** Wojciech Jaruzelski
+
+**Poprawna odpowiedź:** C
+
+**Wyjaśnienie:** Tadeusz Mazowiecki został pierwszym niekomunistycznym premierem Polski po II wojnie światowej. Jego rząd został powołany 24 sierpnia 1989 roku i zaczął proces transformacji ustrojowej Polski.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odpowiedź A (Lech Wałęsa) – został prezydentem Polski w 1990 roku, nie premierem
+- Odpowiedź B (Czesław Kiszczak) – był komunistycznym premierem przed wyborami w 1989 roku
+- Odpowiedź D (Wojciech Jaruzelski) – został prezydentem PRL w 1989 roku, nie premierem
+
+---
+
+## Pytanie 5
+
+**Question ID:** Q-PRL-OS-005
+
+**Pytanie:** Jaką organizację związkową zalegalizowano w wyniku porozumienia Okrągłego Stołu?
+
+**A.** OPZZ
+**B.** NSZZ „Solidarność"
+**C.** PZKS
+**D.** ZSL
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Jednym z najważniejszych postanowień Okrągłego Stołu była legalizacja NSZZ „Solidarność", która została zdelegalizowana po wprowadzeniu stanu wojennego w 1981 roku. Związek został ponownie zarejestrowany 17 kwietnia 1989 roku.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odpowiedź A (OPZZ) – to związek zależny od władz komunistycznych, utworzony w 1982 roku
+- Odpowiedź C (PZKS) – to Polskie Zjednoczenie Katolików Socjalnych, organizacja satelicka PZPR
+- Odpowiedź D (ZSL) – to Zjednoczone Stronnictwo Ludowe, partia satelicka PZPR
+
+---
+
+## Podsumowanie
+
+**Liczba pytań:** 5
+**Poziom:** Szkoła podstawowa (klasy IV-VIII) – temat ograniczony
+**Zakres tematyczny:** Główne postacie, wydarzenia, miejsca i pojęcia związane z Okrągłym Stołem
+
+**Uwaga:** Temat jest ograniczony w podstawie programowej szkoły podstawowej (Dział XXXIX. Dekada 1981-1989, punkt 3). Pełniejsze omówienie zagadnień analitycznych (przyczyny, skutki, procesy) znajduje się w pytaniach poziomu średniego (MEDIUM).
