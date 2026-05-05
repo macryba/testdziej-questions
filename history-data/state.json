@@ -1,11 +1,11 @@
 {
   "current_epoch": "III RP",
-  "current_chapter": "Transformacja",
+  "current_chapter": "Balcerowicz",
   "current_difficulty": "all",
-  "questions_generated_this_session": 24,
-  "total_questions_generated": 261,
-  "last_run": "2026-05-05T20:00:00Z",
+  "questions_generated_this_session": 19,
+  "total_questions_generated": 280,
+  "last_run": "2026-05-05T20:35:00Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 24
+  "batch_size": 19
 }
