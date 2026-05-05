@@ -358,12 +358,12 @@
         "hard_completed": true
       },
       "Wyzwolenie": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 5,
+        "easy_completed": true,
+        "medium": 12,
+        "medium_completed": true,
+        "hard": 5,
+        "hard_completed": true
       }
     },
     "PRL": {
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T18:45:00Z"
+  "last_updated": "2026-05-05T19:45:00Z"
 }
