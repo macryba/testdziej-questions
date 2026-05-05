@@ -1,16 +1,16 @@
 {
-  "current_epoch": "COMPLETED",
-  "current_chapter": "ALL",
+  "current_epoch": "Starożytność",
+  "current_chapter": "Pradzieje",
   "current_difficulty": "all",
-  "questions_generated_this_session": 0,
-  "total_questions_generated": 1256,
-  "last_run": "2026-05-05T19:30:00Z",
-  "status": "all_questions_completed",
+  "questions_generated_this_session": 18,
+  "total_questions_generated": 1274,
+  "last_run": "2026-05-05T23:56:10+00:00",
+  "status": "completed",
   "summary": {
     "easy": 292,
     "medium": 711,
     "hard": 253
   },
   "errors": [],
-  "batch_size": 0
+  "batch_size": 18
 }

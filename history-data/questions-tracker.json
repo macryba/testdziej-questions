@@ -2,20 +2,20 @@
   "tracking": {
     "Starożytność": {
       "Pradzieje": {
-        "easy": 10,
+        "easy": 0,
         "easy_completed": true,
-        "medium": 10,
+        "medium": 15,
         "medium_completed": true,
-        "hard": 10,
+        "hard": 3,
         "hard_completed": true
       },
       "Słowianie": {
-        "easy": 10,
-        "easy_completed": true,
-        "medium": 10,
-        "medium_completed": true,
-        "hard": 10,
-        "hard_completed": true
+        "easy": 0,
+        "easy_completed": false,
+        "medium": 0,
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       }
     },
     "Piastowie": {
@@ -28,28 +28,28 @@
         "hard_completed": true
       },
       "Ekspansja": {
-        "easy": 10,
-        "easy_completed": true,
-        "medium": 10,
-        "medium_completed": true,
-        "hard": 10,
-        "hard_completed": true
+        "easy": 0,
+        "easy_completed": false,
+        "medium": 0,
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Rozbicie dzielnicowe I": {
-        "easy": 10,
-        "easy_completed": true,
-        "medium": 10,
-        "medium_completed": true,
-        "hard": 10,
-        "hard_completed": true
+        "easy": 0,
+        "easy_completed": false,
+        "medium": 0,
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Najazd mongolski": {
-        "easy": 10,
-        "easy_completed": true,
-        "medium": 10,
-        "medium_completed": true,
-        "hard": 10,
-        "hard_completed": true
+        "easy": 0,
+        "easy_completed": false,
+        "medium": 0,
+        "medium_completed": false,
+        "hard": 0,
+        "hard_completed": false
       },
       "Zjednoczenie": {
         "easy": 10,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T19:24:00Z"
+  "last_updated": "2026-05-05T23:56:10+00:00"
 }
