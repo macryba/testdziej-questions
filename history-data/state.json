@@ -1,11 +1,11 @@
 {
   "current_epoch": "III RP",
-  "current_chapter": "Balcerowicz",
+  "current_chapter": "Rządy III RP",
   "current_difficulty": "all",
-  "questions_generated_this_session": 19,
-  "total_questions_generated": 280,
-  "last_run": "2026-05-05T20:35:00Z",
+  "questions_generated_this_session": 18,
+  "total_questions_generated": 298,
+  "last_run": 1778005712.921312,
   "status": "completed",
   "errors": [],
-  "batch_size": 19
+  "batch_size": 18
 }
