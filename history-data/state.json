@@ -1,11 +1,11 @@
 {
   "current_epoch": "III RP",
-  "current_chapter": "Rządy III RP",
+  "current_chapter": "Integracja",
   "current_difficulty": "all",
-  "questions_generated_this_session": 18,
-  "total_questions_generated": 298,
-  "last_run": 1778005712.921312,
+  "questions_generated_this_session": 21,
+  "total_questions_generated": 319,
+  "last_run": "2026-05-05T19:30:00Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 18
+  "batch_size": 21
 }
