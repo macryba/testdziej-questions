@@ -1,11 +1,11 @@
 {
-  "current_epoch": "III RP",
-  "current_chapter": "Integracja",
+  "current_epoch": "Piastowie",
+  "current_chapter": "Chrystianizacja",
   "current_difficulty": "all",
-  "questions_generated_this_session": 21,
-  "total_questions_generated": 319,
-  "last_run": "2026-05-05T19:30:00Z",
+  "questions_generated_this_session": 26,
+  "total_questions_generated": 345,
+  "last_run": "2026-05-05T19:07:02Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 21
+  "batch_size": 26
 }

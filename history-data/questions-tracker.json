@@ -22,9 +22,9 @@
       "Chrystianizacja": {
         "easy": 10,
         "easy_completed": true,
-        "medium": 10,
+        "medium": 12,
         "medium_completed": true,
-        "hard": 20,
+        "hard": 4,
         "hard_completed": true
       },
       "Ekspansja": {
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T19:30:00Z"
+  "last_updated": "2026-05-05T19:07:02Z"
 }
