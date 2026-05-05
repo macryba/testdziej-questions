@@ -250,12 +250,12 @@
         "hard_completed": true
       },
       "Powstanie styczniowe": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 5,
+        "easy_completed": true,
+        "medium": 15,
+        "medium_completed": true,
+        "hard": 5,
+        "hard_completed": true
       },
       "Praca organiczna": {
         "easy": 0,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T12:15:00Z"
+  "last_updated": "2026-05-05T09:21:14Z"
 }
