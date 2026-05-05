@@ -106,9 +106,9 @@ Complete ALL steps in .claude/instructions.md before exiting." &
     done
     log "✓ All Claude processes stopped"
 
-    # Pause before next iteration (minimum 15 minutes)
-    log "Pausing for 15 minutes before next iteration..."
-    sleep 900
+    # Pause before next iteration (minimum 10 minutes)
+    log "Pausing for 10 minutes before next iteration..."
+    sleep 600
 
     ITERATION=$((ITERATION + 1))
 done
