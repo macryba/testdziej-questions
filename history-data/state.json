@@ -1,11 +1,11 @@
 {
   "current_epoch": "Rzeczpospolita",
-  "current_chapter": "Unia Lubelska",
+  "current_chapter": "Wazowie",
   "current_difficulty": "all",
-  "questions_generated_this_session": 20,
-  "total_questions_generated": 229,
-  "last_run": "2026-05-05T12:30:00Z",
+  "questions_generated_this_session": 15,
+  "total_questions_generated": 244,
+  "last_run": "2026-05-05T13:25:00Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 20
+  "batch_size": 15
 }
