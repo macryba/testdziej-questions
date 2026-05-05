@@ -226,12 +226,12 @@
         "hard_completed": true
       },
       "Kongresówka": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 5,
+        "easy_completed": true,
+        "medium": 12,
+        "medium_completed": true,
+        "hard": 3,
+        "hard_completed": true
       },
       "Powstanie listopadowe": {
         "easy": 0,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T07:26:23Z"
+  "last_updated": "2026-05-05T08:05:30Z"
 }

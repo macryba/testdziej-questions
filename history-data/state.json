@@ -1,11 +1,11 @@
 {
   "current_epoch": "Rozbiory",
-  "current_chapter": "Księstwo Warszawskie",
+  "current_chapter": "Kongresówka",
   "current_difficulty": "all",
-  "questions_generated_this_session": 23,
-  "total_questions_generated": 167,
-  "last_run": "2026-05-05T07:26:23Z",
+  "questions_generated_this_session": 20,
+  "total_questions_generated": 187,
+  "last_run": "2026-05-05T08:05:30Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 23
+  "batch_size": 20
 }
