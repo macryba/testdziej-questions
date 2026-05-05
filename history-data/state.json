@@ -1,11 +1,11 @@
 {
   "current_epoch": "Rzeczpospolita",
-  "current_chapter": "Czasy saskie",
+  "current_chapter": "Oświecenie",
   "current_difficulty": "all",
-  "questions_generated_this_session": 5,
-  "total_questions_generated": 334,
-  "last_run": "2026-05-05T04:36:35Z",
+  "questions_generated_this_session": 25,
+  "total_questions_generated": 359,
+  "last_run": "2026-05-05T15:30:00Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 5
+  "batch_size": 25
 }

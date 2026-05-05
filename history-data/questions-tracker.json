@@ -184,12 +184,12 @@
         "hard_completed": true
       },
       "Oświecenie": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 5,
+        "easy_completed": true,
+        "medium": 15,
+        "medium_completed": true,
+        "hard": 5,
+        "hard_completed": true
       },
       "Upadek": {
         "easy": 0,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T04:36:35Z"
+  "last_updated": "2026-05-05T15:30:00Z"
 }
