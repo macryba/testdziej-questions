@@ -342,12 +342,12 @@
         "hard_completed": true
       },
       "Powstanie warszawskie": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 3,
+        "easy_completed": true,
+        "medium": 15,
+        "medium_completed": true,
+        "hard": 5,
+        "hard_completed": true
       },
       "Holocaust": {
         "easy": 0,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T13:00:00Z"
+  "last_updated": "2026-05-05T16:45:00Z"
 }
