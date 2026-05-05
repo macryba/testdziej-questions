@@ -127,11 +127,11 @@
       },
       "Zygmunt August": {
         "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy_completed": true,
+        "medium": 12,
+        "medium_completed": true,
+        "hard": 4,
+        "hard_completed": true
       }
     },
     "Rzeczpospolita": {
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-04T23:43:01+00:00"
+  "last_updated": "2026-05-05T00:03:14Z"
 }
