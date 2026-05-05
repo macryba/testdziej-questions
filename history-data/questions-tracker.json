@@ -442,12 +442,12 @@
     },
     "III RP": {
       "Transformacja": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 5,
+        "easy_completed": true,
+        "medium": 15,
+        "medium_completed": true,
+        "hard": 4,
+        "hard_completed": true
       },
       "Balcerowicz": {
         "easy": 0,
@@ -475,5 +475,5 @@
       }
     }
   },
-  "last_updated": "2026-05-05T17:32:53Z"
+  "last_updated": "2026-05-05T20:00:00Z"
 }
