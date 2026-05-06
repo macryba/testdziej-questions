@@ -36,20 +36,20 @@
         "hard_completed": true
       },
       "Rozbicie dzielnicowe I": {
-        "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "easy": 5,
+        "medium": 12,
+        "hard": 4,
+        "easy_completed": true,
+        "medium_completed": true,
+        "hard_completed": true
       },
       "Najazd mongolski": {
         "easy": 0,
-        "easy_completed": false,
-        "medium": 0,
-        "medium_completed": false,
-        "hard": 0,
-        "hard_completed": false
+        "medium": 15,
+        "hard": 3,
+        "easy_completed": true,
+        "medium_completed": true,
+        "hard_completed": true
       },
       "Zjednoczenie": {
         "easy": 10,
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-06T00:32:48Z",
+  "last_updated": "2026-05-06T13:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,

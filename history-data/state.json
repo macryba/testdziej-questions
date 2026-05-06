@@ -1,30 +1,30 @@
 {
   "current_epoch": "Piastowie",
-  "current_chapter": "Ekspansja",
+  "current_chapter": "Najazd mongolski",
   "current_difficulty": "all",
-  "questions_generated_this_session": 15,
-  "total_questions_generated": 1307,
-  "last_run": "2026-05-06T00:32:48Z",
+  "questions_generated_this_session": 18,
+  "total_questions_generated": 1325,
+  "last_run": "2026-05-06T13:00:00Z",
   "status": "completed",
-  "summary": {
-    "easy": 292,
-    "medium": 735,
-    "hard": 259
-  },
   "errors": [],
-  "batch_size": 15,
+  "batch_size": 18,
+  "summary": {
+    "easy": 0,
+    "medium": 15,
+    "hard": 3
+  },
   "tracking": {
     "Piastowie": {
-      "Ekspansja": {
-        "easy": "0",
+      "Najazd mongolski": {
+        "easy": 0,
         "easy_completed": true,
-        "medium": "12",
+        "medium": 15,
         "medium_completed": true,
-        "hard": "3",
+        "hard": 3,
         "hard_completed": true
       }
     }
   },
-  "last_updated": "2026-05-06T00:32:48Z",
-  "total_questions": 15
+  "last_updated": "2026-05-06T13:00:00Z",
+  "total_questions": 18
 }
