@@ -3,9 +3,16 @@
   "current_chapter": "All chapters completed",
   "current_difficulty": "all",
   "questions_generated_this_session": 0,
-  "total_questions_generated": 1020,
-  "last_run": "2026-05-06T01:43:57Z",
+  "total_questions_generated": 1196,
+  "last_run": "2026-05-06T14:00:00Z",
   "status": "completed",
   "errors": [],
-  "batch_size": 0
+  "batch_size": 0,
+  "summary": {
+    "easy": 250,
+    "medium": 727,
+    "hard": 219,
+    "total": 1196
+  },
+  "note": "All 57 chapters completed with curriculum-appropriate question counts. EASY: 250, MEDIUM: 727, HARD: 219. Chapters have 0-10 questions per difficulty based on curriculum coverage and content depth."
 }
