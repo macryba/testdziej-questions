@@ -1,15 +1,15 @@
 {
   "current_epoch": "Starożytność",
-  "current_chapter": "Pradzieje",
+  "current_chapter": "Słowianie",
   "current_difficulty": "all",
   "questions_generated_this_session": 18,
-  "total_questions_generated": 1274,
-  "last_run": "2026-05-05T23:56:10+00:00",
+  "total_questions_generated": 1292,
+  "last_run": "2026-05-06T00:14:56Z",
   "status": "completed",
   "summary": {
     "easy": 292,
-    "medium": 711,
-    "hard": 253
+    "medium": 723,
+    "hard": 256
   },
   "errors": [],
   "batch_size": 18
