@@ -56,15 +56,24 @@
 - ✅ 03-ksiestwo-warszawskie - 2026-05-07 [TIME] - 19b4424
 - ✅ 04-kongresowka - 2026-05-07 [TIME] - (verified, no changes)
 - ✅ 05-powstanie-listopadowe - 2026-05-07 [TIME] - 195019c
-- ⏳ 06-wiosna-ludow
-- ⏳ 07-powstanie-styczniowe
-- ⏳ 08-praca-organiczna
-- **Progress:** 5/8 (62%)
+- ✅ 06-wiosna-ludow - 2026-05-07 [TIME] - c0f2c5d
+- ✅ 07-powstanie-styczniowe - 2026-05-07 [TIME] - 429197c
+- ✅ 08-praca-organiczna - 2026-05-07 [TIME] - (verified, no changes)
+- **Progress:** 8/8 (100%) ✅
 
-### Remaining Epochs (~18 chapters)
+### 06-miedzywojnie (6 chapters)
+- ✅ 01-odrodzenie - 2026-05-07 [TIME] - 820c889
+- ✅ 02-wojna-bolszewicka - 2026-05-07 [TIME] - d18b70c
+- ⏳ 03-budowa-panstwa
+- ⏳ 04-przewrot-majowy
+- ⏳ 05-sanacja
+- ⏳ 06-zagrozenie
+- **Progress:** 2/6 (33%)
+
+### Remaining Epochs (~12 chapters)
 - ⏳ All chapters pending
 
-**Overall Progress:** 32/48 (67%) 🔄
+**Overall Progress:** 37/48 (77%) 🔄
 
 ---
 
@@ -463,7 +472,7 @@
 ## Notes
 
 - **Resume Capability:** ✅ Fully functional - coordinator will read this log and continue from next chapter
-- **Next Chapter:** 05-rozbiory/06-wiosna-ludow
+- **Next Chapter:** 06-miedzywojnie/03-budowa-panstwa
 - **Error Handling:** No errors encountered yet
 - **Manual Review Needed:** None
 
