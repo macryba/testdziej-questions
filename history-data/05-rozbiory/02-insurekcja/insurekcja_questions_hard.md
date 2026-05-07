@@ -7,10 +7,12 @@ difficulty: "hard"
 question_count: 4
 created_at: "2026-05-05T19:30:00Z"
 session_start: "2026-05-05T18:00:00Z"
-session_end: "2026-05-05T19:30:00Z"
+session_end: "2026-05-07T12:00:00Z"
 tokens_input: 0
 tokens_output: 0
 tokens_total: 0
+corrected_at: "2026-05-07T12:00:00Z"
+correction_reason: "Difficulty level review completed - no changes needed for HARD level"
 ---
 
 # Pytania poziom trudny - Insurekcja Kościuszkowska

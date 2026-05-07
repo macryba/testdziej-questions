@@ -4,20 +4,22 @@ epoch_id: 5
 chapter: "Insurekcja"
 chapter_id: 2
 difficulty: "medium"
-question_count: 15
+question_count: 16
 created_at: "2026-05-05T19:00:00Z"
 session_start: "2026-05-05T18:00:00Z"
-session_end: "2026-05-05T19:00:00Z"
+session_end: "2026-05-07T12:00:00Z"
 tokens_input: 0
 tokens_output: 0
 tokens_total: 0
+corrected_at: "2026-05-07T12:00:00Z"
+correction_reason: "Difficulty level corrections - 2 questions added from EASY, 1 question moved to EASY"
 ---
 
 # Pytania poziom średni - Insurekcja Kościuszkowska
 
 ## Kontekst historyczny
 
-Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko Rosji i Prusom, które wybuchło po drugim rozbiorze Polski. Na czele stanął Tadeusz Kościuszko, który jako Naczelnik Siły Zbrojnej Narodowej złożył przysięgę 24 marca 1794 roku w Krakowie. Powstanie charakteryzowało się masowym udziałem chłopów (kosynierów) i mieszczan, a także reformami społecznymi takimi jak Uniwersał Połaniecki ograniczający pańszczyznę. Mimo zwycięstwa pod Racławicami i insurekcji warszawskiej powstanie zakończyło się klęską pod Maciejowicami i rzezią Pragi, co doprowadziło do trzeciego rozbioru Polski i zniknięcia państwa z mapy Europy na 123 lata.
+Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko Rosji i Prusom, które wybuchło po drugim rozbiorze Polski. Na czele stanął Tadeusz Kościuszko, który jako Naczelnik Siły Zbrojnej Narodowej złożył przysięgę 24 marca 1794 roku w Krakowie. Powstanie charakteryzowało się masowym udziałem chlopów (kosynierów) i mieszczan, a także reformami społecznymi takimi jak Uniwersał Połaniecki ograniczający pańszczyznę. Mimo zwycięstwa pod Racławicami i insurekcji warszawskiej powstanie zakończyło się klęską pod Maciejowicami i rzezią Pragi, co doprowadziło do trzeciego rozbioru Polski i zniknięcia państwa z mapy Europy na 123 lata.
 
 ---
 
@@ -54,7 +56,7 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 
 **A.** Nadanie ziemi chłopom walczącym w powstaniu
 **B.** Ograniczenie pańszczyzny i zapewnienie opieki rządowej chłopom
-**C.** zniesienie poddaństwa chłopów
+**C.** Zniesienie poddaństwa chłopów
 **D.** Prawo głosu dla chłopów w sejmie
 
 **Prawidłowa odpowiedź:** B
@@ -195,8 +197,8 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odp B: Przywrócenie Konstytucji 3 maja było ważnym celem politycznym, alenegłównym celem militarnym.
-- Odp C: Zniesienie pańszczyzny było środkiem do pozyskania poparcia chłopów, negłównym celem.
+- Odp B: Przywrócenie Konstytucji 3 maja było ważnym celem politycznym, ale nie głównym celem militarnym.
+- Odp C: Zniesienie pańszczyzny było środkiem do pozyskania poparcia chłopów, nie głównym celem.
 - Odp D: Pomoc od Francji była pożądana, ale nie była głównym celem powstania.
 
 ---
@@ -377,7 +379,7 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Konstytucja 3 miała miejsce w 1791 roku, dwa lata przed drugim rozbiorem.
+- Odp A: Konstytucja 3 maja miała miejsce w 1791 roku, dwa lata przed drugim rozbiorem.
 - Odp C: Redukcja wojska była skutkiem drugiego rozbioru, nie jego przyczyną.
 - Odp D: Wybór Stanisława Augusta miał miejsce w 1764 roku.
 
@@ -387,31 +389,57 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 
 **Question ID:** Q-INS-M-015
 
-**Pytanie:** Jaką nową formację wojskową stworzył Kościuszko w czasie insurekcji?
+**Pytanie:** Która bitwa z 1794 roku przyniosła zwycięstwo wojskom polskim dowodzonym przez Kościuszkę?
 
-**A.** Husarię
-**B.** Kosynierów
-**C.** legiony polskie
-**D.** Strzelców konnych
+**A.** Bitwa pod Maciejowicami
+**B.** Bitwa pod Szczekocinami
+**C.** Bitwa pod Racławicami
+**D.** Obrona Pragi
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
-**Wyjaśnienie:** Kościuszko stworzył formację kosynierów – chłopów uzbrojonych w kosy i piki, którzy odnieśli sławę w bitwie pod Racławicami. Była to nowa formacja wojskowa w polskiej armii.
+**Wyjaśnienie:** Bitwa pod Racławicami (4 kwietnia 1794) była pierwszym zwycięstwem insurekcji kościuszkowskiej. Kosynierzy pod dowództwem Wojciecha Bartosza Głowackiego odegrali w niej kluczową rolę, zdobywając rosyjskie armaty.
 
 **Źródła:**
-- https://pl.wikipedia.org/wiki/Kosynierzy
-- https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
+- https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Husaria była starą formacją kawaleryjską, nienową formacją Kościuszki.
-- Odp C: legiony polskie zostały utworzone później, przez Jana Henryka Dąbrowskiego we Włoszech.
-- Odp D: Strzelcy konni istnieli wcześniej w polskiej armii.
+- Odp A: Bitwa pod Maciejowicami zakończyła się klęską Polaków i niewolą Kościuszki.
+- Odp B: Bitwa pod Szczekocinami była zacięta, ale nie przyniosła zwycięstwa.
+- Odp D: Obrona Pragi zakończyła się masakrą ludności przez wojska rosyjskie.
+
+---
+
+## Pytanie 16
+
+**Question ID:** Q-INS-M-016
+
+**Pytanie:** Który chłop-żołnierz wsławił się w bitwie pod Racławicami i został awansowany na chorążego?
+
+**A.** Jan Kiliński
+**B.** Józef Zajączek
+**C.** Wojciech Bartosz Głowacki
+**D.** Jakub Jasiński
+
+**Prawidłowa odpowiedź:** C
+
+**Wyjaśnienie:** Wojciech Bartosz Głowacki był chłopem, który w bitwie pod Racławicami gasił lont od dział rosyjskich własnym nakryciem głowy. Za tę odwagę Kościuszko awansował go na chorążego.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Wojciech_Bartosz_G%C5%82owacki
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp A: Jan Kiliński był kupcem i przywódcą insurekcji warszawskiej, nie kosynierem.
+- Odp B: Józef Zajączek był generałem wojsk polskich, nie chłopem.
+- Odp D: Jakub Jasiński był generałem i dowódcą insurekcji wileńskiej, nie kosynierem.
 
 ---
 
 ## Podsumowanie
 
-**Liczba pytań:** 15
+**Liczba pytań:** 16
 **Poziom trudności:** średni (liceum - zakres podstawowy)
 **Zakres tematyczny:** Szczegółowe informacje o insurekcji kościuszkowskiej, w tym pytania faktograficzne i analityczne
 

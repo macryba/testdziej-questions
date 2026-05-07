@@ -4,13 +4,15 @@ epoch_id: 5
 chapter: "Insurekcja"
 chapter_id: 2
 difficulty: "easy"
-question_count: 5
+question_count: 4
 created_at: "2026-05-05T18:30:00Z"
 session_start: "2026-05-05T18:00:00Z"
-session_end: "2026-05-05T18:30:00Z"
+session_end: "2026-05-07T12:00:00Z"
 tokens_input: 0
 tokens_output: 0
 tokens_total: 0
+corrected_at: "2026-05-07T12:00:00Z"
+correction_reason: "Difficulty level corrections - 2 questions moved to MEDIUM, 1 question added from MEDIUM"
 ---
 
 # Pytania poziom łatwy - Insurekcja Kościuszkowska
@@ -103,57 +105,31 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 
 **Question ID:** Q-INS-E-004
 
-**Pytanie:** Która bitwa z 1794 roku przyniosła zwycięstwo wojskom polskim dowodzonym przez Kościuszkę?
+**Pytanie:** Jaką nową formację wojskową stworzył Kościuszko w czasie insurekcji?
 
-**A.** Bitwa pod Maciejowicami
-**B.** Bitwa pod Szczekocinami
-**C.** Bitwa pod Racławicami
-**D.** Obrona Pragi
+**A.** Husarię
+**B.** Kosynierów
+**C.** Legiony polskie
+**D.** Strzelców konnych
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** B
 
-**Wyjaśnienie:** Bitwa pod Racławicami (4 kwietnia 1794) była pierwszym zwycięstwem insurekcji kościuszkowskiej. Kosynierzy pod dowództwem Wojciecha Bartosza Głowackiego odegrali w niej kluczową rolę, zdobywając rosyjskie armaty.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
-- https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
-
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Bitwa pod Maciejowicami zakończyła się klęską Polaków i niewolą Kościuszki.
-- Odp B: Bitwa pod Szczekocinami była zacięta, ale nie przyniosła zwycięstwa.
-- Odp D: Obrona Pragi zakończyła się masakrą ludności przez wojska rosyjskie.
-
----
-
-## Pytanie 5
-
-**Question ID:** Q-INS-E-005
-
-**Pytanie:** Który chłop-żołnierz wsławił się w bitwie pod Racławicami i został awansowany na chorążego?
-
-**A.** Jan Kiliński
-**B.** Józef Zajączek
-**C.** Wojciech Bartosz Głowacki
-**D.** Jakub Jasiński
-
-**Prawidłowa odpowiedź:** C
-
-**Wyjaśnienie:** Wojciech Bartosz Głowacki był chłopem, który w bitwie pod Racławicami gasił lont od dział rosyjskich własnym nakryciem głowy. Za tę odwagę Kościuszko awansował go na chorążego.
+**Wyjaśnienie:** Kościuszko stworzył formację kosynierów – chłopów uzbrojonych w kosy i piki, którzy odnieśli sławę w bitwie pod Racławicami. Była to nowa formacja wojskowa w polskiej armii.
 
 **Źródła:**
-- https://pl.wikipedia.org/wiki/Wojciech_Bartosz_G%C5%82owacki
-- https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
+- https://pl.wikipedia.org/wiki/Kosynierzy
+- https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Jan Kiliński był kupcem i przywódcą insurekcji warszawskiej, nie kosynierem.
-- Odp B: Józef Zajączek był generałem wojsk polskich, nie chłopem.
-- Odp D: Jakub Jasiński był generałem i dowódcą insurekcji wileńskiej, nie kosynierem.
+- Odp A: Husaria była starą formacją kawaleryjską, nienową formacją Kościuszki.
+- Odp C: Legiony polskie zostały utworzone później, przez Jana Henryka Dąbrowskiego we Włoszech.
+- Odp D: Strzelcy konni istnieli wcześniej w polskiej armii.
 
 ---
 
 ## Podsumowanie
 
-**Liczba pytań:** 5
+**Liczba pytań:** 4
 **Poziom trudności:** łatwy (szkoła podstawowa)
 **Zakres tematyczny:** Podstawowe informacje o insurekcji kościuszkowskiej zgodne z podstawą programową szkoły podstawowej
 
