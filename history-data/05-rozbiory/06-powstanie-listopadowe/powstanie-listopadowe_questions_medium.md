@@ -4,22 +4,25 @@ epoch_id: 5
 chapter: "Powstanie listopadowe"
 chapter_id: 6
 difficulty: "medium"
-question_count: 15
+question_count: 14
 created_at: "2026-05-05T09:30:00Z"
 session_start: "2026-05-05T09:00:00Z"
 session_end: "2026-05-05T10:30:00Z"
 tokens_input: 0
 tokens_output: 0
 tokens_total: 0
+corrected_at: "2026-05-07T12:00:00Z"
+correction_reason: "Moved Q-ROZ-PM-010 and Q-ROZ-PM-013 to HARD (require synthesis/complex analysis). Added Q-ROZ-PL-003 from EASY."
 ---
 
 # Powstanie listopadowe - Pytania poziom średni
 
 ## Szczegóły pliku
 - **Plik:** `powstanie-listopadowe_questions_medium.md`
-- **Liczba pytań:** 15
+- **Liczba pytań:** 14
 - **Poziom:** Średni (liceum - zakres podstawowy)
 - **Data utworzenia:** 2026-05-05
+- **Data korekty:** 2026-05-07
 - **Uwagi:** Zawiera pytania faktograficzne oraz analityczne
 
 ## Kontekst historyczny
@@ -90,6 +93,33 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ## Pytanie 3
 
+**Question ID:** Q-ROZ-PL-003
+
+**Pytanie:** W której bitwie powstania listopadowego Polacy odnieśli taktyczne zwycięstwo mimo niekorzystnego stosunku sił?
+
+**A:** Pod Ostrołęką
+**B:** O Olszynkę Grochowską
+**C:** Pod Stoczkiem
+**D:** Pod Wawrem
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Bitwa o Olszynkę Grochowską stoczona 25 lutego 1831 roku była taktycznym sukcesem Polaków. Choć nie udało się rozbić wojsk rosyjskich, to polska armia powstrzymała marsz na Warszawę i udowodniła swoją wartość bojową, co podniosło morale narodu.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Powstanie_listopadowe
+- https://pl.wikipedia.org/wiki/Bitwa_o_Olszynk%C4%99_Grochowsk%C4%85
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Pod Ostrołęką Polacy ponieśli porażkę w maju 1831 roku
+- Pod Stoczkiem i Wawrem Polacy odnieśli zwycięstwa, ale Olszynka Grochowska była najważniejszym strategicznie starciem
+
+**Uwaga:** To pytanie zostało przeniesione z poziomu łatwego (EASY) do średniego (MEDIUM), ponieważ nazwy konkretnych bitew nie są objęte podstawą programową szkoły podstawowej.
+
+---
+
+## Pytanie 4
+
 **Question ID:** Q-ROZ-PM-003
 
 **Pytanie:** Jaką bitwę przegrano 26 maja 1831 roku, co załamało morale wojsk polskich?
@@ -113,7 +143,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ---
 
-## Pytanie 4
+## Pytanie 5
 
 **Question ID:** Q-ROZ-PM-004
 
@@ -139,7 +169,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ---
 
-## Pytanie 5
+## Pytanie 6
 
 **Question ID:** Q-ROZ-PM-005
 
@@ -164,7 +194,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ---
 
-## Pytanie 6
+## Pytanie 7
 
 **Question ID:** Q-ROZ-PM-006
 
@@ -189,7 +219,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ---
 
-## Pytanie 7
+## Pytanie 8
 
 **Question ID:** Q-ROZ-PM-007
 
@@ -214,7 +244,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ---
 
-## Pytanie 8
+## Pytanie 9
 
 **Question ID:** Q-ROZ-PM-008
 
@@ -239,7 +269,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ---
 
-## Pytanie 9
+## Pytanie 10
 
 **Question ID:** Q-ROZ-PM-009
 
@@ -265,36 +295,11 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ---
 
-## Pytanie 10
-
-**Question ID:** Q-ROZ-PM-010
-
-**Pytanie:** Dlaczego powstanie listopadowe ostatecznie upadło?
-
-**A:** Bo car Mikołaj I osobiście dowodził wojskami rosyjskimi
-**B:** Bo wojska polskie były mniej liczne niż rosyjskie
-**C:** Bo władze powstańcze popełniły błędy strategiczne i nie zyskały poparcia chłopów
-**D:** Bo powstańcy nie mieli broni i amunicji
-
-**Prawidłowa odpowiedź:** C
-
-**Wyjaśnienie:** Klęska powstania wynikała z kombinacji czynników: błędów strategicznych wodzów naczelnych (zwłoka z atakami na wojska rosyjskie osłabione przez cholerę), braku poparcia ze strony chłopów (którzy nie otrzymali obietnicy uwłaszczenia), przewagi militarnej Rosji oraz braku pomocy z zagranicy. Władze konserwatywne nie chciały zbyt radykalnych reform, które mogłyby zyskać masowe poparcie.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Powstanie_listopadowe
-
-**Analiza nieprawidłowych odpowiedzi:**
-- Car nie dowodził osobiście wojskami
-- Przewaga liczebna była jednym z czynników, ale nie jedynym
-- Brak i amunicji nie był głównym problemem
-
----
-
 ## Pytanie 11
 
 **Question ID:** Q-ROZ-PM-011
 
-**Pytanie:** Która konstytucja gwarantowała autonomię Królestwu Polskiemu przed wybuchiem powstania?
+**Pytanie:** Która konstytucja gwarantowała autonomię Królestwu Polskiemu przed wybuchem powstania?
 
 **A:** Konstytucja 3 maja
 **B:** Konstytucja Księstwa Warszawskiego
@@ -343,32 +348,6 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ## Pytanie 13
 
-**Question ID:** Q-ROZ-PM-013
-
-**Pytanie:** Jakie pozytywne skutki miało powstanie listopadowe dla innych narodów Europy?
-
-**A:** Wyzwoliło państwa bałtyckie spod panowania Rosji
-**B:** Uchroniło Belgię przed interwencją rosyjską
-**C:** Obaliło monarchię we Francji
-**D:** Zakończyło Święty Przymierze
-
-**Prawidłowa odpowiedź:** B
-
-**Wyjaśnienie:** Powstanie listopadowe zajęło wojska rosyjskie, które nie mogły interweniować w Belgii, gdzie trwała rewolucja niepodległościowa. Dzięki temu Belgia mogła uzyskać niepodległość bez rosyjskiej interwencji. Społeczeństwo belgijskie było wdzięczne Polakom i przyjmowało polskich emigrantów po klęsce powstania.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Powstanie_listopadowe
-- https://pl.wikipedia.org/wiki/Rewolucja_belgijska
-
-**Analiza nieprawidłowych odpowiedzi:**
-- Państwa bałtyckie nie uzyskały niepodległości
-- Monarchia we Francji upadła wcześniej
-- Święty Przymierze trwało dalej
-
----
-
-## Pytanie 14
-
 **Question ID:** Q-ROZ-PM-014
 
 **Pytanie:** Kiedy Warszawa skapitulowała przed wojskami rosyjskimi?
@@ -388,12 +367,12 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 **Analiza nieprawidłowych odpowiedzi:**
 - 25 lutego była bitwa o Olszynkę Grochowską
-- 26 maja była bitwa pod Ostrołęką
+- 26 maja była bitwa pod Ostrołenką
 - 21 października skapitulowała twierdza Zamość
 
 ---
 
-## Pytanie 15
+## Pytanie 14
 
 **Question ID:** Q-ROZ-PM-015
 
@@ -421,10 +400,10 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 ## Podsumowanie pliku
 
-**Liczba pytań:** 15
+**Liczba pytań:** 14
 **Zakres tematyczny:**
-- **Pytania faktograficzne:** 8 (postacie, daty, miejsca, instytucje)
-- **Pytania analityczne:** 7 (przyczyny, skutki, mechanizmy)
+- **Pytania faktograficzne:** 11 (postacie, daty, miejsca, instytucje)
+- **Pytania analityczne:** 3 (przyczyny, skutki, mechanizmy)
 
 **Tematy:**
 - Postacie: Józef Chłopicki, Jan Skrzynecki, Maurycy Mochnacki, Joachim Lelewel
@@ -433,6 +412,8 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - Instytucje: Rząd Narodowy, Towarzystwo Patriotyczne, Sejm
 - Przyczyny: łamanie konstytucji, dążenia niepodległościowe
 - Skutki: Statut Organiczny, Wielka Emigracja, rusyfikacja
-- Kontekst międzynarodowy: postawa Prus, Belgia
+- Kontekst międzynarodowy: postawa Prus
 
 **Uwagi:** Pytania pokrywają zarówno fakty podstawowe, jak i analityczne zagadnienia zgodne z podstawą programową liceum (zakres podstawowy).
+
+**Korekta:** 2026-05-07 - przeniesiono Q-ROZ-PM-010 i Q-ROZ-PM-013 do poziomu trudnego (HARD), ponieważ wymagają złożonej analizy i syntezy. Dodano Q-ROZ-PL-003 z poziomu łatwego (EASY) - nazwa konkretnej bitwy.

@@ -4,22 +4,25 @@ epoch_id: 5
 chapter: "Powstanie listopadowe"
 chapter_id: 6
 difficulty: "easy"
-question_count: 5
+question_count: 4
 created_at: "2026-05-05T09:10:00Z"
 session_start: "2026-05-05T09:00:00Z"
 session_end: "2026-05-05T09:30:00Z"
 tokens_input: 0
 tokens_output: 0
 tokens_total: 0
+corrected_at: "2026-05-07T12:00:00Z"
+correction_reason: "Moved Q-ROZ-PL-003 to MEDIUM (specific battle not in primary curriculum)"
 ---
 
 # Powstanie listopadowe - Pytania poziom łatwy
 
 ## Szczegóły pliku
 - **Plik:** `powstanie-listopadowe_questions_easy.md`
-- **Liczba pytań:** 5
+- **Liczba pytań:** 4
 - **Poziom:** Łatwy (szkoła podstawowa)
 - **Data utworzenia:** 2026-05-05
+- **Data korekty:** 2026-05-07
 - **Ograniczenia:** Temat objęty podstawą programową klasy VII w ograniczonym zakresie
 
 ## Kontekst historyczny
@@ -85,38 +88,13 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 
 ## Pytanie 3
 
-**Question ID:** Q-ROZ-PL-003
-
-**Pytanie:** W której bitwie powstania listopadowego Polacy odnieśli taktyczne zwycięstwo mimo niekorzystnego stosunku sił?
-
-**A:** Pod Ostrołęką
-**B:** O Olszynkę Grochowską
-**C:** Pod Stoczkiem
-**D:** Pod Wawrem
-
-**Prawidłowa odpowiedź:** B
-
-**Wyjaśnienie:** Bitwa o Olszynkę Grochowską stoczona 25 lutego 1831 roku była taktycznym sukcesem Polaków. Choć nie udało się rozbić wojsk rosyjskich, to polska armia powstrzymała marsz na Warszawę i udowodniła swoją wartość bojową, co podniosło morale narodu.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Powstanie_listopadowe
-- https://pl.wikipedia.org/wiki/Bitwa_o_Olszynk%C4%99_Grochowsk%C4%85
-
-**Analiza nieprawidłowych odpowiedzi:**
-- Pod Ostrołęką Polacy ponieśli porażkę w maju 1831 roku
-- Pod Stoczkiem i Wawrem Polacy odnieśli zwycięstwa, ale Olszynka Grochowska była najważniejszym strategicznie starciem
-
----
-
-## Pytanie 4
-
 **Question ID:** Q-ROZ-PL-004
 
 **Pytanie:** Jaki dokument zastąpił konstytucję Królestwa Polskiego po klęsce powstania listopadowego?
 
 **A:** Konstytucja Księstwa Warszawskiego
 **B:** Statut Organiczny
-**C:** Karta Konstytucyjna
+**C:** Karta Konstytycyjna
 **D:** Konstytucja 3 maja
 
 **Prawidłowa odpowiedź:** B
@@ -129,12 +107,12 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Konstytucja Księstwa Warszawskiego obowiązywała w latach 1807-1815
-- Karta Konstytucyjna została ogłoszona przez cara w 1815 roku, a następnie łamana
-- Konstytucja 3 miaj została uchwalona w 1791 roku
+- Karta Konstytycyjna została ogłoszona przez cara w 1815 roku, a następnie łamana
+- Konstytucja 3 maja została uchwalona w 1791 roku
 
 ---
 
-## Pytanie 5
+## Pytanie 4
 
 **Question ID:** Q-ROZ-PL-005
 
@@ -162,11 +140,13 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 
 ## Podsumowanie pliku
 
-**Liczba pytań:** 5
+**Liczba pytań:** 4
 **Zakres tematyczny:**
 - Postacie: Piotr Wysocki, Mikołaj I
-- Wydarzenia: wybuch powstania, detronizacja, bitwy
-- Miejsca: Olszynka Grochowska
+- Wydarzenia: wybuch powstania, detronizacja
+- Miejsca: Warszawa (miejsce wybuchu)
 - Pojęcia: Statut Organiczny, Wielka Emigracja
 
-**Uwagi:** Pytania są zgodne z ograniczonym zakresem podstawy programowej klasy VII, koncentrując się na najważniejszych faktach dotyczących przyczyn, przebiegu i skutków powstania listopadowego.
+**Uwagi:** Pytania są zgodne z ograniczonym zakresem podstawy programowej klasy VII, koncentrując się na najważniejszych faktach dotyczących przyczyn, przebiegu i skutków powstania listopadowego. Pytanie o konkretne bitwy zostało przeniesione do poziomu średniego.
+
+**Korekta:** 2026-05-07 - przeniesiono Q-ROZ-PL-003 (bitwa o Olszynkę Grochowską) do poziomu średniego, ponieważ nazwy konkretnych bitew nie są objęte podstawą programową szkoły podstawowej.
