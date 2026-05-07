@@ -31,18 +31,40 @@
 
 ### 03-jagiellonowie (7 chapters)
 - ✅ 01-unia-krewska - 2026-05-07 [TIME] - 0194512
-- ✅ 02-grunwald - 2026-05-07 20:40 UTC - (verified, no changes)
+- ✅ 02-grunwald - 2026-05-07 20:40 UTC - 614dafd
 - ✅ 03-warneńczyk - 2026-05-07 [TIME] - (verified, no changes)
-- ⏳ 04-kazimierz-jagiellonczyk
-- ⏳ 05-wojna-trzynastoletnia
-- ⏳ 06-zygmunt-stary
-- ⏳ 07-zygmunt-august
-- **Progress:** 3/7 (43%)
+- ✅ 04-kazimierz-jagiellonczyk - 2026-05-07 [TIME] - 91cc0be
+- ✅ 05-wojna-trzynastoletnia - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 06-zygmunt-stary - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 07-zygmunt-august - 2026-05-07 [TIME] - 5b8701d
+- **Progress:** 7/7 (100%) ✅
 
-### Remaining Epochs (~34 chapters)
+### 04-rzeczpospolita (8 chapters)
+- ✅ 01-unia-lubelska - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 02-wazowie - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 03-wojny-polsko-tureckie - 2026-05-07 [TIME] - 8c9e312
+- ✅ 04-potop - 2026-05-07 [TIME] - 8b276fd
+- ✅ 05-sobieski - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 06-czasy-saskie - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 07-oswiecenie - 2026-05-07 [TIME] - d5b3d23
+- ✅ 08-upadek - 2026-05-07 [TIME] - aff908c
+- **Progress:** 8/8 (100%) ✅
+
+### 05-rozbiory (8 chapters)
+- ✅ 01-rozbiory - 2026-05-07 [TIME] - 1c80b69
+- ✅ 02-insurekcja - 2026-05-07 [TIME] - d9b3621
+- ✅ 03-ksiestwo-warszawskie - 2026-05-07 [TIME] - 19b4424
+- ✅ 04-kongresowka - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 05-powstanie-listopadowe - 2026-05-07 [TIME] - 195019c
+- ⏳ 06-wiosna-ludow
+- ⏳ 07-powstanie-styczniowe
+- ⏳ 08-praca-organiczna
+- **Progress:** 5/8 (62%)
+
+### Remaining Epochs (~18 chapters)
 - ⏳ All chapters pending
 
-**Overall Progress:** 12/48 (25%) 🔄
+**Overall Progress:** 32/48 (67%) 🔄
 
 ---
 
@@ -441,7 +463,7 @@
 ## Notes
 
 - **Resume Capability:** ✅ Fully functional - coordinator will read this log and continue from next chapter
-- **Next Chapter:** 03-jagiellonowie/04-kazimierz-jagiellonczyk
+- **Next Chapter:** 05-rozbiory/06-wiosna-ludow
 - **Error Handling:** No errors encountered yet
 - **Manual Review Needed:** None
 
