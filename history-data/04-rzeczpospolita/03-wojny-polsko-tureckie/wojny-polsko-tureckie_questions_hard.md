@@ -11,6 +11,8 @@ session_end: "2026-05-05T14:25:00Z"
 tokens_input: 16000
 tokens_output: 9000
 tokens_total: 25000
+corrected_at: "2026-05-07T20:45:00Z"
+correction_reason: "No changes - all HARD questions correctly classified as advanced analytical"
 ---
 
 # Wojny polsko-tureckie — Pytania poziom trudny

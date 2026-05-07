@@ -152,11 +152,11 @@
         "hard_completed": true
       },
       "Wojny polsko-tureckie": {
-        "easy": "5",
+        "easy": 1,
         "easy_completed": true,
-        "medium": "12",
+        "medium": 16,
         "medium_completed": true,
-        "hard": "3",
+        "hard": 3,
         "hard_completed": true
       },
       "Potop": {
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T20:30:00Z",
+  "last_updated": "2026-05-07T20:45:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
