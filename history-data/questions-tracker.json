@@ -24,7 +24,7 @@
         "easy_completed": true,
         "medium": 16,
         "medium_completed": true,
-        "hard": 4,
+        "hard": 10,
         "hard_completed": true
       },
       "Ekspansja": {
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T13:30:00Z",
+  "last_updated": "2026-05-07T14:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
