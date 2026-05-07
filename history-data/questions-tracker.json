@@ -202,11 +202,11 @@
     },
     "Rozbiory": {
       "Rozbiory": {
-        "easy": 10,
+        "easy": 15,
         "easy_completed": true,
-        "medium": 12,
+        "medium": 7,
         "medium_completed": true,
-        "hard": 4,
+        "hard": 5,
         "hard_completed": true
       },
       "Insurekcja": {
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T21:20:39Z",
+  "last_updated": "2026-05-07T10:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
