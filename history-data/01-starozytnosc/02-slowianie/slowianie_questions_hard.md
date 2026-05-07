@@ -4,13 +4,15 @@ epoch_id: 1
 chapter: "Słowianie"
 chapter_id: 2
 difficulty: "hard"
-question_count: 3
+question_count: 10
 created_at: "2026-05-06T11:00:00Z"
 session_start: "2026-05-06T10:00:00Z"
-session_end: "2026-05-06T11:00:00Z"
-tokens_input: 3000
-tokens_output: 2500
-tokens_total: 5500
+session_end: "2026-05-07T12:00:00Z"
+tokens_input: 5500
+tokens_output: 4500
+tokens_total: 10000
+migration_source: "questions/validated/starozytnosc-slowianie-hard.md"
+migration_details: "Migrated 7 questions from old format focusing on Geographer Bavarian, scholarly debate about Polans, and etymology"
 ---
 
 # Słowianie - Pytania poziom trudny
@@ -81,3 +83,146 @@ Słowianie przybyli na terytoria polskie w drugiej połowie VI wieku wzdłuż ł
 **Źródła:**
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 - [Polska wczesnopiastowska](https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska) - Wikipedia Polska
+
+---
+
+## Pytanie 4
+
+**Question ID:** Q-ST-SLOW-H-004
+
+**Pytanie:** Które stwierdzenie dotyczące tzw. Geografa Bawarskiego jest prawdziwe?
+
+**A.** Był polskim kronikarzem z X wieku opisującym państwo Mieszka I
+**B.** Był anonimowym mnichem frankońskim tworzącym spis plemion około 844-845 roku
+**C.** Sporządził swój dokument na życzenie Bolesława Chrobrego
+**D.** Był współczesnym Mieszkowi I geografem greckim
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Geograf Bawarski to nazwa nadana w 1795 roku przez Jana Potockiego anonimowemu mnichowi frankońskiemu, który sporządził około 844-845 roku spis grodów i plemion słowiańskich na zamówienie Ludwika II Niemieckiego. Dokument ten nie zna pojęcia "Polan", co jest przedmiotem debaty naukowej.
+
+**Źródła:**
+- [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska
+- [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
+
+---
+
+## Pytanie 5
+
+**Question ID:** Q-ST-SLOW-H-005
+
+**Pytanie:** Dlaczego brak wzmianki o Polanach w spisie Geografa Bawarskiego jest przedmiotem debaty naukowej?
+
+**A.** Ponieważ dowodzi, że Polanie nigdy nie istnieli jako plemię
+**B.** Ponieważ może wskazywać na podporządkowanie Polan innym plemionom lub późniejsze powstanie nazwy
+**C.** Ponieważ Geograf Bawarski nie był rzetelnym źródłem historycznym
+**D.** Ponieważ Polanie zamieszkiwali tereny poza zasięgiem jego zainteresowania
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Brak Polan w spisie Geografa Bawarskiego jest interpretowany na dwa sposoby: albo Polanie byli podporządkowani innym plemionom (np. Goplanom), albo nazwa "Polanie" pojawiła się później jako określenie mieszkańców Polski, a nie konkretnego plemienia.
+
+**Źródła:**
+- [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
+- [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska
+
+---
+
+## Pytanie 6
+
+**Question ID:** Q-ST-SLOW-H-006
+
+**Pytanie:** Która teoria wyjaśnia pochodzenie nazwy "Polanie" w kontekście debaty naukowej?
+
+**A.** Nazwa wywodzi się od słowa "pole" i oznacza ludzi uprawiających ziemię
+**B.** Nazwa jest błędem translatorskim i powinna brzmieć "Polacy"
+**C.** Nazwa pochodzi od imienia legendarnego założyciela Pola
+**D.** Nazwa została nadana przez cesarza Ottona III podczas zjazdu gnieźnieńskiego
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Etymologia nazwy "Polanie" od słowa "pole" (uprawiane pole, ziemia rolna) jest powszechnie akceptowana i oznacza ludzi zamieszkujących tereny rolnicze. Jednakże debata naukowa dotyczy nie etymologii, lecz tego, czy "Polanie" byli odrębnym plemieniem, czy nazwa ta powstała później.
+
+**Źródła:**
+- [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
+
+---
+
+## Pytanie 7
+
+**Question ID:** Q-ST-SLOW-H-007
+
+**Pytanie:** Co oznaczał termin "civitates" w łacińskim spisie Geografa Bawarskiego?
+
+**A.** Wyłącznie grody warowne i zamki
+**B.** Społeczności, gminy lub osady terytorialne
+**C.** Miasta na prawach miejskich
+**D.** Podziały administracyjne państwa
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Termin "civitates" w łacinie IX wieku oznaczał społeczności, gminy lub osady, a nie wyłącznie grody obronne. Liczby podane przez Geografa (np. "civitates XV" dla Ślężan) odnoszą się do liczby osad lub wspólnot terytorialnych.
+
+**Źródła:**
+- [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska
+
+---
+
+## Pytanie 8
+
+**Question ID:** Q-ST-SLOW-H-008
+
+**Pytanie:** Które plemię wymienione przez Geografa Bawarskiego miało według niego największą liczbę "civitates"?
+
+**A.** Glopeani (Goplanie) – 400 grodów
+**B.** Zuireani – 325 grodów
+**C.** Stadici – 516 grodów
+**D.** Thadesi – ponad 200 grodów
+
+**Poprawna odpowiedź:** C
+
+**Wyjaśnienie:** Według Geografa Bawarskiego plemię Stadici posiadało największą liczbę grodów – DXVI (516). Jest to przedmiotem debaty historycznej, ponieważ tak ogromna liczba jest trudna do pogodzenia z wiedzą o strukturach plemiennych IX wieku.
+
+**Źródła:**
+- [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska
+
+---
+
+## Pytanie 9
+
+**Question ID:** Q-ST-SLOW-H-009
+
+**Pytanie:** Które źródło jako pierwsze wymienia nazwę "Polanie"?
+
+**A.** Dagome Iudex (ok. 990)
+**B.** Vita s. Adalberti (998-999)
+**C.** Gesta Hammaburgensis Adama z Bremy (1075-1080)
+**D.** Powieść minionych lat Nestora (1113)
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Vita s. Adalberti (Żywot pierwszy św. Wojciecha) z lat 998-999 jako pierwszy wzmiankuje o "Bolizlav Polanorum duce" w kontekście roku 995. Jest to najstarsza znana wzmianka o nazwie "Polanie".
+
+**Źródła:**
+- [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
+
+---
+
+## Pytanie 10
+
+**Question ID:** Q-ST-SLOW-H-010
+
+**Pytanie:** Które stwierdzenie dotyczące plemienia Goplan jest prawdziwe w kontekście debaty o Polanach?
+
+**A.** Goplanie byli małym plemieniem, które nigdy nie miało znaczenia politycznego
+**B.** Goplanie posiadali 400 grodów według Geografa Bawarskiego
+**C.** Goplanie zamieszkiwali tereny dzisiejszego Śląska
+**D.** Goplanie byli bezpośrednimi przodkami Piastów
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Według Geografa Bawarskiego Goplanie (Glopeani) posiadali CCCC (400) grodów, co było drugą co do wielkości liczbą w spisie. Istnieje hipoteza, że Polanie mogli być początkowo podporządkowani Goplanom.
+
+**Źródła:**
+- [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
+- [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska

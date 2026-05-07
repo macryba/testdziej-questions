@@ -10,11 +10,11 @@
         "hard_completed": true
       },
       "Słowianie": {
-        "easy": 3,
+        "easy": 10,
         "easy_completed": true,
         "medium": 12,
         "medium_completed": true,
-        "hard": 3,
+        "hard": 10,
         "hard_completed": true
       }
     },
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T16:35:00Z",
+  "last_updated": "2026-05-07T19:13:33.399958",
   "summary": {
     "easy": 0,
     "medium": 12,
