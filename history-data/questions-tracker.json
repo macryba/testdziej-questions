@@ -186,9 +186,9 @@
       "Oświecenie": {
         "easy": 5,
         "easy_completed": true,
-        "medium": 12,
+        "medium": 15,
         "medium_completed": true,
-        "hard": 3,
+        "hard": 5,
         "hard_completed": true
       },
       "Upadek": {
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T21:15:39Z",
+  "last_updated": "2026-05-07T21:30:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
