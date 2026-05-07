@@ -7,10 +7,12 @@ difficulty: "medium"
 question_count: 15
 created_at: "2026-05-05T17:30:00Z"
 session_start: "2026-05-05T16:45:00Z"
-session_end: "2026-05-05T18:15:00Z"
+session_end: "2026-05-07T22:30:00Z"
 tokens_input: 135000
 tokens_output: 25500
 tokens_total: 160500
+corrected_at: "2026-05-07T22:30:00Z"
+correction_reason: "Difficulty level corrections applied"
 ---
 
 # Holocaust na ziemiach polskich - Pytania poziom średni
@@ -272,26 +274,26 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 ## Pytanie 11
 
-**Question ID:** Q-HOLO-M-011
+**Question ID:** Q-HOLO-E-005
 
-**Pytanie:** Co oznaczało dla Polaków pomoc Żydom podczas okupacji niemieckiej?
+**Pytanie:** Kim był Janusz Korczak w kontekście Holokaustu?
 
-**A:** Karę śmierci dla pomagającego i jego rodziny
-**B:** Grzywnę pieniężną
-**C:** Więzienie w obozie koncentracyjnym
-**D:** Przesłuchanie przez gestapo
+**A:** Pedagog, który wraz z dziećmi zginął w Treblince
+**B:** Dowódca powstania w getcie warszawskim
+**C:** Lekarz leczący więźniów w Auschwitz
+**D:** Polityk negocjujący z Niemcami
 
 **Poprawna odpowiedź:** A
 
-**Wyjaśnienie:** Niemcy wprowadzili drakońskie kary za pomoc Żydom. Za ukrywanie, dostarczanie żywności lub jakąkolwiek pomoc groziła kara śmierci dla pomagającego i często dla całej jego rodziny. Mimo to tysiące Polaków niosło pomoc, z czego ponad 7 tysięcy otrzymało po wojnie tytuł Sprawiedliwego wśród Narodów Świata.
+**Wyjaśnienie:** Janusz Korczak (Henryk Goldszmit) był słynnym pedagogiem. Gdy Niemcy chcieli wywieźć dzieci z jego sierocińca do obozu zagłady, zdecydował się iść z nimi. Zginął razem z dziećmi w Treblince w 1942 roku.
 
 **Źródła:**
-- https://pl.wikipedia.org/wiki/Sprawiedliwi_w%C5%9Br%C3%B3d_Narodów_%C5%9Awiata
+- https://pl.wikipedia.org/wiki/Janusz_Korczak
 
 **Analiza odpowiedzi błędnych:**
-- B (Grzywna) – kara była znacznie surowsza niż grzywna
-- C (Więzienie) – za pomoc Żydom groziła śmierć, nie tylko więzienie
-- D (Przesłuchanie) – to byłoby najłagodniejsze z możliwych "konsekwencji"
+- B (Dowódca powstania) – dowódcą był Mordechaj Anielewicz, nie Korczak
+- C (Lekarz w Auschwitz) – Korczak był pedagogiem, nie lekarzem w obozie
+- D (Polityk negocjujący) – Korczak nie był politykiem ani nie negocjował z Niemcami
 
 ---
 
@@ -400,4 +402,4 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 **Poziom:** średni (liceum - zakres podstawowy)
 **Zakres:** Pytania faktograficzne + analityczne
 
-**Uwaga:** Pytania na poziomie średnim obejmują proste pytania faktograficzne (Kto? Co? Gdzie? Kiedy?) oraz pytania analityczne (Przyczyny? Skutki? Procesy?). Ze względu na ograniczony zakres tematu na poziomie łatwym (EASY), większość pytań faktograficznych znalazła się na tym poziomie.
+**Uwaga:** Pytania na poziomie średnim obejmują proste pytania faktograficzne (Kto? Co? Gdzie? Kiedy?) oraz pytania analityczne (Przyczyny? Skutki? Procesy.). Ze względu na ograniczony zakres tematu na poziomie łatwym (EASY), większość pytań faktograficznych znalazła się na tym poziomie.

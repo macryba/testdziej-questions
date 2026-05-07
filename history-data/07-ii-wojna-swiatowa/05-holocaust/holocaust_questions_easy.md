@@ -7,10 +7,12 @@ difficulty: "easy"
 question_count: 5
 created_at: "2026-05-05T17:15:00Z"
 session_start: "2026-05-05T16:45:00Z"
-session_end: "2026-05-05T17:30:00Z"
+session_end: "2026-05-07T22:30:00Z"
 tokens_input: 125000
 tokens_output: 8500
 tokens_total: 133500
+corrected_at: "2026-05-07T22:30:00Z"
+correction_reason: "Difficulty level corrections applied"
 ---
 
 # Holocaust na ziemiach polskich - Pytania poziom łatwy
@@ -123,26 +125,26 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 ## Pytanie 5
 
-**Question ID:** Q-HOLO-E-005
+**Question ID:** Q-HOLO-M-011
 
-**Pytanie:** Kim był Janusz Korczak w kontekście Holokaustu?
+**Pytanie:** Co oznaczało dla Polaków pomoc Żydom podczas okupacji niemieckiej?
 
-**A:** Pedagog, który wraz z dziećmi zginął w Treblince
-**B:** Dowódca powstania w getcie warszawskim
-**C:** Lekarz leczący więźniów w Auschwitz
-**D:** Polityk negocjujący z Niemcami
+**A:** Karę śmierci dla pomagającego i jego rodziny
+**B:** Grzywnę pieniężną
+**C:** Więzienie w obozie koncentracyjnym
+**D:** Przesłuchanie przez gestapo
 
 **Poprawna odpowiedź:** A
 
-**Wyjaśnienie:** Janusz Korczak (Henryk Goldszmit) był słynnym pedagogiem. Gdy Niemcy chcieli wywieźć dzieci z jego sierocińca do obozu zagłady, zdecydował się iść z nimi. Zginął razem z dziećmi w Treblince w 1942 roku.
+**Wyjaśnienie:** Niemcy wprowadzili drakońskie kary za pomoc Żydom. Za ukrywanie, dostarczanie żywności lub jakąkolwiek pomoc groziła kara śmierci dla pomagającego i często dla całej jego rodziny. Mimo to tysiące Polaków niosło pomoc, z czego ponad 7 tysięcy otrzymało po wojnie tytuł Sprawiedliwego wśród Narodów Świata.
 
 **Źródła:**
-- https://pl.wikipedia.org/wiki/Janusz_Korczak
+- https://pl.wikipedia.org/wiki/Sprawiedliwi_w%C5%9Br%C3%B3d_Narodów_%C5%9Awiata
 
 **Analiza odpowiedzi błędnych:**
-- B (Dowódca powstania) – dowódcą był Mordechaj Anielewicz, nie Korczak
-- C (Lekarz w Auschwitz) – Korczak był pedagogiem, nie lekarzem w obozie
-- D (Polityk negocjujący) – Korczak nie był politykiem ani nie negocjował z Niemcami
+- B (Grzywna) – kara była znacznie surowsza niż grzywna
+- C (Więzienie) – za pomoc Żydom groziła śmierć, nie tylko więzienie
+- D (Przesłuchanie) – to byłoby najłagodniejsze z możliwych "konsekwencji"
 
 ---
 
