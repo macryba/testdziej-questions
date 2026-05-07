@@ -4,13 +4,15 @@ epoch_id: 5
 chapter: "Powstanie styczniowe"
 chapter_id: 7
 difficulty: "easy"
-question_count: 5
+question_count: 4
 created_at: "2026-05-05T09:14:44Z"
 session_start: "2026-05-05T09:14:44Z"
-session_end: "2026-05-05T09:14:44Z"
+session_end: "2026-05-07T12:30:00Z"
 tokens_input: 0
 tokens_output: 0
 tokens_total: 0
+corrected_at: "2026-05-07T12:30:00Z"
+correction_reason: "Moved 1 question to MEDIUM (Rząd Narodowy - too specific for primary curriculum)"
 ---
 
 # Powstanie styczniowe - Pytania poziom łatwy
@@ -89,27 +91,6 @@ D. Tylko konfiskata majątku
 ---
 
 ### Question 4
-**Question ID:** Q-ROZBIORY-PS-E004
-
-**Pytanie:** Który organ był naczelną władzą powstańczą podczas powstania styczniowego?
-
-**Odpowiedzi:**
-A. Komitet Centralny Narodowy
-B. Rząd Narodowy
-C. Sejm Czteroletni
-D. Rada Stanu
-
-**Poprawna odpowiedź:** B
-
-**Wyjaśnienie:** Rząd Narodowy był naczelną władzą powstańczą podczas powstania styczniowego. Został utworzony w styczniu 1863 roku jako Tymczasowy Rząd Narodowy, a następnie przekształcony w stały Rząd Narodowy. Rząd sprawował władzę cywilną i wojskową nad obszarami objętymi powstaniem.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Rz%C4%85d_Narodowy_(1863)
-- https://pl.wikipedia.org/wiki/Powstanie_styczniowe
-
----
-
-### Question 5
 **Question ID:** Q-ROZBIORY-PS-E005
 
 **Pytanie:** Jaką reformę ogłoszono w 1864 roku, mimo że powstanie zostało stłumione?
@@ -132,11 +113,10 @@ D. Wprowadzenie powszechnego wyborstwa
 
 ## Podsumowanie
 
-Plik zawiera 5 pytań na poziomie łatwym (EASY) dotyczących powstania styczniowego. Pytania obejmują podstawowe fakty historyczne: postacie, daty, wydarzenia i pojęcia zgodne z ograniczonym zakresem podstawy programowej szkoły podstawowej.
+Plik zawiera 4 pytania na poziomie łatwym (EASY) dotyczących powstania styczniowego. Pytania obejmują podstawowe fakty historyczne: postacie, daty, wydarzenia i pojęcia zgodne z ograniczonym zakresem podstawy programowej szkoły podstawowej.
 
 **Kluczowe zagadnienia:**
 - Romuald Traugutt – dyktator powstania
 - Data wybuchu – 22 stycznia 1863
 - Represje – katorga i zesłanie na Syberię
-- Rząd Narodowy – naczelna władza powstańcza
 - Uwłaszczenie chłopów w 1864 roku

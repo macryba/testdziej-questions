@@ -4,13 +4,15 @@ epoch_id: 5
 chapter: "Powstanie styczniowe"
 chapter_id: 7
 difficulty: "medium"
-question_count: 15
+question_count: 16
 created_at: "2026-05-05T09:14:44Z"
 session_start: "2026-05-05T09:14:44Z"
-session_end: "2026-05-05T09:14:44Z"
+session_end: "2026-05-07T12:30:00Z"
 tokens_input: 0
 tokens_output: 0
 tokens_total: 0
+corrected_at: "2026-05-07T12:30:00Z"
+correction_reason: "Moved 1 question from EASY (Rząd Narodowy - too specific for primary curriculum)"
 ---
 
 # Powstanie styczniowe - Pytania poziom średni
@@ -340,9 +342,30 @@ D. Ograniczono zaborów
 
 ---
 
+### Question 16
+**Question ID:** Q-ROZBIORY-PS-M016 (moved from EASY)
+
+**Pytanie:** Który organ był naczelną władzą powstańczą podczas powstania styczniowego?
+
+**Odpowiedzi:**
+A. Komitet Centralny Narodowy
+B. Rząd Narodowy
+C. Sejm Czteroletni
+D. Rada Stanu
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Rząd Narodowy był naczelną władzą powstańczą podczas powstania styczniowego. Został utworzony w styczniu 1863 roku jako Tymczasowy Rząd Narodowy, a następnie przekształcony w stały Rząd Narodowy. Rząd sprawował władzę cywilną i wojskową nad obszarami objętymi powstaniem.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Rz%C4%85d_Narodowy_(1863)
+- https://pl.wikipedia.org/wiki/Powstanie_styczniowe
+
+---
+
 ## Podsumowanie
 
-Plik zawiera 15 pytań na poziomie średnim (MEDIUM) dotyczących powstania styczniowego. Pytania obejmują zarówno fakty historyczne, jak i analizę przyczyn, skutków oraz procesów.
+Plik zawiera 16 pytań na poziomie średnim (MEDIUM) dotyczących powstania styczniowego. Pytania obejmują zarówno fakty historyczne, jak i analizę przyczyn, skutków oraz procesów.
 
 **Kluczowe zagadnienia:**
 - Polityka ugody Wielopolskiego kontra stronnictwa "czerwonych" i "białych"

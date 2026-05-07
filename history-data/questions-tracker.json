@@ -250,9 +250,9 @@
         "hard_completed": true
       },
       "Powstanie styczniowe": {
-        "easy": 5,
+        "easy": 4,
         "easy_completed": true,
-        "medium": 15,
+        "medium": 16,
         "medium_completed": true,
         "hard": 5,
         "hard_completed": true
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T12:00:00Z",
+  "last_updated": "2026-05-07T12:30:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
