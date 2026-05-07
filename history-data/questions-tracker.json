@@ -45,8 +45,8 @@
       },
       "Najazd mongolski": {
         "easy": 0,
-        "medium": 15,
-        "hard": 3,
+        "medium": 28,
+        "hard": 5,
         "easy_completed": true,
         "medium_completed": true,
         "hard_completed": true
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T20:00:00Z",
+  "last_updated": "2026-05-07T12:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,

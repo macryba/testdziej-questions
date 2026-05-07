@@ -4,15 +4,17 @@ epoch_id: 2
 chapter: "Najazd mongolski"
 chapter_id: 4
 difficulty: "medium"
-question_count: 22
+question_count: 28
 created_at: "2026-05-06T12:45:00Z"
 session_start: "2026-05-06T12:45:00Z"
-session_end: "2026-05-07T10:00:00Z"
+session_end: "2026-05-07T12:00:00Z"
 tokens_input: 13500
-tokens_output: 7200
-tokens_total: 20700
+tokens_output: 9500
+tokens_total: 23000
 migration_source: "questions/validated/piastowie-najazd-mongolski-medium.md"
-migration_details: "Migrated 7 questions from old format focusing on causes of invasion (fall of Kiev), military tactics (feigned retreat), economic consequences, castle building reforms, political consequences, Polish-Czech relations, and cultural memory."
+migration_details: "Migrated 7 questions from old format focusing on causes of invasion (fall of Kiev), military tactics (feigned retreat), economic consequences, castle building reforms, political consequences, Polish-Czech relations, and cultural memory. Added 6 questions from HARD level covering unification process, Mongol withdrawal reasons, military architecture changes, demographic consequences, diplomatic relations, and cultural impact."
+corrected_at: "2026-05-07T12:00:00Z"
+correction_reason: "Difficulty level review - moved 6 questions from HARD to MEDIUM as they don't require advanced synthesis/evaluation"
 ---
 
 # Najazd mongolski - Pytania poziom średni
@@ -565,5 +567,155 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - Najazd był jednym z najważniejszych wydarzeń w polskiej pamięci historycznej
 - Mongołowie byli przedstawiani jako wrogowie chrześcijaństwa, nie wybawcy
 - Literatura polska podkreślała odrodzenie Polski po najazdzie, nie jego trwałe osłabienie
+
+---
+
+### Pytanie 23
+**Question ID:** Q-NM-023
+
+**Pytanie:** W jaki sposób najazd mongolski wpłynął na proces zjednoczenia państwa polskiego pod koniec XIII wieku?
+
+**A.** Bezpośrednio zmusił księstwa Piastów do natychmiastowego zjednoczenia pod jednym władcą dla przetrwania najazdu
+**B.** Ujawnił krytyczną nieskuteczność rozbicia dzielnicowego w systemie obrony, co zmotywowało Piastów do działań zjednoczeniowych w długim okresie
+**C.** Skutkował trwałą utratą suwerenności przez księstwa polskie, które stały się lennem Złotej Ordy aż do XV wieku
+**D.** Przyczynił się do zjednoczenia Polski poprzez eliminację konkurentów do tronu krakowskiego
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Najazd ujawnił fundamentalną słabość rozbicia dzielnicowego — brak skutecznej koordynacji obrony doprowadził do klęski legnickiej. To doświadczenie zmotywowało kolejne pokolenia Piastów do działań zjednoczeniowych, co zmaterializowało się w koronacji Przemysła II w 1295 roku.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Przemys%C5%82_II
+- https://pl.wikipedia.org/wiki/Zjednoczenie_Polski
+
+**Analiza niepoprawnych odpowiedzi:**
+- Bezpośrednie zjednoczenie nie nastąpiło w 1241 — proces trwał kilka dekad
+- Polska nie stała się lennem mongolskim; niektóre księstwa płaciły trybut, ale zachowały suwerenność
+- Konkurenci nie zostali wyeliminowani w 1241; Przemysł II koronował się dopiero w 1295
+
+---
+
+### Pytanie 24
+**Question ID:** Q-NM-024
+
+**Pytanie:** Który z poniższych czynników był decydujący w wycofaniu się wojsk mongolskich z Europy Środkowej wiosną 1242 roku?
+
+**A.** Klęski militarne poniesione przez Mongołów w bitwach pod Legnicą i Mohi
+**B.** Śmierć wielkiego chana Ögedeja, która spowodowała konieczność powrotu wodzów mongolskich do Karakorum dla wyboru nowego władcy
+**C.** Wyczerpanie zapasów i nadmiernie wydłużone linie zaopatrzeniowe mongolskiej armii
+**D.** Zawarcie przez księcia Bolesława V Wstydliwego układu pokojowego z Ordą
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Kluczowym czynnikiem była śmierć wielkiego chana Ögedeja (grudzień 1241) — według prawa mongolskiego wszyscy książęta krwi byli zobowiązani uczestniczyć w kurultaju (rada wyborcza) dla wyboru nowego wielkiego chana. Bajdar i Kadan musieli przerwać kampanię i powrócić na wschód.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Batu-chan
+- https://pl.wikipedia.org/wiki/%C3%96gedei
+
+**Analiza niepoprawnych odpowiedzi:**
+- Mongołowie wygrali obie bitwy (Legnica 1241, Mohi 1241); klęski nie były powodem wycofania
+- Zapasy były problemem, ale śmierć Ögedeija była głównym powodem powrotu
+- Układ dyplomatyczny z Bolesławem V zawarto później, w latach 60-70. XIII wieku
+
+---
+
+### Pytanie 25
+**Question ID:** Q-NM-025
+
+**Pytanie:** Jakie zmiany w architekturze militarnej i fortyfikacjach na ziemiach polskich można bezpośrednio przypisać doświadczeniom z najazdu mongolskiego?
+
+**A.** Powszechne zastąpienie grodów drewniano-ziemnych przez okrągłe kamienne wieże obronne w ciągu dekady
+**B.** Stopniowa introdukcja zamków w systemie castellańskiego z wieżą obronną (bergfried) opartą na wzorach zachodnich
+**C.** Natychmiastowa budowa potężnego łańcucha zamków granicznych z piechoty zawodową
+**D.** Całkowite porzucenie koncepcji zamków na rzecz systemu fortyfikacji polowych
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** W odpowiedzi na najazd mongolski, Piastowie zaczęli stopniowo introdukować zamki w systemie castellańskiego z wieżą bergfried na wzór zachodni (Niemcy, Czechy), które zapewniały lepszą ochronę przed mobilną taktyką mongolską niż dotychczasowe grody drewniano-ziemne. Proces był stopniowy i trwał dekady.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Zamek_(Architektura)
+- https://pl.wikipedia.org/Zamek
+
+**Analiza niepoprawnych odpowiedzi:**
+- Proces nie był tak szybki; okrągłe wieże ormiańskie nie były stosowane w Polsce
+- Łańcucha graniczny nie zbudowano natychmiast — system rozwijał się przez cały XIII i XIV wiek
+- Zamki nie zostały porzucone — przeciwnie, ich budowa zwiększyła się po 1241
+
+---
+
+### Pytanie 26
+**Question ID:** Q-NM-026
+
+**Pytanie:** Jakie były skutki demograficzne i gospodarcze najazdu mongolskiego na poszczególne regiony Polski?
+
+**A.** Całkowite wyludnienie Śląska i Małopolski, które pozostały niezamieszkane przez kolejne stulecie
+**B.** Znaczne straty demograficzne i gospodarcze na Śląsku i w Małopolsce (szacunkowo 30-40% ludności) przy relatywnie mniejszych stratach w Wielkopolsce
+**C.** Równomierne rozłożenie strat we wszystkich regionach Polski
+**D.** Korzyści gospodarcze dla Wielkopolski wynikające z przejęcia handlu zagranicznego
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Najazd dotknął głównie Śląsk i Małopolskę, gdzie straty ludnościowe szacuje się na 30-40% oraz zniszczeniu uległo setki wsi i miast. Wielkopolska i Pomorze ucierpiały mniej, co w średnioterminowej perspektywie przyczyniło się do przesunięcia centrum politycznego i gospodarczego kraju na północny-wschód.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polsk%C4%99
+- https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
+
+**Analiza niepoprawnych odpowiedzi:**
+- "Całkowite wyludnienie" jest przesadą — regiony stopniowo odbudowywały się
+- Straty nie były równomierne — Śląsk i Małopolska ucierpiały najciężej
+- Korzyści dla Wielkopolski były długoterminowe, nie "natychmiastowe"
+
+---
+
+### Pytanie 27
+**Question ID:** Q-NM-027
+
+**Pytanie:** W jaki sposób najazd mongolski wpłynął na relacje polityczne między państwem polskim a sąsiadami — Czechami, Węgrami i państwami niemieckimi?
+
+**A.** Wzrost poparcia Czech dla zjednoczenia Polski, ponieważ Praga obawiała się mongolskiego zagrożenia
+**B.** Pogłębienie izolacji Polski, ponieważ sąsiedzi zawarli separatystyczne układy z Mongołami
+**C.** Próby przywrócenia starego systemu sojuszy z Czechami i Węgrami przeciwko Mongołom, jednak różnice interesów utrudniły skuteczną współpracę
+**D.** Natychmiastowa integracja Polski z Świętym Cesarstwem Rzymskim
+
+**Poprawna odpowiedź:** C
+
+**Wyjaśnienie:** Po najazdzie mongolskim polskie książęta próbowały przywrócić system sojuszy z Czechami (przede wszystkim) i Węgrami przeciwko dalszym najazdom, jednak różnice interesów oraz osłabienie Polski utrudniły skuteczną współpracę. Sojusze były sporadyczne i nieskuteczne.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
+- https://pl.wikipedia.org/wiki/Stosunki_polsko-czeskie_w_XIII_wieku
+
+**Analiza niepoprawnych odpowiedzi:**
+- Nie ma dowodów na "wzrost poparcia Czech" — Czechy wykorzystały osłabienie Polski do ekspansji na Śląsku
+- Separatystyczne układy nie były dominującym trendem — wszyscy sąsiedzi byli również zagrożeni
+- Integracja z Cesarstwem nie nastąpiła — Polska zachowała suwerenność
+
+---
+
+### Pytanie 28
+**Question ID:** Q-NM-028
+
+**Pytanie:** Które z poniższych stwierdzeń najlepiej charakteryzuje relacje dyplomatyczne między państwem polskim a Złotą Ordą w okresie pomiędzy pierwszym najazdem (1241-1242) a końcem XIII wieku?
+
+**A.** Całkowite zerwanie stosunków dyplomatycznych po 1242 roku
+**B.** Utrzymanie sporadycznych kontaktów dyplomatycznych i płacenie okresowego trybutu przez niektóre księstwa Piastów
+**C.** Trwała integracja Polski z systemem państw wasalskich Złotej Ordy
+**D.** Zawarcie formalnego sojuszu wojskowego z Ordą przeciwko Węgrom i Czechom
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Po 1242 roku polskie książęta (szczególnie Bolesław V Wstydliwy i Leszek Czarny) utrzymywali sporadyczne kontakty dyplomatyczne z Ordą i płacili okresowy trybut (szczególnie za wschodnie granice księstw na Rusi Halickiej), co zapewniało względne bezpieczeństwo i powstrzymywało dalsze najazdy.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Z%C5%82ota_Orda
+- https://pl.wikipedia.org/wiki/Stosunki_polsko-mongolskie
+
+**Analiza niepoprawnych odpowiedzi:**
+- Kontakty dyplomatyczne były kontynuowane, nie zerwane
+- "Trwała integracja z systemem wasalskim" jest przesadą — nie wszystkie księstwa płaciły trybut
+- Sojusz wojskowy przeciwko Węgrom i Czechom nie był głównym charakterem relacji
 
 ---
