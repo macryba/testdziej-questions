@@ -52,9 +52,9 @@
         "hard_completed": true
       },
       "Zjednoczenie": {
-        "easy": 10,
+        "easy": 0,
         "easy_completed": true,
-        "medium": 10,
+        "medium": 20,
         "medium_completed": true,
         "hard": 10,
         "hard_completed": true
