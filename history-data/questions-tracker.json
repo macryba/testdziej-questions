@@ -20,7 +20,7 @@
     },
     "Piastowie": {
       "Chrystianizacja": {
-        "easy": 10,
+        "easy": 15,
         "easy_completed": true,
         "medium": 12,
         "medium_completed": true,
@@ -475,10 +475,11 @@
       }
     }
   },
-  "last_updated": "2026-05-06T13:00:00Z",
+  "last_updated": "2026-05-07T12:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
     "hard": 3
-  }
+  },
+  "migration_note": "Added 5 questions from old format (questions/validated/piastowie-chrystianizacja-easy.md)"
 }

@@ -4,13 +4,14 @@ epoch_id: 2
 chapter: "Chrystianizacja"
 chapter_id: 1
 difficulty: "easy"
-question_count: 10
+question_count: 15
 created_at: "2026-05-05T20:00:00Z"
 session_start: "2026-05-05T20:00:00Z"
-session_end: "2026-05-05T20:30:00Z"
-tokens_input: 6000
-tokens_output: 4200
-tokens_total: 10200
+session_end: "2026-05-07T12:00:00Z"
+tokens_input: 7500
+tokens_output: 6300
+tokens_total: 13800
+migration_note: "Migrated 5 questions from old format (questions/validated/piastowie-chrystianizacja-easy.md) on 2026-05-07"
 ---
 
 # Chrystianizacja: Państwo Gnieźnieńskie i chrystianizacja (960-1025)
@@ -62,8 +63,8 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Święta Kinga żyła w XIII wieku i była żoną Bolesława Wstydliwego
-- C) Richeza była żoną Mieszka II, żyła w XI wieku
-- D) Jadwiga była królową Polską w XIV wieku, żoną Władysława Łokietka
+- C) Rycheza była żoną Mieszka II, żyła w XI wieku
+- D) Jadwiga była królową polską w XIV wieku, żoną Władysława Łokietka
 
 ## Pytanie 3
 
@@ -182,7 +183,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Święty Stanisław był biskupem krakowskim, żył w XI wieku
-- C) Święty Adalbert to łacińska wersja imienia Świętego Wojciecha, to ta sama osoba
+- C) Święty Adalbert to łacińska wersja imienia Świętego Wojciecha to ta sama osoba
 - D) Święty Prokop był czeskim świętym, nie był związany z Polską
 
 ## Pytanie 8
@@ -256,3 +257,123 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - A) Gniezno było ważnym ośrodkiem, ale nie ma bezpośrednich dowodów na chrzt tam
 - C) Poznań było siedzibą biskupstwa, ale nie ma dowodów na chrzt tam
 - D) Kraków nie był głównym ośrodkiem w czasach Mieszka I
+
+## Pytanie 11
+
+**Question ID:** Q-CHR-E11
+
+**Pytanie:** Jak nazywał się pierwszy biskup Polski, który ochrzcił Mieszka I?
+
+**A)** Biskup Wojciech
+**B)** Biskup Jordan
+**C)** Biskup Stanisław
+**D)** Biskup Prokop
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Biskup Jordan był pierwszym biskupem Polski i ochrzcił Mieszka I w 966 roku. Przybył do Polski prawdopodobnie z Czech lub Niemiec.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+- https://pl.wikipedia.org/wiki/Mieszko_I
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Biskup Wojciech (Adalbert) żył później — był męczennikiem z końca X wieku, nie brał udziału w chrzcie Mieszka I
+- C) Biskup Stanisław ze Szczepanowa żył w XI wieku — był biskupem krakowskim, ale znacznie później niż chrzest Polski
+- D) Biskup Prokop nie jest znany jako postać związana z chrztem Polski — to imię nie występuje w kontekście chrystianizacji
+
+## Pytanie 12
+
+**Question ID:** Q-CHR-E12
+
+**Pytanie:** Z jakiej dynastii pochodził Mieszko I, pierwszy historyczny władca Polski?
+
+**A)** Z dynastii Jagiellonów
+**B)** Z dynastii Piastów
+**C)** Z dynastii Przemyślidów
+**D)** Z dynastii Wazów
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Mieszko I pochodził z dynastii Piastów, która rządziła Polską od X do XIV wieku. To najstarsza polska dynastia panująca.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Piastowie
+- https://pl.wikipedia.org/wiki/Mieszko_I
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Jagiellonowie pojawili się znacznie później — od końca XIV wieku
+- C) Przemyślidzi byli czeską dynastią, z której pochodziła Dobrawa, a nie Mieszko I
+- D) Wazowie to szwedzka dynastia, która rządziła Polską w XVII wieku — znacznie później
+
+## Pytanie 13
+
+**Question ID:** Q-CHR-E13
+
+**Pytanie:** Jaką religię wyznawali Polanie przed chrztem Mieszka I w 966 roku?
+
+**A)** Chrześcijaństwo prawosławne
+**B)** Islam
+**C)** Pogaństwo - politeizm
+**D)** Judaizm
+
+**Prawidłowa odpowiedź:** C
+
+**Wyjaśnienie:** Przed chrztem w 966 roku Polanie wyznawali pogaństwo — wierzyli w wielu bogów związanych z naturą. Była to religia politeistyczna typowa dla ludów słowiańskich.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Religia_Słowian
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Chrześcijaństwo prawosławne przyjęto na Rusi, a nie w Polsce — to inny obrządek
+- B) Islam nie był religią Polan — to religia Bliskiego Wschodu i Afryki Północnej
+- D) Judaizm nie był religią Polan — to religia Żydów, nie Słowian
+
+## Pytanie 14
+
+**Question ID:** Q-CHR-E14
+
+**Pytanie:** Pierwsze kościoły w Polsce budowano z materiału:
+
+**A)** Z drewna
+**B)** Z kamienia
+**C)** Z cegły
+**D)** Z gliny
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Pierwsze kościoły w Polsce budowano z kamienia (romańskie), co było nową techniką budowlaną przywiezioną z zachodu. Przykładem jest kościół na Ostrowie Lednickim.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Szlak_Roma%C5%84ski_w_Polsce
+- https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Lednicki
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Drewno było powszechnie używane przed chrztem, ale kościoły chrześcijańskie budowano z kamienia
+- C) Cegła pojawiła się później — styl gotycki używał cegieł, ale nie w czasach Mieszka I
+- D) Glina nie była używana do budowy kościołów — to materiał na chaty, nie na świątynie
+
+## Pytanie 15
+
+**Question ID:** Q-CHR-E15
+
+**Pytanie:** Chrystianizacja Polski to był proces:
+
+**A)** Natychmiastowy - wszyscy stali się chrześcijanami w jeden dzień
+**B)** Długotrwały - trwał wiele pokoleń
+**C)** Zakończony w roku 1000
+**D)** Tylko dla elit - ludność pozostała pogańska
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Chrystianizacja Polski była długotrwałym procesem trwającym wiele pokoleń. Chrzest Mieszka I w 966 roku był początkiem, ale ludność stopniowo przyjmowała chrześcijaństwo.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrystianizacja_Polski
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Nie był natychmiastowy — ludzie stopniowo porzucali pogaństwo przez wiele lat
+- C) Nie zakończył się w 1000 roku — proces trwał znacznie dłużej
+- D) Nie dotyczył tylko elit — chrystianizacja obejmowała całą ludność
