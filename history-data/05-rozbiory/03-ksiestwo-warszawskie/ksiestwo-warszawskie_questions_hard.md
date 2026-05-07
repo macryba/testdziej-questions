@@ -11,6 +11,8 @@ session_end: "2026-05-05T21:15:00Z"
 tokens_input: 35000
 tokens_output: 18000
 tokens_total: 53000
+corrected_at: "2026-05-07T21:00:00Z"
+correction_reason: "No changes - all questions correctly classified as HARD"
 ---
 
 # Księstwo Warszawskie – Pytania poziom trudny
@@ -44,7 +46,7 @@ Rezydenci francuscy sprawowali rzeczywistą władzę w Księstwie Warszawskim. C
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
-- https://pl.wikipedia.org/wiki/Rezydenci_napoleońscy_w_Warszawie_1807%E2%80%931813
+- https://pl.wikipedia.org/wiki/Rezydenci_napole%C5%84scy_w_Warszawie_1807%E2%80%931813
 
 **Analiza odpowiedzi nieprawidłowych:**
 - **B. Rezydenci francuscy doradzali władzom Księstwa, ale nie mieli formalnych uprawnień do blokowania decyzji** – rezydenci mieli znacznie szersze uprawnienia niż doradcy, mieli prawo weta i bezpośrednią kontrolę
@@ -61,14 +63,14 @@ Rezydenci francuscy sprawowali rzeczywistą władzę w Księstwie Warszawskim. C
 Oceń skuteczność reform ustrojowych Księstwa Warszawskiego (konstytucja z 1807 roku, Kodeks Napoleona, zniesienie poddaństwa chłopów), biorąc pod uwagę różnicę między deklamacjami prawnymi a rzeczywistością społeczno-gospodarczą.
 
 **A.** Reformy były skuteczne i doprowadziły do rzeczywistej modernizacji ustrojowej i społecznej
-**B.** Reformy były deklaracjami bez pokrycia, ponieważ szlachta blokowała ich realizację, a sytuacja chłopów się nie zmieniła
-**C.** Reformy były częściowo skuteczne: modernizacja ustrojowa powiodła się, ale sytuacja chłopów poprawiła się niewiele
+**B.** Reformy były deklaracjami bez pokrycia, ponieważ szlachta blokowała ich realizację, a sytuacja chlopów się nie zmieniła
+**C.** Reformy były częściowo skuteczne: modernizacja ustrojowa powiodła się, ale sytuacja chlopów poprawiła się niewiele
 **D.** Reformy były całkowicie nieskuteczne i zostały odrzucone przez społeczeństwo Księstwa
 
 **Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
-Reformy Księstwa Warszawskiego miały mieszane skutki. Z jednej strony, modernizacja ustrojowa była znacząca: wprowadzono konstytucję wzorowaną na francuskiej, Kodeks Napoleona (nowoczesny kodeks cywilny), równość wobec prawa i dwuizbowy Sejm. Z drugiej strony, sytuacja chłopów poprawiła się niewiele: mimo formalnego zniesienia poddaństwa i dekretu grudniowego Łubieńskiego, chłopi musieli nadal spełniać wszystkie powinności wraz z pańszczyzną, a możliwości opuszczenia wsi były bardzo ograniczone. Szlachta i arystokracja zachowały uprzywilejowaną pozycję, szczególnie w wyborach do Sejmu. Dlatego reformy były częściowo skuteczne: nowoczesny ustrój się rozwinął, ale realne zmiany społeczne były ograniczone.
+Reformy Księstwa Warszawskiego miały mieszane skutki. Z jednej strony, modernizacja ustrojowa była znacząca: wprowadzono konstytucję wzorowaną na francuskiej, Kodeks Napoleona (nowoczesny kodeks cywilny), równość wobec prawa i dwuizbowy Sejm. Z drugiej strony, sytuacja chlopów poprawiła się niewiele: mimo formalnego zniesienia poddaństwa i dekretu grudniowego Łubieńskiego, chłopi musieli nadal spełniać wszystkie powinności wraz z pańszczyzną, a możliwości opuszczenia wsi były bardzo ograniczone. Szlachta i arystokracja zachowały uprzywilejowaną pozycję, szczególnie w wyborach do Sejmu. Dlatego reformy były częściowo skuteczne: nowoczesny ustrój się rozwinął, ale realne zmiany społeczne były ograniczone.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
@@ -76,8 +78,8 @@ Reformy Księstwa Warszawskiego miały mieszane skutki. Z jednej strony, moderni
 - https://pl.wikipedia.org/wiki/Kodeks_Napoleona
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **A. Reformy były skuteczne i doprowadziły do rzeczywistej modernizacji ustrojowej i społecznej** – to nieprawda, modernizacja ustrojowa powiodła się, ale sytuacja chłopów poprawiła się niewiele
-- **B. Reformy były deklaracjami bez pokrycia, ponieważ szlachta blokowała ich realizację, a sytuacja chłopów się nie zmieniła** – to nieprawda, szlachta nie blokowała wszystkich reform, a nowoczesny ustrój się rozwinął
+- **A. Reformy były skuteczne i doprowadziły do rzeczywistej modernizacji ustrojowej i społecznej** – to nieprawda, modernizacja ustrojowa powiodła się, ale sytuacja chlopów poprawiła się niewiele
+- **B. Reformy były deklaracjami bez pokrycia, ponieważ szlachta blokowała ich realizację, a sytuacja chlopów się nie zmieniła** – to nieprawda, szlachta nie blokowała wszystkich reform, a nowoczesny ustrój się rozwinął
 - **D. Reformy były całkowicie nieskuteczne i zostały odrzucone przez społeczeństwo Księstwa** – to nieprawda, reformy ustrojowe były częściowo skuteczne i zostały zaakceptowane
 
 ---

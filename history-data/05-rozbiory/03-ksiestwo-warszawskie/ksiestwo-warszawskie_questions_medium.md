@@ -4,13 +4,15 @@ epoch_id: 5
 chapter: "Księstwo Warszawskie"
 chapter_id: 3
 difficulty: "medium"
-question_count: 15
+question_count: 20
 created_at: "2026-05-05T20:00:00Z"
 session_start: "2026-05-05T19:30:00Z"
 session_end: "2026-05-05T21:00:00Z"
 tokens_input: 25000
 tokens_output: 12000
 tokens_total: 37000
+corrected_at: "2026-05-07T21:00:00Z"
+correction_reason: "Moved 5 questions from EASY (topic not in primary school curriculum)"
 ---
 
 # Księstwo Warszawskie – Pytania poziom średni
@@ -103,7 +105,7 @@ Na mocy 69. artykułu konstytucji Księstwa Warszawskiego, kwestie prawa cywilne
 - https://pl.wikipedia.org/wiki/Kodeks_Napoleona
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Konstytucja 3 Maja** – konstytucja Rzeczypospolitej z 1791 roku, nie obowiązywała w Księstwie
+- **B. Konstytucja 3 Maja** – konstytucja Rzeczpospolitej z 1791 roku, nie obowiązywała w Księstwie
 - **C. Prawo magdeburskie** – średniowieczne prawo miejskie, nie było kodeksem cywilnym
 - **D. Kodeks justyniański** – bizantyński kodeks z VI wieku, nie obowiązywał w Księstwie
 
@@ -213,7 +215,7 @@ W 1809 roku wybuchła wojna między Francją a Austrią. Wojska Księstwa Warsza
 - https://pl.wikipedia.org/wiki/Wojna_polsko-austriacka_1809
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Powstania wielkopolskiego** – miało miejsce w 1806 roku, przed utworzeniem Księstwa
+- **B. Powstanie wielkopolskiego** – miało miejsce w 1806 roku, przed utworzeniem Księstwa
 - **C. Wyprawy na Rosję** – miała miejsce w 1812 roku, po powiększeniu terytorium
 - **D. Bitwy pod Lipskiem** – miała miejsce w 1813 roku, podczas odwrotu z Rosji
 
@@ -361,7 +363,7 @@ Wprowadzenie blokady kontynentalnej wobec Wielkiej Brytanii poważnie osłabił 
 **Question ID:** Q-KW-M-013
 
 **Pytanie:**
-Dlaczego szlachta i kler w Księstwie Warszawskim były początkowo niechętne wobec Napoleona?
+Dlaczego szlachta i kler w Księstwie Warszawskim byli początkowo niechętne wobec Napoleona?
 
 **A.** Obawiały się reform liberalnych i konfiskat majątków
 **B.** Preferowały sojusz z Rosją
@@ -437,8 +439,147 @@ Powstanie Księstwa Warszawskiego było pierwszym odrodzeniem państwowości po 
 
 ---
 
+## Pytanie 16
+
+**Question ID:** Q-KW-M-016
+
+**Pytanie:**
+Kto był pierwszym i jedynym księciem warszawskim w latach 1807-1815?
+
+**A.** Fryderyk August I
+**B.** Napoleon Bonaparte
+**C.** Józef Poniatowski
+**D.** Stanisław August Poniatowski
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:**
+Fryderyk August I był królem Saksonii i został księciem warszawskim w 1807 roku. Był wnukiem Augusta III Sasa, co dawało nadzieję na powrót do unii polsko-saskiej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
+- https://pl.wikipedia.org/wiki/Fryderyk_August_I
+
+**Analiza odpowiedzi nieprawidłowych:**
+- **B. Napoleon Bonaparte** – był cesarzem Francuzów i protektorem Księstwa, ale nie był księciem warszawskim
+- **C. Józef Poniatowski** – był ministrem wojny i naczelnym wodzem armii Księstwa, ale nie władcą
+- **D. Stanisław August Poniatowski** – był ostatnim królem Polski, abdykował w 1795 roku, przed utworzeniem Księstwa
+
+---
+
+## Pytanie 17
+
+**Question ID:** Q-KW-M-017
+
+**Pytanie:**
+W którym roku utworzono Księstwo Warszawskie?
+
+**A.** 1807
+**B.** 1810
+**C.** 1815
+**D.** 1795
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:**
+Księstwo Warszawskie zostało utworzone w 1807 roku na mocy traktatu pokojowego w Tylży, zawartego między Napoleonem a carem Aleksandrem I po zwycięstwie Francji nad Prusami.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
+- https://pl.wikipedia.org/wiki/Pok%C3%B3j_w_Tyl%C5%BCy
+
+**Analiza odpowiedzi nieprawidłowych:**
+- **B. 1810** – rok, w którym Napoleon rozdysponował część majątków ziemskich dla francuskich generałów
+- **C. 1815** – rok likwidacji Księstwa na kongresie wiedeńskim
+- **D. 1795** – rok III rozbioru Polski, kiedy Księstwo jeszcze nie istniało
+
+---
+
+## Pytanie 18
+
+**Question ID:** Q-KW-M-018
+
+**Pytanie:**
+Które miasto było stolicą Księstwa Warszawskiego?
+
+**A.** Warszawa
+**B.** Poznań
+**C.** Kraków
+**D.** Gdańsk
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:**
+Warszawa była stolicą Księstwa Warszawskiego od jego utworzenia w 1807 roku do likwidacji w 1815 roku. Znajdowała się tu siedziba władz państwowych: Rady Ministrów, Rady Stanu i Sejmu.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
+
+**Analiza odpowiedzi nieprawidłowych:**
+- **B. Poznań** – był ważnym miastem Księstwa, ale nie był jego stolicą
+- **C. Kraków** – znajdował się pod zaborem austriackim w latach 1807-1815
+- **D. Gdańsk** – był wolnym miastem pod ochroną Francji w latach 1807-1814
+
+---
+
+## Pytanie 19
+
+**Question ID:** Q-KW-M-019
+
+**Pytanie:**
+Kto był ministrem wojny Księstwa Warszawskiego i naczelnym wodzem polskich wojsk?
+
+**A.** Józef Poniatowski
+**B.** Jan Henryk Dąbrowski
+**C.** Tadeusz Kościuszko
+**D.** Józef Zajączek
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:**
+Książę Józef Poniatowski był ministrem wojny Księstwa Warszawskiego od 1807 roku i naczelnym wodzem polskich wojsk. Zginął w 1813 roku w bitwie pod Lipskiem, osłaniając odwrót armii francuskiej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
+- https://pl.wikipedia.org/wiki/J%C3%B3zef_Poniatowski
+
+**Analiza odpowiedzi nieprawidłowych:**
+- **B. Jan Henryk Dąbrowski** – był generałem i twórcą Legionów Polskich, ale nie ministrem wojny
+- **C. Tadeusz Kościuszko** – odmówił współpracy z Napoleonem i nie brał udziału w sprawach Księstwa
+- **D. Józef Zajączek** – był generałem i dowódcą dywizji, ale nie ministrem wojny
+
+---
+
+## Pytanie 20
+
+**Question ID:** Q-KW-M-020
+
+**Pytanie:**
+W którym mieście w 1815 roku podjęto decyzję o likwidacji Księstwa Warszawskiego?
+
+**A.** Wiedeń
+**B.** Paryż
+**C.** Berlin
+**D.** Moskwa
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:**
+Kongres wiedeński w 1815 roku podjął decyzję o likwidacji Księstwa Warszawskiego. Terytorium Księstwa zostało podzielone między Rosję, Prusy i Austrię, a z większości ziem utworzono Królestwo Polskie połączone unią personalną z Rosją.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
+- https://pl.wikipedia.org/wiki/Kongres_wiede%C5%84ski_(1815)
+
+**Analiza odpowiedzi nieprawidłowych:**
+- **B. Paryż** – stolica Francji, nie miejsce decydowania o losach Księstwa
+- **C. Berlin** – stolica Prus, jednego z zaborców
+- **D. Moskwa** – stolica Rosji, nie miejsce kongresu wiedeńskiego
+
+---
+
 ## Podsumowanie
 
 Pytania na poziomie średnim obejmują zarówno pytania faktograficzne (Kto? Co? Gdzie? Kiedy?), jak i analityczne (Dlaczego? Jakie skutki?). Dotyczą one genezy Księstwa (pokój w Tylży), ustroju (konstytucja, Kodeks Napoleona), kluczowych postaci (Fryderyk August I, Józef Poniatowski, Tadeusz Kościuszko), wydarzeń (wojna z Austrią 1809, wyprawa na Rosję 1812, okupacja rosyjska 1813, kongres wiedeński 1815), przyczyn (polityka Napoleona, dążenia niepodległościowe Polaków), skutków (reformy, blokada kontynentalna, podział terytorium), procesów (formowanie administracji, budowa armii, erozja suwerenności) oraz porównań (sytuacja chłopów, struktura etniczna). Pytania te są zgodne z zakresem podstawowym podstawy programowej dla liceum.
 
-**Liczba pytań:** 15 (pytania faktograficzne i analityczne zgodne z zakresem podstawowym)
+**Liczba pytań:** 20 (pytania faktograficzne i analityczne zgodne z zakresem podstawowym, w tym 5 pytań przeniesionych z EASY)
