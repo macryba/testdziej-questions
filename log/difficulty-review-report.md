@@ -65,15 +65,24 @@
 - ✅ 01-odrodzenie - 2026-05-07 [TIME] - 820c889
 - ✅ 02-wojna-bolszewicka - 2026-05-07 [TIME] - d18b70c
 - ✅ 03-budowa-panstwa - 2026-05-07 [TIME] - eb64db1
-- ⏳ 04-przewrot-majowy
-- ⏳ 05-sanacja
-- ⏳ 06-zagrozenie
-- **Progress:** 3/6 (50%)
+- ✅ 04-przewrot-majowy - 2026-05-07 [TIME] - 87c32d9
+- ✅ 05-sanacja - 2026-05-07 [TIME] - (verified, no changes)
+- ✅ 06-zagrozenie - 2026-05-07 [TIME] - (verified, no changes)
+- **Progress:** 6/6 (100%) ✅
 
-### Remaining Epochs (~12 chapters)
+### 07-ii-wojna-swiatowa (6 chapters)
+- ⏳ 01-kampania-wrzesniowa
+- ⏳ 02-okupacja
+- ⏳ 03-ruch-oporu
+- ⏳ 04-powstanie-warszawskie
+- ⏳ 05-holocaust
+- ⏳ 06-wyzwolenie
+- **Progress:** 0/6 (0%)
+
+### Remaining Epochs (~6 chapters)
 - ⏳ All chapters pending
 
-**Overall Progress:** 38/48 (79%) 🔄
+**Overall Progress:** 41/48 (85%) 🔄
 
 ---
 
@@ -472,7 +481,7 @@
 ## Notes
 
 - **Resume Capability:** ✅ Fully functional - coordinator will read this log and continue from next chapter
-- **Next Chapter:** 06-miedzywojnie/04-przewrot-majowy
+- **Next Chapter:** 07-ii-wojna-swiatowa/01-kampania-wrzesniowa
 - **Error Handling:** No errors encountered yet
 - **Manual Review Needed:** None
 
