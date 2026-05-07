@@ -36,10 +36,10 @@
         "hard_completed": true
       },
       "Rozbicie dzielnicowe I": {
-        "easy": 5,
-        "medium": 12,
+        "easy": 0,
+        "medium": 20,
         "hard": 4,
-        "easy_completed": true,
+        "easy_completed": false,
         "medium_completed": true,
         "hard_completed": true
       },
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T10:00:00Z",
+  "last_updated": "2026-05-07T16:30:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
