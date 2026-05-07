@@ -7,7 +7,7 @@ difficulty: "medium"
 question_count: 22
 created_at: "2026-05-06T12:25:00Z"
 session_start: "2026-05-06T12:00:00Z"
-session_end: "2026-05-07T10:00:00Z"
+session_end: "2026-05-07T10:30:00Z"
 tokens_input: 15000
 tokens_output: 12000
 tokens_total: 27000
