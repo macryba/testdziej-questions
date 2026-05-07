@@ -4,13 +4,14 @@ epoch_id: 2
 chapter: "Chrystianizacja"
 chapter_id: 1
 difficulty: "medium"
-question_count: 12
+question_count: 16
 created_at: "2026-05-05T20:30:00Z"
 session_start: "2026-05-05T20:00:00Z"
-session_end: "2026-05-05T21:00:00Z"
-tokens_input: 6200
-tokens_output: 5100
-tokens_total: 11300
+session_end: "2026-05-07T13:30:00Z"
+tokens_input: 7600
+tokens_output: 6800
+tokens_total: 14400
+migration_note: "Migrated 5 questions from old format (questions/validated/piastowie-chrystianizacja-medium.md) on 2026-05-07. Removed 1 anachronistic question (Q-CHR-M11 KEN commission)."
 ---
 
 # Chrystianizacja: Państwo Gnieźnieńskie i chrystianizacja (960-1025)
@@ -140,7 +141,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 
 **Question ID:** Q-CHR-M06
 
-**Pytanie:** Które państwo przyjąło obrządek bizantyjski (prawosławny) zamiast łacińskiego?
+**Pytanie:** Które państwo przyjęło obrządek bizantyjski (prawosławny) zamiast łacińskiego?
 
 **A)** Czechy
 **B)** Ruś Kijowska
@@ -260,29 +261,6 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 
 **Question ID:** Q-CHR-M11
 
-**Pytanie:** Która instytucja kościelna została utworzona w Polsce w 1773 roku jako pierwsze ministerstwo oświaty w Europie?
-
-**A)** Arcybiskupstwo gnieźnieńskie
-**B)** Komisja Edukacji Narodowej
-**C)** Uniwersytet Jagielloński
-**D)** Biskupstwo krakowskie
-
-**Prawidłowa odpowiedź:** B
-
-**Wyjaśnienie:** Komisja Edukacji Narodowej została utworzona w 1773 roku jako pierwsze ministerstwo oświaty w Europie. Instytucja ta zreformowała system edukacji w Polsce. Pozostałe odpowiedzi dotyczą okresu chrystianizacji (X-XI wiek), a nie wieku XVIII.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Komisja_Edukacji_Narodowej
-
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Arcybiskupstwo gnieźnieńskie zostało utworzone w 1000 roku
-- C) Uniwersytet Jagielloński został założony w 1364 roku
-- D) Biskupstwo krakowskie zostało utworzone w 1000 roku
-
-## Pytanie 12
-
-**Question ID:** Q-CHR-M12
-
 **Pytanie:** Jaki był główny skutek chrystianizacji Polski dla rozwoju kultury?
 
 **A)** Zatrzymanie rozwoju kultury
@@ -302,3 +280,124 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - A) Chrystianizacja przyspieszyła rozwój kultury, nie go zatrzymała
 - C) Polska nie wróciła do pogaństwa po chrzcie
 - D) Chrystianizacja włączyła Polskę do Europy, nie ją od niej odizolowała
+
+## Pytanie 12
+
+**Question ID:** Q-CHR-M12
+
+**Pytanie:** Decyzja Mieszka I o przyjęciu chrztu w obrządku łacińskim (a nie prawosławnym) oznaczała, że:
+
+**A)** Polska stała się częścią wpływów bizantyjskich i wschodnich
+**B)** Polska została włączona do kręgu kultury łacińskiej i zachodniej
+**C)** Różnice religijne między Polską a Czechami zwiększyły się
+**D)** Kościół polski był całkowicie niezależny od Rzymu
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Przyjęcie chrztu w obrządku łacińskim oznaczało włączenie Polski do kręgu kultury zachodniej, z łaciną jako językiem kościoła i nauki, oraz powiązania z papieżem i monarchami zachodniej Europy. To przesądziło o cywilizacyjnej przynależności Polski na stulecia.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+- https://pl.wikipedia.org/wiki/Obr%C4%85dek_%C5%82aci%C5%84ski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Obrządek łaciński oznaczał wpływy zachodnie, a nie bizantyjskie — prawosławie wiążełoby Polskę ze wschodem
+- C) Decyzja o obrządku łacińskim przybliżyła Polskę do Czech (które też były łacińskie), a nie zwiększyła różnice
+- D) Kościół polski był podległy Rzymowi i nie był całkowicie niezależny — miał jednak dużą autonomię wewnętrzną
+
+## Pytanie 13
+
+**Question ID:** Q-CHR-M13
+
+**Pytanie:** Po chrzcie w 966 roku relacje Polski z cesarstwem niemieckim:
+
+**A)** Uległy całkowitemu pogorszeniu, ponieważ Mieszko I nie uznał zwierzchnictwa cesarza
+**B)** Poprawiły się, ponieważ chrześcijański władca był traktowany jako równy partner
+**C)** Zostały całkowicie zerwane i Polska stała się wrogiem cesarstwa
+**D)** Nie uległy zmianie, ponieważ chrzest nie miał wpływu na politykę
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Chrzest sprawił, że Mieszko I został uznany za chrześcijańskiego władcę i równego partnera przez cesarza i innych monarchów europejskich. To poprawiło pozycję Polski w polityce międzynarodowej — Mieszko uznawał pewne zwierzchnictwo cesarza, ale zyskał status chrześcijańskiego monarchy, co chroniło przed ekspansją.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+- https://pl.wikipedia.org/wiki/Mieszko_I
+- https://pl.wikipedia.org/wiki/Historia_Polski_(do_1138)
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Relacje się pogorszyły, ale nie "całkowitemu" — Mieszko uznawał pewne zwierzchnictwo, ale zachowywał autonomię
+- C) Relacje nie zostały zerwane — Polska weszła w system powiązań politycznych z cesarstwem jako sojusznik
+- D) Chrzest miał ogromny wpływ na politykę — zmienił pozycję Polski od "państwa pogańskiego" do "chrześcijańskiego partnera"
+
+## Pytanie 14
+
+**Question ID:** Q-CHR-M14
+
+**Pytanie:** Proces chrystianizacji polskiego społeczeństwa po 966 roku:
+
+**A)** Przebiegał szybko i bez oporu, ponieważ wszyscy chętnie przyjęli nową wiarę
+**B)** Trwał przez pokolenia i napotykał na opór pogańskich tradycji i zwyczajów
+**C)** Zakończył się sukcesem już za życia Mieszka I w 992 roku
+**D)** Nie obejmował ludności wiejskiej, tylko mieszczan i szlachtę
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Chrystianizacja społeczeństwa była długim procesem trwającym pokolenia. Pogańskie tradycje i zwyczaje utrzymywały się długo, a nowa wiara często mieszała się ze starymi kultami. Proces ten był stopniowy i różny w różnych warstwach społeczeństwa.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrystianizacja_Polski
+- https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Proces nie przebiegał szybko i bez oporu — ludność często trzymała się starych zwyczajów i pogańskich praktyk
+- C) Proces nie zakończył się w 992 roku — trwał znacznie dłużej, aż do XV wieku i później w niektórych regionach
+- D) Chrystianizacja obejmowała całe społeczeństwo, również ludność wiejską — choć tam proces był najwolniejszy
+
+## Pytanie 15
+
+**Question ID:** Q-CHR-M15
+
+**Pytanie:** Chrystianizacja Polski w 966 roku doprowadziła do rozwoju w Polsce:
+
+**A)** Systemu pisma i edukacji opartej na języku łacińskim i alfabecie łacińskim
+**B)** Natychmiastowego powstania uniwersytetów i szkół wyższych we wszystkich miastach
+**C)** Zastąpienia języka polskiego przez łacinę w życiu codziennym poddanych
+**D)** Izolacji Polski od wpływów kultury zachodniej i rozwój własnej, unikalnej cywilizacji
+
+**Prawidłowa odpowiedź:** A
+
+**Wyjaśnienie:** Przyjęcie chrześcijaństwa oznaczało dostęp do łaciny jako języka kościoła, dokumentacji i nauki. To pozwoliło na rozwój systemu edukacji, zapisu historii Polski i kontaktów z intelektualnymi centrów Europy. Uniwersytety powstały znacznie później, w XIV wieku.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+- https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- B) Uniwersytety powstały dopiero w XIV wieku — w 966 roku nie było mowy o wyższych szkołach
+- C) Łacina nie zastąpiła języka polskiego w życiu codziennym — służyła do celów kościelnych i oficjalnych
+- D) Chrystianizacja włączyła Polskę do kultury zachodniej, a nie odizolowała od niej
+
+## Pytanie 16
+
+**Question ID:** Q-CHR-M16
+
+**Pytanie:** Chrystianizacja Polski jest uważana za kluczowe wydarzenie dla polskiej państwowości, ponieważ:
+
+**A)** Umożliwiła Mieszkowi I podbój wszystkich sąsiednich państw i stworzenie imperium
+**B)** Dała Polsce dostęp do europejskiej dyplomacji, kultury i instytucji
+**C)** Natychmiast wprowadziła w Polsce demokrację parlamentarną na wzór zachodni
+**D)** Zakończyła wszystkie konflikty zbrojne Polski z jej sąsiadami
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Chrzest dał Polsce dostęp do europejskiej dyplomacji, kultury łacińskiej, instytucji kościelnych i powiązań z innymi monarchami. To włączyło Polskę do wspólnoty europejskiej i dało narzędzia do budowy struktur państwowych zgodnie ze standardami zachodniej Europy.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+- https://pl.wikipedia.org/wiki/Mieszko_I
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Mieszko I nie stworzył imperium i nie podbił wszystkich sąsiadów — chrzest dał mu pozycję w polityce, ale nie taką przewagę
+- C) Demokracja parlamentarna w Polsce powstała znacznie później — w XIII/XIV wieku
+- D) Chrzest nie zakończył konfliktów — Polska nadal prowadziła wojny, ale już jako państwo uznawane przez innych
