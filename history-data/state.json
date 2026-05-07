@@ -4,36 +4,22 @@
   "current_difficulty": "all",
   "questions_generated_this_session": 14,
   "total_questions_generated": 1246,
-  "last_run": "2026-05-07T19:13:46.857677",
-  "status": "migration_completed",
+  "last_run": "2026-05-07T20:00:00Z",
+  "status": "all_migrations_completed",
   "errors": [],
   "batch_size": 14,
-  "migration_source": "questions/validated/starozytnosc-slowianie-{easy,hard}.md",
-  "migration_details": {
-    "easy": {
-      "questions_added": 7,
-      "original": 3,
-      "new": 10,
-      "action": "Migrated 7 questions from old format covering occupations, rivers, materials, social organization, ceramics, trade, and weapons"
-    },
-    "medium": {
-      "questions_added": 0,
-      "original": 12,
-      "new": 12,
-      "action": "Already complete - no migration needed"
-    },
-    "hard": {
-      "questions_added": 7,
-      "original": 3,
-      "new": 10,
-      "action": "Migrated 7 questions from old format focusing on Geographer Bavarian, scholarly debate about Polans, and etymology"
-    }
-  },
   "summary": {
     "easy": 10,
     "medium": 12,
     "hard": 10,
     "total": 32
   },
-  "curriculum_reference": "szkola_podstawowa_zpe.md line 96 (EASY), liceum_technikum_zpe.md lines 680-681 (HARD)"
+  "curriculum_reference": "szkola_podstawowa_zpe.md line 96 (EASY), liceum_technikum_zpe.md lines 680-681 (HARD)",
+  "migration_summary": {
+    "chapters_processed": 6,
+    "total_questions_migrated": 93,
+    "files_deleted": 19,
+    "special_corrections": 2,
+    "completed": true
+  }
 }
