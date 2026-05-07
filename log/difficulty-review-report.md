@@ -64,16 +64,16 @@
 ### 06-miedzywojnie (6 chapters)
 - ✅ 01-odrodzenie - 2026-05-07 [TIME] - 820c889
 - ✅ 02-wojna-bolszewicka - 2026-05-07 [TIME] - d18b70c
-- ⏳ 03-budowa-panstwa
+- ✅ 03-budowa-panstwa - 2026-05-07 [TIME] - eb64db1
 - ⏳ 04-przewrot-majowy
 - ⏳ 05-sanacja
 - ⏳ 06-zagrozenie
-- **Progress:** 2/6 (33%)
+- **Progress:** 3/6 (50%)
 
 ### Remaining Epochs (~12 chapters)
 - ⏳ All chapters pending
 
-**Overall Progress:** 37/48 (77%) 🔄
+**Overall Progress:** 38/48 (79%) 🔄
 
 ---
 
@@ -472,7 +472,7 @@
 ## Notes
 
 - **Resume Capability:** ✅ Fully functional - coordinator will read this log and continue from next chapter
-- **Next Chapter:** 06-miedzywojnie/03-budowa-panstwa
+- **Next Chapter:** 06-miedzywojnie/04-przewrot-majowy
 - **Error Handling:** No errors encountered yet
 - **Manual Review Needed:** None
 
