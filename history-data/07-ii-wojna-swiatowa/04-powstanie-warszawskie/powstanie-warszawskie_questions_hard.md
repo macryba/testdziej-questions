@@ -4,13 +4,15 @@ epoch_id: 7
 chapter: "Powstanie warszawskie"
 chapter_id: 4
 difficulty: "hard"
-question_count: 5
+question_count: 6
 created_at: "2026-05-05T15:30:00Z"
 session_start: "2026-05-05T14:45:00Z"
-session_end: "2026-05-05T16:45:00Z"
+session_end: "2026-05-07T21:00:00Z"
 tokens_input: 30000
 tokens_output: 5000
 tokens_total: 35000
+corrected_at: "2026-05-07T21:00:00Z"
+correction_reason: "Added Question 15 from MEDIUM (requires synthesis and evaluation of long-term political consequences)"
 ---
 
 # Powstanie warszawskie - Pytania poziom trudny
@@ -165,5 +167,33 @@ Ocena powstania warszawskiego jest głęboko podzielona. Z punktu widzenia milit
 - **Odp B:** Historycy nie uznają powstania za zwycięstwo militarne - było to wojskowo-polityczna porażka
 - **Odp C:** Warszawa została niemal całkowicie zniszczona (85%) - powstanie tego nie powstrzymało
 - **Odp D:** Historycy nie są zgodni - wielu uważa, że powstanie nie zapobiegło sowietyzacji
+
+---
+
+## Pytanie 6
+
+**Question ID:** Q-07-04-206
+
+**Pytanie:**
+Jakie znaczenie miało powstanie warszawskie dla powojennej pozycji Polski wobec Związku Radzieckiego?
+
+**A:** Osłabiło Polskie Państwo Podziemne i ułatwiło sowietyzację Polski, mimo że stało się symbolem walki o niepodległość
+**B:** Wzmocniło pozycję rządu RP na uchodźstwie wobec aliantów zachodnich
+**C:** Zmusiło Stalina do uznania legalności rządu RP na uchodźstwie
+**D:** Przyspieszyło wyzwolenie Polski przez Armię Czerwoną
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:**
+Powstanie warszawskie, mimo heroicznego charakteru, zakończyło się klęską polityczną. Zniszczenie struktury Polskiego Państwa Podziemnego i Armii Krajowej ułatwiło Stalinowi sowietyzację Polski i wprowadzenie marionetkowego rządu komunistycznego (PKWN). Jednocześnie powstanie stało się symbolem walki o niepodległość w polskiej tradycji patriotycznej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Skutki_powstania_warszawskiego
+- https://pl.wikipedia.org/wiki/Powstanie_warszawskie
+
+**Analiza odpowiedzi błędnych:**
+- **Odp B:** Pozycja rządu na uchodźstwie została osłabiona, a nie wzmocniona - alianci nie chcieli ryzykować konfliktu ze ZSRR
+- **Odp C:** Stalin nigdy nie uznał legalności rządu RP na uchodźstwie - poparł komunistyczny PKWN
+- **Odp D:** Powstanie nie przyspieszyło wyzwolenia - Armia Czerwona wstrzymała ofensywę i zajęła Warszawę dopiero w styczniu 1945
 
 ---
