@@ -4,20 +4,22 @@ epoch_id: 4
 chapter: "Potop"
 chapter_id: 4
 difficulty: "medium"
-question_count: 12
+question_count: 10
 created_at: "2026-05-05T14:30:00Z"
 session_start: "2026-05-05T13:30:00Z"
 session_end: "2026-05-05T15:00:00Z"
 tokens_input: 25000
 tokens_output: 22000
 tokens_total: 47000
+corrected_at: "2026-05-07T21:15:39Z"
+correction_reason: "Removed 2 duplicate questions (Q-POTOP-MED-003 and Q-POTOP-MED-006)"
 ---
 
 # Potop szwedzki - Pytania poziom średni
 
 ## Krótki opis historyczny
 
-Potop szwedzki (1655-1660) był najniszczycielszym konfliktem w historii Rzeczypospolitej Obojga Narodów. Inwazja wojsk szwedzkich Karola X Gustava wykorzystała osłabienie Polski przez wojnę kozacko-rosyjską (powstanie Chmielnickiego, wojna z Rosją od 1654) oraz wewnętrzne konflikty religijne i polityczne. Prawie całe terytorium kraju zostało zajęte, a król Jan Kazimierz musiał opuścić Polskę.
+Potop szwedzki (1655-1660) był najniszczycielskim konfliktem w historii Rzeczypospolitej Obojga Narodów. Inwazja wojsk szwedzkich Karola X Gustava wykorzystała osłabienie Polski przez wojnę kozacko-rosyjską (powstanie Chmielnickiego, wojna z Rosją od 1654) oraz wewnętrzne konflikty religijne i polityczne. Prawie całe terytorium kraju zostało zajęte, a król Jan Kazimierz musiał opuścić Polskę.
 
 Zwrot w działaniach wojennych nastąpił po heroicznej obronie Jasnej Góry (listopad-grudzień 1655) pod dowództwem Augustyna Kordeckiego. To wydarzenie zainspirowało polskie społeczeństwo do zbrojnego oporu. Konfederacja tyszowiecka (grudzień 1655) zawiązała szlachtę polską w walce ze Szwedami. Powrót Jana Kazimierza i utworzenie regularnych wojsk pozwoliły na przejęcie inicjatywy.
 
@@ -79,31 +81,6 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ### Pytanie 3
 
-**Question ID:** Q-POTOP-MED-003
-
-**Pytanie:** Co to była konfederacja tyszowiecka?
-
-**A.** Związek szlachty polskiej do walki ze Szwedami
-**B.** Sojusz Polski z Brandenburgią
-**C.** Układ pokojowy ze Szwecją
-**D.** Związek szlachty do obrony króla
-
-**Prawidłowa odpowiedź:** A
-
-**Wyjaśnienie:** Konfederacja tyszowiecka zawiązana 29 grudnia 1655 roku była pierwszą organizacją szlachty polskiej, która postanowiła zbrojnie walczyć ze Szwedami i obronić niepodległość kraju.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Potop_szwedzki
-
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B: Sojusz z Brandenburgią został zawarty później
-- Odp C: Konfederacja była organizacją wojskową, nie układem pokojowym
-- Odp D: Szlachta początkowo nie popierała króla Jana Kazimierza
-
----
-
-### Pytanie 4
-
 **Question ID:** Q-POTOP-MED-004
 
 **Pytanie:** Dlaczego obrona Jasnej Góry miała tak duże znaczenie dla Polaków?
@@ -127,7 +104,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ---
 
-### Pytanie 5
+### Pytanie 4
 
 **Question ID:** Q-POTOP-MED-005
 
@@ -152,32 +129,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ---
 
-### Pytanie 6
-
-**Question ID:** Q-POTOP-MED-006
-
-**Pytanie:** Jaki traktat zakończył potop szwedzki?
-
-**A.** Pokój oliwski
-**B.** Traktat w Welawie
-**C.** Rozejm w Niemenży
-**D.** Traktat w Kiejdanach
-
-**Prawidłowa odpowiedź:** A
-
-**Wyjaśnienie:** Pokój oliwski podpisany 3 maja 1660 roku zakończył wojnę polsko-szwedzką (potop szwedzki) i uznawał Jana Kazimierza za prawowitego króla Polski.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Potop_szwedzki
-
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Welawie): Traktat w Welawie dotyczył Prus Książęcych
-- Odp C (Niemenży): Rozejm z Rosją, nie ze Szwecją
-- Odp D (Kiejdanach): Był to układ z Januszem Radziwiłłem ze Szwecją
-
----
-
-### Pytanie 7
+### Pytanie 5
 
 **Question ID:** Q-POTOP-MED-007
 
@@ -202,7 +154,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ---
 
-### Pytanie 8
+### Pytanie 6
 
 **Question ID:** Q-POTOP-MED-008
 
@@ -227,7 +179,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ---
 
-### Pytanie 9
+### Pytanie 7
 
 **Question ID:** Q-POTOP-MED-009
 
@@ -252,7 +204,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ---
 
-### Pytanie 10
+### Pytanie 8
 
 **Question ID:** Q-POTOP-MED-010
 
@@ -277,7 +229,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ---
 
-### Pytanie 11
+### Pytanie 9
 
 **Question ID:** Q-POTOP-MED-011
 
@@ -302,7 +254,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 
 ---
 
-### Pytanie 12
+### Pytanie 10
 
 **Question ID:** Q-POTOP-MED-012
 
