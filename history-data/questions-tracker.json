@@ -276,11 +276,11 @@
         "hard_completed": true
       },
       "Wojna bolszewicka": {
-        "easy": "10",
+        "easy": 10,
         "easy_completed": true,
-        "medium": "10",
+        "medium": 10,
         "medium_completed": true,
-        "hard": "3",
+        "hard": 3,
         "hard_completed": true
       },
       "Budowa państwa": {
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T15:00:00Z",
+  "last_updated": "2026-05-07T20:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
