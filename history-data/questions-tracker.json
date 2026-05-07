@@ -4,7 +4,7 @@
       "Pradzieje": {
         "easy": 0,
         "easy_completed": true,
-        "medium": 15,
+        "medium": 21,
         "medium_completed": true,
         "hard": 3,
         "hard_completed": true
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T16:45:00Z",
+  "last_updated": "2026-05-07T21:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
