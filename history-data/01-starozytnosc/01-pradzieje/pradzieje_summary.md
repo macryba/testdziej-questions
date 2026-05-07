@@ -7,7 +7,7 @@ period: "null-500"
 created_at: "2026-05-05T20:00:00Z"
 summary_type: "chapter_overview"
 easy_question_count: 0
-medium_question_count: 15
+medium_question_count: 24
 hard_question_count: 3
 curriculum_coverage: "none"
 ---
