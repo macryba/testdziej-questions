@@ -4,13 +4,15 @@ epoch_id: 6
 chapter: "Odrodzenie"
 chapter_id: 1
 difficulty: "easy"
-question_count: 10
+question_count: 13
 created_at: "2026-05-05T12:30:00Z"
 session_start: "2026-05-05T12:00:00Z"
-session_end: "2026-05-05T12:30:00Z"
+session_end: "2026-05-07T15:00:00Z"
 tokens_input: 4500
 tokens_output: 3800
 tokens_total: 8300
+corrected_at: "2026-05-07T15:00:00Z"
+correction_reason: "Moved 3 factual questions from MEDIUM to EASY - topics in primary curriculum"
 ---
 
 # Odrodzenie Polski - Pytania poziom łatwy
@@ -278,6 +280,84 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - Odpowiedź B (Cara Rosji): Rosja nie miała wpływu na Królestwo Polskie po wycofaniu się Niemiec z frontu wschodniego i rewolucji w Rosji.
 - Odpowiedź C (Cesarza Austro-Węgier): Austria nie powołała Rady Regencyjnej - była to inicjatywa niemiecka.
 - Odpowiedź D (Prezydenta Francji): Francja nie miała wpływu na powstanie Rady Regencyjnej, która była tworem Niemiec.
+
+---
+
+## Pytanie 11
+
+**Question ID:** Q-ODR-018
+
+**Pytanie:** Jaki był skutek podpisania dekretu o najwyższej władzy reprezentacyjnej przez Józefa Piłsudskiego w listopadzie 1918 roku?
+
+**A)** Ustanowił monarchię w Polsce
+**B)** Uczynił Piłsudskiego dyktatorem
+**C)** Ustanowił ustrój republikański
+**D)** Zniósł parlament
+
+**Poprawna odpowiedź:** C
+
+**Wyjaśnienie:** Dekret o najwyższej władzy reprezentacyjnej z 22 listopada 1918 roku ustanawiał ustrój republikański w Polsce i czynił Piłsudskiego Tymczasowym Naczelnikiem Państwa.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Naczelnik_Pa%C5%84stwa
+- https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
+
+**Analiza odpowiedzi niepoprawnych:**
+- Odpowiedź A: Dekret ustanawiał republikę, nie monarchię.
+- Odpowiedź B: Piłsudski nie był dyktatorem w tym czasie.
+- Odpowiedź D: Dekret przygotowywał wybory do Sejmu Ustawodawczego.
+
+---
+
+## Pytanie 12
+
+**Question ID:** Q-ODR-019
+
+**Pytanie:** Dlaczego Rada Regencyjna przekazała władzę Józefowi Piłsudskiemu w listopadzie 1918 roku?
+
+**A)** Ponieważ była niemiecką marionetką
+**B)** Ponieważ Piłsudski był jedynym kandydatem
+**C)** Ponieważ utraciła legitymację po kapitulacji Niemiec
+**D)** Ponieważ zmusiły ją do tego mocarstwa zachodnie
+
+**Poprawna odpowiedź:** C
+
+**Wyjaśnienie:** Rada Regencyjna, utworzona przez Niemców w 1917 roku, utraciła swoją legitymację po kapitulacji Niemiec i rewolucji w Berlinie. 11 listopada 1918 roku przekazała władzę wojskową Piłsudskiemu, a kilka dni później rozwiązała się.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Rada_Regencyjna_(Kr%C3%B3lestwo_Polskie)
+- https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
+
+**Analiza odpowiedzi niepoprawnych:**
+- Odpowiedź A: Rada Regencyjna nie była marionetką, lecz organem prawnym.
+- Odpowiedź B: Byli inni kandydaci na przywódcę Polski.
+- Odpowiedź D: Mocarstwa zachodnie nie zmuszały Rady do przekazania władzy.
+
+---
+
+## Pytanie 13
+
+**Question ID:** Q-ODR-020
+
+**Pytanie:** Jaki był główny skutek wojny polsko-ukraińskiej o Lwów w latach 1918-1919?
+
+**A)** Lwów został przyłączony do ZSRR
+**B)** Lwów został przyłączony do Polski
+**C)** Lwów stał się miastem wolnym
+**D)** Lwów został przyłączony do Rumunii
+
+**Poprawna odpowiedź:** B
+
+**Wyjaśnienie:** Wojna polsko-ukraińska o Lwów zakończyła się zwycięstwem Polaków i przyłączeniem Lwowa do Polski. Miasto stało się jednym z głównych centrów kultury i nauki II Rzeczypospolitej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Wojna_polsko-ukrai%C5%84ska
+- https://pl.wikipedia.org/wiki/Obrona_Lwowa_(1918%E2%80%931919)
+
+**Analiza odpowiedzi niepoprawnych:**
+- Odpowiedź A: Lwów nie został przyłączony do ZSRR - to nastąpiło po II wojnie światowej.
+- Odpowiedź C: Lwów nie był miastem wolnym.
+- Odpowiedź D: Lwów nie został przyłączony do Rumunii.
 
 ---
 **Koniec pytań poziomu łatwego.**

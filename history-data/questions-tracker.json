@@ -268,9 +268,9 @@
     },
     "Międzywojnie": {
       "Odrodzenie": {
-        "easy": 10,
+        "easy": 13,
         "easy_completed": true,
-        "medium": 10,
+        "medium": 7,
         "medium_completed": true,
         "hard": 3,
         "hard_completed": true
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T12:30:00Z",
+  "last_updated": "2026-05-07T15:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,

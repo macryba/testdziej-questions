@@ -4,13 +4,15 @@ epoch_id: 6
 chapter: "Odrodzenie"
 chapter_id: 1
 difficulty: "medium"
-question_count: 10
+question_count: 7
 created_at: "2026-05-05T12:30:00Z"
 session_start: "2026-05-05T12:00:00Z"
-session_end: "2026-05-05T12:30:00Z"
+session_end: "2026-05-07T15:00:00Z"
 tokens_input: 4500
 tokens_output: 4200
 tokens_total: 8700
+corrected_at: "2026-05-07T15:00:00Z"
+correction_reason: "Moved 3 factual questions to EASY - topics in primary curriculum"
 ---
 
 # Odrodzenie Polski - Pytania poziom średni
@@ -112,7 +114,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 
 **Poprawna odpowiedź:** D
 
-**Wyjaśnienie:** III powstanie śląskie wybuchło w maju 1921 roku po tym, jak propozycja podziału Górnego Śląsku przedstawiona przez Radę Ambasadorów była niekorzystna dla Polaków, mimo że większość Polaków głosowała w plebiscycie za Polską.
+**Wyjaśnienie:** III powstanie śląskie wybuchło w maju 1921 roku po tym, jak propozycja podziału Górnego Śląska przedstawiona przez Radę Ambasadorów była niekorzystna dla Polaków, mimo że większość Polaków głosowała w plebiscycie za Polską.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/III_powstanie_%C5%9Bl%C4%85skie
@@ -126,32 +128,6 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 ---
 
 ## Pytanie 5
-
-**Question ID:** Q-ODR-015
-
-**Pytanie:** Które wydarzenie z 1919 roku bezpośrednio doprowadziło do utworzenia Tymczasowego Rządu Ludowego Republiki Polskiej w Lublinie?
-
-**A)** Objęcie władzy przez Piłsudskiego
-**B)** Upadek Austro-Węgier
-**C)** Kapitulacja Niemiec
-**D)** Rewolucja w Rosji
-
-**Poprawna odpowiedź:** B
-
-**Wyjaśnienie:** Tymczasowy Rząd Ludowy Republiki Polskiej powstał w Lublinie 7 listopada 1918 roku w odpowiedzi na upadek Austro-Węgier i przejęcie władzy przez Polską Komisję Likwidacyjną w Krakowie.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Tymczasowy_Rz%C4%85d_Ludowy_Republiki_Polskiej
-- https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
-
-**Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Piłsudski objął władze później, w Warszawie.
-- Odpowiedź C: Kapitulacja Niemiec wpłynęła na sytuację w Warszawie.
-- Odpowiedź D: Rewolucja w Rosji nastąpiła wcześniej, w 1917 roku.
-
----
-
-## Pytanie 6
 
 **Question ID:** Q-ODR-016
 
@@ -177,7 +153,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 
 ---
 
-## Pytanie 7
+## Pytanie 6
 
 **Question ID:** Q-ODR-017
 
@@ -203,81 +179,29 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 
 ---
 
-## Pytanie 8
+## Pytanie 7
 
-**Question ID:** Q-ODR-018
+**Question ID:** Q-ODR-015
 
-**Pytanie:** Jaki był skutek podpisania dekretu o najwyższej władzy reprezentacyjnej przez Józefa Piłsudskiego w listopadzie 1918 roku?
+**Pytanie:** Które wydarzenie z 1919 roku bezpośrednio doprowadziło do utworzenia Tymczasowego Rządu Ludowego Republiki Polskiej w Lublinie?
 
-**A)** Ustanowił monarchię w Polsce
-**B)** Uczynił Piłsudskiego dyktatorem
-**C)** Ustanowił ustrój republikański
-**D)** Zniósł parlament
-
-**Poprawna odpowiedź:** C
-
-**Wyjaśnienie:** Dekret o najwyższej władzy reprezentacyjnej z 22 listopada 1918 roku ustanawiał ustrój republikański w Polsce i czynił Piłsudskiego Tymczasowym Naczelnikiem Państwa.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Naczelnik_Pa%C5%84stwa
-- https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
-
-**Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Dekret ustanawiał republikę, nie monarchię.
-- Odpowiedź B: Piłsudski nie był dyktatorem w tym czasie.
-- Odpowiedź D: Dekret przygotowywał wybory do Sejmu Ustawodawczego.
-
----
-
-## Pytanie 9
-
-**Question ID:** Q-ODR-019
-
-**Pytanie:** Dlaczego Rada Regencyjna przekazała władzę Józefowi Piłsudskiemu w listopadzie 1918 roku?
-
-**A)** Ponieważ była niemiecką marionetką
-**B)** Ponieważ Piłsudski był jedynym kandydatem
-**C)** Ponieważ utraciła legitymację po kapitulacji Niemiec
-**D)** Ponieważ zmusiły ją do tego mocarstwa zachodnie
-
-**Poprawna odpowiedź:** C
-
-**Wyjaśnienie:** Rada Regencyjna, utworzona przez Niemców w 1917 roku, utraciła swoją legitymację po kapitulacji Niemiec i rewolucji w Berlinie. 11 listopada 1918 roku przekazała władzę wojskową Piłsudskiemu, a kilka dni później rozwiązała się.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Rada_Regencyjna_(Kr%C3%B3lestwo_Polskie)
-- https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
-
-**Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Rada Regencyjna nie była marionetką, lecz organem prawnym.
-- Odpowiedź B: Byli inni kandydaci na przywódcę Polski.
-- Odpowiedź D: Mocarstwa zachodnie nie zmuszały Rady do przekazania władzy.
-
----
-
-## Pytanie 10
-
-**Question ID:** Q-ODR-020
-
-**Pytanie:** Jaki był główny skutek wojny polsko-ukraińskiej o Lwów w latach 1918-1919?
-
-**A)** Lwów został przyłączony do ZSRR
-**B)** Lwów został przyłączony do Polski
-**C)** Lwów stał się miastem wolnym
-**D)** Lwów został przyłączony do Rumunii
+**A)** Objęcie władzy przez Piłsudskiego
+**B)** Upadek Austro-Węgier
+**C)** Kapitulacja Niemiec
+**D)** Rewolucja w Rosji
 
 **Poprawna odpowiedź:** B
 
-**Wyjaśnienie:** Wojna polsko-ukraińska o Lwów zakończyła się zwycięstwem Polaków i przyłączeniem Lwowa do Polski. Miasto stało się jednym z głównych centrów kultury i nauki II Rzeczypospolitej.
+**Wyjaśnienie:** Tymczasowy Rząd Ludowy Republiki Polskiej powstał w Lublinie 7 listopada 1918 roku w odpowiedzi na upadek Austro-Węgier i przejęcie władzy przez Polską Komisję Likwidacyjną w Krakowie.
 
 **Źródła:**
-- https://pl.wikipedia.org/wiki/Wojna_polsko-ukrai%C5%84ska
-- https://pl.wikipedia.org/wiki/Obrona_Lwowa_(1918%E2%80%931919)
+- https://pl.wikipedia.org/wiki/Tymczasowy_Rz%C4%85d_Ludowy_Republiki_Polskiej
+- https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Lwów nie został przyłączony do ZSRR - to nastąpiło po II wojnie światowej.
-- Odpowiedź C: Lwów nie był miastem wolnym.
-- Odpowiedź D: Lwów nie został przyłączony do Rumunii.
+- Odpowiedź A: Piłsudski objął władze później, w Warszawie.
+- Odpowiedź C: Kapitulacja Niemiec wpłynęła na sytuację w Warszawie.
+- Odpowiedź D: Rewolucja w Rosji nastąpiła wcześniej, w 1917 roku.
 
 ---
 **Koniec pytań poziomu średniego.**
