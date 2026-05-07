@@ -39,7 +39,7 @@
         "easy": 0,
         "medium": 20,
         "hard": 10,
-        "easy_completed": false,
+        "easy_completed": true,
         "medium_completed": true,
         "hard_completed": true
       },
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T10:30:00Z",
+  "last_updated": "2026-05-07T20:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
