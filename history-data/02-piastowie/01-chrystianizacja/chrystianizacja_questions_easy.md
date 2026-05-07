@@ -4,14 +4,16 @@ epoch_id: 2
 chapter: "Chrystianizacja"
 chapter_id: 1
 difficulty: "easy"
-question_count: 15
+question_count: 13
 created_at: "2026-05-05T20:00:00Z"
 session_start: "2026-05-05T20:00:00Z"
-session_end: "2026-05-07T12:00:00Z"
+session_end: "2026-05-07T18:30:00Z"
 tokens_input: 7500
 tokens_output: 6300
 tokens_total: 13800
 migration_note: "Migrated 5 questions from old format (questions/validated/piastowie-chrystianizacja-easy.md) on 2026-05-07"
+corrected_at: "2026-05-07T18:30:00Z"
+correction_reason: "Removed 2 questions: Q-CHR-E07 (duplicate of MEDIUM Q-CHR-M10, Święty Wojciech), Q-CHR-E11 (Biskup Jordan moved to MEDIUM - not in primary curriculum)"
 ---
 
 # Chrystianizacja: Państwo Gnieźnieńskie i chrystianizacja (960-1025)
@@ -164,30 +166,6 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 
 ## Pytanie 7
 
-**Question ID:** Q-CHR-E07
-
-**Pytanie:** Który święty biskup praski był męczennikiem i odegrał ważną rolę w chrystianizacji Polski?
-
-**A)** Święty Stanisław
-**B)** Święty Wojciech
-**C)** Święty Adalbert
-**D)** Święty Prokop
-
-**Prawidłowa odpowiedź:** B
-
-**Wyjaśnienie:** Święty Wojciech (znany również jako Święty Adalbert) był biskupem praskim, który zginął jako męczennik w 997 roku podczas misji ewangelizacyjnej wśród Prusów. Jego śmierć i relikwie stały się ważnym elementem w procesie tworzenia niezależnej struktury kościelnej w Polsce.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Wojciech_S%C5%82awnikowic
-- https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
-
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Święty Stanisław był biskupem krakowskim, żył w XI wieku
-- C) Święty Adalbert to łacińska wersja imienia Świętego Wojciecha to ta sama osoba
-- D) Święty Prokop był czeskim świętym, nie był związany z Polską
-
-## Pytanie 8
-
 **Question ID:** Q-CHR-E08
 
 **Pytanie:** Która jednostka administracji kościelnej została ustanowiona w Gnieźnie w 1000 roku jako najwyższa w Polsce?
@@ -258,31 +236,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - C) Poznań było siedzibą biskupstwa, ale nie ma dowodów na chrzt tam
 - D) Kraków nie był głównym ośrodkiem w czasach Mieszka I
 
-## Pytanie 11
-
-**Question ID:** Q-CHR-E11
-
-**Pytanie:** Jak nazywał się pierwszy biskup Polski, który ochrzcił Mieszka I?
-
-**A)** Biskup Wojciech
-**B)** Biskup Jordan
-**C)** Biskup Stanisław
-**D)** Biskup Prokop
-
-**Prawidłowa odpowiedź:** B
-
-**Wyjaśnienie:** Biskup Jordan był pierwszym biskupem Polski i ochrzcił Mieszka I w 966 roku. Przybył do Polski prawdopodobnie z Czech lub Niemiec.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Chrzest_Polski
-- https://pl.wikipedia.org/wiki/Mieszko_I
-
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Biskup Wojciech (Adalbert) żył później — był męczennikiem z końca X wieku, nie brał udziału w chrzcie Mieszka I
-- C) Biskup Stanisław ze Szczepanowa żył w XI wieku — był biskupem krakowskim, ale znacznie później niż chrzest Polski
-- D) Biskup Prokop nie jest znany jako postać związana z chrztem Polski — to imię nie występuje w kontekście chrystianizacji
-
-## Pytanie 12
+## Pytanie 10
 
 **Question ID:** Q-CHR-E12
 
@@ -306,7 +260,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - C) Przemyślidzi byli czeską dynastią, z której pochodziła Dobrawa, a nie Mieszko I
 - D) Wazowie to szwedzka dynastia, która rządziła Polską w XVII wieku — znacznie później
 
-## Pytanie 13
+## Pytanie 11
 
 **Question ID:** Q-CHR-E13
 
@@ -330,7 +284,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - B) Islam nie był religią Polan — to religia Bliskiego Wschodu i Afryki Północnej
 - D) Judaizm nie był religią Polan — to religia Żydów, nie Słowian
 
-## Pytanie 14
+## Pytanie 12
 
 **Question ID:** Q-CHR-E14
 
@@ -354,7 +308,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - C) Cegła pojawiła się później — styl gotycki używał cegieł, ale nie w czasach Mieszka I
 - D) Glina nie była używana do budowy kościołów — to materiał na chaty, nie na świątynie
 
-## Pytanie 15
+## Pytanie 13
 
 **Question ID:** Q-CHR-E15
 

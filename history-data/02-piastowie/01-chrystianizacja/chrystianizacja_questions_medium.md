@@ -4,15 +4,17 @@ epoch_id: 2
 chapter: "Chrystianizacja"
 chapter_id: 1
 difficulty: "medium"
-question_count: 17
+question_count: 18
 created_at: "2026-05-05T20:30:00Z"
 session_start: "2026-05-05T20:00:00Z"
-session_end: "2026-05-07T16:45:00Z"
+session_end: "2026-05-07T18:30:00Z"
 tokens_input: 7600
 tokens_output: 7100
 tokens_total: 14700
 migration_source: "questions/validated/piastowie-chrystianizacja-medium-001.md"
 migration_details: "Migrated 1 additional question (Q-PCH-001) asking about main political effect of baptism - inclusion into Latin Western political-cultural circle"
+corrected_at: "2026-05-07T18:30:00Z"
+correction_reason: "Added Q-CHR-M18 (Biskup Jordan) moved from EASY - topic not in primary school curriculum"
 ---
 
 # Chrystianizacja: Państwo Gnieźnieńskie i chrystianizacja (960-1025)
@@ -423,5 +425,27 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - A) Sojusz z Rzymem przeciwko cesarzowi byłby politycznie niemożliwy w realiach X wieku — Mieszko I współpracował z cesarstwem, nie przeciwko niemu
 - C) Ekspansja na wschód (ziemi sandomierskiej, Lubelszczyzny) miała miejsce później, za panowania Bolesława Chrobrego i Kazimierza Odnowiciela (XI-XII wiek)
 - D) Najazdy wikingów (skandynawskich) na Polskę były sporadyczne i nie stanowiły głównego zagrożenia — chrzest nie był bezpośrednio związany z obroną przed Skandynawami
-- C) Demokracja parlamentarna w Polsce powstała znacznie później — w XIII/XIV wieku
-- D) Chrzest nie zakończył konfliktów — Polska nadal prowadziła wojny, ale już jako państwo uznawane przez innych
+
+## Pytanie 18
+
+**Question ID:** Q-CHR-M18
+
+**Pytanie:** Jak nazywał się pierwszy biskup Polski, który ochrzcił Mieszka I w 966 roku?
+
+**A)** Biskup Wojciech
+**B)** Biskup Jordan
+**C)** Biskup Stanisław
+**D)** Biskup Prokop
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Biskup Jordan był pierwszym biskupem Polski i ochrzcił Mieszka I w 966 roku. Przybył do Polski prawdopodobnie z Czech lub Niemiec. Jego imię nie jest wymienione w podstawie programowej szkoły podstawowej, stąd pytanie na poziomie MEDIUM.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+- https://pl.wikipedia.org/wiki/Mieszko_I
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Biskup Wojciech (Adalbert) żył później — był męczennikiem z końca X wieku, nie brał udziału w chrzcie Mieszka I
+- C) Biskup Stanisław ze Szczepanowa żył w XI wieku — był biskupem krakowskim, ale znacznie później niż chrzest Polski
+- D) Biskup Prokop nie jest znany jako postać związana z chrztem Polski — to imię nie występuje w kontekście chrystianizacji

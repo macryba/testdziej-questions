@@ -20,9 +20,9 @@
     },
     "Piastowie": {
       "Chrystianizacja": {
-        "easy": 15,
+        "easy": 13,
         "easy_completed": true,
-        "medium": 17,
+        "medium": 18,
         "medium_completed": true,
         "hard": 10,
         "hard_completed": true
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T22:00:00Z",
+  "last_updated": "2026-05-07T18:30:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
