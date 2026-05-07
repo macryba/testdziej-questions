@@ -7,10 +7,11 @@ difficulty: "hard"
 question_count: 3
 created_at: "2026-05-05T16:15:00+00:00"
 session_start: "2026-05-05T16:00:00+00:00"
-session_end: "2026-05-05T16:15:00+00:00"
+session_end: "2026-05-07T21:20:39+00:00"
 tokens_input: 12000
 tokens_output: 6500
 tokens_total: 18500
+corrected_at: "2026-05-07T21:20:39+00:00"
 ---
 
 # Upadek państwa - Pytania poziom trudny
@@ -32,23 +33,23 @@ Insurekcja kościuszkowska 1794 roku była ostatnią próbą ratowania niepodleg
 **Question ID:** Q-UPA-H-001
 **Pytanie:** Która z wymienionych przyczyn miała decydujący wpływ na upadek Rzeczypospolitej Obojga Narodów w XVIII wieku?
 
-**A.** Brak silnej armii zawodowej
-**B.** Niesolidarność szlachty i liberum veto
-**C.** Wpływ kapłaństwa na sprawy państwa
-**D.** Niekorzystne położenie geograficzne
+**A)** Brak silnej armii zawodowej
+**B)** Niesolidarność szlachty i liberum veto
+**C)** Wpływ kapłaństwa na sprawy państwa
+**D)** Niekorzystne położenie geograficzne
 
-**Correct Answer:** B
+**Prawidłowa odpowiedź:** B
 
-**Explanation:** Niesolidarność szlachty i liberum voto były decydującymi przyczynami upadku Rzeczypospolitej. Liberum veto umożliwiało zerwanie sejmu przez jednego posła, co paraliżowało procesy reform. Szlachta, zamiast działać dla dobra wspólnego, często dążyła do ochrony własnych przywilejów kosztem państwa. To rozdarcie wewnętrzne uniemożliwiło skuteczną obronę przed mocarstwami zaborczymi.
+**Wyjaśnienie:** Niesolidarność szlachty i liberum voto były decydującymi przyczynami upadku Rzeczypospolitej. Liberum veto umożliwiało zerwanie sejmu przez jednego posła, co paraliżowało procesy reform. Szlachta, zamiast działać dla dobra wspólnego, często dążyła do ochrony własnych przywilejów kosztem państwa. To rozdarcie wewnętrzne uniemożliwiło skuteczną obronę przed mocarstwami zaborczymi.
 
-**Sources:**
+**Źródła:**
 - [Upadek Rzeczypospolitej](https://pl.wikipedia.org/wiki/Historia_Polski_(1764%E2%80%931795)) - Wikipedia Polska
 - [Liberum veto](https://pl.wikipedia.org/wiki/Liberum_veto) - Wikipedia Polska
 
-**Incorrect Answers Analysis:**
-- A. Brak silnej armii był skutkiem, nie przyczyną kryzysu
-- C. Wpływ kapłaństwa nie był główną przyczyną upadku
-- D. Położenie geograficzne było mniej istotne niż czynniki wewnętrzne
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Brak silnej armii był skutkiem, nie przyczyną kryzysu
+- C) Wpływ kapłaństwa nie był główną przyczyną upadku
+- D) Położenie geograficzne było mniej istotne niż czynniki wewnętrzne
 
 ---
 
@@ -57,22 +58,22 @@ Insurekcja kościuszkowska 1794 roku była ostatnią próbą ratowania niepodleg
 **Question ID:** Q-UPA-H-002
 **Pytanie:** Jak ocenić rolę Tadeusza Kościuszki w historii walki o niepodległość Polski w kontekście jego działań podczas insurekcji 1794 roku?
 
-**A.** Jako błąd strategiczny doprowadzający do klęski
-**B.** Jako ostatni przywódca walki o niepodległość i symbol męstwa
-**C.** Jako polityka działającego dla osobistych korzyści
-**D.** Jako zdrajca współpracującego z Rosją
+**A)** Jako błąd strategiczny doprowadzający do klęski
+**B)** Jako ostatni przywódca walki o niepodległość i symbol męstwa
+**C)** Jako polityka działającego dla osobistych korzyści
+**D)** Jako zdrajca współpracującego z Rosją
 
-**Correct Answer:** B
+**Prawidłowa odpowiedź:** B
 
-**Explanation:** Tadeusz Kościuszko jest oceniany jako ostatni przywódca walki o niepodległość Polski w XVIII wieku i symbol męstwa w obronie ojczyzny. Jego działania podczas insurekcji 1794 roku, mimo ostatecznej klęski, pokazały determinację narodu do obrony suwerenności. Kościuszko był również symbolem walki "za naszą i waszą wolność", co podkreśla jego międzynarodowe znaczenie w historii walk o niepodległość.
+**Wyjaśnienie:** Tadeusz Kościuszko jest oceniany jako ostatni przywódca walki o niepodległość Polski w XVIII wieku i symbol męstwa w obronie ojczyzny. Jego działania podczas insurekcji 1794 roku, mimo ostatecznej klęski, pokazały determinację narodu do obrony suwerenności. Kościuszko był również symbolem walki "za naszą i waszą wolność", co podkreśla jego międzynarodowe znaczenie w historii walk o niepodległość.
 
-**Sources:**
+**Źródła:**
 - [Tadeusz Kościuszko](https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko) - Wikipedia Polska
 
-**Incorrect Answers Analysis:**
-- A. Jego działania nie były błędem strategicznym.
-- C. Nie działał dla osobistych korzyści.
-- D. Nie był zdrajcą ani nie współpracował z Rosją.
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Jego działania nie były błędem strategicznym.
+- C) Nie działał dla osobistych korzyści.
+- D) Nie był zdrajcą ani nie współpracował z Rosją.
 
 ---
 
@@ -81,23 +82,23 @@ Insurekcja kościuszkowska 1794 roku była ostatnią próbą ratowania niepodleg
 **Question ID:** Q-UPA-H-003
 **Pytanie:** Jakie były długoterminowe skutki upadku Rzeczypospolitej Obojga Narodów dla układu sił w Europie Środkowo-Wschodniej?
 
-**A.** Utrzymanie równowagi między mocarstwami regionalnymi
-**B.** Powstanie buforu między Rosją a Niemcami
-**C.** Bezpośredni kontakt trzech imperiów i zwiększenie wpływów rosyjskich
-**D.** Wzmocnienie pozycji Austrii kosztem Rosji
+**A)** Utrzymanie równowagi między mocarstwami regionalnymi
+**B)** Powstanie buforu między Rosją a Niemcami
+**C)** Bezpośredni kontakt trzech imperiów i zwiększenie wpływów rosyjskich
+**D)** Wzmocnienie pozycji Austrii kosztem Rosji
 
-**Correct Answer:** C
+**Prawidłowa odpowiedź:** C
 
-**Explanation:** Długoterminowym skutkiem upadku Rzeczypospolitej był bezpośredni kontakt trzech imperiów (Rosji, Prus i Austrii) na terenie byłego państwa polskiego, co zwiększyło napięcia polityczne w Europie Środkowo-Wschodniej. Rosja zyskała dostęp do nowych terytoriów i wzmocniła swoją pozycję regionalną, co miało wpływ na stosunki między mocarstwami przez całe XIX wiek.
+**Wyjaśnienie:** Długoterminowym skutkiem upadku Rzeczypospolitej był bezpośredni kontakt trzech imperiów (Rosji, Prus i Austrii) na terenie byłego państwa polskiego, co zwiększyło napięcia polityczne w Europie Środkowo-Wschodniej. Rosja zyskała dostęp do nowych terytoriów i wzmocniła swoją pozycję regionalną, co miało wpływ na stosunki między mocarstwami przez całe XIX wiek.
 
-**Sources:**
+**Źródła:**
 - [Rozbiory Polski](https://pl.wikipedia.org/wiki/Rozbiory_Polski) - Wikipedia Polska
 - [Historia Polski (1764–1795)](https://pl.wikipedia.org/wiki/Historia_Polski_(1764%E2%80%931795)) - Wikipedia Polska
 
-**Incorrect Answers Analysis:**
-- A. Równowaga między mocarstwami nie została utrzymana
-- B. Nie powstał bufor między Rosją a Niemcami
-- D. Austria nie wzmocniła swojej pozycji kosztem Rosji
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Równowaga między mocarstwami nie została utrzymana
+- B) Nie powstał bufor między Rosją a Niemcami
+- D) Austria nie wzmocniła swojej pozycji kosztem Rosji
 
 ---
 

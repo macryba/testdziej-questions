@@ -194,7 +194,7 @@
       "Upadek": {
         "easy": 10,
         "easy_completed": true,
-        "medium": 12,
+        "medium": 11,
         "medium_completed": true,
         "hard": 3,
         "hard_completed": true
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T21:30:00Z",
+  "last_updated": "2026-05-07T21:20:39Z",
   "summary": {
     "easy": 0,
     "medium": 12,
