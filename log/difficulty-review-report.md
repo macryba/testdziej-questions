@@ -8,8 +8,8 @@
 ## Quick Stats
 
 - **Total Chapters:** 48 (estimated from master-list.json)
-- **Completed:** 9 (19%)
-- **Remaining:** ~39
+- **Completed:** 10 (21%)
+- **Remaining:** ~38
 - **Errors:** 0
 
 ## Progress by Epoch
@@ -29,14 +29,20 @@
 - ✅ 07-kazimierz-wielki - 2026-05-07 [TIME] - (no changes needed)
 - **Progress:** 7/7 (100%) ✅
 
-### 03-jagiellonowie (~6 chapters)
-- ⏳ All chapters pending
-- **Progress:** 0/6 (0%)
+### 03-jagiellonowie (7 chapters)
+- ✅ 01-unia-krewska - 2026-05-07 [TIME] - 0194512
+- ✅ 02-grunwald - 2026-05-07 20:40 UTC - (verified, no changes)
+- ⏳ 03-warneńczyk
+- ⏳ 04-kazimierz-jagiellonczyk
+- ⏳ 05-wojna-trzynastoletnia
+- ⏳ 06-zygmunt-stary
+- ⏳ 07-zygmunt-august
+- **Progress:** 2/7 (29%)
 
 ### Remaining Epochs (~34 chapters)
 - ⏳ All chapters pending
 
-**Overall Progress:** 9/48 (19%) 🔄
+**Overall Progress:** 11/48 (23%) 🔄
 
 ---
 
@@ -311,10 +317,66 @@
 
 ---
 
+### Chapter: 03-jagiellonowie/01-unia-krewska
+
+**Started:** 2026-05-07 [TIME] UTC
+**Completed:** 2026-05-07 [TIME] UTC
+**Duration:** [DURATION]
+**Status:** ✅ SUCCESS - VERIFIED
+
+**Changes Made:**
+- None - all questions already correctly classified
+- Verification only - 100% classification accuracy
+
+**Final Counts:**
+- EASY: 5 (correct - limited primary curriculum coverage)
+- MEDIUM: 15 (correct)
+- HARD: 5 (correct)
+
+**Quality Metrics:**
+- **Classification Accuracy:** 100%
+- **Duplicate Resolution:** 0 duplicates found
+- **Curriculum Coverage:** EASY=Limited, MEDIUM=100%, HARD=100%
+
+**Git Commit:** 0194512
+
+**Files Modified:** None (verification only)
+
+---
+
+### Chapter: 03-jagiellonowie/02-grunwald
+
+**Started:** 2026-05-07 20:35:00 UTC
+**Completed:** 2026-05-07 20:40:00 UTC
+**Duration:** 5 minutes
+**Status:** ✅ SUCCESS - VERIFIED
+
+**Changes Made:**
+- None - all questions already correctly classified
+- Verification only - 100% classification accuracy
+
+**Final Counts:**
+- EASY: 10 (correct - bitwa pod Grunwaldem IS in primary curriculum Dział IV)
+- MEDIUM: 12 (correct - analytical questions about causes/effects)
+- HARD: 5 (correct - advanced analysis/synthesis/evaluation)
+
+**Quality Metrics:**
+- **Classification Accuracy:** 100%
+- **Duplicate Resolution:** 0 duplicates found
+- **Curriculum Coverage:** EASY=100%, MEDIUM=100%, HARD=100%
+
+**Git Commit:** None (no changes needed)
+
+**Files Modified:** None (verification only)
+
+**Note:** This chapter is an example of perfect classification - all 27 questions correctly placed according to curriculum
+
+---
+
 ## Statistics
 
-### Questions Processed (9 chapters)
-- **Total Questions Analyzed:** 296
+### Questions Processed (11 chapters)
+- **Total Questions Analyzed:** 348
   - Pradzieje: 27 (24 MEDIUM + 3 HARD)
   - Słowianie: 32 (10 EASY + 12 MEDIUM + 10 HARD)
   - Chrystianizacja: 42 (15 EASY + 17 MEDIUM + 10 HARD)
@@ -324,6 +386,8 @@
   - Zjednoczenie: 30 (10 EASY + 10 MEDIUM + 10 HARD)
   - Łokietek: 20 (0 EASY + 10 MEDIUM + 10 HARD)
   - Kazimierz Wielki: 26 (10 EASY + 12 MEDIUM + 4 HARD)
+  - Unia Krewska: 25 (5 EASY + 15 MEDIUM + 5 HARD)
+  - Grunwald: 27 (10 EASY + 12 MEDIUM + 5 HARD)
 - **Questions Moved:** 48
   - EASY → MEDIUM: 42
   - HARD → MEDIUM: 13
@@ -338,9 +402,10 @@
 - **Estimated Time Remaining:** ~13.5 hours (46 chapters × 17.5 min)
 
 ### Git Activity
-- **Total Commits Created:** 7
+- **Total Commits Created:** 8
+- **Chapters with No Changes:** 3 (Łokietek, Kazimierz Wielki, Grunwald)
 - **First Commit:** b25ef81 (Pradzieje)
-- **Last Commit:** 4d48881 (Zjednoczenie)
+- **Last Commit:** 0194512 (Unia Krewska)
 - **Commit Success Rate:** 100%
 
 ---
@@ -348,7 +413,7 @@
 ## Notes
 
 - **Resume Capability:** ✅ Fully functional - coordinator will read this log and continue from next chapter
-- **Next Chapter:** 03-jagiellonowie/01-unia-krewska
+- **Next Chapter:** 03-jagiellonowie/03-warneńczyk
 - **Error Handling:** No errors encountered yet
 - **Manual Review Needed:** None
 
