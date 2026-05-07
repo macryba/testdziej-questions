@@ -4,13 +4,15 @@ epoch_id: 2
 chapter: "Najazd mongolski"
 chapter_id: 4
 difficulty: "medium"
-question_count: 15
+question_count: 22
 created_at: "2026-05-06T12:45:00Z"
 session_start: "2026-05-06T12:45:00Z"
-session_end: "2026-05-06T12:50:00Z"
-tokens_input: 8500
-tokens_output: 4200
-tokens_total: 12700
+session_end: "2026-05-07T10:00:00Z"
+tokens_input: 13500
+tokens_output: 7200
+tokens_total: 20700
+migration_source: "questions/validated/piastowie-najazd-mongolski-medium.md"
+migration_details: "Migrated 7 questions from old format focusing on causes of invasion (fall of Kiev), military tactics (feigned retreat), economic consequences, castle building reforms, political consequences, Polish-Czech relations, and cultural memory."
 ---
 
 # Najazd mongolski - Pytania poziom średni
@@ -387,5 +389,181 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - Przyspieszył - przeciwnie, opóźnił
 - Żadnego wpływu - fałsz
 - Zakończył - rozbicie trwało dalej
+
+---
+
+### Pytanie 16
+**Question ID:** Q-NM-016
+
+**Pytanie:** Jakie wydarzenie z 1240 roku bezpośrednio poprzedziło najazd mongolski na Polskę i otworzyło Mongołom drogę do inwazji na Europę Środkową?
+
+**A.** Upadek Kijowa i podbój Rusi Kijowskiej przez Batu Chana
+**B.** Bitwa pod Legnicą, która osłabiła siły polskie
+**C.** Śmierć wielkiego chana Ögedeja i wycofanie się Mongołów
+**D.** Zawarcie sojuszu polsko-węgierskiego przeciwko Mongołom
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Upadek Kijowa w grudniu 1240 roku połamał potęgę Rusi Kijowskiej i zniszczył naturalną barierę ochronną dla państw zachodnich. Mongołowie po zdobyciu najważniejszych centrów rusińskich skierowali się dalej na zachód, docierając do Polski i Węgier w 1241 roku.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polsk%C4%99
+- https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Kijowa_(1240)
+
+**Analiza niepoprawnych odpowiedzi:**
+- Bitwa pod Legnicą odbyła się dopiero w kwietniu 1241 roku, więc nie mogła poprzedzić najazdu
+- Śmierć Ögedeja nastąpiła pod koniec 1241 roku i była powodem wycofania, nie przyczyną najazdu
+- Sojusz polsko-węgierski powstał jako reakcja na zagrożenie mongolskie, nie poprzedził najazdu
+
+---
+
+### Pytanie 17
+**Question ID:** Q-NM-017
+
+**Pytanie:** Dlaczego bitwa pod Legnicą z 9 kwietnia 1241 roku zakończyła się tak całkowitym zwycięstwem mongolskim, pomimo że wojska chrześcijańskie miały przewagę liczebną?
+
+**A.** Mongołowie zastosowali taktykę fałszywego ucieczki i zasadzki
+**B.** Polacy nie mieli konnicy, podczas gdy Mongołowie walczyli tylko konno
+**C.** Henryk Pobożny zdradził sojuszników na polu bitwy
+**D.** Nieprzyjaciel uciekł z pola bitwy, widząc przewagę Polaków
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Mongołowie słynęli z wyrafinowanych taktyk wojennych, w tym taktyki fałszywego ucieczki. W bitwie pod Legnicą mongolska lekka kawaleria symulowała odwrót, wciągając ciężką kawalerię europejską w pułapkę, gdzie została otoczona i zniszczona przez główne siły mongolskie ukryte w lesie.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
+- https://historia.org.pl/1241-bitwa-pod-legnica/
+
+**Analiza niepoprawnych odpowiedzi:**
+- Wojska chrześcijańskie posiadały zarówno ciężką kawalerię, jak i piechotę
+- Henryk Pobożny dzielnie walczył i zginął w bitwie, nie ma dowodów na zdradę
+- Mongołowie odnieśli zdecydowane zwycięstwo, a nie uciekli
+
+---
+
+### Pytanie 18
+**Question ID:** Q-NM-018
+
+**Pytanie:** Jakie skutki gospodarcze wywołał najazd mongolski w Polsce w latach 1241-1242, mimo że Mongołowie ostatecznie wycofali się z naszych ziem?
+
+**A.** Zniszczenie wielu miast i grodów oraz spadek ludności z powodu śmierci i niewolnictwa
+**B.** Mongolska administracja wprowadziła nowe podatki i system gospodarczy
+**C.** Polska zyskała dostęp do szlaków handlowych ze Wschodem
+**D.** Rozwój miast z powodu mongolskich inwestycji w infrastrukturę
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Najazd spowodował ogromne zniszczenia materialne — spalone zostały grody, miasta i wsie, a ludność była masowo mordowana lub brana do niewoli i wywożona na wschód. Szacuje się, że Polska straciła znaczną część populacji, co zahamowało rozwój gospodarczy na dziesięciolecia.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polsk%C4%99
+- https://histmag.org/Najazd-mongolski-na-Polske-w-1241-roku
+
+**Analiza niepoprawnych odpowiedzi:**
+- Mongołowie nie ustanowili administracji na terenie Polski, bo się wycofali
+- Najazd zniszczył istniejące szlaki handlowe, nie tworząc nowych
+- Mongołowie zniszczyli infrastrukturę, a nie inwestowali w nią
+
+---
+
+### Pytanie 19
+**Question ID:** Q-NM-019
+
+**Pytanie:** Jakie konsekwencje militarne dla Polski przyniósł najazd mongolski z lat 1241-1242 w dłuższej perspektywie, mimo że Mongołowie się wycofali?
+
+**A.** Modernizacja systemów obronnych i budowa zamków kamiennych zamiast drewnianych
+**B.** Polska zrezygnowała z konnicy na rzecz piechoty
+**C.** Książęta polscy zaniechali budowy jakichkolwiek umocnień
+**D.** Wojska polskie przyjęły mongolską taktykę i broń
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Po najazdzie mongolskim książęta polscy zrozumieli, że drewniane grody nie zapewniają odpowiedniej ochrony przed nowoczesnymi metodami oblężniczymi. Rozpoczęto intensywną budowę zamków kamiennych i modernizację systemów obronnych, co miało duże znaczenie w kolejnych stuleciach.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/I_najazd_mongolski_na_Polsk%C4%99
+- https://www.e-teatr.pl/pl/artykuly/131901,najazd-mongolski-i-jego-skutki
+
+**Analiza niepoprawnych odpowiedzi:**
+- Polska nadal opierała się na ciężkiej kawalerii, nie zrezygnowano z konnicy
+- Przeciwnie - po najazdzie nasiliła się budowa umocnień
+- Polska zachowała zachodni styl wojowania, nie przejmując mongolskich taktyk
+
+---
+
+### Pytanie 20
+**Question ID:** Q-NM-020
+
+**Pytanie:** Dlaczego śmierć księcia Henryka Pobożnego w bitwie pod Legnicą miała tak istotne znaczenie polityczne dla dzielnicowej Polski?
+
+**A.** Jego śmierć zakończyła próbę zjednoczenia polskich dzielnic pod jednym władcą
+**B.** Książę nie miał spadkobierców, więc jego księstwo przeszło pod bezpośrednie panowanie mongolskie
+**C.** Śmierć ta wzmocniła pozycję Przemyślidów czeskich w Polsce
+**D.** Władca ten był jedynym polskim księciem sprzeciwiającym się Mongołom
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Henryk II Pobożny był jednym z najpotężniejszych książąt polskich i dążył do zjednoczenia ziem polskich. Jego śmierć pod Legnicą przerwała te próby i doprowadziła do rozdrobnienia jego księstwa między synów, co osłabiło Polskę na kolejne dziesięciolecia.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Henryk_II_Pobo%C5%BCny
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
+
+**Analiza niepoprawnych odpowiedzi:**
+- Księstwo odziedziczyli synowie Henryka, nie Mongołowie
+- Choć Przemyślidzi zyskali na wpływach, nie był to główny skutek śmierci
+- Większość książąt polskich stawiała opór Mongołom
+
+---
+
+### Pytanie 21
+**Question ID:** Q-NM-021
+
+**Pytanie:** Jak najazd mongolski wpłynął na relacje polsko-czeskie w połowie XIII wieku?
+
+**A.** Polska zwróciła się w stronę sojuszu z Czechami przeciwko zagrożeniu ze wschodu
+**B.** Stosunki polsko-czeskie uległy pogorszeniu z powodu czeskiej zdrady pod Legnicą
+**C.** Czesi zajęli Śląsk po śmierci Henryka Pobożnego
+**D.** Czechy dołączyły do Mongołów i najechały Polskę od południa
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** W obliczu zagrożenia mongolskiego polska i czeska dynastia zawarła sojusz. Czeski król Wacław I wysłał posiłki do armii Henryka Pobożnego, a jego syn Bolesław walczył pod Legnicą. Choć sojusz nie uratował Polski przed najazdem, zapoczątkował trwającą dziesięciolecia współpracę polsko-czeską.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
+- https://pl.wikipedia.org/wiki/Wac%C5%82aw_I_(kr%C3%B3l_Czech)
+
+**Analiza niepoprawnych odpowiedzi:**
+- Czesi nie zdradzili Polaków, lecz walczyli ramię w ramię
+- Czesi nie zajęli Śląska - dziedziczyli go synowie Henryka Pobożnego
+- Czechy również były celem mongolskiej inwazji, nie sojusznikiem Mongołów
+
+---
+
+### Pytanie 22
+**Question ID:** Q-NM-022
+
+**Pytanie:** Jakie zmiany w świadomości historycznej i literaturze polskiej wywołał najazd mongolski i bitwa pod Legnicą?
+
+**A.** Upamiętnienie śmierci Henryka Pobożnego jako męczeństwa za wiarę chrześcijańską
+**B.** Zapomnienie o tych wydarzeniach z powodu ich odległości od centrów kultury
+**C.** Przedstawienie Mongołów jako wybawców od tyranii książąt polskich
+**D.** Poczucie, że Polska nigdy nie odzyska siły po najazdzie
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Śmierć Henryka Pobożnego została zapamiętana jako męczeństwo za wiarę chrześcijańską. Według relacji Mongołowie mieli zidentyfikować jego ciało po charakterystycznym znamieniu na ręku i ściąć głowę jako oddanie hołdu jego waleczności. W średniowiecznej literaturze Henryk był przedstawiany jako obrońca chrześcijaństwa.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Henryk_II_Pobo%C5%BCny
+- https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
+- https://www.sciaga.pl/teksty/6846-0-polacy-a-tatarzy
+
+**Analiza niepoprawnych odpowiedzi:**
+- Najazd był jednym z najważniejszych wydarzeń w polskiej pamięci historycznej
+- Mongołowie byli przedstawiani jako wrogowie chrześcijaństwa, nie wybawcy
+- Literatura polska podkreślała odrodzenie Polski po najazdzie, nie jego trwałe osłabienie
 
 ---

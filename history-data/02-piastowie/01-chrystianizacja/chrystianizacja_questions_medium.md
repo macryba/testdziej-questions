@@ -4,14 +4,15 @@ epoch_id: 2
 chapter: "Chrystianizacja"
 chapter_id: 1
 difficulty: "medium"
-question_count: 16
+question_count: 17
 created_at: "2026-05-05T20:30:00Z"
 session_start: "2026-05-05T20:00:00Z"
-session_end: "2026-05-07T13:30:00Z"
+session_end: "2026-05-07T16:45:00Z"
 tokens_input: 7600
-tokens_output: 6800
-tokens_total: 14400
-migration_note: "Migrated 5 questions from old format (questions/validated/piastowie-chrystianizacja-medium.md) on 2026-05-07. Removed 1 anachronistic question (Q-CHR-M11 KEN commission)."
+tokens_output: 7100
+tokens_total: 14700
+migration_source: "questions/validated/piastowie-chrystianizacja-medium-001.md"
+migration_details: "Migrated 1 additional question (Q-PCH-001) asking about main political effect of baptism - inclusion into Latin Western political-cultural circle"
 ---
 
 # Chrystianizacja: Państwo Gnieźnieńskie i chrystianizacja (960-1025)
@@ -399,5 +400,28 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Mieszko I nie stworzył imperium i nie podbił wszystkich sąsiadów — chrzest dał mu pozycję w polityce, ale nie taką przewagę
+
+## Pytanie 17
+
+**Question ID:** Q-CHR-M17
+
+**Pytanie:** Które z poniższych stwierdzeń najlepiej opisuje główny skutek polityczny chrztu Mieszka I w 966 roku?
+
+**A)** Umożliwiło to zawarcie sojuszu z Rzymem przeciwko cesarzowi niemieckiemu
+**B)** Włączyło Polskę do kręgu polityczno-kulturowym Europy łacińskiej
+**C)** Pozwoliło na podbój nowych ziem na wschód od Wisły
+**D)** Zabezpieczyło granice przed najazdami plemion skandynawskich
+
+**Prawidłowa odpowiedź:** B
+
+**Wyjaśnienie:** Chrzest Mieszka I w 966 roku był kluczowym wydarzeniem, które włączyło państwo Polan do rodziny państw chrześcijańskich Europy. Dzięki przyjęciu chrześcijaństwa Mieszko zyskał status "przyjaciela cesarza" i mógł prowadzić politykę na równi z innymi władcami europejskimi. Co więcej, chrzest umożliwił zawieranie małżeństw dynastycznych z książętami chrześcijańskimi oraz otworzył drogę do przyjmowania zachodnich wzorców kulturowych, administracyjnych i prawnych. Był to krok decydujący o przynależności Polski do cywilizacji zachodniej.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Chrzest_Polski
+
+**Analiza nieprawidłowych odpowiedzi:**
+- A) Sojusz z Rzymem przeciwko cesarzowi byłby politycznie niemożliwy w realiach X wieku — Mieszko I współpracował z cesarstwem, nie przeciwko niemu
+- C) Ekspansja na wschód (ziemi sandomierskiej, Lubelszczyzny) miała miejsce później, za panowania Bolesława Chrobrego i Kazimierza Odnowiciela (XI-XII wiek)
+- D) Najazdy wikingów (skandynawskich) na Polskę były sporadyczne i nie stanowiły głównego zagrożenia — chrzest nie był bezpośrednio związany z obroną przed Skandynawami
 - C) Demokracja parlamentarna w Polsce powstała znacznie później — w XIII/XIV wieku
 - D) Chrzest nie zakończył konfliktów — Polska nadal prowadziła wojny, ale już jako państwo uznawane przez innych

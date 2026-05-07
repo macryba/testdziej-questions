@@ -22,7 +22,7 @@
       "Chrystianizacja": {
         "easy": 15,
         "easy_completed": true,
-        "medium": 16,
+        "medium": 17,
         "medium_completed": true,
         "hard": 10,
         "hard_completed": true
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T19:13:33.399958",
+  "last_updated": "2026-05-07T16:45:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
