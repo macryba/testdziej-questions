@@ -4,13 +4,15 @@ epoch_id: 2
 chapter: "Ekspansja"
 chapter_id: 2
 difficulty: "medium"
-question_count: 12
+question_count: 22
 created_at: "2026-05-06T12:25:00Z"
 session_start: "2026-05-06T12:00:00Z"
-session_end: "2026-05-06T12:25:00Z"
-tokens_input: 5000
-tokens_output: 4000
-tokens_total: 9000
+session_end: "2026-05-07T10:00:00Z"
+tokens_input: 15000
+tokens_output: 12000
+tokens_total: 27000
+migration_source: "questions/validated/piastowie-ekspansja-medium.md"
+migration_details: "Migrated 10 questions from old format about Mieszko I and Bolesław Chrobry's expansion policy (960-1025)"
 ---
 
 # Ekspansja - Pytania poziom średni
@@ -323,6 +325,266 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - Odp A: Kraków nie był rozwiązaniem tymczasowym
 - Odp C: Przeniesienie stolicy miało bardzo duże znaczenie
 - Odp D: Gniezno nie odzyskało statusu stolicy
+
+---
+
+## Pytanie 13
+
+**Question ID:** Q-P-EKSP-M-013
+
+**Pytanie:** Jaki był główny cel polityczny chrztu Mieszka I w 966 roku, który wpłynął na dalszą ekspansję państwa polskiego?
+
+**A.** Zabezpieczenie granicy południowej przez sojusz z Czechami
+**B.** Zdobycie dostępu do handlu z Bizancjum
+**C.** Uzyskanie pomocy wojskowej od papieża
+**D.** Osłabienie wpływów Rusi Kijowskiej
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Głównym celem politycznym chrztu Mieszka I było zabezpieczenie granicy południowej poprzez zawarcie sojuszu z Czechami, potwierdzonego małżeństwem z czeską księżniczką Dobrawą. Chrzest w 966 roku poprzedził małżeństwo z Dobrawą w 965 roku.
+
+**Źródła:**
+- [Chrzest Polski](https://pl.wikipedia.org/wiki/Chrzest_Polski) - Wikipedia Polska
+- [Mieszko I](https://pl.wikipedia.org/wiki/Mieszko_I) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Polska w X wieku nie miała bezpośredniego dostępu do handlu z Bizancjum
+- Odp C: Papież w X wieku nie udzielał pomocy wojskowej
+- Odp D: Ruś Kijowska w X wieku jeszcze nie przyjęła chrztu i nie stanowiła dużego zagrożenia
+
+---
+
+## Pytanie 14
+
+**Question ID:** Q-P-EKSP-M-014
+
+**Pytanie:** Jakie były główne skutki ekspansji Mieszka I na Pomorze Zachodnie dla rozwoju państwa polskiego?
+
+**A.** Zapewnienie dostępu do morza Bałtyckiego i rozwoju handlu morskiego
+**B.** Zdobycie kontroli nad szlakiem bursztynowym do Italii
+**C.** Otwarcie drogi do kolonizacji terenów skandynawskich
+**D.** Zabezpieczenie granicy przed najazdami wikingów
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Głównym skutkiem ekspansji Mieszka I na Pomorze Zachodnie było zapewnienie państwu polskiemu dostępu do Morza Bałtyckiego. Dostęp do morza umożliwił rozwój handlu morskiego, zwłaszcza z Danią i Szwecją, oraz wzmocnienie gospodarcze państwa.
+
+**Źródła:**
+- [Mieszko I](https://pl.wikipedia.org/wiki/Mieszko_I) - Wikipedia Polska
+- [Pomorze Zachodnie](https://pl.wikipedia.org/wiki/Pomorze_Zachodnie) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Szlak bursztynowy biegł głównie przez tereny połabskie i ziemie czeskie
+- Odp C: Polska w X wieku nie prowadziła polityki kolonizacyjnej w Skandynawii
+- Odp D: Choć wikingowie stanowili pewne zagrożenie, to nie byli głównym powodem ekspansji na Pomorze
+
+---
+
+## Pytanie 15
+
+**Question ID:** Q-P-EKSP-M-015
+
+**Pytanie:** Dlaczego Bolesław Chrobry mógł podjąć ekspansję terytorialną na dużą skalę po śmierci cesarza Ottona III w 1002 roku?
+
+**A.** Okres zamętu w cesarstwie niemieckim osłabił jego pozycję wobec Polski
+**B.** Nowy cesarz poparł ekspansję Polski w celu osłabienia Czech
+**C.** Papież udzielił Bolesławowi licencji na podbój ziem słowiańskich
+**D.** Ruś Kijowska zawarła z Polską sojusz przeciwko Niemcom
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Śmierć cesarza Ottona III w 1002 roku doprowadziła do okresu zamętu w cesarstwie niemieckim. Osłabienie cesarstwa stworzyło dla Bolesława Chrobrego sprzyjającą okazję do umocnienia niezależności Polski i ekspansji terytorialnej.
+
+**Źródła:**
+- [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
+- [Otton III](https://pl.wikipedia.org/wiki/Otton_III_(cesarz_rzymski)) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Nowy cesarz Henryk II był przeciwnikiem politycznym Bolesława Chrobrego
+- Odp C: Papież w XI wieku nie udzielał licencji na podboje
+- Odp D: Choć Polska utrzymywała kontakty z Rusią Kijowską, to nie zawarła z nią sojuszu militarnego przeciwko cesarstwu w tym okresie
+
+---
+
+## Pytanie 16
+
+**Question ID:** Q-P-EKSP-M-016
+
+**Pytanie:** Jaki wpływ na pozycję Polski w Europie miała koronacja Bolesława Chrobrego w 1025 roku?
+
+**A.** Uznanie Polski za królestwo i wyrównanie jej statusu z innymi monarchiami europejskimi
+**B.** Uzyskanie zwierzchnictwa nad państwami słowiańskimi w Europie
+**C.** Podporządkowanie Polski bezpośrednio władzy papieskiej
+**D.** Włączenie Polski do Świętego Cesarstwa Rzymskiego
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Koronacja Bolesława Chrobrego w 1025 roku miała fundamentalne znaczenie dla pozycji Polski w Europie. Uznanie Polski za królestwo wyrównało jej status z innymi monarchiami europejskimi, takimi jak Francja, Niemcy czy Czechy.
+
+**Źródła:**
+- [Koronacja Bolesława Chrobrego](https://pl.wikipedia.org/wiki/Koronacja_Boles%C5%82awa_Chrobrego) - Wikipedia Polska
+- [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Koronacja Bolesława nie oznaczała uzyskania zwierzchnictwa nad innymi państwami słowiańskimi
+- Odp C: Koronacja nie oznaczała podporządkowania Polsce władzy papieskiej
+- Odp D: Koronacja Bolesława Chrobrego była potwierdzeniem niezależności Polski od cesarstwa
+
+---
+
+## Pytanie 17
+
+**Question ID:** Q-P-EKSP-M-017
+
+**Pytanie:** Jakie były skutki ekspansji Bolesława Chrobrego na Ruś Kijowską w 1018 roku?
+
+**A.** Tymczasowe osadzenie polskiego zięcia na tronie kijowskim i powiększenie prestiżu Polski
+**B.** Trwałe przyłączenie Kijowa do państwa polskiego
+**C.** Zawarcie sojuszu anty-niemieckiego z Rusią Kijowską
+**D.** Otwarcie drogi do handlu z Bizancjum przez Kijów
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Wyprawa Bolesława Chrobrego na Kijów w 1018 roku zakończyła się sukcesem — wojska polskie zdobyły miasto i osadziły na tronie zięcia Bolesława, Świętopełka. Jednak kontrola Polski nad Kijowem była tymczasowa i nie przetrwała śmierci Bolesława.
+
+**Źródła:**
+- [Wyprawa kijowska (1018)](https://pl.wikipedia.org/wiki/Wyprawa_kijowska_(1018)) - Wikipedia Polska
+- [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Kijów nie został trwale przyłączony do Polski. Po śmierci Bolesława Chrobrego Ruś Kijowska odzyskała pełną niezależność
+- Odp C: Nie doprowadziło do trwałego sojuszu anty-niemieckiego z Rusią
+- Odp D: Handel z Bizancjem nie był priorytetem polityki Bolesława Chrobrego
+
+---
+
+## Pytanie 18
+
+**Question ID:** Q-P-EKSP-M-018
+
+**Pytanie:** Dlaczego zjazd gnieźnieński w 1000 roku był ważnym momentem w ekspansji państwa polskiego?
+
+**A.** Uznanie suwerenności Polski przez cesarza i utworzenie niezależnej archidiecezji
+**B.** Podporządkowanie Polski bezpośrednio cesarzowi w zamian za ochronę
+**C.** Zawarcie sojuszu polsko-niemieckiego przeciwko Rusi Kijowskiej
+**D.** Uzyskanie od cesarza zezwolenia na podbój Pomorza
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Zjazd gnieźnieński w 1000 roku był kluczowym momentem w historii Polski. Cesarz Otton III uznał suwerenność Polski i zgodził się na utworzenie niezależnej archidiecezji gnieźnieńskiej, co wzmocniło niezależność kościoła polskiego od niemieckich hierarchów.
+
+**Źródła:**
+- [Zjazd gnieźnieński](https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski) - Wikipedia Polska
+- [Archidiecezja gnieźnieńska](https://pl.wikipedia.org/wiki/Archidiecezja_gnie%C5%BAnie%C5%84ska) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Zjazd gnieźnieński nie oznaczał podporządkowania Polski cesarzowi
+- Odp C: Zjazd gnieźnieński nie był związany z zawarciem sojuszu przeciwko Rusi Kijowskiej
+- Odp D: Zjazd gnieźnieński nie dotyczył zezwoleń na podbój Pomorza
+
+---
+
+## Pytanie 19
+
+**Question ID:** Q-P-EKSP-M-019
+
+**Pytanie:** Jakie konsekwencje dla państwa polskiego miały liczne wojny Bolesława Chrobrego z cesarstwem niemieckim?
+
+**A.** Umocnienie niezależności Polski i uznanie jej statusu królestwa
+**B.** Włączenie Polski do struktur cesarstwa jako księstwa lennego
+**C.** Osłabienie gospodarcze państwa z powodu kosztów wojennych
+**D.** Utrata ziemi zachodnich na rzecz cesarstwa
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Wojny Bolesława Chrobrego z cesarstwem niemieckim, mimo dużych kosztów, ostatecznie umocniły niezależność Polski i przyczyniły się do uznania jej statusu królestwa. Pokój w Budziszynie (1018) potwierdził polskie zdobycze terytorialne i niezależność Polski.
+
+**Źródła:**
+- [Pokój w Budziszynie](https://pl.wikipedia.org/wiki/Pok%C3%B3j_w_Budziszynie) - Wikipedia Polska
+- [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Wojny z cesarstwem miały na celu obronę niezależności Polski, a nie jej włączenie do cesarstwa
+- Odp C: Choć wojny były kosztowne, to nie doprowadziły do trwałego osłabienia gospodarczego Polski
+- Odp D: Wojny z cesarstwem nie doprowadziły do utraty ziemi zachodnich
+
+---
+
+## Pytanie 20
+
+**Question ID:** Q-P-EKSP-M-020
+
+**Pytanie:** W jaki sposób ekspansja terytorialna Piastów wpłynęła na rozwój struktur kościelnych w Polsce?
+
+**A.** Powiększenie terytorium wymusiło utworzenie nowych diecezji i archidiecezji
+**B.** Podbój nowych ziem zahamował chrystianizację na skutek wojen
+**C.** Ekspansja doprowadziła do uzależnienia kościoła polskiego od Niemiec
+**D.** Nowe terytoria pozostały pogańskie i nie zostały objęte chrystianizacją
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Ekspansja terytorialna Piastów wymusiła rozwój struktur kościelnych w Polsce. Pierwsze biskupstwo w Poznaniu (ok. 968) zostało uzupełnione o arcybiskupstwo w Gnieźnie (1000) oraz nowe diecezje w Krakowie, Wrocławiu i Kołobrzegu.
+
+**Źródła:**
+- [Kościół katolicki w Polsce](https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki_w_Polsce#Historia) - Wikipedia Polska
+- [Diecezje polskie](https://pl.wikipedia.org/wiki/Diecezje_polskie) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Ekspansja nie zahamowała chrystianizacji, lecz ją przyspieszyła
+- Odp C: Ekspansja i utworzenie arcybiskupstwa w Gnieźnie w 1000 roku miały na celu uniezależnienie kościoła polskiego od Niemiec
+- Odp D: Nowe terytoria były poddawane chrystianizacji po ich przyłączeniu do Polski
+
+---
+
+## Pytanie 21
+
+**Question ID:** Q-P-EKSP-M-021
+
+**Pytanie:** Dlaczego śmierć Bolesława Chrobrego w 1025 roku doprowadziła do osłabienia państwa polskiego i utraty niektórych terytoriów?
+
+**A.** Brak silnego następcy i rywalizacja między synami osłabiły państwo
+**B.** Nowy władca zrezygnował z ekspansji na rzecz polityki wewnętrznej
+**C.** Cesarstwo niemieckie odzyskało siły i odzyskało utracone terytoria
+**D.** Nieszczynne wojny wyczerpały gospodarkę państwową
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Po śmierci Bolesława Chrobrego władzę objął jego syn Mieszko II Lambert, który nie miał takiej siły politycznej i militarnej jak ojciec. Rywalizacja między synami Bolesława oraz brak silnego przywództwa doprowadziły do osłabienia państwa i utraty niektórych terytoriów.
+
+**Źródła:**
+- [Mieszko II Lambert](https://pl.wikipedia.org/wiki/Mieszko_II_Lambert) - Wikipedia Polska
+- [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Mieszko II Lambert nie zrezygnował z ekspansji z wyboru, lecz został zmuszony do obrony terytoriów
+- Odp C: Choć cesarstwo odzyskało siły, to bezpośrednią przyczyną osłabienia państwa polskiego były wewnętrzne problemy
+- Odp D: Choć wojny były kosztowne, to nie one bezpośrednio doprowadziły do osłabienia państwa po śmierci Bolesława
+
+---
+
+## Pytanie 22
+
+**Question ID:** Q-P-EKSP-M-022
+
+**Pytanie:** Jakie znaczenie dla przyszłości Polski miała ekspansja terytorialna Mieszka I i Bolesława Chrobrego?
+
+**A.** Utworzenie silnego państwa, które mogło oprzeć się presji z zewnątrz
+**B.** Zbyt szybka ekspansja doprowadziła do rozbicia dzielnicowego
+**C.** Podbój nowych ziem zwiększył tylko bogactwo dynastii Piastów
+**D.** Ekspansja odwróciła uwagę od konieczności reform wewnętrznych
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:** Ekspansja terytorialna Mieszka I i Bolesława Chrobrego doprowadziła do stworzenia silnego państwa, które mogło oprzeć się presji ze strony cesarstwa niemieckiego i innych sąsiadów. Fundamenty państwa polskiego stworzone w tym okresie pozwoliły na przetrwanie i rozwój w kolejnych wiekach.
+
+**Źródła:**
+- [Państwo Piastów](https://pl.wikipedia.org/wiki/Pa%C5%84stwo_Piast%C3%B3w) - Wikipedia Polska
+- [Polska wczesnopiastowska](https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska) - Wikipedia Polska
+
+**Analiza nieprawidłowych odpowiedzi:**
+- Odp B: Ekspansja X-XI wieku nie była bezpośrednią przyczyną rozbicia dzielnicowego
+- Odp C: Ekspansja nie zwiększyła tylko bogactwa dynastii, lecz także rozwój gospodarczy całości państwa
+- Odp D: Ekspansja była połączona z reformami wewnętrznymi
 
 ---
 

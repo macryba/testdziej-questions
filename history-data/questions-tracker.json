@@ -28,11 +28,11 @@
         "hard_completed": true
       },
       "Ekspansja": {
-        "easy": 0,
+        "easy": 10,
         "easy_completed": true,
-        "medium": 12,
+        "medium": 22,
         "medium_completed": true,
-        "hard": 3,
+        "hard": 13,
         "hard_completed": true
       },
       "Rozbicie dzielnicowe I": {
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T14:00:00Z",
+  "last_updated": "2026-05-07T10:00:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
