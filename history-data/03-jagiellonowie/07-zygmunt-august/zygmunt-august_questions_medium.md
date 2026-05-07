@@ -4,7 +4,7 @@ epoch_id: 3
 chapter: "Zygmunt August"
 chapter_id: 7
 difficulty: "medium"
-question_count: 12
+question_count: 11
 created_at: "2026-05-04T23:55:00Z"
 session_start: "2026-05-04T23:45:00Z"
 session_end: "2026-05-04T23:55:00Z"
@@ -298,34 +298,10 @@ Na sejmie w Warszawie 13 marca 1564 roku Zygmunt August odstąpił Koronie Król
 
 ### Pytanie 11
 
+
+### Pytanie 11
+
 **Question ID:** Q-JA-011
-
-**Pytanie:**
-Kto był ostatnim wielkim mistrzem zakonu inflanckiego, który po sekularyzacji zakonu został pierwszym księciem lennym Księstwa Kurlandii i Semigalii pod zwierzchnictwem polskim?
-
-**A:** Gotthard Kettler
-**B:** Albrecht Hohenzollern
-**C:** Hermann von Salza
-**D:** Winrich von Kniprode
-
-**Poprawna odpowiedź:** A
-
-**Wyjaśnienie:**
-Gotthard Kettler był ostatnim wielkim mistrzem zakonu inflanckiego. W 1561 roku, po sekularyzacji zakonu, został pierwszym księciem świeckiego Księstwa Kurlandii i Semigalii jako lennika Rzeczypospolitej. Było to skutkiem unii polsko-krzyżackiej z 1560 roku.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/Wojna_o_Inflanty_(1558%E2%80%931583)
-
-**Analiza niepoprawnych odpowiedzi:**
-- Albrecht Hohenzollern – wielki mistrz zakonu krzyżackiego w Prusach, nie Inflant
-- Hermann von Salza – wielki mistrz zakonu krzyżackiego z XIII wieku
-- Winrich von Kniprode – wielki mistrz zakonu krzyżackiego z XIV wieku
-
----
-
-### Pytanie 12
-
-**Question ID:** Q-JA-012
 
 **Pytanie:**
 Jakie główne postanowienia zawierała unia lubelska z 1569 roku?

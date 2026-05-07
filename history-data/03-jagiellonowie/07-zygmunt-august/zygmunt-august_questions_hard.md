@@ -4,7 +4,7 @@ epoch_id: 3
 chapter: "Zygmunt August"
 chapter_id: 7
 difficulty: "hard"
-question_count: 4
+question_count: 5
 created_at: "2026-05-05T00:00:00Z"
 session_start: "2026-05-04T23:45:00Z"
 session_end: "2026-05-05T00:00:00Z"
@@ -134,6 +134,33 @@ Sprawa małżeństwa z Barbarą Radziwiłłówną miała charakter nie tylko oso
 - Odpowiedź A jest błędna – konflikt pokazał ograniczenia władzy królewskiej, a nie jej wzmocnienie
 - Odpowiedź B pomija wymiar polityczny – sprawa dotyczyła relacji monarchy z magnaterią
 - Odpowiedź D jest nieprawdziwa – monarchia nie została obalona, system nie uległ zmianie
+
+---
+
+### Pytanie 5
+
+**Question ID:** Q-JA-H-005
+
+**Pytanie:**
+Kto był ostatnim wielkim mistrzem zakonu inflanckiego, który po sekularyzacji zakonu został pierwszym księciem lennym Księstwa Kurlandii i Semigalii pod zwierzchnictwem polskim?
+
+**A:** Gotthard Kettler
+**B:** Albrecht Hohenzollern
+**C:** Hermann von Salza
+**D:** Winrich von Kniprode
+
+**Poprawna odpowiedź:** A
+
+**Wyjaśnienie:**
+Gotthard Kettler był ostatnim wielkim mistrzem zakonu inflanckiego. W 1561 roku, po sekularyzacji zakonu, został pierwszym księciem świeckiego Księstwa Kurlandii i Semigalii jako lennika Rzeczypospolitej. Było to skutkiem unii polsko-krzyżackiej z 1560 roku.
+
+**Źródła:**
+- https://pl.wikipedia.org/wiki/Wojna_o_Inflanty_(1558%E2%80%931583)
+
+**Analiza niepoprawnych odpowiedzi:**
+- Albrecht Hohenzollern – wielki mistrz zakonu krzyżackiego w Prusach, nie Inflant
+- Hermann von Salza – wielki mistrz zakonu krzyżackiego z XIII wieku
+- Winrich von Kniprode – wielki mistrz zakonu krzyżackiego z XIV wieku
 
 ---
 **Koniec pytań poziom trudny.**

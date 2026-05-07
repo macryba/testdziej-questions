@@ -128,9 +128,9 @@
       "Zygmunt August": {
         "easy": 0,
         "easy_completed": true,
-        "medium": 12,
+        "medium": 11,
         "medium_completed": true,
-        "hard": 4,
+        "hard": 5,
         "hard_completed": true
       }
     },
@@ -475,7 +475,7 @@
       }
     }
   },
-  "last_updated": "2026-05-07T12:00:00Z",
+  "last_updated": "2026-05-07T20:30:00Z",
   "summary": {
     "easy": 0,
     "medium": 12,
