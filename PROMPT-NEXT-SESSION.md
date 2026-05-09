@@ -22,7 +22,7 @@ Launch and manage difficulty review subagents for ALL chapters in `history-data/
 
 **1. Initialize:**
 - Read `history-data/master-list.json` to get all chapters
-- Read `log/difficulty-review-report.md` if it exists (to resume)
+- Read `logs/difficulty-review-report.md` if it exists (to resume)
 - Identify starting point (first chapter not completed)
 
 **2. Process Chapters Sequentially:**
@@ -31,7 +31,7 @@ Launch and manage difficulty review subagents for ALL chapters in `history-data/
   - Launch a Difficulty Reviewer subagent following `ai-instructions/difficulty-reviewer.md`
   - Wait for subagent to complete
   - Parse completion report (changes, counts, accuracy, commit hash)
-  - Update `log/difficulty-review-report.md` with results
+  - Update `logs/difficulty-review-report.md` with results
   - Continue to next chapter
 
 **3. Error Handling:**
@@ -41,7 +41,7 @@ Launch and manage difficulty review subagents for ALL chapters in `history-data/
 
 **4. Resume Capability:**
 - If interrupted, you can resume from where you left off
-- Read `log/difficulty-review-report.md` to find last completed chapter
+- Read `logs/difficulty-review-report.md` to find last completed chapter
 - Continue with next chapter
 
 **5. Run Until:**
@@ -60,7 +60,7 @@ Launch and manage difficulty review subagents for ALL chapters in `history-data/
 
 ### Progress Log Format:
 
-Maintain `log/difficulty-review-report.md` with:
+Maintain `logs/difficulty-review-report.md` with:
 - Quick stats (total, completed, remaining, errors)
 - Progress by epoch
 - Detailed logs for each chapter with:
@@ -73,7 +73,7 @@ Maintain `log/difficulty-review-report.md` with:
 
 ### Start Processing Now:
 
-Begin processing chapters from master list. If `log/difficulty-review-report.md` exists, resume from last completed chapter. Update progress log after each chapter completion.
+Begin processing chapters from master list. If `logs/difficulty-review-report.md` exists, resume from last completed chapter. Update progress log after each chapter completion.
 
 Run autonomously until all chapters are completed or I stop you.
 
@@ -94,7 +94,7 @@ Run autonomously until all chapters are completed or I stop you.
 **Check progress anytime:**
 ```bash
 # View progress
-tail -n 100 log/difficulty-review-report.md
+tail -n 100 logs/difficulty-review-report.md
 
 # View recent commits
 git log --oneline -20
@@ -130,7 +130,7 @@ git status --short
 
 **Files Created:**
 - `ai-instructions/difficulty-review-coordinator.md` - Full coordinator instructions
-- `log/difficulty-review-report.md` - Progress tracking (created by coordinator)
+- `logs/difficulty-review-report.md` - Progress tracking (created by coordinator)
 
 **Previous Work Completed (2/48 chapters):**
 - ✅ 01-starozytnosc/01-pradzieje (commit: b25ef81)

@@ -34,7 +34,7 @@ Example list:
 
 #### Step 2: Initialize Progress Tracking
 
-**Read:** `log/difficulty-review-report.md` (if exists)
+**Read:** `logs/difficulty-review-report.md` (if exists)
 
 **If file exists:**
 - Parse completed chapters from log
@@ -42,7 +42,7 @@ Example list:
 - Resume from next chapter (skip completed)
 
 **If file doesn't exist:**
-- Create directory: `log/` (if needed)
+- Create directory: `logs/` (if needed)
 - Start from first chapter
 
 **Progress tracking structure:**
@@ -252,7 +252,7 @@ Execute full workflow and report back when done.
 
 #### Step 7: Save Final Report
 
-**Save:** `log/difficulty-review-report.md`
+**Save:** `logs/difficulty-review-report.md`
 
 **Verify:**
 - All chapters logged
@@ -382,7 +382,7 @@ Coordinator action:
 - Git commits provide rollback capability
 
 **Monitoring:**
-- Check `log/difficulty-review-report.md` for progress
+- Check `logs/difficulty-review-report.md` for progress
 - Check `git log --oneline` for recent commits
 - No real-time output needed (agent logs progress)
 
@@ -396,7 +396,7 @@ Coordinator action:
 ```
 "Run difficulty review coordinator agent following ai-instructions/difficulty-review-coordinator.md.
 Process all chapters in master-list.json sequentially.
-Update log/difficulty-review-report.md after each chapter.
+Update logs/difficulty-review-report.md after each chapter.
 Run overnight until all chapters completed or interrupted.
 Resume from existing progress if log exists."
 ```
@@ -406,7 +406,7 @@ Resume from existing progress if log exists."
 **While running:**
 ```bash
 # Check progress log
-tail -n 50 log/difficulty-review-report.md
+tail -n 50 logs/difficulty-review-report.md
 
 # Check recent commits
 git log --oneline -10
@@ -436,7 +436,7 @@ git status --short
 
 ### Progress Log Structure
 
-**File:** `log/difficulty-review-report.md`
+**File:** `logs/difficulty-review-report.md`
 
 **Structure:**
 ```markdown
@@ -535,4 +535,4 @@ git status --short
 **Coordinator Reference:** ai-instructions/difficulty-reviewer.md
 **Subagent Reference:** ai-instructions/difficulty-reviewer.md
 **Master List:** history-data/master-list.json
-**Progress Log:** log/difficulty-review-report.md
+**Progress Log:** logs/difficulty-review-report.md

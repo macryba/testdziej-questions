@@ -19,12 +19,12 @@ Working on Polish history quiz database with ~48 chapters across 9 epochs.
 - ✅ 01-starozytnosc/01-pradzieje (commit: b25ef81)
 - ✅ 01-starozytnosc/02-slowianie (commit: 49ae7d2)
 
-**Progress Log:** `log/difficulty-review-report.md`
+**Progress Log:** `logs/difficulty-review-report.md`
 
 ### Your Task:
 
 1. Read: `ai-instructions/difficulty-review-coordinator.md`
-2. Read: `log/difficulty-review-report.md` (to see progress)
+2. Read: `logs/difficulty-review-report.md` (to see progress)
 3. Start from first uncompleted chapter
 4. Launch Difficulty Reviewer subagent for each chapter (following: `ai-instructions/difficulty-reviewer.md`)
 5. Wait for completion, parse results, update log
@@ -44,7 +44,7 @@ The coordinator will run autonomously overnight.
 
 ### Step 4: Check progress in the morning:
 ```bash
-tail -n 100 log/difficulty-review-report.md
+tail -n 100 logs/difficulty-review-report.md
 git log --oneline -20
 ```
 
@@ -54,7 +54,7 @@ git log --oneline -20
 
 ✅ **START-COORDINATOR-PROMPT.md** - The prompt above (ready to copy-paste)
 ✅ **ai-instructions/difficulty-review-coordinator.md** - Full coordinator logic
-✅ **log/difficulty-review-report.md** - Progress tracking (2 chapters done)
+✅ **logs/difficulty-review-report.md** - Progress tracking (2 chapters done)
 ✅ **ai-instructions/difficulty-reviewer.md** - Subagent instructions (v2.3)
 ✅ **history-data/podstawa/klasyfikacja.md** - Updated classification rules
 

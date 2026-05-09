@@ -16,7 +16,7 @@ You are working on a Polish history quiz question database. There are ~48 chapte
 - ✅ 01-starozytnosc/01-pradzieje (commit: b25ef81)
 - ✅ 01-starozytnosc/02-slowianie (commit: 49ae7d2)
 
-**Progress Log:** `log/difficulty-review-report.md` already tracks these 2 completed chapters.
+**Progress Log:** `logs/difficulty-review-report.md` already tracks these 2 completed chapters.
 
 ### Your Task:
 
@@ -26,7 +26,7 @@ You are working on a Polish history quiz question database. There are ~48 chapte
 
 1. **Initialize:**
    - Read `history-data/master-list.json` to get all chapters
-   - Read `log/difficulty-review-report.md` to see what's completed
+   - Read `logs/difficulty-review-report.md` to see what's completed
    - Start from the first uncompleted chapter
 
 2. **Process Each Chapter:**
@@ -35,7 +35,7 @@ You are working on a Polish history quiz question database. There are ~48 chapte
    - Wait for subagent to complete
    - Subagent will: detect duplicates, correct levels, update files, create git commit
    - Parse subagent's completion report
-   - Update `log/difficulty-review-report.md` with results
+   - Update `logs/difficulty-review-report.md` with results
 
 3. **Continue Loop:**
    - Move to next chapter
@@ -49,7 +49,7 @@ You are working on a Polish history quiz question database. There are ~48 chapte
 
 5. **Generate Summary:**
    - When all chapters done: create final summary
-   - Save to `log/difficulty-review-report.md`
+   - Save to `logs/difficulty-review-report.md`
 
 ### Important:
 
@@ -63,7 +63,7 @@ You are working on a Polish history quiz question database. There are ~48 chapte
 
 While you're running, I can check:
 ```bash
-tail -n 50 log/difficulty-review-report.md
+tail -n 50 logs/difficulty-review-report.md
 git log --oneline -20
 ```
 
