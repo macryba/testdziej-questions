@@ -11,7 +11,7 @@
     "gnosis": {
       "type": "stdio",
       "command": "/home/macryba/.local/bin/gnosis-mcp",
-      "args": ["serve"],
+      "args": ["serve", "--watch", "history-data/"],
       "env": {
         "GNOSIS_MCP_DATABASE_URL": ".gnosis-data/gnosis.db",
         "GNOSIS_MCP_EMBED_PROVIDER": "local",
