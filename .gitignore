@@ -5,3 +5,7 @@ logs/*.log
 
 # Lock files
 .claude/scheduled_tasks.lock
+
+# Gnosis MCP database and index files
+.gnosis-data/
+*.db
