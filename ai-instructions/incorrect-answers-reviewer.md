@@ -190,38 +190,38 @@ Add new section with epoch/chapter heading for chronological ordering:
 
 **File Reviewed:** [file path]
 **Date:** [ISO timestamp]
-**Questions Analyzed:** [number]
-
-## Summary Statistics
-- Total incorrect answers: [count]
-- incorrect from other chapters: [count]
-- correct for other chapters: [count]
-- no referenced answer: [count]
-- Answers reordered: [count]
-- Correct answer positions adjusted: [count]
 
 ## Detailed Analysis Table
 
 | Pytanie | Odpowiedź | Analiza |
 |---------|-----------|---------|
-| **[Question text preview]** | **[CORRECT ANSWER text]** | CORRECT ANSWER |
+| **[Question 1 text preview]** | **[CORRECT ANSWER text]** | CORRECT ANSWER |
+| | **[Incorrect answer A]** | [category]: [explanation] |
+| | **[Incorrect answer B]** | [category]: [explanation] |
+| | **[Incorrect answer C]** | [category]: [explanation] |
+
+| **[Question 2 text preview]** | **[CORRECT ANSWER text]** | CORRECT ANSWER |
 | | **[Incorrect answer A]** | [category]: [explanation] |
 | | **[Incorrect answer B]** | [category]: [explanation] |
 | | **[Incorrect answer C]** | [category]: [explanation] |
 
 ## Changes Made
 
+### Missing Analysis Added
+Questions that received "Analiza odpowiedzi błędnych" sections:
+- Question [number]: [brief description]
+- Question [number]: [brief description]
+
 ### Answer Reordering
-- Questions with chronological reordering: [list]
+Questions with answers reordered chronologically:
+- Question [number]: [original order → new order]
 
 ### Correct Answer Redistribution
-- Original distribution: A: [n], B: [n], C: [n], D: [n]
-- Final distribution: A: [n], B: [n], C: [n], D: [n]
-- Questions adjusted: [list]
+Questions with corrected answer positions adjusted:
+- Question [number]: original position [A/B/C/D] → new position [A/B/C/D]
 
-### Missing Analysis Added
-- Questions without "Analiza odpowiedzi błędnych": [count]
-- Questions updated: [list]
+### Other Corrections
+- [Any other corrections made]
 
 ## Validation Issues Found
 
@@ -230,9 +230,6 @@ Add new section with epoch/chapter heading for chronological ordering:
 
 ### Warnings (review recommended)
 - [List any warnings or borderline cases]
-
-## Recommendations
-- [Any recommendations for question improvement]
 
 ---
 ```
@@ -273,11 +270,13 @@ Reports are added in chronological order by epoch. Use these epoch headings:
 
 1. **Update original file** with all corrections and improvements
 2. **Create report** at `logs/incorrect-answers-review-report.md`
-3. **Report summary** to coordinator agent with:
-   - Number of questions reviewed
-   - Number of changes made
+3. **Report completion** to coordinator agent with:
+   - List of questions that received missing analysis
+   - List of questions with answers reordered
+   - List of questions with answer positions adjusted
    - Any critical issues found
    - Path to full report
+   - **DO NOT include statistics** (coordinator will count them)
 
 ## Tool Usage Summary
 
@@ -330,3 +329,38 @@ Expected return: Summary + report location
 - Modify files outside assigned question file
 - Create commits (coordinator handles this)
 - Report to user directly (report through coordinator)
+
+## Exit Status and Reporting
+
+**Success criteria (must ALL be true):**
+1. Question file was updated with improvements OR verified correct
+2. Report was appended to `logs/incorrect-answers-review-report.md`
+3. No critical errors encountered
+
+**Success output format:**
+```
+✅ SUCCESS: [File path]
+Questions with missing analysis added: [list]
+Questions with answers reordered: [list]
+Questions with positions adjusted: [list]
+Report location: logs/incorrect-answers-review-report.md
+```
+
+**Failure output format:**
+```
+❌ FAILED: [File path]
+Error: [error description]
+Reason: [why it failed]
+Requires: [manual intervention / can retry]
+```
+
+**Critical issues (report to coordinator):**
+- File cannot be read (permissions, corrupted)
+- File format is invalid (not a question file)
+- MCP tools completely unavailable
+- Cannot write updates to file
+
+**Warnings (do NOT fail, just report):**
+- Some incorrect answers could not be categorized
+- Gnosis server unavailable for some searches
+- Uncertain historical accuracy (flag for manual review)
