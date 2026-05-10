@@ -78,6 +78,44 @@ bash scripts/rebuild-tracker.sh
 
 ---
 
+### 📊 count_questions.py
+**Purpose:** Count existing questions in all question files and update master-list.json with counts
+
+**Usage:**
+```bash
+python3 scripts/count_questions.py
+```
+
+**What it does:**
+- Scans all `_questions_*.md` files in `history-data/` directory
+- Extracts question count from metadata using regex patterns
+- Updates `history-data/master-list.json` with question counts per chapter
+- Shows progress and summary of questions per epoch/difficulty
+
+**Features:**
+- Multiple question detection patterns (question_count metadata, numbered lists, question headers)
+- Handles different file naming conventions
+- Zero-padded directory support (01, 02, 03...)
+- Updates JSON structure while preserving existing fields
+
+**When to use:**
+- After generating new questions to update master counts
+- Verifying question counts in master-list.json
+- Debugging question tracking issues
+- Before starting new generation sessions
+
+**Output:** Updated `master-list.json` with "questions" fields containing {"easy": X, "medium": Y, "hard": Z} counts
+
+**Sample Output:**
+```
+Starting question counting...
+Found 10 questions with pattern 1 in history-data/01-starozytnosc/01-pradzieje/pradzieje_questions_easy.md
+Found 30 questions with pattern 1 in history-data/02-piastowie/01-chrystianizacja/chrystianizacja_questions_medium.md
+Updated master-list.json with question counts
+```
+
+---
+
 ## Workflow Overview
 
 ### New Workflow (2026-05-04)
