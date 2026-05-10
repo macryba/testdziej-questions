@@ -39,9 +39,9 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Unia krewska: Władysław Jagiełło żył w latach ok. 1362-1434 i zmarł przed wybuchem wojny trzynastoletniej
-- C: incorrect from Kazimierz Jagiellończyk: Jan Olbracht był królem Polski w latach 1492-1501, ponad 40 lat po zakończeniu wojny
-- D: incorrect from Zygmunt Stary: Zygmunt Stary panował w latach 1506-1548, długo po wojnie trzynastoletniej
+- Odpowiedź A (Władysław Jagiełło) – incorrect from Unia krewska: Władysław Jagiełło żył w latach ok. 1362-1434 i zmarł przed wybuchem wojny trzynastoletniej
+- Odpowiedź C (Jan Olbracht) – incorrect from Kazimierz Jagiellończyk: Jan Olbracht był królem Polski w latach 1492-1501, ponad 40 lat po zakończeniu wojny
+- Odpowiedź D (Zygmunt Stary) – incorrect from Zygmunt Stary: Zygmunt Stary panował w latach 1506-1548, długo po wojnie trzynastoletniej
 
 ---
 
@@ -65,9 +65,9 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Zwi%C4%85zek_Pruski
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Grunwald: Rok bitwy pod Grunwaldem podczas wojny polsko-krzyżackiej 1409-1411
-- C: no referenced answer: Rok zakończenia wojny trzynastoletniej (drugi pokój toruński)
-- D: incorrect from Zygmunt Stary: Rok secularizacji Prus Zakonnych i hołdu pruskiego
+- Odpowiedź A (1410) – incorrect from Grunwald: Rok bitwy pod Grunwaldem podczas wojny polsko-krzyżackiej 1409-1411
+- Odpowiedź C (1466) – no referenced answer: Rok zakończenia wojny trzynastoletniej (drugi pokój toruński)
+- Odpowiedź D (1525) – incorrect from Zygmunt Stary: Rok secularizacji Prus Zakonnych i hołdu pruskiego
 
 ---
 
@@ -91,9 +91,9 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Prusy_Kr%C3%B3lewskie
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Malbork pozostał siedzibą wielkich mistrzów zakonu krzyżackiego w Prusach Książęcych
-- B: no referenced answer: Toruń był ważnym miastem Prus Królewskich, ale nie był stolicą
-- D: no referenced answer: Elbląg był znaczącym portem, ale nie był głównym miastem Prus Królewskich
+- Odpowiedź A (Malbork) – no referenced answer: Malbork pozostał siedzibą wielkich mistrzów zakonu krzyżackiego w Prusach Książęcych
+- Odpowiedź B (Toruń) – no referenced answer: Toruń był ważnym miastem Prus Królewskich, ale nie był stolicą
+- Odpowiedź D (Elbląg) – no referenced answer: Elbląg był znaczącym portem, ale nie był głównym miastem Prus Królewskich
 
 ---
 
@@ -117,9 +117,9 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Bitwa_pod_%C5%9Awiecinem
 
 **Analiza odpowiedzi błędnych:**
-- B: incorrect from Grunwald: Bitwa pod Grunwaldem wydarzyła się w 1410 roku, ponad 40 lat przed wojną trzynastoletnią
-- C: no referenced answer: Śmierć wielkiego mistrza nie była decydującym czynnikiem zakończenia wojny
-- D: no referenced answer: Cesarz nie udzielił zakonowi skutecznej pomocy w wojnie z Polską
+- Odpowiedź B (Klęska pod Grunwaldem) – incorrect from Grunwald: Bitwa pod Grunwaldem wydarzyła się w 1410 roku, ponad 40 lat przed wojną trzynastoletnią
+- Odpowiedź C (Śmierć wielkiego mistrza) – no referenced answer: Śmierć wielkiego mistrza nie była decydującym czynnikiem zakończenia wojny
+- Odpowiedź D (Pomoc ze strony cesarza) – no referenced answer: Cesarz nie udzielił zakonowi skutecznej pomocy w wojnie z Polską
 
 ---
 
@@ -143,8 +143,8 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Pokój brzeski dotyczył unii polsko-litewskiej w XVI wieku
-- B: no referenced answer: Pokój melneński podpisano w 1422 roku po wojnie golubskiej
-- C: incorrect from Grunwald: Pierwszy pokój toruński zawarto w 1411 roku po wojnie 1409-1411
+- Odpowiedź A (Pokój brzeski) – no referenced answer: Pokój brzeski dotyczył unii polsko-litewskiej w XVI wieku
+- Odpowiedź B (Pokój melneński) – no referenced answer: Pokój melneński podpisano w 1422 roku po wojnie golubskiej
+- Odpowiedź C (Pierwszy pokój toruński) – incorrect from Grunwald: Pierwszy pokój toruński zawarto w 1411 roku po wojnie 1409-1411
 
 ---

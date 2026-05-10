@@ -43,9 +43,9 @@ Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza odpowiedzi błędnych:**
-- B: był współprzewodniczącym strony rządowej podczas obrad Okrągłego Stołu jako minister spraw wewnętrznych
-- C: był ważnym doradcą i ekspertem strony opozycyjnej, ale nie głównym negocjatorem
-- D: był prezydentem PRL i nie bezpośrednim uczestnikiem obrad Okrągłego Stołu
+- Odpowiedź B (Czesław Kiszczak) – był współprzewodniczącym strony rządowej podczas obrad Okrągłego Stołu jako minister spraw wewnętrznych
+- Odpowiedź C (Tadeusz Mazowiecki) – był ważnym doradcą i ekspertem strony opozycyjnej, ale nie głównym negocjatorem
+- Odpowiedź D (Wojciech Jaruzelski) – był prezydentem PRL i nie bezpośrednim uczestnikiem obrad Okrągłego Stołu
 
 ---
 
@@ -68,9 +68,9 @@ Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza odpowiedzi błędnych:**
-- A: była to siedziba Rady Państwa, ale nie miejsce obrad Okrągłego Stołu
-- C: nie był wykorzystywany do obrad Okrągłego Stołu
-- D: nie był miejscem negocjacji politycznych
+- Odpowiedź A (Belweder) – była to siedziba Rady Państwa, ale nie miejsce obrad Okrągłego Stołu
+- Odpowiedź C (Zamek Królewski) – nie był wykorzystywany do obrad Okrągłego Stołu
+- Odpowiedź D (Pałac Kultury i Nauki) – nie był miejscem negocjacji politycznych
 
 ---
 
@@ -93,9 +93,9 @@ Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną 
 - https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
 
 **Analiza odpowiedzi błędnych:**
-- A: jest to poprawna nazwa, ale niepełna (brak drugiego członu nazwy)
-- B: jest to poprawna nazwa, ale niepełna (brak pierwszego członu nazwy)
-- C: nazwa nieprecyzyjna, gdyż wybory były tylko częściowo wolne (Sejm kontraktowy)
+- Odpowiedź A (Wybory czerwcowe) – jest to poprawna nazwa, ale niepełna (brak drugiego członu nazwy)
+- Odpowiedź B (Wybory kontraktowe) – jest to poprawna nazwa, ale niepełna (brak pierwszego członu nazwy)
+- Odpowiedź C (Wybory wolne) – nazwa nieprecyzyjna, gdyż wybory były tylko częściowo wolne (Sejm kontraktowy)
 
 ---
 
@@ -118,9 +118,9 @@ Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną 
 - https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
 
 **Analiza odpowiedzi błędnych:**
-- A: został prezydentem Polski w 1990 roku, nie premierem
-- B: był komunistycznym premierem przed wyborami w 1989 roku
-- D: został prezydentem PRL w 1989 roku, nie premierem
+- Odpowiedź A (Lech Wałęsa) – został prezydentem Polski w 1990 roku, nie premierem
+- Odpowiedź B (Czesław Kiszczak) – był komunistycznym premierem przed wyborami w 1989 roku
+- Odpowiedź D (Wojciech Jaruzelski) – został prezydentem PRL w 1989 roku, nie premierem
 
 ---
 
@@ -143,9 +143,9 @@ Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza odpowiedzi błędnych:**
-- A: to związek zależny od władz komunistycznych, utworzony w 1982 roku
-- C: to Polskie Zjednoczenie Katolików Socjalnych, organizacja satelicka PZPR
-- D: to Zjednoczone Stronnictwo Ludowe, partia satelicka PZPR
+- Odpowiedź A (OPZZ) – to związek zależny od władz komunistycznych, utworzony w 1982 roku
+- Odpowiedź C (PZKS) – to Polskie Zjednoczenie Katolików Socjalnych, organizacja satelicka PZPR
+- Odpowiedź D (ZSL) – to Zjednoczone Stronnictwo Ludowe, partia satelicka PZPR
 
 ---
 

@@ -42,9 +42,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Konferencja_w_Wannsee
 
 **Analiza odpowiedzi błędnych:**
-- A: miejsce paktu monachjskiego z 1938 roku o terytoriach czechosłowackich
-- C: miejsce konferencji pokojowej po I wojnie światowej w 1919 roku
-- D: miejsce konferencji aliantów w 1945 roku pod koniec II wojny światowej
+- A (Monachium) – miejsce paktu monachjskiego z 1938 roku o terytoriach czechosłowackich
+- C (Wersal) – miejsce konferencji pokojowej po I wojnie światowej w 1919 roku
+- D (Jałta) – miejsce konferencji aliantów w 1945 roku pod koniec II wojny światowej
 
 ---
 
@@ -67,9 +67,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- A: niewłaściwa nazwa chemiczna
-- C: używany w innych obozach (Chełmno, Treblinka) jako gaz spalinowy
-- D: używany jako broń chemiczna w I wojnie światowej, nie w Holokauście
+- A (Tlenek węgla) – niewłaściwa nazwa chemiczna
+- C (Dwutlenek węgla) – używany w innych obozach (Chełmno, Treblinka) jako gaz spalinowy
+- D (Chlor) – używany jako broń chemiczna w I wojnie światowej, nie w Holokauście
 
 ---
 
@@ -92,9 +92,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Zag%C5%82ada_%C5%BByd%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- A: zdecydowanie zbyt mało, to liczba ofiar tylko jednego dużego obozu
-- B: więcej niż cała populacja Żydów w Polsce przed wojną
-- C: łączna liczba ofiar Holokaustu w całej Europie, nie tylko w Polsce
+- A (1 milion) – zdecydowanie zbyt mało, to liczba ofiar tylko jednego dużego obozu
+- B (5 milionów) – więcej niż cała populacja Żydów w Polsce przed wojną
+- C (6 milionów) – łączna liczba ofiar Holokaustu w całej Europie, nie tylko w Polsce
 
 ---
 
@@ -117,9 +117,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- A: organizator transportów do obozów, nie komendant
-- C: wyższy rangą oficer SS, nadzorca wszystkich obozów
-- D: wysoki rangą polityk nazistowski, nie związany bezpośrednio z Auschwitz
+- A (Adolf Eichmann) – organizator transportów do obozów, nie komendant
+- C (Heinrich Himmler) – wyższy rangą oficer SS, nadzorca wszystkich obozów
+- D (Hermann Göring) – wysoki rangą polityk nazistowski, nie związany bezpośrednio z Auschwitz
 
 ---
 
@@ -142,9 +142,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Sonderkommando
 
 **Analiza odpowiedzi błędnych:**
-- A: istniały jednostki SS, ale Sonderkommando złożone było z więźniów
-- B: lekarze SS przeprowadzali eksperymenty, ale nie byli Sonderkommando
-- D: to była służba porządkowa w gettach, nie w obozach
+- A (Jednostka SS) – istniały jednostki SS, ale Sonderkommando złożone było z więźniów
+- B (Lekarze) – lekarze SS przeprowadzali eksperymenty, ale nie byli Sonderkommando
+- D (Policja w gettach) – to była służba porządkowa w gettach, nie w obozach
 
 ---
 
@@ -191,9 +191,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Zag%C5%82ada_%C5%BByd%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- A: to tylko jeden z powodów, nie jedyny
-- C: obozy zagłady nie służyły pracy, tylko mordowaniu
-- D: fakt, ale nie główny powód lokalizacji obozów
+- A (Tylko Żydzi) – to tylko jeden z powodów, nie jedyny
+- C (Siła robocza) – obozy zagłady nie służyły pracy, tylko mordowaniu
+- D (Brak oporu) – fakt, ale nie główny powód lokalizacji obozów
 
 ---
 
@@ -216,9 +216,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- A: w Auschwitz nie było kanadyjskich jeńców wojennych
-- C: w obozach nie leczono, chorych zazwyczaj mordowano
-- D: selekcja odbywała się na rampie, nie w Kanadzie
+- A (Kanadyjscy jeńcy) – w Auschwitz nie było kanadyjskich jeńców wojennych
+- C (Leczenie) – w obozach nie leczono, chorych zazwyczaj mordowano
+- D (Selekcja) – selekcja odbywała się na rampie, nie w Kanadzie
 
 ---
 
@@ -241,9 +241,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Einsatzgruppen
 
 **Analiza odpowiedzi błędnych:**
-- A: tajna policja państwowa, działała głównie w Niemczech i okupowanych krajach zachodnich
-- C: oddziały szturmowe NSDAP, marginalizowane po 1934 roku
-- D: regularna armia niemiecka, Einsatzgruppen były jednostkami SS
+- A (Gestapo) – tajna policja państwowa, działała głównie w Niemczech i okupowanych krajach zachodnich
+- C (SA) – oddziały szturmowe NSDAP, marginalizowane po 1934 roku
+- D (Wehrmacht) – regularna armia niemiecka, Einsatzgruppen były jednostkami SS
 
 ---
 
@@ -266,9 +266,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Mordechaj_Anielewicz
 
 **Analiza odpowiedzi błędnych:**
-- A: późniejszy premier Izraela, ale nie uczestnik powstania
-- B: pierwszy premier Izraela, w 1943 był na Bliskim Wschodzie
-- D: pedagog, zginął w Treblince w 1942 roku, przed powstaniem
+- A (Menachem Begin) – późniejszy premier Izraela, ale nie uczestnik powstania
+- B (Dawid Ben-Gurion) – pierwszy premier Izraela, w 1943 był na Bliskim Wschodzie
+- D (Janusz Korczak) – pedagog, zginął w Treblince w 1942 roku, przed powstaniem
 
 ---
 
@@ -291,9 +291,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Janusz_Korczak
 
 **Analiza odpowiedzi błędnych:**
-- A: dowódcą był Mordechaj Anielewicz, nie Korczak
-- B: Korczak był pedagogiem, nie lekarzem w obozie
-- D: Korczak nie był politykiem ani nie negocjował z Niemcami
+- A (Dowódca powstania) – dowódcą był Mordechaj Anielewicz, nie Korczak
+- B (Lekarz w Auschwitz) – Korczak był pedagogiem, nie lekarzem w obozie
+- D (Polityk negocjujący) – Korczak nie był politykiem ani nie negocjował z Niemcami
 
 ---
 
@@ -316,9 +316,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- A: Amerykanie wyzwolili obozy w Niemczech (Dachau, Buchenwald), nie Auschwitz
-- B: wyzwolili Bergen-Belsen, nie Auschwitz
-- D: polskie formacje walczyły na innych frontach (Monte Cassino, Arnhem)
+- A (USA) – Amerykanie wyzwolili obozy w Niemczech (Dachau, Buchenwald), nie Auschwitz
+- B (Brytyjczycy) – wyzwolili Bergen-Belsen, nie Auschwitz
+- D (Wojsko Polskie) – polskie formacje walczyły na innych frontach (Monte Cassino, Arnhem)
 
 ---
 
@@ -341,9 +341,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Kristallnacht
 
 **Analiza odpowiedzi błędnych:**
-- A: getta nie istniały w Niemczech w 1938 roku
-- C: atak nastąpił 1 września 1939 roku
-- D: to był Blitz w 1940-1941 roku
+- A (Szyby w gettach) – getta nie istniały w Niemczech w 1938 roku
+- C (Atak na Polskę) – atak nastąpił 1 września 1939 roku
+- D (Bombardowania Londynu) – to był Blitz w 1940-1941 roku
 
 ---
 
@@ -390,9 +390,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Ewakuacja_wsieludzi
 
 **Analiza odpowiedzi błędnych:**
-- A: wielu zginęło, ale większość jednak przeżyła
-- B: polscy Żydzi nie masowo wstępowali do Armii Czerwonej
-- D: repatriacja do USA była bardzo trudna i rzadka
+- A (Obozy syberyjskie) – wielu zginęło, ale większość jednak przeżyła
+- B (Armia Czerwona) – polscy Żydzi nie masowo wstępowali do Armii Czerwonej
+- D (USA) – repatriacja do USA była bardzo trudna i rzadka
 
 ---
 

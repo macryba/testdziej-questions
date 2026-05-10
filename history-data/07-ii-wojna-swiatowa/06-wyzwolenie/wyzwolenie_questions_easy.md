@@ -43,9 +43,9 @@ Kapitulacja Niemiec 8 maja 1945 zakończyła II wojnę światową w Europie. Inn
 - https://pl.wikipedia.org/wiki/II_wojna_%C5%9Bwiatowa
 
 **Analiza odpowiedzi błędnych:**
-- B: Wydarzenie z 17 września 1939 roku (początek wojny, nie zakończenie)
-- C: Wydarzenie z 1 września 1939 roku (początek wojny, nie zakończenie)
-- D: Wydarzenie z 9 listopada 1918 roku (inna wojna)
+- B. Agresja ZSRR na Polskę - Wydarzenie z 17 września 1939 roku (początek wojny, nie zakończenie)
+- C. Atak Niemiec na Polskę - Wydarzenie z 1 września 1939 roku (początek wojny, nie zakończenie)
+- D. Zakończenie I wojny światowej - Wydarzenie z 9 listopada 1918 roku (inna wojna)
 
 ---
 
@@ -71,9 +71,9 @@ Charles de Gaulle nie był członkiem Wielkiej Trójki. Wielka Trójka to: Winst
 - https://pl.wikipedia.org/wiki/Wielka_Tr%C3%B3jka
 
 **Analiza odpowiedzi błędnych:**
-- A: Premier Wielkiej Brytanii, członek Wielkiej Trójki
-- B: Prezydent USA, członek Wielkiej Trójki
-- C: Przywódca ZSRR, członek Wielkiej Trójki
+- A. Winston Churchill - Premier Wielkiej Brytanii, członek Wielkiej Trójki
+- B. Franklin D. Roosevelt - Prezydent USA, członek Wielkiej Trójki
+- C. Józef Stalin - Przywódca ZSRR, członek Wielkiej Trójki
 
 ---
 
@@ -99,9 +99,9 @@ Linia Curzona stała się wschodnią granicą Polski po II wojnie światowej na 
 - https://pl.wikipedia.org/wiki/Linia_Curzona
 
 **Analiza odpowiedzi błędnych:**
-- B: Francuska linia fortyfikacji z II wojny światowej
-- C: Niemiecka linia obronna na zachodzie
-- D: Fińska linia obronna z wojny zimowej
+- B. Linia Maginota - Francuska linia fortyfikacji z II wojny światowej
+- C. Linia Siegfrieda - Niemiecka linia obronna na zachodzie
+- D. Linia Mannerheima - Fińska linia obronna z wojny zimowej
 
 ---
 
@@ -129,9 +129,9 @@ Konferencje Wielkiej Trójki odbywały się w Teheranie (1943), Jałcie (1945) i
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
 **Analiza odpowiedzi błędnych:**
-- A: Stolice państw alianckich, ale nie miejsca konferencji Wielkiej Trójki
-- C: Moskwa to stolica ZSRR, Berlin i Rzym to stolice państw Osi
-- D: Miasta europejskie, gdzie nie odbywały się konferencje Wielkiej Trójki
+- A. Londyn, Paryż, Waszyngton - Stolice państw alianckich, ale nie miejsca konferencji Wielkiej Trójki
+- C. Moskwa, Berlin, Rzym - Moskwa to stolica ZSRR, Berlin i Rzym to stolice państw Osi
+- D. Wiedeń, Praga, Budapeszt - Miasta europejskie, gdzie nie odbywały się konferencje Wielkiej Trójki
 
 ---
 
@@ -157,9 +157,9 @@ Po II wojnie światowej zachodnią granicę Polski ustalono na linii rzek Odra i
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
 **Analiza odpowiedzi błędnych:**
-- A: Wisła to główna rzeka w Polsce, Bug to wschodnia granica międzywojennej
-- C: Rzeki w Niemczech (Ren płynie przez zachodnie Niemcy, Łaba przez Czechy i Niemcy)
-- D: Dunaj przepływa przez Europę Środkową i Bałkany, Dniestr przez Ukrainę i Mołdawię
+- A. Wisłę i Bug - Wisła to główna rzeka w Polsce, Bug to wschodnia granica międzywojennej
+- C. Ren i Łabę - Rzeki w Niemczech (Ren płynie przez zachodnie Niemcy, Łaba przez Czechy i Niemcy)
+- D. Dunaj i Dniestr - Dunaj przepływa przez Europę Środkową i Bałkany, Dniestr przez Ukrainę i Mołdawię
 
 ---
 

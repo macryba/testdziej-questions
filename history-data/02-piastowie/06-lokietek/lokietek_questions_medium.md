@@ -60,9 +60,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/Zdobycie_Pomorza_Gda%C5%84skiego_przez_Krzy%C5%BCak%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- A: Zła interpretacja ekonomiczna. Utrata Pomorza Gdańskiego spowodowała DRAMATYCZNY spadek wpływów podatkowych i ceł, ponieważ Polska utraciła dostęp do morza Bałtyckiego i kontrolę nad lukratywnym handlem morskim. Eksport towarów wymuszał przechodzenie przez terytorium zakonu i płacenie cła w Gdańsku.
-- B: Błędna interpretacja polityczna. Zakon Krzyżacki stał się głównym WROGIEM Polski, nie sojusznikiem. Zajęcie Pomorza rozpoczęło wieloletni konflikt zbrojny, który trwał przez cały panowanie Łokietka i jego syna Kazimierza Wielkiego, aż po bitwę pod Grunwaldem (1410).
-- C: Brak źródeł historycznych potwierdzających takie wydarzenie. Wręcz przeciwnie, Zakon zajął Pomorze jako zapłatę za pożyczkę, którą rzekomo miał otrzymać od Wacława II, ale po śmierci Wacława III odmówił zwrotu terenu Polsce. Było to naruszenie wcześniejszych ustaleń.
+- Odpowiedź A (Zwiększenie wpływów z podatków dzięki nowym terenom) – Zła interpretacja ekonomiczna. Utrata Pomorza Gdańskiego spowodowała DRAMATYCZNY spadek wpływów podatkowych i ceł, ponieważ Polska utraciła dostęp do morza Bałtyckiego i kontrolę nad lukratywnym handlem morskim. Eksport towarów wymuszał przechodzenie przez terytorium zakonu i płacenie cła w Gdańsku.
+- Odpowiedź B (Wzmocnienie pozycji militarnej Polski dzięki sojuszowi z Zakonem) – Błędna interpretacja polityczna. Zakon Krzyżacki stał się głównym WROGIEM Polski, nie sojusznikiem. Zajęcie Pomorza rozpoczęło wieloletni konflikt zbrojny, który trwał przez cały panowanie Łokietka i jego syna Kazimierza Wielkiego, aż po bitwę pod Grunwaldem (1410).
+- Odpowiedź C (Uzyskanie pożyczki finansowej od Zakonu na cele wojenne) – Brak źródeł historycznych potwierdzających takie wydarzenie. Wręcz przeciwnie, Zakon zajął Pomorze jako zapłatę za pożyczkę, którą rzekomo miał otrzymać od Wacława II, ale po śmierci Wacława III odmówił zwrotu terenu Polsce. Było to naruszenie wcześniejszych ustaleń.
 
 ---
 
@@ -72,9 +72,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/Zdobycie_Pomorza_Gda%C5%84skiego_przez_Krzy%C5%BCak%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- B: Zła interpretacja ekonomiczna. Utrata Pomorza Gdańskiego spowodowała DRAMATYCZNY spadek wpływów podatkowych i ceł, ponieważ Polska utraciła dostęp do morza Bałtyckiego i kontrolę nad lukratywnym handlem morskim. Eksport towarów wymuszał przechodzenie przez terytorium zakonu i płacenie cła w Gdańsku.
-- C: Błędna interpretacja polityczna. Zakon Krzyżacki stał się głównym WROGIEM Polski, nie sojusznikiem. Zajęcie Pomorza rozpoczęło wieloletni konflikt zbrojny, który trwał przez cały panowanie Łokietka i jego syna Kazimierza Wielkiego, aż po bitwę pod Grunwaldem (1410).
-- D: Brak źródeł historycznych potwierdzających takie wydarzenie. Wręcz przeciwnie, Zakon zajął Pomorze jako zapłatę za Pożyczkę, którą rzekomo miał otrzymać od Wacława II, ale po śmierci Wacława III odmówił zwrotu terenu Polsce. Było to naruszenie wcześniejszych ustaleń.
+- Odpowiedź B (Zwiększenie wpływów z podatków dzięki nowym terenom) – Zła interpretacja ekonomiczna. Utrata Pomorza Gdańskiego spowodowała DRAMATYCZNY spadek wpływów podatkowych i ceł, ponieważ Polska utraciła dostęp do morza Bałtyckiego i kontrolę nad lukratywnym handlem morskim. Eksport towarów wymuszał przechodzenie przez terytorium zakonu i płacenie cła w Gdańsku.
+- Odpowiedź C (Wzmocnienie pozycji militarnej Polski dzięki sojuszowi z Zakonem) – Błędna interpretacja polityczna. Zakon Krzyżacki stał się głównym WROGIEM Polski, nie sojusznikiem. Zajęcie Pomorza rozpoczęło wieloletni konflikt zbrojny, który trwał przez cały panowanie Łokietka i jego syna Kazimierza Wielkiego, aż po bitwę pod Grunwaldem (1410).
+- Odpowiedź D (Uzyskanie pożyczki finansowej od Zakonu na cele wojenne) – Brak źródeł historycznych potwierdzających takie wydarzenie. Wręcz przeciwnie, Zakon zajął Pomorze jako zapłatę za Pożyczkę, którą rzekomo miał otrzymać od Wacława II, ale po śmierci Wacława III odmówił zwrotu terenu Polsce. Było to naruszenie wcześniejszych ustaleń.
 
 ---
 
@@ -97,9 +97,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: Błędne założenie militarne. W latach 1311-1312 Kraków był centrum BUNTU WÓJTA ALBERTA, kiedy niemiecki patrycjat poparł Jana Luksemburskiego przeciw Łokietkowi. Miasto zostało ukarane odebraniem przywilejów. Gniezno nie było "zniszczone przez najazdy mongolskie" – ostatni najazd miał miejsce w 1241 roku, a miasto zostało odbudowane.
-- B: Błędna chronologia i interpretacja. Ostatni najazd mongolski na Polskę odbył się w 1241 roku (blisko 80 lat przed koronacją Łokietka). Gniezno zostało odbudowane i nadal funkcjonowało jako ważne centrum kościelne. Tradycja koronacji w Gnieźnie była symboliczna, ale nie przerwana z powodu zniszczeń.
-- D: Prawdziwe, że Kraków był pierwszym głównym grodem opanowanym przez Łokietka (1306), ale to NIE BYŁO powodem wyboru miejsca koronacji. Decyzję podjął papież Jan XXII ze względów dyplomatycznych, aby uniknąć prowokacji Jana Luksemburskiego, który rościł sobie prawa do tronu polskiego i miał wpływy w Wielkopolsce (region Gniezna).
+- Odpowiedź A (Kraków był bezpieczniejszy przed atakami czeskimi i brandenburskimi) – Błędne założenie militarne. W latach 1311-1312 Kraków był centrum BUNTU WÓJTA ALBERTA, kiedy niemiecki patrycjat poparł Jana Luksemburskiego przeciw Łokietkowi. Miasto zostało ukarane odebraniem przywilejów. Gniezno nie było "zniszczone przez najazdy mongolskie" – ostatni najazd miał miejsce w 1241 roku, a miasto zostało odbudowane.
+- Odpowiedź B (Gniezno zostało zniszczone podczas najazdów mongolskich) – Błędna chronologia i interpretacja. Ostatni najazd mongolski na Polskę odbył się w 1241 roku (blisko 80 lat przed koronacją Łokietka). Gniezno zostało odbudowane i nadal funkcjonowało jako ważne centrum kościelne. Tradycja koronacji w Gnieźnie była symboliczna, ale nie przerwana z powodu zniszczeń.
+- Odpowiedź D (Łokietek chciał uhonorować miasto, które jako pierwsze uznało jego władzę) – Prawdziwe, że Kraków był pierwszym głównym grodem opanowanym przez Łokietka (1306), ale to NIE BYŁO powodem wyboru miejsca koronacji. Decyzję podjął papież Jan XXII ze względów dyplomatycznych, aby uniknąć prowokacji Jana Luksemburskiego, który rościł sobie prawa do tronu polskiego i miał wpływy w Wielkopolsce (region Gniezna).
 
 ---
 
@@ -122,9 +122,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: Błędna interpretacja roli papieża. Papież Jan XXII był formalnym zatwierdzicielem koronacji Łokietka w 1320 roku, ale NIE BYŁ aktywnym sojusznikiem w walce z Janem Muskato. To arcybiskup Jakub Świnka prowadził aktywną walkę kościelną przeciw Muskacie, wyklął go i skazał na pozbawienie biskupstwa w 1308 roku.
-- B: Całkowicie błędna odpowiedź. Wacław III był głównym PRZECIWNIKIEM Łokietka w walce o tron krakowski, a nie sojusznikiem. To Wacław III (i jego ojciec Wacław II) wspierali Jana Muskatę w jego działaniach przeciw Łokietkowi. Po śmierci Wacława III (1306) Muskata stracił protektora i wpływy.
-- C: Błędna interpretacja relacji. Zakon Krzyżacki był WROGIEM Łokietka, który zajął Pomorze Gdańskie w 1308-1309 roku. Mistrz krajowy nie pomagał Łokietkowi w walce z biskupem krakowskim. Relacje z Zakonem były wrogie przez cały okres panowania Łokietka.
+- Odpowiedź A (Papież Jan XXII) – Błędna interpretacja roli papieża. Papież Jan XXII był formalnym zatwierdzicielem koronacji Łokietka w 1320 roku, ale NIE BYŁ aktywnym sojusznikiem w walce z Janem Muskato. To arcybiskup Jakub Świnka prowadził aktywną walkę kościelną przeciw Muskacie, wyklął go i skazał na pozbawienie biskupstwa w 1308 roku.
+- Odpowiedź B (Król czeski Wacław III) – Całkowicie błędna odpowiedź. Wacław III był głównym PRZECIWNIKIEM Łokietka w walce o tron krakowski, a nie sojusznikiem. To Wacław III (i jego ojciec Wacław II) wspierali Jana Muskatę w jego działaniach przeciw Łokietkowi. Po śmierci Wacława III (1306) Muskata stracił protektora i wpływy.
+- Odpowiedź C (Mistrz krajowy Zakonu Krzyżackiego) – Błędna interpretacja relacji. Zakon Krzyżacki był WROGIEM Łokietka, który zajął Pomorze Gdańskie w 1308-1309 roku. Mistrz krajowy nie pomagał Łokietkowi w walce z biskupem krakowskim. Relacje z Zakonem były wrogie przez cały okres panowania Łokietka.
 
 ---
 
@@ -147,9 +147,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/Bunt_w%C3%B3jta_Alberta
 
 **Analiza odpowiedzi błędnych:**
-- B: Błędna interpretacja polityczna. Kraków posiadał rozległe przywileje miejskie od czasów Bolesława Wstydliwego (1257). Bunt nie dotyczył uzyskiwania autonomii, ale SPRZECIWU wobec polityki Łokietka. Niemiecki patrycjat chciał ZASTĄPIĆ Łokietka Janem Luksemburskim jako suzerenem, co oznaczało zmianę lenna, a nie uzyskanie autonomii.
-- C: Błędna chronologia. Bunt Alberta miał miejsce w 1311 roku, a koronacja Łokietka odbyła się dopiero w 1320 roku – 9 lat PO buncie. Mieszczanie nie mogli być niezadowoleni z wydarzenia, które jeszcze nie nastąpiło. Przyczyną buntu były podatki i sympatie pro-czeskie.
-- D: Błędny kontekst religijny. W Krakowie w XIV wieku NIE istniała znacząca społeczność prawosławna – to była teren wyłącznie katolicki. Bunt miał charakter polityczny i ekonomiczny, nie religijny. Niemiecki patrycjat był katolicki, jak reszta mieszkańców miasta.
+- Odpowiedź B (Żądanie autonomii miasta od władzy centralnej) – Błędna interpretacja polityczna. Kraków posiadał rozległe przywileje miejskie od czasów Bolesława Wstydliwego (1257). Bunt nie dotyczył uzyskiwania autonomii, ale SPRZECIWU wobec polityki Łokietka. Niemiecki patrycjat chciał ZASTĄPIĆ Łokietka Janem Luksemburskim jako suzerenem, co oznaczało zmianę lenna, a nie uzyskanie autonomii.
+- Odpowiedź C (Niezadowolenie z wybrania Krakowa na miejsce koronacji) – Błędna chronologia. Bunt Alberta miał miejsce w 1311 roku, a koronacja Łokietka odbyła się dopiero w 1320 roku – 9 lat PO buncie. Mieszczanie nie mogli być niezadowoleni z wydarzenia, które jeszcze nie nastąpiło. Przyczyną buntu były podatki i sympatie pro-czeskie.
+- Odpowiedź D (Konflikt religijny między katolikami a prawosławnymi) – Błędny kontekst religijny. W Krakowie w XIV wieku NIE istniała znacząca społeczność prawosławna – to była teren wyłącznie katolicki. Bunt miał charakter polityczny i ekonomiczny, nie religijny. Niemiecki patrycjat był katolicki, jak reszta mieszkańców miasta.
 
 ---
 
@@ -172,9 +172,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: Błędna interpretacja militarna. Jan Luksemburski rościł sobie prawa do tronu polskiego i prowadził działania dyplomatyczne przeciw Łokietkowi, ale NIE ZAJĄŁ ziem wielkopolskich po śmierci Przemka głogowskiego w 1331 roku. Jan Luksemburski uzyskał hołd lenny od książąt śląskich, ale nie zajął Wielkopolski.
-- C: Błędne przypisanie terytorium. Ziemia wieluńska została zajęta przez Zakon Krzyżacki w 1332 roku podczas INNEJ wojny o Kujawy, NIE w wyniku śmierci Przemka głogowskiego w 1331 roku. Działania te były niezależne od dziedzictwa po Przemku.
-- D: Błędna interpretacja sukcesji. Henryk VI Dobry był synem Henryka V Brodatego (zm. 1296), a nie Przemka głogowskiego (zm. 1331). Henryk VI przejął księstwo wrocławskie po ojcu w 1296 roku, a nie po Przemku głogowskim w 1331 roku. To wydarzenia z innego czasu i innej linii Piastów.
+- Odpowiedź A (Jan Luksemburski, który zajął ziemie wielkopolskie) – Błędna interpretacja militarna. Jan Luksemburski rościł sobie prawa do tronu polskiego i prowadził działania dyplomatyczne przeciw Łokietkowi, ale NIE ZAJĄŁ ziem wielkopolskich po śmierci Przemka głogowskiego w 1331 roku. Jan Luksemburski uzyskał hołd lenny od książąt śląskich, ale nie zajął Wielkopolski.
+- Odpowiedź C (Zakon Krzyżacki, który dostał ziemię wieluńską) – Błędne przypisanie terytorium. Ziemia wieluńska została zajęta przez Zakon Krzyżacki w 1332 roku podczas INNEJ wojny o Kujawy, NIE w wyniku śmierci Przemka głogowskiego w 1331 roku. Działania te były niezależne od dziedzictwa po Przemku.
+- Odpowiedź D (Henryk VI Dobry, który objął dziedzictwo po ojcu) – Błędna interpretacja sukcesji. Henryk VI Dobry był synem Henryka V Brodatego (zm. 1296), a nie Przemka głogowskiego (zm. 1331). Henryk VI przejął księstwo wrocławskie po ojcu w 1296 roku, a nie po Przemku głogowskim w 1331 roku. To wydarzenia z innego czasu i innej linii Piastów.
 
 ---
 
@@ -197,9 +197,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: Błędna interpretacja geopolityczna. W XIV wieku najazdy tatarskie na Polskę były sporadyczne i skupiały się na Rusi Halicko-Włodzimierskiej, nie na wschodniej granicy Polski. Sojusz węgierski nie miał na celu ochrony przed Tatarami. Litwa była pogańska i dopiero zaczynała ekspansję.
-- B: Błędna interpretacja militarnej pomocy. Węgry Karola Roberta NIE udzieliły Polsce pomocy militarnej w wojnie z Zakonem Krzyżackim. Węgrzy nie byli zaangażowani w konflikt polsko-krzyżacki o Pomorze Gdańskie. Sojusz miał charakter polityczny i dyplomatyczny, nie militarny.
-- D: Błędna interpretacja geopolityki. Polska Łokietka nie miała ambicji ekspansji na Bałkany – to był obszar zainteresowania Węgier i Bizancjum. Elżbieta Łokietkówna wyjechała na Węgry jako królowa, nie jako narzędzie polskiej ekspansji. Sojusz służył polityce równowagi w Europie Środkowej.
+- Odpowiedź A (Zabezpieczenie wschodniej granicy przed najazdami tatarskimi) – Błędna interpretacja geopolityczna. W XIV wieku najazdy tatarskie na Polskę były sporadyczne i skupiały się na Rusi Halicko-Włodzimierskiej, nie na wschodniej granicy Polski. Sojusz węgierski nie miał na celu ochrony przed Tatarami. Litwa była pogańska i dopiero zaczynała ekspansję.
+- Odpowiedź B (Uzyskanie wsparcia militarnego w walce z Zakonem Krzyżackim) – Błędna interpretacja militarnej pomocy. Węgry Karola Roberta NIE udzieliły Polsce pomocy militarnej w wojnie z Zakonem Krzyżackim. Węgrzy nie byli zaangażowani w konflikt polsko-krzyżacki o Pomorze Gdańskie. Sojusz miał charakter polityczny i dyplomatyczny, nie militarny.
+- Odpowiedź D (Rozszerzenie wpływów polskich na Bałkany) – Błędna interpretacja geopolityki. Polska Łokietka nie miała ambicji ekspansji na Bałkany – to był obszar zainteresowania Węgier i Bizancjum. Elżbieta Łokietkówna wyjechała na Węgry jako królowa, nie jako narzędzie polskiej ekspansji. Sojusz służył polityce równowagi w Europie Środkowej.
 
 ---
 
@@ -222,9 +222,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/Bitwa_pod_P%C5%82owcami
 
 **Analiza odpowiedzi błędnych:**
-- B: Całkowicie błędne wydarzenie historyczne. Łokietek NIE zdobył Malborka w bitwie pod Płowcami ani nigdy później. Malbork pozostawał w rękach Zakonu przez cały okres panowania Łokietka. Pierwszy poważny najazd na Malbork odbył się dopiero w 1410 roku po bitwie pod Grunwaldem, za panowania Władysława Jagiełły.
-- C: Błędna interpretacja polityczna. Jan Luksemburski NIE zrezygnował z roszczeń do tronu polskiego po bitwie pod Płowcami. Tytuł króla Polski pozostał w tytulaturze królów czeskich aż do czasu Kazimierza Wielkiego, który w 1335 roku uznając suzerenność Jana, zapłacił mu 20 000 grzywien za zrzeczenie się roszczeń.
-- D: Błędny skutek terytorialny. Bitwa pod Płowcami NIE spowodowała odzyskania Pomorza Gdańskiego. Pomorze pozostało w rękach Zakonu Krzyżackiego. Dopiero Kazimierz Wielki odzyskał część Pomorza (bez Gdańska) w pokoju kaliskim (1343), ale pełne odzyskanie nastąpiło dopiero po 1454 roku.
+- Odpowiedź B (Gdyż Łokietek zdobył Malbork, stolicę Zakonu Krzyżackiego) – Całkowicie błędne wydarzenie historyczne. Łokietek NIE zdobył Malborka w bitwie pod Płowcami ani nigdy później. Malbork pozostawał w rękach Zakonu przez cały okres panowania Łokietka. Pierwszy poważny najazd na Malbork odbył się dopiero w 1410 roku po bitwie pod Grunwaldem, za panowania Władysława Jagiełły.
+- Odpowiedź C (Ponieważ Jan Luksemburski zrezygnował z roszczeń do tronu polskiego) – Błędna interpretacja polityczna. Jan Luksemburski NIE zrezygnował z roszczeń do tronu polskiego po bitwie pod Płowcami. Tytuł króla Polski pozostał w tytulaturze królów czeskich aż do czasu Kazimierza Wielkiego, który w 1335 roku uznając suzerenność Jana, zapłacił mu 20 000 grzywien za zrzeczenie się roszczeń.
+- Odpowiedź D (Gdyż Polska odzyskała Pomorze Gdańskie w wyniku bitwy) – Błędny skutek terytorialny. Bitwa pod Płowcami NIE spowodowała odzyskania Pomorza Gdańskiego. Pomorze pozostało w rękach Zakonu Krzyżackiego. Dopiero Kazimierz Wielki odzyskał część Pomorza (bez Gdańska) w pokoju kaliskim (1343), ale pełne odzyskanie nastąpiło dopiero po 1454 roku.
 
 ---
 
@@ -247,9 +247,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: Błędna interpretacja roli papieża. Papież Jan XXII UDZIELIŁ zgody na koronację Łokietka w 1320 roku po latach starań dyplomatycznych, ale NIE BYŁ jego "głównym fundatorem". Papież był zatwierdzicielem politycznym, a nie finansowym. To arcybiskup Janisław jako prymas Polski przeprowadził koronację i wspierał Łokietka w Kurii Rzymskiej.
-- C: Błędna interpretacja finansowa. Mieszczanie krakowscy i gdańscy NIE byli "głównymi fundatorami" królestwa. Gdańsk był w rękach Zakonu Krzyżackiego od 1308 roku. Kraków płacił podatki i dostarczał wojsko, ale nie był "fundatorem" w sensie tworzenia instytucji królestwa. To Kościół (arcybiskupstwo i biskupstwa) wspierał finansowo i politycznie proces odrodzenia królestwa.
-- D: Całkowicie błędna odpowiedź. Książęta śląscy złożyli hołd lenny Janowi Luksemburskiemu w latach 1327-1331, OPUSZCZAJĄC politykę Łokietka. Byli przeciwnikami, nie sojusznikami zjednoczenia Polski. Ich hołd oznaczał utratę Śląska dla Korony na prawie 200 lat.
+- Odpowiedź A (Papież Jan XXII) – Błędna interpretacja roli papieża. Papież Jan XXII UDZIELIŁ zgody na koronację Łokietka w 1320 roku po latach starań dyplomatycznych, ale NIE BYŁ jego "głównym fundatorem". Papież był zatwierdzicielem politycznym, a nie finansowym. To arcybiskup Janisław jako prymas Polski przeprowadził koronację i wspierał Łokietka w Kurii Rzymskiej.
+- Odpowiedź C (Mieszczanie krakowscy i gdańscy) – Błędna interpretacja finansowa. Mieszczanie krakowscy i gdańscy NIE byli "głównymi fundatorami" królestwa. Gdańsk był w rękach Zakonu Krzyżackiego od 1308 roku. Kraków płacił podatki i dostarczał wojsko, ale nie był "fundatorem" w sensie tworzenia instytucji królestwa. To Kościół (arcybiskupstwo i biskupstwa) wspierał finansowo i politycznie proces odrodzenia królestwa.
+- Odpowiedź D (Książęta śląscy) – Całkowicie błędna odpowiedź. Książęta śląscy złożyli hołd lenny Janowi Luksemburskiemu w latach 1327-1331, OPUSZCZAJĄC politykę Łokietka. Byli przeciwnikami, nie sojusznikami zjednoczenia Polski. Ich hołd oznaczał utratę Śląska dla Korony na prawie 200 lat.
 
 ---
 
@@ -272,6 +272,6 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%82okietek
 
 **Analiza odpowiedzi błędnych:**
-- B: Błędna interpretacja priorytetów. Łokietek NIE prowadził rozległych inwestycji infrastrukturalnych – to domena jego syna Kazimierza Wielkiego ("Zastał Polskę drewnianą, zostawił murowaną"). Panowanie Łokietka to ciągłe wojny o zjednoczenie (z Krzyżakami, Czechami, opozycją wewnętrzną), które nie sprzyjały rozwojowi gospodarczemu.
-- C: Błędna interpretacja ekspansji terytorialnej. Łokietek NIE zdobywał nowych ziem na wschodzie. Jego celem było ZJEDNOCZENIE ziem polskich rozbitych dzielnicowo (Kujawy, Sieradz, Łęczyca, Kraków, Wielkopolska). Ekspansja na wschód (Ruś Halicko-Włodzimierska) rozpoczęła się dopiero za Kazimierza Wielkiego.
-- D: Błędna interpretacja językowa. Język polski funkcjonował jako język urzędowy od czasów Bolesława Chrobrego. Łokietek NIE wprowadzał go – język łaciński był głównym językiem dokumentacji państwowej i kościelnej. Polska kancelaria koronna używała łaciny, podobnie jak inne europejskie dwory.
+- Odpowiedź B (Rozwój gospodarczy kraju dzięki inwestycjom w infrastrukturę) – Błędna interpretacja priorytetów. Łokietek NIE prowadził rozległych inwestycji infrastrukturalnych – to domena jego syna Kazimierza Wielkiego ("Zastał Polskę drewnianą, zostawił murowaną"). Panowanie Łokietka to ciągłe wojny o zjednoczenie (z Krzyżakami, Czechami, opozycją wewnętrzną), które nie sprzyjały rozwojowi gospodarczemu.
+- Odpowiedź C (Zwiększenie terytorium państwa o nowe ziemie na wschodzie) – Błędna interpretacja ekspansji terytorialnej. Łokietek NIE zdobywał nowych ziem na wschodzie. Jego celem było ZJEDNOCZENIE ziem polskich rozbitych dzielnicowo (Kujawy, Sieradz, Łęczyca, Kraków, Wielkopolska). Ekspansja na wschód (Ruś Halicko-Włodzimierska) rozpoczęła się dopiero za Kazimierza Wielkiego.
+- Odpowiedź D (Wprowadzenie języka polskiego jako języka urzędowego) – Błędna interpretacja językowa. Język polski funkcjonował jako język urzędowy od czasów Bolesława Chrobrego. Łokietek NIE wprowadzał go – język łaciński był głównym językiem dokumentacji państwowej i kościelnej. Polska kancelaria koronna używała łaciny, podobnie jak inne europejskie dwory.

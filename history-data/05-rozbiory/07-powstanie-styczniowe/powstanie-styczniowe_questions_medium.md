@@ -47,9 +47,9 @@ D. Realpolitik
 - https://pl.wikipedia.org/wiki/Polityka_pozytywna
 
 **Analiza odpowiedzi błędnych:**
-- A: Stanowisko pragmatyczne rozwijane po klęsce powstania (okres 1864-1914), skupiające się na gospodarce i oświacie, nie ugodę z caratem
-- B: Postawa bojkotu i braku współpracy z władzami rosyjskimi, reprezentowana przez stronnictwo "białych", nie politykę ugody
-- D: Termin niemiecki określający politykę realistyczną, nie używany w kontekście polskim XIX wieku
+- Odpowiedź A (Praca organiczna) – Stanowisko pragmatyczne rozwijane po klęsce powstania (okres 1864-1914), skupiające się na gospodarce i oświacie, nie ugodę z caratem
+- Odpowiedź B (Polityka negatywna) – Postawa bojkotu i braku współpracy z władzami rosyjskimi, reprezentowana przez stronnictwo "białych", nie politykę ugody
+- Odpowiedź D (Realpolitik) – Termin niemiecki określający politykę realistyczną, nie używany w kontekście polskim XIX wieku
 
 ---
 
@@ -73,9 +73,9 @@ D. Zadowolenie szlachty
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Motywacja fiskalna nie była celem dekretu, carat chciał zyskać poparcie chłopów, a nie środki finansowe
-- C: Dekret uwłaszczeniowy dotyczył reformy agrarnej, a nie transformacji systemu gospodarczego
-- D: Szlachta sprzeciwiała się uwłaszczeniu bez odszkodowania, dekret był skierowany przeciwko jej interesom
+- Odpowiedź A (Zwiększenie wpływów podatkowych) – Motywacja fiskalna nie była celem dekretu, carat chciał zyskać poparcie chłopów, a nie środki finansowe
+- Odpowiedź C (Wprowadzenie kapitalizmu) – Dekret uwłaszczeniowy dotyczył reformy agrarnej, a nie transformacji systemu gospodarczego
+- Odpowiedź D (Zadowolenie szlachty) – Szlachta sprzeciwiała się uwłaszczeniu bez odszkodowania, dekret był skierowany przeciwko jej interesom
 
 ---
 
@@ -99,9 +99,9 @@ D. Francja
 - https://pl.wikipedia.org/wiki/Reakcja_mi%C4%99dzynarodowa_na_powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Państwo pruskie zajęło stanowisko neutralne, obawiając się konfliktu z Rosją i wsparło ją w pacyfikacji powstania
-- B: Monarchia austriacka pozostała neutralna, nie chcąc pogarszać relacji z Rosją, nie udzieliła pomocy militarnej
-- D: Brytania zajęła stanowisko wyczekujące, nie udzieliła realnego poparcia, ograniczając się do dyplomatycznej krytyki
+- Odpowiedź A (Prusy) – Państwo pruskie zajęło stanowisko neutralne, obawiając się konfliktu z Rosją i wsparło ją w pacyfikacji powstania
+- Odpowiedź B (Austria) – Monarchia austriacka pozostała neutralna, nie chcąc pogarszać relacji z Rosją, nie udzieliła pomocy militarnej
+- Odpowiedź D (Wielka Brytania) – Brytania zajęła stanowisko wyczekujące, nie udzieliła realnego poparcia, ograniczając się do dyplomatycznej krytyki
 
 ---
 
@@ -125,9 +125,9 @@ D. Walki morskie
 - https://pl.wikipedia.org/wiki/Wojna_partyzancka
 
 **Analiza odpowiedzi błędnych:**
-- A: Powstańcy nie mieli sił ani środków na regularną wojnę, unikali dużych bitew z lepiej uzbrojoną armią rosyjską
-- C: Oblężenia miast nie były główną formą walki, powstanie miało charakter wojny partyzanckiej na wsiach i w lasach
-- D: Polska nie miała dostępu do morza w zaborze rosyjskim, walki morskie nie były możliwe
+- Odpowiedź A (Regularne bitew polowe) – Powstańcy nie mieli sił ani środków na regularną wojnę, unikali dużych bitew z lepiej uzbrojoną armią rosyjską
+- Odpowiedź C (Oblężenia miast) – Oblężenia miast nie były główną formą walki, powstanie miało charakter wojny partyzanckiej na wsiach i w lasach
+- Odpowiedź D (Walki morskie) – Polska nie miała dostępu do morza w zaborze rosyjskim, walki morskie nie były możliwe
 
 ---
 
@@ -151,9 +151,9 @@ D. Zniesiono autonomię
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Autonomię nie przywrócono, lecz zlikwidowano w ramach represji po klęsce powstania
-- C: Samorząd terytorialny nie został utworzony, wręcz ograniczono prawa miejskie i samorządowe
-- D: Konstytucji nie wprowadzono, Królestwo Polskie straciło odrębność prawną i administracyjną
+- Odpowiedź A (Przywrócono autonomię) – Autonomię nie przywrócono, lecz zlikwidowano w ramach represji po klęsce powstania
+- Odpowiedź C (Utworzono samorząd) – Samorząd terytorialny nie został utworzony, wręcz ograniczono prawa miejskie i samorządowe
+- Odpowiedź D (Wprowadzono konstytucję) – Konstytucji nie wprowadzono, Królestwo Polskie straciło odrębność prawną i administracyjną
 
 ---
 
@@ -177,9 +177,9 @@ D. Upadek rzemiosła
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1831%E2%80%931914)
 
 **Analiza odpowiedzi błędnych:**
-- A: Uwłaszczenie doprowadziło do wzrostu produkcji dzięki zwiększeniu motywacji chłopów do pracy na własnej ziemi
-- C: Emigracja zarobkowa nasiliła się później, na przełomie XIX/XX wieku, nie była bezpośrednim skutkiem uwłaszczenia
-- D: Rzemiosło rozwijało się wraz z urbanizacją i wzrostem popytu, nie upadło w wyniku uwłaszczenia
+- Odpowiedź A (Spadek produkcji rolnej) – Uwłaszczenie doprowadziło do wzrostu produkcji dzięki zwiększeniu motywacji chłopów do pracy na własnej ziemi
+- Odpowiedź C (Masowa emigracja) – Emigracja zarobkowa nasiliła się później, na przełomie XIX/XX wieku, nie była bezpośrednim skutkiem uwłaszczenia
+- Odpowiedź D (Upadek rzemiosła) – Rzemiosło rozwijało się wraz z urbanizacją i wzrostem popytu, nie upadło w wyniku uwłaszczenia
 
 ---
 
@@ -203,9 +203,9 @@ D. Jarosław Dąbrowski
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Wielopolski był przywódcą stronnictwa "białych", reprezentującego politykę ugodowej lojalności wobec Rosji
-- C: Padlewski był jednym z liderów czerwonych, ale nie głównym przywódcą stronnictwa (nieformalny lider: Jarosław Dąbrowski)
-- D: Bobrowski był aktywnym działaczem czerwonych i członkiem Komitetu Centralnego Narodowego, ale nie głównym przywódcą stronnictwa
+- Odpowiedź A (Aleksander Wielopolski) – Wielopolski był przywódcą stronnictwa "białych", reprezentującego politykę ugodowej lojalności wobec Rosji
+- Odpowiedź C (Zygmunt Padlewski) – Padlewski był jednym z liderów czerwonych, ale nie głównym przywódcą stronnictwa (nieformalny lider: Jarosław Dąbrowski)
+- Odpowiedź D (Stefan Bobrowski) – Bobrowski był aktywnym działaczem czerwonych i członkiem Komitetu Centralnego Narodowego, ale nie głównym przywódcą stronnictwa
 
 ---
 
@@ -229,9 +229,9 @@ D. Konfiskata ziemi
 - https://pl.wikipedia.org/wiki/Branka_(1862)
 
 **Analiza odpowiedzi błędnych:**
-- A: W Królestwie Polskim obowiązywała służba wojskowa w armii rosyjskiej, nie pruskiej
-- C: Branka dotyczyła przymusowego poboru do wojska, a nie podatków
-- D: Branka była poborem do wojska, nie konfiskatą mienia
+- Odpowiedź A (Rekrutacja do wojska pruskiego) – W Królestwie Polskim obowiązywała służba wojskowa w armii rosyjskiej, nie pruskiej
+- Odpowiedź C (Podatek ziemiański) – Branka dotyczyła przymusowego poboru do wojska, a nie podatków
+- Odpowiedź D (Konfiskata ziemi) – Branka była poborem do wojska, nie konfiskatą mienia
 
 ---
 
@@ -255,9 +255,9 @@ D. Zwiększenie swobód obywatelskich
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Po klęsce powstania listopadowego autonomia została ograniczona, a nie rozszerzona
-- C: Konstytucja nie została przywrócona, lecz zniesiona w 1831 roku
-- D: Swobody obywatelskie zostały ograniczone, a nie zwiększone (cenzura, policja polityczna)
+- Odpowiedź A (Rozszerzenie autonomii) – Po klęsce powstania listopadowego autonomia została ograniczona, a nie rozszerzona
+- Odpowiedź C (Przywrócenie konstytucji) – Konstytucja nie została przywrócona, lecz zniesiona w 1831 roku
+- Odpowiedź D (Zwiększenie swobód obywatelskich) – Swobody obywatelskie zostały ograniczone, a nie zwiększone (cenzura, policja polityczna)
 
 ---
 
@@ -281,9 +281,9 @@ D. Lepsze uzbrojenie
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Armia rosyjska była znacznie liczniejsza i lepiej uzbrojona, nie była mniejsza od sił powstańczych
-- C: Zachodnie mocarstwa nie udzieliły pomocy militarnej, ograniczając się do dyplomatycznego wsparcia
-- D: Powstańcy byli gorzej uzbrojeni od regularnej armii rosyjskiej, używali głównie broni zdobycznej i starszych modeli
+- Odpowiedź A (Mniejsza armia rosyjska) – Armia rosyjska była znacznie liczniejsza i lepiej uzbrojona, nie była mniejsza od sił powstańczych
+- Odpowiedź C (Pomoc zachodnich mocarstw) – Zachodnie mocarstwa nie udzieliły pomocy militarnej, ograniczając się do dyplomatycznego wsparcia
+- Odpowiedź D (Lepsze uzbrojenie) – Powstańcy byli gorzej uzbrojeni od regularnej armii rosyjskiej, używali głównie broni zdobycznej i starszych modeli
 
 ---
 
@@ -307,9 +307,9 @@ D. Otrzymały autonomię
 - https://pl.wikipedia.org/wiki/Uprawnienia_miejskie
 
 **Analiza odpowiedzi błędnych:**
-- A: Autonomii miejskiej nie nadano, wręcz odebrano prawa miejskie jako formę represji
-- C: Dotacji nie zwiększono, miasta straciły dochody z samorządu i praw miejskich
-- D: Przemysł nie był budowany jako nagroda, wręcz przeciwnie – miasta traciły znaczenie gospodarcze
+- Odpowiedź A (Otrzymały autonomię) – Autonomii miejskiej nie nadano, wręcz odebrano prawa miejskie jako formę represji
+- Odpowiedź C (Zwiększono dotacje) – Dotacji nie zwiększono, miasta straciły dochody z samorządu i praw miejskich
+- Odpowiedź D (Wybudowano tam przemysł) – Przemysł nie był budowany jako nagroda, wręcz przeciwnie – miasta traciły znaczenie gospodarcze
 
 ---
 
@@ -333,9 +333,9 @@ D. Przeciwstawiał się walce
 - https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki_a_powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Kościół nie był neutralny, aktywnie wspierał powstanie duchowo i materialnie
-- B: Kościół był przeciwny caratowi i wspierał walkę o niepodległość, nie popierał władz rosyjskich
-- D: Duchowni nie tylko nie przeciwstawiali się walce, ale wielu z nich aktywnie uczestniczyło w powstaniu
+- Odpowiedź A (Był neutralny) – Kościół nie był neutralny, aktywnie wspierał powstanie duchowo i materialnie
+- Odpowiedź B (Popierał carat) – Kościół był przeciwny caratowi i wspierał walkę o niepodległość, nie popierał władz rosyjskich
+- Odpowiedź D (Przeciwstawiał się walce) – Duchowni nie tylko nie przeciwstawiali się walce, ale wielu z nich aktywnie uczestniczyło w powstaniu
 
 ---
 
@@ -359,9 +359,9 @@ D. Praca u rolnika
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- A: Praca organiczna zakładała rezygnację z powstań zbrojnych na rzecz rozwoju gospodarczego i oświaty
-- C: Praca organiczna nie dotyczyła fizycznej pracy rolniczej, lecz działalności społeczno-gospodarczej inteligencji i burżuazji
-- D: Praca organiczna nie była działalnością wywiadowczą, lecz legalnym budowaniem struktur społecznych i gospodarczych
+- Odpowiedź A (Organizowanie nowych powstań) – Praca organiczna zakładała rezygnację z powstań zbrojnych na rzecz rozwoju gospodarczego i oświaty
+- Odpowiedź C (Praca u rolnika) – Praca organiczna nie dotyczyła fizycznej pracy rolniczej, lecz działalności społeczno-gospodarczej inteligencji i burżuazji
+- Odpowiedź D (Działalność wywiadowcza) – Praca organiczna nie była działalnością wywiadowczą, lecz legalnym budowaniem struktur społecznych i gospodarczych
 
 ---
 
@@ -385,9 +385,9 @@ D. Zwycięstwo pod Horkami
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Horkami
 
 **Analiza odpowiedzi błędnych:**
-- A: Bitwa pod Małogoszczem (22 lutego 1863) była zwycięstwem, ale odniósł je Marian Langiewicz, nie Traugutt
-- C: Warszawa została obrona, ale nie było to osiągnięcie militarne Traugutta, lecz rezultat braku decydującego ataku rosyjskiego
-- D: Żadna wyprawa na Moskwę nie miała miejsca podczas powstania styczniowego, to anachronizm z okresu wojen z XVII wieku
+- Odpowiedź A (Zwycięstwo pod Małogoszczem) – Bitwa pod Małogoszczem (22 lutego 1863) była zwycięstwem, ale odniósł je Marian Langiewicz, nie Traugutt
+- Odpowiedź C (Obrona Warszawy) – Warszawa została obrona, ale nie było to osiągnięcie militarne Traugutta, lecz rezultat braku decydującego ataku rosyjskiego
+- Odpowiedź D (Wyprawa na Moskwę) – Żadna wyprawa na Moskwę nie miała miejsca podczas powstania styczniowego, to anachronizm z okresu wojen z XVII wieku
 
 ---
 
@@ -411,9 +411,9 @@ D. Ograniczono zaborów
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1831%E2%80%931914)
 
 **Analiza odpowiedzi błędnych:**
-- A: Powstanie nie zjednoczyło wszystkich stanów, szlachta i chłopi mieli odmienne interesy, co osłabiło powstanie
-- B: Niepodległość nie została przywrócona, Polska pozostała pod zaborami do 1918 roku
-- D: Zaborów nie ograniczono, wręcz przeciwnie – represje popowstaniowe pogłębiły integrację z imperium rosyjskim
+- Odpowiedź A (Zjednoczono wszystkie stany) – Powstanie nie zjednoczyło wszystkich stanów, szlachta i chłopi mieli odmienne interesy, co osłabiło powstanie
+- Odpowiedź B (Przywrócono niepodległość) – Niepodległość nie została przywrócona, Polska pozostała pod zaborami do 1918 roku
+- Odpowiedź D (Ograniczono zaborów) – Zaborów nie ograniczono, wręcz przeciwnie – represje popowstaniowe pogłębiły integrację z imperium rosyjskim
 
 ---
 
@@ -437,9 +437,9 @@ D. Rada Stanu
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 
 **Analiza odpowiedzi błędnych:**
-- B: KCN był podziemną organizacją konspiracyjną przygotowującą powstanie, nie naczelną władzą podczas walki
-- C: Sejm Czteroletni istniał w latach 1788-1792, nie był związany z powstaniem styczniowym (róża 70 lat)
-- D: Rada Stanu był organem rządzącym w Księstwie Warszawskim (1807-1815), nie podczas powstania styczniowego
+- Odpowiedź B (Komitet Centralny Narodowy) – KCN był podziemną organizacją konspiracyjną przygotowującą powstanie, nie naczelną władzą podczas walki
+- Odpowiedź C (Sejm Czteroletni) – Sejm Czteroletni istniał w latach 1788-1792, nie był związany z powstaniem styczniowym (róża 70 lat)
+- Odpowiedź D (Rada Stanu) – Rada Stanu był organem rządzącym w Księstwie Warszawskim (1807-1815), nie podczas powstania styczniowego
 
 ---
 

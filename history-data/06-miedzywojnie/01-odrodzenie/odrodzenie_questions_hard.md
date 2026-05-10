@@ -41,9 +41,9 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
 **Analiza odpowiedzi błędnych:**
-- B: Nieprawidłowa - przecenia rolę działań jednostek kosztem obiektywnych czynników zewnętrznych.
-- C: Nieprawidłowa - pomija znaczenie polskich przygotowań i działań dyplomatycznych.
-- D: Nieprawidłowa - całkowicie ignoruje historyczne fakty dotyczące roli upadku mocarstw zaborczych.
+- Odpowiedź B: Nieprawidłowa - przecenia rolę działań jednostek kosztem obiektywnych czynników zewnętrznych.
+- Odpowiedź C: Nieprawidłowa - pomija znaczenie polskich przygotowań i działań dyplomatycznych.
+- Odpowiedź D: Nieprawidłowa - całkowicie ignoruje historyczne fakty dotyczące roli upadku mocarstw zaborczych.
 
 ---
 
@@ -68,9 +68,9 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi błędnych:**
-- A: Nieprawidłowa - powstanie wielkopolskie było bardziej skuteczne niż śląskie w sensie natychmiastowych rezultatów.
-- C: Nieprawidłowa - powstań śląskie również były sukcesami militarnymi Polaków.
-- D: Nieprawidłowa - powstanie wielkopolskie odegrało kluczową rolę w ustaleniu granic zachodnich.
+- Odpowiedź A: Nieprawidłowa - powstanie wielkopolskie było bardziej skuteczne niż śląskie w sensie natychmiastowych rezultatów.
+- Odpowiedź C: Nieprawidłowa - powstań śląskie również były sukcesami militarnymi Polaków.
+- Odpowiedź D: Nieprawidłowa - powstanie wielkopolskie odegrało kluczową rolę w ustaleniu granic zachodnich.
 
 ---
 
@@ -95,9 +95,9 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi błędnych:**
-- A: Nieprawidłowa - konflikt miał długoterminowe skutki dla relacji polsko-czechosłowackich.
-- B: Nieprawidłowa - konflikt osłabił relacje, nie zacieśnił sojuszu.
-- C: Nieprawidłowa - mimo konfliktu, stosunki zostały normalizowane w latach 30.
+- Odpowiedź A: Nieprawidłowa - konflikt miał długoterminowe skutki dla relacji polsko-czechosłowackich.
+- Odpowiedź B: Nieprawidłowa - konflikt osłabił relacje, nie zacieśnił sojuszu.
+- Odpowiedź C: Nieprawidłowa - mimo konfliktu, stosunki zostały normalizowane w latach 30.
 
 ---
 **Koniec pytań poziomu trudnego.**

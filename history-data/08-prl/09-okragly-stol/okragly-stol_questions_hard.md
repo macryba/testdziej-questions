@@ -43,9 +43,9 @@ Okrągły Stół był bezprecedensowym wydarzeniem w historii krajów bloku wsch
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza odpowiedzi błędnych:**
-- A: przeciwnie, krytyka dotyczyła zbyt umiarkowanego charakteru porozumień
-- C: nie sprzeciwiali się rozmowom jako takim, ale ich formie
-- D: głównym zarzutem był aspekt polityczny, a nie gospodarczy
+- Odpowiedź A (zbyt radykalne) – przeciwnie, krytyka dotyczyła zbyt umiarkowanego charakteru porozumień
+- Odpowiedź C (żadnych rozmów) – nie sprzeciwiali się rozmowom jako takim, ale ich formie
+- Odpowiedź D (reformy gospodarcze) – głównym zarzutem był aspekt polityczny, a nie gospodarczy
 
 ---
 
@@ -69,9 +69,9 @@ Okrągły Stół był bezprecedensowym wydarzeniem w historii krajów bloku wsch
 - https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce
 
 **Analiza odpowiedzi błędnych:**
-- A: porażka miała istotny wpływ na dalsze przemiany
-- B: przeciwnie, przyspieszyła transformację
-- C: nie doszło do impasu, wręcz przeciwnie – przełomu
+- Odpowiedź A (brak wpływu) – porażka miała istotny wpływ na dalsze przemiany
+- Odpowiedź B (rezygnacja z reform) – przeciwnie, przyspieszyła transformację
+- Odpowiedź C (impas) – nie doszło do impasu, wręcz przeciwnie – przełomu
 
 ---
 
@@ -95,9 +95,9 @@ Okrągły Stół był bezprecedensowym wydarzeniem w historii krajów bloku wsch
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza odpowiedzi błędnych:**
-- A: polski model miał istotne znaczenie dla innych krajów
-- C: żaden kraj nie skopiował go w całości
-- D: wpływ obejmował większość krajów regionu
+- Odpowiedź A (brak znaczenia) – polski model miał istotne znaczenie dla innych krajów
+- Odpowiedź C (całkowicie skopiowany) – żaden kraj nie skopiował go w całości
+- Odpowiedź D (tylko Czechosłowacja) – wpływ obejmował większość krajów regionu
 
 ---
 

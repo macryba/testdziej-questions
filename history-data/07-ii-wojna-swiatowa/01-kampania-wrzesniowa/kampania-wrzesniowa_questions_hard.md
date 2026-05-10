@@ -43,9 +43,9 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Edward_Rydz-%C5%9Amig%C5%82y
 
 **Analiza odpowiedzi błędnych:**
-- B: błędna, gdyż brak obrony wschodniej był poważnym błędem
-- C: częściowo prawdziwa co do przewagi, ale obrona wschodnia mogła opóźnić agresję ZSRR
-- D: fałszywa, jako Naczelny Wódz Rydz-Śmigły podejmował decyzje strategiczne
+- Odpowiedź B (słuszna decyzja) - błędna, gdyż brak obrony wschodniej był poważnym błędem
+- Odpowiedź C (nie miała znaczenia) - częściowo prawdziwa co do przewagi, ale obrona wschodnia mogła opóźnić agresję ZSRR
+- Odpowiedź D (nie podejmował decyzji) - fałszywa, jako Naczelny Wódz Rydz-Śmigły podejmował decyzje strategiczne
 
 ---
 
@@ -69,9 +69,9 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Dziwna_wojna
 
 **Analiza odpowiedzi błędnych:**
-- A: fałszywa, sojusznicy nie udzielili Polsce realnej pomocy
-- C: fałszywa, sojusznicy wypowiedzieli wojnę, ale nie walczyli
-- D: całkowicie fałszywa, sojusznicy byli przeciwni Niemcom
+- Odpowiedź A (rzeczywista pomoc) - fałszywa, sojusznicy nie udzielili Polsce realnej pomocy
+- Odpowiedź C (brak reakcji) - fałszywa, sojusznicy wypowiedzieli wojnę, ale nie walczyli
+- Odpowiedź D (poparli Niemcy) - całkowicie fałszywa, sojusznicy byli przeciwni Niemcom
 
 ---
 
@@ -95,8 +95,8 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Bitwa_nad_Bzur%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: nierealne, przewaga Niemiec i ZSRR była zbyt duża
-- B: również nierealne, nawet z pomocą sojuszników wygrana byłaby mało prawdopodobna
-- D: nielogiczne, ZSRR był jednym z agresorów
+- Odpowiedź A (wygrać samodzielnie) - nierealne, przewaga Niemiec i ZSRR była zbyt duża
+- Odpowiedź B (wygrać z pomocą) - również nierealne, nawet z pomocą sojuszników wygrana byłaby mało prawdopodobna
+- Odpowiedź D (pomoc ZSRR) - nielogiczne, ZSRR był jednym z agresorów
 
 ---

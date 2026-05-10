@@ -42,9 +42,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Powstanie_w_getcie_warszawskim
 
 **Analiza odpowiedzi błędnych:**
-- A: prawdziwe wydarzenie z 1944 roku, ale była to polska akcja zbrojna
-- B: prawdziwe wydarzenie z 1918-1919 roku, powstanie w Wielkopolsce
-- C: prawdziwe wydarzenie z 1863-1864 roku, polskie powstanie narodowe
+- A (Powstanie warszawskie) – prawdziwe wydarzenie z 1944 roku, ale była to polska akcja zbrojna
+- B (Powstanie wielkopolskie) – prawdziwe wydarzenie z 1918-1919 roku, powstanie w Wielkopolsce
+- C (Powstanie styczniowe) – prawdziwe wydarzenie z 1863-1864 roku, polskie powstanie narodowe
 
 ---
 
@@ -67,9 +67,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Getta_w_okupowanej_Polsce
 
 **Analiza odpowiedzi błędnych:**
-- A: istniały obozy pracy, ale getto było czymś innym
-- C: w gettach istniała konspiracja, ale getto nie było organizacją
-- D: getto było dzielnicą mieszkalną, nie posterunkiem
+- A (Specjalny obóz pracy przymusowej) – istniały obozy pracy, ale getto było czymś innym
+- C (Podziemna organizacja konspiracyjna) – w gettach istniała konspiracja, ale getto nie było organizacją
+- D (Niemiecki posterunek wojskowy) – getto było dzielnicą mieszkalną, nie posterunkiem
 
 ---
 
@@ -92,9 +92,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- A: prawdziwy obóz zagłady w Polsce, gdzie zginęło około 900 tysięcy osób
-- B: prawdziwy obóz zagłady w Lublinie, około 80 tysięcy ofiar
-- D: prawdziwy obóz zagłady, około 250 tysięcy ofiar
+- A (Treblinka) – prawdziwy obóz zagłady w Polsce, gdzie zginęło około 900 tysięcy osób
+- B (Majdanek) – prawdziwy obóz zagłady w Lublinie, około 80 tysięcy ofiar
+- D (Sobibór) – prawdziwy obóz zagłady, około 250 tysięcy ofiar
 
 ---
 
@@ -117,9 +117,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Komora_gazowa
 
 **Analiza odpowiedzi błędnych:**
-- A: przesłuchania były w innych miejscach obozu
-- C: w obozach nie leczono, chorych zazwyczaj mordowano
-- D: komory gazowe służyły tylko do zabijania ludzi
+- A (Przeprowadzano przesłuchania) – przesłuchania były w innych miejscach obozu
+- C (Leczono chore) – w obozach nie leczono, chorych zazwyczaj mordowano
+- D (Przechowywano żywność) – komory gazowe służyły tylko do zabijania ludzi
 
 ---
 
@@ -142,9 +142,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Sprawiedliwi_w%C5%9Br%C3%B3d_Narodów_%C5%9Awiata
 
 **Analiza odpowiedzi błędnych:**
-- B: kara była znacznie surowsza niż grzywna
-- C: za pomoc Żydom groziła śmierć, nie tylko więzienie
-- D: to byłoby najłagodniejsze z możliwych "konsekwencji"
+- B (Grzywna) – kara była znacznie surowsza niż grzywna
+- C (Więzienie) – za pomoc Żydom groziła śmierć, nie tylko więzienie
+- D (Przesłuchanie) – to byłoby najłagodniejsze z możliwych "konsekwencji"
 
 ---
 

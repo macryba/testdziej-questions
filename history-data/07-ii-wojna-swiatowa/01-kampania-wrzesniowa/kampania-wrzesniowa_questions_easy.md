@@ -42,9 +42,9 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
 **Analiza odpowiedzi błędnych:**
-- B: to data agresji ZSRR na Polskę, nie początek wojny
-- C: to data kapitulacji Warszawy
-- D: to data zakończenia kampanii wrześniowej (bitwa pod Kockiem)
+- Odpowiedź B (17 września) - to data agresji ZSRR na Polskę, nie początek wojny
+- Odpowiedź C (28 września) - to data kapitulacji Warszawy
+- Odpowiedź D (6 października) - to data zakończenia kampanii wrześniowej (bitwa pod Kockiem)
 
 ---
 
@@ -67,9 +67,9 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 - https://pl.wikipedia.org/wiki/Obrona_Westerplatte
 
 **Analiza odpowiedzi błędnych:**
-- A: generał, dowódca Samodzielnej Grupy Operacyjnej „Polesie"
-- B: generał, dowódca armii „Poznań" w bitwie nad Bzurą
-- C: marszałek, Naczelny Wódz wszystkich sił zbrojnych
+- Odpowiedź A (Kleeberg) - generał, dowódca Samodzielnej Grupy Operacyjnej „Polesie"
+- Odpowiedź B (Kutrzeba) - generał, dowódca armii „Poznań" w bitwie nad Bzurą
+- Odpowiedź C (Rydz-Śmigły) - marszałek, Naczelny Wódz wszystkich sił zbrojnych
 
 ---
 
@@ -92,9 +92,9 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 - https://pl.wikipedia.org/wiki/Bitwa_nad_Bzur%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: symboliczna, ale mała obrona (około 200 żołnierzy)
-- B: duża obrona, ale mniejsza niż bitwa nad Bzurą
-- D: ostatnia bitwa, ale mała w porównaniu z Bzurą
+- Odpowiedź A (Westerplatte) - symboliczna, ale mała obrona (około 200 żołnierzy)
+- Odpowiedź B (Warszawa) - duża obrona, ale mniejsza niż bitwa nad Bzurą
+- Odpowiedź D (Kock) - ostatnia bitwa, ale mała w porównaniu z Bzurą
 
 ---
 
@@ -117,9 +117,9 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 - https://pl.wikipedia.org/wiki/Agresja_ZSRR_na_Polsk%C4%99
 
 **Analiza odpowiedzi błędnych:**
-- A: wydarzyła się 7 września
-- C: rozpoczęła się 8 września
-- D: odbyła się 2-6 października
+- Odpowiedź A (kapitulacja Westerplatte) - wydarzyła się 7 września
+- Odpowiedź C (obrona Warszawy) - rozpoczęła się 8 września
+- Odpowiedź D (bitwa pod Kockiem) - odbyła się 2-6 października
 
 ---
 
@@ -143,8 +143,8 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 - https://pl.wikipedia.org/wiki/Franciszek_Kleeberg
 
 **Analiza odpowiedzi błędnych:**
-- A: Naczelny Wódz, nie dowodził bezpośrednio w bitwie pod Kockiem
-- B: dowodził armią „Poznań" w bitwie nad Bzurą
-- D: major, dowódca Westerplatte, nie SGO „Polesie"
+- Odpowiedź A (Rydz-Śmigły) - Naczelny Wódz, nie dowodził bezpośrednio w bitwie pod Kockiem
+- Odpowiedź B (Kutrzeba) - dowodził armią „Poznań" w bitwie nad Bzurą
+- Odpowiedź D (Sucharski) - major, dowódca Westerplatte, nie SGO „Polesie"
 
 ---

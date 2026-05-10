@@ -46,9 +46,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Henryk_II_Pobo%C5%BCny
 
 **Analiza odpowiedzi błędnych:**
-- B: żył w XIV wieku (koronowany w 1320 r.)
-- C: był pierwszym królem Polski (XII wiek)
-- D: był ostatnim Piastem na tronie (XIV wiek)
+- Odpowiedź B (Władysław Łokietek) – żył w XIV wieku (koronowany w 1320 r.)
+- Odpowiedź C (Bolesław Chrobry) – był pierwszym królem Polski (XII wiek)
+- Odpowiedź D (Kazimierz Wielki) – był ostatnim Piastem na tronie (XIV wiek)
 
 ---
 
@@ -94,9 +94,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: król czeski Wacław I nie zdążył z pomocą
-- C: brak wymienienia wszystkich uczestników koalicji (morawianie, niemcy, krzyżowcy)
-- D: Jagiełło żył w XV wieku (bitwa pod Grunwaldem 1410)
+- Odpowiedź A (Wojska polskie i czeskie pod dowództwem Wacława I) – król czeski Wacław I nie zdążył z pomocą
+- Odpowiedź C (Wojska polskie pod dowództwem Henryka II Pobożnego) – brak wymienienia wszystkich uczestników koalicji (morawianie, niemcy, krzyżowcy)
+- Odpowiedź D (Wojska polsko-litewskie pod dowództwem Jagiełły) – Jagiełło żył w XV wieku (bitwa pod Grunwaldem 1410)
 
 ---
 
@@ -118,9 +118,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: miejsce wcześniejszych walk
-- B: miasto oblegane, ale nie miejsce bitwy
-- C: główny gród, ale nie miejsce bitwy
+- Odpowiedź A (Pod Sandomierzem) – miejsce wcześniejszych walk
+- Odpowiedź B (Pod Krakowem) – miasto oblegane, ale nie miejsce bitwy
+- Odpowiedź C (Pod Wrocławiem) – główny gród, ale nie miejsce bitwy
 
 ---
 
@@ -142,9 +142,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Mongolskie_najazdy_na_Polsk%C4%99
 
 **Analiza odpowiedzi błędnych:**
-- A: zbyt mało, pomija II i III najazd
-- B: pomija III najazd z lat 1287-1288
-- D: żaden IV najazd nie miał miejsca, tylko trzy najazdy przeszły przez Polskę
+- Odpowiedź A (Jeden) – zbyt mało, pomija II i III najazd
+- Odpowiedź B (Dwa) – pomija III najazd z lat 1287-1288
+- Odpowiedź D (Cztery) – żaden IV najazd nie miał miejsca, tylko trzy najazdy przeszły przez Polskę
 
 ---
 
@@ -167,9 +167,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Podboje_Mongo%C5%82%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- A: cel szerszy, ale nie główny powód ataku na Polskę w 1241 roku
-- B: skutek najazdu, nie jego przyczyna
-- D: Polska była wówczas uboga w porównaniu z zachodem, nie była celem łupowym
+- Odpowiedź A (Chęć podboju nowych terytoriów) – cel szerszy, ale nie główny powód ataku na Polskę w 1241 roku
+- Odpowiedź B (Zniszczenie państwa polskiego) – skutek najazdu, nie jego przyczyna
+- Odpowiedź D (Zdobycie bogactw ziem polskich) – Polska była wówczas uboga w porównaniu z zachodem, nie była celem łupowym
 
 ---
 
@@ -192,9 +192,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Henryk_II_Pobo%C5%BCny
 
 **Analiza odpowiedzi błędnych:**
-- A: przeciwnie, śmierć Henryka Pobożnego pogłębiła rozbicie dzielnicowe
-- C: unia ta nie nastąpiła, choć współpraca polsko-czeska się zacieśniła
-- D: nastąpiło to później, w XIV wieku
+- Odpowiedź A (Zakończenie rozbicia dzielnicowego) – przeciwnie, śmierć Henryka Pobożnego pogłębiła rozbicie dzielnicowe
+- Odpowiedź C (Natychmiastowa unia Polski z Czechami) – unia ta nie nastąpiła, choć współpraca polsko-czeska się zacieśniła
+- Odpowiedź D (Wzrost znaczenia księstw wschodnich) – nastąpiło to później, w XIV wieku
 
 ---
 
@@ -216,9 +216,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: niespełnione, wojska były zbliżonej liczebności (ok. 8 tysięcy chrześcijan vs 10-15 tysięcy Mongołów)
-- C: Węgrzy również walczyli z Mongołami w bitwie pod Mohi (1241)
-- D: taktyka była poprawna, kluczowa była nagła ucieczka części wojsk polskich
+- Odpowiedź A (Z powodu przewagi liczebnej Mongołów) – niespełnione, wojska były zbliżonej liczebności (ok. 8 tysięcy chrześcijan vs 10-15 tysięcy Mongołów)
+- Odpowiedź C (Z powodu braku pomocy ze strony Węgrów) – Węgrzy również walczyli z Mongołami w bitwie pod Mohi (1241)
+- Odpowiedź D (Z powodu złej taktyki Henryka II Pobożnego) – taktyka była poprawna, kluczowa była nagła ucieczka części wojsk polskich
 
 ---
 
@@ -240,9 +240,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: błędne, Mongołowie nie okupowali Polski, jedynie przeszli przez jej terytorium
-- B: tylko część sił mongolskich wycofała się na Ruś, większość udała się na Węgry
-- D: brak dalszej ekspansji mongolskiej na zachód po bitwie legnickiej
+- Odpowiedź A (Zostały na ziemiach polskich) – błędne, Mongołowie nie okupowali Polski, jedynie przeszli przez jej terytorium
+- Odpowiedź B (Wycofały się natychmiast na Ruś) – tylko część sił mongolskich wycofała się na Ruś, większość udała się na Węgry
+- Odpowiedź D (Ruszyły na Niemcy) – brak dalszej ekspansji mongolskiej na zachód po bitwie legnickiej
 
 ---
 
@@ -265,9 +265,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A: skutek późniejszy, nie bezpośredni skutek najazdów
-- C: nastąpiło przerwanie istniejących kontaktów gospodarczych z powodu zniszczeń
-- D: produkcja rolna spadła znacznie z powodu zniszczeń i wyludnienia
+- Odpowiedź A (Przyspieszenie rozwoju miast) – skutek późniejszy, nie bezpośredni skutek najazdów
+- Odpowiedź C (Rozwój handlu z krajami wschodnimi) – nastąpiło przerwanie istniejących kontaktów gospodarczych z powodu zniszczeń
+- Odpowiedź D (Wzrost produkcji rolnej) – produkcja rolna spadła znacznie z powodu zniszczeń i wyludnienia
 
 ---
 
@@ -290,9 +290,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Mongolskie_najazdy_na_Polsk%C4%99
 
 **Analiza odpowiedzi błędnych:**
-- A: również cierpieli najazdy, ale ponosili mniejsze straty osobowe niż rycerstwo walczące w bitwach
-- B: ponieśli straty materialne, ale nie stanowili stanu zbrojnego
-- C: również poniosło straty, ale mniejsze niż rycerstwo walczące na pierwszej linii
+- Odpowiedź A (Chłopi) – również cierpieli najazdy, ale ponosili mniejsze straty osobowe niż rycerstwo walczące w bitwach
+- Odpowiedź B (Kupcy) – ponieśli straty materialne, ale nie stanowili stanu zbrojnego
+- Odpowiedź C (Duchowieństwo) – również poniosło straty, ale mniejsze niż rycerstwo walczące na pierwszej linii
 
 ---
 
@@ -315,9 +315,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A: nie istniała z powodu rozbicia dzielnicowego i rywalizacji między książętami
-- B: książęta polscy stawiali opór i walczyli z najeźdźcami
-- C: niemożliwy ze względu na różnicę religijną i cywilizacyjną
+- Odpowiedź A (Wspólna koordynacja obrony) – nie istniała z powodu rozbicia dzielnicowego i rywalizacji między książętami
+- Odpowiedź B (Kapitulacja przed Mongołami) – książęta polscy stawiali opór i walczyli z najeźdźcami
+- Odpowiedź C (Sojusz z Mongołami) – niemożliwy ze względu na różnicę religijną i cywilizacyjną
 
 ---
 
@@ -339,9 +339,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: przecenienie ich roli, według Długosza walczyli oddzielnie od głównych sił
-- B: możliwe, ale niepewne, część historyków podważa informację Długosza
-- D: fałsz, Krzyżacy byli chrześcijańskimi rycerzami
+- Odpowiedź A (Stanowili trzon wojsk polskich) – przecenienie ich roli, według Długosza walczyli oddzielnie od głównych sił
+- Odpowiedź B (W ogóle nie brali udziału w bitwie) – możliwe, ale niepewne, część historyków podważa informację Długosza
+- Odpowiedź D (Walczyli po stronie Mongołów) – fałsz, Krzyżacy byli chrześcijańskimi rycerzami
 
 ---
 
@@ -363,9 +363,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Mongolskie_najazdy_na_Polsk%C4%99
 
 **Analiza odpowiedzi błędnych:**
-- A: to był I najazd mongolski pod wodzą Bajdara
-- C: to był III najazd mongolski pod wodzą Nogaja i Telebogi
-- D: żaden najazd mongolski nie miał miejsce w tym okresie
+- Odpowiedź A (W latach 1241-1242) – to był I najazd mongolski pod wodzą Bajdara
+- Odpowiedź C (W latach 1287-1288) – to był III najazd mongolski pod wodzą Nogaja i Telebogi
+- Odpowiedź D (W latach 1300-1301) – żaden najazd mongolski nie miał miejsce w tym okresie
 
 ---
 
@@ -388,9 +388,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A: przeciwnie, najazdy opóźniły proces zjednoczeniowy na kilkadziesiąt lat
-- C: fałsz, najazdy miały istotny wpływ na osłabienie Polski i pogłębienie rozbicia
-- D: rozbicie trwało dalej aż do koronacji Władysława Łokietka w 1320 roku
+- Odpowiedź A (Przyspieszył zjednoczenie) – przeciwnie, najazdy opóźniły proces zjednoczeniowy na kilkadziesiąt lat
+- Odpowiedź C (Nie miał żadnego wpływu) – fałsz, najazdy miały istotny wpływ na osłabienie Polski i pogłębienie rozbicia
+- Odpowiedź D (Zakończył rozbicie dzielnicowe) – rozbicie trwało dalej aż do koronacji Władysława Łokietka w 1320 roku
 
 ---
 
@@ -413,9 +413,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Kijowa_(1240)
 
 **Analiza odpowiedzi błędnych:**
-- B: odbyła się dopiero w kwietniu 1241 roku, więc nie mogła poprzedzić najazdu, była jego częścią
-- C: nastąpiła pod koniec 1241 roku i była powodem wycofania Mongołów, nie przyczyną najazdu
-- D: powstał jako reakcja na zagrożenie mongolskie, nie poprzedził najazdu
+- Odpowiedź B (Bitwa pod Legnicą) – odbyła się dopiero w kwietniu 1241 roku, więc nie mogła poprzedzić najazdu, była jego częścią
+- Odpowiedź C (Śmierć wielkiego chana Ögedeja) – nastąpiła pod koniec 1241 roku i była powodem wycofania Mongołów, nie przyczyną najazdu
+- Odpowiedź D (Zawarcie sojuszu polsko-węgierskiego) – powstał jako reakcja na zagrożenie mongolskie, nie poprzedził najazdu
 
 ---
 
@@ -438,9 +438,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://historia.org.pl/1241-bitwa-pod-legnica/
 
 **Analiza odpowiedzi błędnych:**
-- B: wojska chrześcijańskie posiadały zarówno ciężką kawalerię, jak i piechotę
-- C: dzielnie walczył i zginął w bitwie, nie ma dowodów na zdradę
-- D: Mongołowie odnieśli zdecydowane zwycięstwo, to Polacy ponieśli klęskę
+- Odpowiedź B (Polacy nie mieli konnicy, podczas gdy Mongołowie walczyli tylko konno) – wojska chrześcijańskie posiadały zarówno ciężką kawalerię, jak i piechotę
+- Odpowiedź C (Henryk Pobożny zdradził sojuszników na polu bitwy) – dzielnie walczył i zginął w bitwie, nie ma dowodów na zdradę
+- Odpowiedź D (Nieprzyjaciel uciekł z pola bitwy, widząc przewagę Polaków) – Mongołowie odnieśli zdecydowane zwycięstwo, to Polacy ponieśli klęskę
 
 ---
 
@@ -463,9 +463,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://histmag.org/Najazd-mongolski-na-Polske-w-1241-roku
 
 **Analiza odpowiedzi błędnych:**
-- B: Mongołowie nie ustanowili administracji na terenie Polski, bo się wycofali
-- C: najazd zniszczył istniejące szlaki handlowe, nie tworząc nowych
-- D: Mongołowie zniszczyli infrastrukturę, a nie inwestowali w nią
+- Odpowiedź B (Mongolska administracja wprowadziła nowe podatki i system gospodarczy) – Mongołowie nie ustanowili administracji na terenie Polski, bo się wycofali
+- Odpowiedź C (Polska zyskała dostęp do szlaków handlowych ze Wschodem) – najazd zniszczył istniejące szlaki handlowe, nie tworząc nowych
+- Odpowiedź D (Rozwój miast z powodu mongolskich inwestycji w infrastrukturę) – Mongołowie zniszczyli infrastrukturę, a nie inwestowali w nią
 
 ---
 
@@ -488,9 +488,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://www.e-teatr.pl/pl/artykuly/131901,najazd-mongolski-i-jego-skutki
 
 **Analiza odpowiedzi błędnych:**
-- B: Polska nadal opierała się na ciężkiej kawalerii, nie zrezygnowano z konnicy
-- C: przeciwnie, po najazdzie nasiliła się budowa umocnień
-- D: Polska zachowała zachodni styl wojowania, nie przejmując mongolskich taktyk
+- Odpowiedź B (Polska zrezygnowała z konnicy na rzecz piechoty) – Polska nadal opierała się na ciężkiej kawalerii, nie zrezygnowano z konnicy
+- Odpowiedź C (Książęta polscy zaniechali budowy jakichkolwiek umocnień) – przeciwnie, po najazdzie nasiliła się budowa umocnień
+- Odpowiedź D (Wojska polskie przyjęły mongolską taktykę i broń) – Polska zachowała zachodni styl wojowania, nie przejmując mongolskich taktyk
 
 ---
 
@@ -513,9 +513,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- A: księstwo odziedziczyli synowie Henryka (Bolesław II Rogatka, Konrad II, Mieszko), nie Mongołowie
-- B: choć Przemyślidzi zyskali na wpływach, nie był to główny skutek śmierci
-- C: większość książąt polskich stawiała opór Mongołom
+- Odpowiedź A (Książę nie miał spadkobierców, więc jego księstwo przeszło pod bezpośrednie panowanie mongolskie) – księstwo odziedziczyli synowie Henryka (Bolesław II Rogatka, Konrad II, Mieszko), nie Mongołowie
+- Odpowiedź B (Śmierć ta wzmocniła pozycję Przemyślidów czeskich w Polsce) – choć Przemyślidzi zyskali na wpływach, nie był to główny skutek śmierci
+- Odpowiedź C (Władca ten był jedynym polskim księciem sprzeciwiającym się Mongołom) – większość książąt polskich stawiała opór Mongołom
 
 ---
 
@@ -538,9 +538,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Wac%C5%82aw_I_(kr%C3%B3l_Czech)
 
 **Analiza odpowiedzi błędnych:**
-- A: Czesi nie zdradzili Polaków, lecz wysłali posiłki i walczyli ramię w ramię
-- B: Czesi nie zajęli Śląska w tym czasie, dziedziczyli go synowie Henryka Pobożnego
-- C: Czechy również były celem mongolskiej inwazji, nie sojusznikiem Mongołów
+- Odpowiedź A (Stosunki polsko-czeskie uległy pogorszeniu z powodu czeskiej zdrady pod Legnicą) – Czesi nie zdradzili Polaków, lecz wysłali posiłki i walczyli ramię w ramię
+- Odpowiedź B (Czesi zajęli Śląsk po śmierci Henryka Pobożnego) – Czesi nie zajęli Śląska w tym czasie, dziedziczyli go synowie Henryka Pobożnego
+- Odpowiedź C (Czechy dołączyły do Mongołów i najechały Polskę od południa) – Czechy również były celem mongolskiej inwazji, nie sojusznikiem Mongołów
 
 ---
 
@@ -564,9 +564,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://www.sciaga.pl/teksty/6846-0-polacy-a-tatarzy
 
 **Analiza odpowiedzi błędnych:**
-- A: najazd był jednym z najważniejszych wydarzeń w polskiej pamięci historycznej
-- B: Mongołowie byli przedstawiani jako wrogowie chrześcijaństwa, nie wybawcy
-- D: literatura polska podkreślała odrodzenie Polski po najazdzie, nie jego trwałe osłabienie
+- Odpowiedź A (Zapomnienie o tych wydarzeniach z powodu ich odległości od centrów kultury) – najazd był jednym z najważniejszych wydarzeń w polskiej pamięci historycznej
+- Odpowiedź B (Przedstawienie Mongołów jako wybawców od tyranii książąt polskich) – Mongołowie byli przedstawiani jako wrogowie chrześcijaństwa, nie wybawcy
+- Odpowiedź D (Poczucie, że Polska nigdy nie odzyska siły po najazdzie) – literatura polska podkreślała odrodzenie Polski po najazdzie, nie jego trwałe osłabienie
 
 ---
 
@@ -589,9 +589,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Zjednoczenie_Polski
 
 **Analiza odpowiedzi błędnych:**
-- A: bezpośrednie zjednoczenie nie nastąpiło w 1241, proces trwał kilka dekad
-- C: Polska nie stała się lennem mongolskim; niektóre księstwa płaciły trybut, ale zachowały suwerenność
-- D: konkurenci nie zostali wyeliminowani w 1241; Przemysł II koronował się dopiero w 1295
+- Odpowiedź A (Bezpośrednio zmusił księstwa Piastów do natychmiastowego zjednoczenia pod jednym władcą) – bezpośrednie zjednoczenie nie nastąpiło w 1241, proces trwał kilka dekad
+- Odpowiedź C (Skutkował trwałą utratą suwerenności przez księstwa polskie) – Polska nie stała się lennem mongolskim; niektóre księstwa płaciły trybut, ale zachowały suwerenność
+- Odpowiedź D (Przyczynił się do zjednoczenia Polski poprzez eliminację konkurentów) – konkurenci nie zostali wyeliminowani w 1241; Przemysł II koronował się dopiero w 1295
 
 ---
 
@@ -614,9 +614,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/%C3%96gedei
 
 **Analiza odpowiedzi błędnych:**
-- A: Mongołowie wygrali obie bitwy (Legnica 1241, Mohi 1241); klęski nie były powodem wycofania
-- C: zapasy były problemem, ale śmierć Ögedeja była głównym powodem powrotu
-- D: układ dyplomatyczny z Bolesławem V zawarto później, w latach 60-70. XIII wieku
+- Odpowiedź A (Klęski militarne poniesione przez Mongołów) – Mongołowie wygrali obie bitwy (Legnica 1241, Mohi 1241); klęski nie były powodem wycofania
+- Odpowiedź C (Wyczerpanie zapasów i nadmiernie wydłużone linie zaopatrzeniowe) – zapasy były problemem, ale śmierć Ögedeja była głównym powodem powrotu
+- Odpowiedź D (Zawarcie przez księcia Bolesława V Wstydliwego układu pokojowego z Ordą) – układ dyplomatyczny z Bolesławem V zawarto później, w latach 60-70. XIII wieku
 
 ---
 
@@ -639,9 +639,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/Zamek
 
 **Analiza odpowiedzi błędnych:**
-- A: proces nie był tak szybki; okrągłe wieże nie były powszechnie stosowane w Polsce
-- C: łańcucha granicznego nie zbudowano natychmiast; system rozwijał się przez cały XIII i XIV wiek
-- D: zamki nie zostały porzucone; przeciwnie, ich budowa zwiększyła się po 1241
+- Odpowiedź A (Powszechne zastąpienie grodów drewniano-ziemnych przez okrągłe kamienne wieże obronne w ciągu dekady) – proces nie był tak szybki; okrągłe wieże nie były powszechnie stosowane w Polsce
+- Odpowiedź C (Nativitymistowa budowa potężnego łańcucha zamków granicznych) – łańcucha granicznego nie zbudowano natychmiast; system rozwijał się przez cały XIII i XIV wiek
+- Odpowiedź D (Całkowite porzucenie koncepcji zamków na rzecz systemu fortyfikacji polowych) – zamki nie zostały porzucone; przeciwnie, ich budowa zwiększyła się po 1241
 
 ---
 
@@ -664,9 +664,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A: "całkowite wyludnienie" jest przesadą; regiony stopniowo odbudowywały się
-- C: straty nie były równomierne; Śląsk i Małopolska ucierpiały najciężej
-- D: korzyści dla Wielkopolski były długoterminowe, nie nastąpiły natychmiast po najazdzie
+- Odpowiedź A (Całkowite wyludnienie Śląska i Małopolski) – "całkowite wyludnienie" jest przesadą; regiony stopniowo odbudowywały się
+- Odpowiedź C (Równomierne rozłożenie strat we wszystkich regionach Polski) – straty nie były równomierne; Śląsk i Małopolska ucierpiały najciężej
+- Odpowiedź D (Korzyści gospodarcze dla Wielkopolski) – korzyści dla Wielkopolski były długoterminowe, nie nastąpiły natychmiast po najazdzie
 
 ---
 
@@ -689,9 +689,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-czeskie_w_XIII_wieku
 
 **Analiza odpowiedzi błędnych:**
-- A: nie ma dowodów na "wzrost poparcia Czech"; Czechy wykorzystały osłabienie Polski do ekspansji na Śląsku
-- B: separatystyczne układy nie były dominującym trendem; wszyscy sąsiedzi byli również zagrożeni
-- D: integracja z Cesarstwem nie nastąpiła; Polska zachowała suwerenność
+- Odpowiedź A (Wzrost poparcia Czech dla zjednoczenia Polski) – nie ma dowodów na "wzrost poparcia Czech"; Czechy wykorzystały osłabienie Polski do ekspansji na Śląsku
+- Odpowiedź B (Pogłębienie izolacji Polski z powodu separatystycznych układów) – separatystyczne układy nie były dominującym trendem; wszyscy sąsiedzi byli również zagrożeni
+- Odpowiedź D (Nativitymista integracja Polski z Świętym Cesarstwem Rzymskim) – integracja z Cesarstwem nie nastąpiła; Polska zachowała suwerenność
 
 ---
 
@@ -714,9 +714,9 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-mongolskie
 
 **Analiza odpowiedzi błędnych:**
-- A: kontakty dyplomatyczne były kontynuowane, nie zerwane
-- C: "trwała integracja z systemem wasalskim" jest przesadzeniem; nie wszystkie księstwa płaciły trybut
-- D: sojusz wojskowy przeciwko Węgrom i Czechom nie był głównym charakterem relacji
+- Odpowiedź A (Całkowite zerwanie stosunków dyplomatycznych po 1242 roku) – kontakty dyplomatyczne były kontynuowane, nie zerwane
+- Odpowiedź C (Trwała integracja Polski z systemem państw wasalskich) – "trwała integracja z systemem wasalskim" jest przesadzeniem; nie wszystkie księstwa płaciły trybut
+- Odpowiedź D (Zawarcie formalnego sojuszu wojskowego z Ordą) – sojusz wojskowy przeciwko Węgrom i Czechom nie był głównym charakterem relacji
 
 ---
 

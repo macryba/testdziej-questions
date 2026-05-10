@@ -44,9 +44,9 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Zagrożenie ze strony Zygmunta Luksemburczyka istniało, ale nie było to główne powstrzymującego czynnika przed atakiem na Malbork
-- B: no referenced answer: Problem logistyczny istniał, ale nie był to główny powód decyzji Jagiełły
-- D: correct for: Grunwald: Witold rzeczywiście wycofał się po wygaśnięciu rozejmu z inflancką gałęzią zakonu, ale z powodu zagrożenia z północy, a nie z niechęci do współpracy z Jagiełłą
+- Odpowiedź A (Atak węgierski) – no referenced answer: Zagrożenie ze strony Zygmunta Luksemburczyka istniało, ale nie było to główne powstrzymującego czynnika przed atakiem na Malbork
+- Odpowiedź B (Brak żywności) – no referenced answer: Problem logistyczny istniał, ale nie był to główny powód decyzji Jagiełły
+- Odpowiedź D (Odmowa Witolda) – correct for: Grunwald: Witold rzeczywiście wycofał się po wygaśnięciu rozejmu z inflancką gałęzią zakonu, ale z powodu zagrożenia z północy, a nie z niechęci do współpracy z Jagiełłą
 
 ---
 
@@ -69,9 +69,9 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Chrystianizacja: To był argument zakonu krzyżackiego, nie Włodkowicza. Zakon twierdził, że chrystianizacja Litwy z 1387 roku była nieważna i usprawiedliwiała krucjatę
-- C: incorrect from Grunwald: Włodkowic kwestionował historyczne prawa zakonu do ziemi chełmińskiej i michałowskiej, argumentując, że zostały zdobyte niesprawiedliwie
-- D: no referenced answer: To nie był główny argument debaty; Włodkowic skupiał się na prawie międzynarodowym, nie na prerogatywach monarchy
+- Odpowiedź A (Krucjata uzasadniona) – incorrect from Chrystianizacja: To był argument zakonu krzyżackiego, nie Włodkowicza. Zakon twierdził, że chrystianizacja Litwy z 1387 roku była nieważna i usprawiedliwiała krucjatę
+- Odpowiedź C (Prawo do ziemi) – incorrect from Grunwald: Włodkowic kwestionował historyczne prawa zakonu do ziemi chełmińskiej i michałowskiej, argumentując, że zostały zdobyte niesprawiedliwie
+- Odpowiedź D (Prawo Jagiełły) – no referenced answer: To nie był główny argument debaty; Włodkowic skupiał się na prawie międzynarodowym, nie na prerogatywach monarchy
 
 ---
 
@@ -94,9 +94,9 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem_(1683)
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Sobieski: Różne konteksty i skutki. Grunwald umocnił unię polsko-litewską i dynastię jagiellońską, podczas gdy Wiedeń był chwilowym sukcesem w okresie upadku Rzeczypospolitej
-- B: incorrect from Sobieski: To stwierdzenie jest prawdziwe, ale pytanie dotyczy porównania kompletności obu zwycięstw, nie tylko ich znaczenia
-- C: incorrect from Sobieski: Dla Europy Wiedeń był ważniejszy (powstrzymał ekspansję turecką), ale pytanie dotyczy znaczenia dla rozwoju państwa polskiego, a nie Europy
+- Odpowiedź A (Podobny wpływ) – incorrect from Sobieski: Różne konteksty i skutki. Grunwald umocnił unię polsko-litewską i dynastię jagiellońską, podczas gdy Wiedeń był chwilowym sukcesem w okresie upadku Rzeczypospolitej
+- Odpowiedź B (Grunwald ważniejszy) – incorrect from Sobieski: To stwierdzenie jest prawdziwe, ale pytanie dotyczy porównania kompletności obu zwycięstw, nie tylko ich znaczenia
+- Odpowiedź C (Wiedeń ważniejszy dla Europy) – incorrect from Sobieski: Dla Europy Wiedeń był ważniejszy (powstrzymał ekspansję turecką), ale pytanie dotyczy znaczenia dla rozwoju państwa polskiego, a nie Europy
 
 ---
 
@@ -119,9 +119,9 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - Literatura: Stefan Maria Kuczyński, "Wielka wojna z Zakonem Krzyżackim w latach 1409-1411"
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer: Data bitwy jest powszechnie uznana (15 lipca 1410), nie budzi wątpliwości wśród badaczy
-- C: correct for: Grunwald: Szczegóły śmierci Ulricha von Jungingena są przedmiotem dyskusji (czy zginął w walce, czy został zabity po pojmaniu), ale data i fakt śmierci nie są kontrowersyjne
-- D: no referenced answer: Kwestia nie jest kontrowersyjna - Władysław Jagiełło był głównym dowódcą wojsk polsko-litewskich, co jest potwierdzone w źródłach
+- Odpowiedź B (Data) – no referenced answer: Data bitwy jest powszechnie uznana (15 lipca 1410), nie budzi wątpliwości wśród badaczy
+- Odpowiedź C (Śmierć mistrza) – correct for: Grunwald: Szczegóły śmierci Ulricha von Jungingena są przedmiotem dyskusji (czy zginął w walce, czy został zabity po pojmaniu), ale data i fakt śmierci nie są kontrowersyjne
+- Odpowiedź D (Dowódca) – no referenced answer: Kwestia nie jest kontrowersyjna - Władysław Jagiełło był głównym dowódcą wojsk polsko-litewskich, co jest potwierdzone w źródłach
 
 ---
 
@@ -144,9 +144,9 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - https://pl.wikipedia.org/wiki/II_pok%C3%B3j_toru%C5%84ski_(1466)
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect for: Wojna trzynastoletnia: Zakon krzyżacki upadł dopiero po wojnie trzynastoletniej (1454-1466) i II pokoju toruńskim, ponad 50 lat po Grunwaldzie. Bitwa grunwaldzka osłabiła zakon, ale nie zniszczyła go
-- B: no referenced answer: Polska nie stała się najpotężniejszym państwem Europy. Zwycięstwo umocniło pozycję Polski w regionie, ale nie dominowała nad wszystkimi sąsiadami
-- D: no referenced answer: Skutki były polityczne i militarne (osłabienie zakonu, umocnienie unii polsko-litewskiej), nie tylko symboliczne i kulturowe
+- Odpowiedź A (Bezpośredni upadek) – incorrect for: Wojna trzynastoletnia: Zakon krzyżacki upadł dopiero po wojnie trzynastoletniej (1454-1466) i II pokoju toruńskim, ponad 50 lat po Grunwaldzie. Bitwa grunwaldzka osłabiła zakon, ale nie zniszczyła go
+- Odpowiedź B (Najpotężniejsze państwo) – no referenced answer: Polska nie stała się najpotężniejszym państwem Europy. Zwycięstwo umocniło pozycję Polski w regionie, ale nie dominowała nad wszystkimi sąsiadami
+- Odpowiedź D (Tylko kulturowe) – no referenced answer: Skutki były polityczne i militarne (osłabienie zakonu, umocnienie unii polsko-litewskiej), nie tylko symboliczne i kulturowe
 
 ---
 

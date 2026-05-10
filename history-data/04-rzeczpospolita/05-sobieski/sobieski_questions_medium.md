@@ -46,9 +46,9 @@ Jan III Sobieski został wybrany na króla Polski w 1674 roku, po śmierci poprz
 - https://pl.wikipedia.org/wiki/Jan_III_Sobieski
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Michał Korybut Wiśniowiecki: To była data elekcji poprzedniego króla Polski, Michała Korybuta Wiśniowieckiego, w 1669 roku
-- C: correct for: Odsiecz wiedeńska: To był rok słynnej bitwy pod Wiedniem, ale Sobieski był już królem od 9 lat (elekcja miała miejsce w 1674)
-- D: no referenced answer: Rok piątej rocznicy panowania Sobieskiego, data nie związana z żadnym konkretnym wydarzeniem elekcji
+- Odpowiedź A (1669) - incorrect from Michał Korybut Wiśniowiecki: To była data elekcji poprzedniego króla Polski, Michała Korybuta Wiśniowieckiego, w 1669 roku
+- Odpowiedź C (1683) - correct for: Odsiecz wiedeńska: To był rok słynnej bitwy pod Wiedniem, ale Sobieski był już królem od 9 lat (elekcja miała miejsce w 1674)
+- Odpowiedź D (1690) - no referenced answer: Rok piątej rocznicy panowania Sobieskiego, data nie związana z żadnym konkretnym wydarzeniem elekcji
 
 ---
 
@@ -74,9 +74,9 @@ Wielkim wezyrem tureckim dowodzącym armią oblegającą Wiedeń w 1683 roku by�
 - https://pl.wikipedia.org/wiki/Kara_Mustafa
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Imperium Osmańskie (XVI wiek): Sułtan z XVI wieku (1520-1566), zmarł ponad 100 lat przed odsieczą wiedeńską, znany jako najwybitniejszy władca osmański
-- B: correct for: Wojny polsko-tureckie: Sułtan w latach 1648-1687, panował podczas odsieczy wiedeńskiej, ale to wielki wezyr Kara Mustafa dowodził armią pod Wiedniem, nie sułtan osobiście
-- D: incorrect from Imperium Osmańskie (XVII wiek): Sułtan z początku XVII wieku (1618-1622), zamordowany w 1622 roku, ponad 60 lat przed odsieczą wiedeńską
+- Odpowiedź A (Süleyman Wspaniały) - incorrect from Imperium Osmańskie (XVI wiek): Sułtan z XVI wieku (1520-1566), zmarł ponad 100 lat przed odsieczą wiedeńską, znany jako najwybitniejszy władca osmański
+- Odpowiedź B (Mehmed IV) - correct for: Wojny polsko-tureckie: Sułtan w latach 1648-1687, panował podczas odsieczy wiedeńskiej, ale to wielki wezyr Kara Mustafa dowodził armią pod Wiedniem, nie sułtan osobiście
+- Odpowiedź D (Osman II) - incorrect from Imperium Osmańskie (XVII wiek): Sułtan z początku XVII wieku (1618-1622), zamordowany w 1622 roku, ponad 60 lat przed odsieczą wiedeńską
 
 ---
 
@@ -102,9 +102,9 @@ Cesarzem austriackim, który był sojusznikiem Jana III Sobieskiego podczas odsi
 - https://pl.wikipedia.org/wiki/Leopold_I_(Habsburg)
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Święte Cesarstwo Rzymskie (XVI wiek): Cesarz Świętego Cesarstwa Rzymskiego z XVI wieku (1519-1556), zmarł ponad 100 lat przed narodzinami Jana III Sobieskiego
-- B: incorrect from Cesarstwo Austrii (XIX wiek): Cesarz Austrii z XIX wieku (1848-1916), panował ponad 150 lat po śmierci Sobieskiego
-- D: incorrect from Święte Cesarstwo Rzymskie (XVII wiek): Cesarz z początku XVII wieku (1612-1619), zmarł w 1619 roku, przed narodzinami Sobieskiego
+- Odpowiedź A (Karol V) - incorrect from Święte Cesarstwo Rzymskie (XVI wiek): Cesarz Świętego Cesarstwa Rzymskiego z XVI wieku (1519-1556), zmarł ponad 100 lat przed narodzinami Jana III Sobieskiego
+- Odpowiedź B (Franciszek Józef I) - incorrect from Cesarstwo Austrii (XIX wiek): Cesarz Austrii z XIX wieku (1848-1916), panował ponad 150 lat po śmierci Sobieskiego
+- Odpowiedź D (Maciej) - incorrect from Święte Cesarstwo Rzymskie (XVII wiek): Cesarz z początku XVII wieku (1612-1619), zmarł w 1619 roku, przed narodzinami Sobieskiego
 
 ---
 
@@ -129,9 +129,9 @@ Bitwa pod Wiedniem stoczona została 12 września 1683 roku. Po dwumiesięcznym 
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Miesiąc przed bitwą, oblężenie Wiednia przez Turków trwało od lipca 1683, armia odsieczy jeszcze nie dotarła
-- C: no referenced answer: Miesiąc po bitwie, wojska tureckie były już w pełnym odwrocie, ścigane przez wojska chrześcijańskie
-- D: no referenced answer: Dwa miesiące po bitwie, Sobieski już triumfalnie wracał do Polski, negocjując z Habsburgami
+- Odpowiedź A (12 sierpnia 1683) - no referenced answer: Miesiąc przed bitwą, oblężenie Wiednia przez Turków trwało od lipca 1683, armia odsieczy jeszcze nie dotarła
+- Odpowiedź C (12 października 1683) - no referenced answer: Miesiąc po bitwie, wojska tureckie były już w pełnym odwrocie, ścigane przez wojska chrześcijańskie
+- Odpowiedź D (12 listopada 1683) - no referenced answer: Dwa miesiące po bitwie, Sobieski już triumfalnie wracał do Polski, negocjując z Habsburgami
 
 ---
 
@@ -157,9 +157,9 @@ Małżonką Jana III Sobieskiego była Maria Kazimiera d'Arquien, zwana Marysie�
 - https://pl.wikipedia.org/wiki/Maria_Kazimiera_d%E2%80%99Arquien
 
 **Analiza odpowiedzi błędnych:**
-- B: incorrect from Władysław IV i Jan II Kazimierz: Królowa Polski, żona dwóch królów z XVII wieku - Władysława IV (zm. 1648) i Jana II Kazimierza Wazy (zm. 1668), zmarła w 1667 roku, przed objęciem tronu przez Sobieskiego
-- C: incorrect from Władysław IV Waza: Pierwsza żona Władysława IV Wazy, zmarła w 1644 roku, ponad 20 lat przed małżeństwem Sobieskiego z Marysieńką
-- D: incorrect from Dynastia Jagiellonów (XVI wiek): Królowa Szwecji z XVI wieku, żona Jana III Wazy, zmarła w 1583 roku, prawie 100 lat przed Sobieskim
+- Odpowiedź B (Ludwika Maria Gonzaga) - incorrect from Władysław IV i Jan II Kazimierz: Królowa Polski, żona dwóch królów z XVII wieku - Władysława IV (zm. 1648) i Jana II Kazimierza Wazy (zm. 1668), zmarła w 1667 roku, przed objęciem tronu przez Sobieskiego
+- Odpowiedź C (Cecylia Renata Habsburg) - incorrect from Władysław IV Waza: Pierwsza żona Władysława IV Wazy, zmarła w 1644 roku, ponad 20 lat przed małżeństwem Sobieskiego z Marysieńką
+- Odpowiedź D (Katarzyna Jagiellonka) - incorrect from Dynastia Jagiellonów (XVI wiek): Królowa Szwecji z XVI wieku, żona Jana III Wazy, zmarła w 1583 roku, prawie 100 lat przed Sobieskim
 
 ---
 
@@ -184,9 +184,9 @@ Jan III Sobieski zmarł w Wilanowie 17 czerwca 1696 roku. Wilanów była letnią
 - https://pl.wikipedia.org/wiki/Jan_III_Sobieski
 
 **Analiza odpowiedzi błędnych:**
-- B: correct for: Królowie Polski: Warszawa była główną siedzibą królów Polski, ale Sobieski zmarł w swoim letnim pałacu w Wilanowie, pod Warszawą
-- C: correct for: Koronacje królów Polski: Tam spoczywa ciało króla w katedrze na Wawelu, tradycyjne miejsce koronacji i pochówku monarchów polskich, ale Sobieski nie zmarł tam
-- D: correct for: Wojny z Turkami: Ważne miasto w okresie panowania Sobieskiego, centrum obrony przed Tatarami i Turkami, ale nie miejsce jego śmierci
+- Odpowiedź B (W Warszawie) - correct for: Królowie Polski: Warszawa była główną siedzibą królów Polski, ale Sobieski zmarł w swoim letnim pałacu w Wilanowie, pod Warszawą
+- Odpowiedź C (W Krakowie) - correct for: Koronacje królów Polski: Tam spoczywa ciało króla w katedrze na Wawelu, tradycyjne miejsce koronacji i pochówku monarchów polskich, ale Sobieski nie zmarł tam
+- Odpowiedź D (we Lwowie) - correct for: Wojny z Turkami: Ważne miasto w okresie panowania Sobieskiego, centrum obrony przed Tatarami i Turkami, ale nie miejsce jego śmierci
 
 ---
 
@@ -212,9 +212,9 @@ W 1673 roku Jan Sobieski (jeszcze jako hetman) odniósł świetne zwycięstwo na
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Czortkowem_(1673)
 
 **Analiza odpowiedzi błędnych:**
-- A: correct for: Odsiecz wiedeńska: Odbyła się w 1683 roku, gdy Sobieski był już królem od 9 lat, to było jego najważniejsze zwycięstwo, ale nie w 1673
-- C: incorrect from Powstanie Chmielnickiego: Miała miejsce w 1651 roku podczas powstania Chmielnickiego, Sobieski był wtedy młodym wojownikiem, nie hetmanem
-- D: incorrect from Powstanie Chmielnickiego: Miała miejsce w 1649 roku podczas powstania Chmielnickiego, przed narodzinami Sobieskiego (ur. 1629)
+- Odpowiedź A (Bitwę pod Wiedniem) - correct for: Odsiecz wiedeńska: Odbyła się w 1683 roku, gdy Sobieski był już królem od 9 lat, to było jego najważniejsze zwycięstwo, ale nie w 1673
+- Odpowiedź C (Bitwę pod Beresteczkiem) - incorrect from Powstanie Chmielnickiego: Miała miejsce w 1651 roku podczas powstania Chmielnickiego, Sobieski był wtedy młodym wojownikiem, nie hetmanem
+- Odpowiedź D (Bitwę pod Zbarażem) - incorrect from Powstanie Chmielnickiego: Miała miejsce w 1649 roku podczas powstania Chmielnickiego, przed narodzinami Sobieskiego (ur. 1629)
 
 ---
 
@@ -240,9 +240,9 @@ Głównym powodem zawarcia sojuszu z Habsburgami była chęć powstrzymania eksp
 - https://pl.wikipedia.org/wiki/Odsiecz_wiede%C5%84ska_1683
 
 **Analiza odpowiedzi błędnych:**
-- A: correct for: Polityka bałtycka Sobieskiego: To była "polityka bałtycka" Sobieskiego - dążenie do odzyskania Prus Książęcych, ale nie był to główny powód sojuszu z Habsburgami
-- B: correct for: Wojny z Rosją: Ten konflikt był ważny dla Polski (traktat w Andruszowie 1667), ale nie był bezpośrednio związany z sojuszem austriackim przeciwko Turcji
-- C: correct for: Sojusz z Francją: Sobieski rzeczywiście zerwał sojusz z Francją, zawierając go z Habsburgami, ale głównym powodem była konieczność walki z Turcją, nie polityka wobec Francji
+- Odpowiedź A (Aby zdobyć tereny na Morzu Bałtyckim) - correct for: Polityka bałtycka Sobieskiego: To była "polityka bałtycka" Sobieskiego - dążenie do odzyskania Prus Książęcych, ale nie był to główny powód sojuszu z Habsburgami
+- Odpowiedź B (Aby odzyskać ziemie utracone w wojnie z Rosją) - correct for: Wojny z Rosją: Ten konflikt był ważny dla Polski (traktat w Andruszowie 1667), ale nie był bezpośrednio związany z sojuszem austriackim przeciwko Turcji
+- Odpowiedź C (Aby osłabić pozycję Francji w Europie) - correct for: Sojusz z Francją: Sobieski rzeczywiście zerwał sojusz z Francją, zawierając go z Habsburgami, ale głównym powodem była konieczność walki z Turcją, nie polityka wobec Francji
 
 ---
 
@@ -268,9 +268,9 @@ Głównym powodem braku trwałych korzyści politycznych był wewnętrzny kryzys
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: To prawda, że cesarz Leopold I potraktował Sobieskiego chłodno i odmówił wcześniejszych obietnic, ale to nie był jedyny powód braku trwałych korzyści
-- B: no referenced answer: Właśnie odwrotnie - Polska dowiodła swojej siły militarniej pod Wiedniem, problem leżał w sferze politycznej, nie militarnej
-- D: no referenced answer: Turcy przeszli do defensywy po Wiedniu i nie stanowili już takiego zagrożenia, problem był wewnętrzny Polski
+- Odpowiedź A (Ponieważ cesarz Leopold I nie docenił pomocy polskiej) - no referenced answer: To prawda, że cesarz Leopold I potraktował Sobieskiego chłodno i odmówił wcześniejszych obietnic, ale to nie był jedyny powód braku trwałych korzyści
+- Odpowiedź B (Ponieważ Polska była zbyt słaba militarnie) - no referenced answer: Właśnie odwrotnie - Polska dowiodła swojej siły militarniej pod Wiedniem, problem leżał w sferze politycznej, nie militarnej
+- Odpowiedź D (Ponieważ Turcy rychło odzyskali siły i zaatakowali ponownie) - no referenced answer: Turcy przeszli do defensywy po Wiedniu i nie stanowili już takiego zagrożenia, problem był wewnętrzny Polski
 
 ---
 
@@ -295,9 +295,9 @@ Co to była "polityka bałtycka" Jana III Sobieskiego?
 - https://pl.wikipedia.org/wiki/Jan_III_Sobieski
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer: Sobieski nie miał środków na taką budowę, a Polska nie miała dostępu do Bałtyku po traktatach rozejmowych ze Szwecją
-- C: correct for: Wojny ze Szwecją: Polska była raczej w konflikcie ze Szwecją (potop szwedzki), nie zawierała sojuszy z państwami skandynawskimi
-- D: no referenced answer: Polska miała ograniczone możliwości handlowe bez dostępu do morza, problemem było utrzymanie istniejącego handlu, nie ekspansja
+- Odpowiedź B (Plan budowy floty wojennej na Bałtyku) - no referenced answer: Sobieski nie miał środków na taką budowę, a Polska nie miała dostępu do Bałtyku po traktatach rozejmowych ze Szwecją
+- Odpowiedź C (Sojusz z państwami skandynawskimi) - correct for: Wojny ze Szwecją: Polska była raczej w konflikcie ze Szwecją (potop szwedzki), nie zawierała sojuszy z państwami skandynawskimi
+- Odpowiedź D (Ekspansja handlowa na Morzu Bałtyckim) - no referenced answer: Polska miała ograniczone możliwości handlowe bez dostępu do morza, problemem było utrzymanie istniejącego handlu, nie ekspansja
 
 ---
 
@@ -323,9 +323,9 @@ Po 1685 roku Jan III Sobieski zlecił budowę potężnych umocnień na granicy z
 - https://pl.wikipedia.org/wiki/Okopy_%C5%9Awi%C4%99tej_Tr%C3%B3jcy
 
 **Analiza odpowiedzi błędnych:**
-- A: correct for: Kamieniec Podolski: Kamieniec był już ważną twierdzą od XV wieku, zdobyty przez Turków w 1672, Sobieski go nie budował
-- B: correct for: Obrona Lwowa: Lwów był ufortyfikowany wcześniej, Sobieski成功地 go bronił przed Tatarami w 1675, ale nie budował nowych fortyfikacji po 1685
-- D: no referenced answer: Budowa floty rzecznej nie była priorytetem Sobieskiego, skupiał się na fortyfikacjach lądowych
+- Odpowiedź A (Zbudował zamek w Kamieńcu Podolskim) - correct for: Kamieniec Podolski: Kamieniec był już ważną twierdzą od XV wieku, zdobyty przez Turków w 1672, Sobieski go nie budował
+- Odpowiedź B (Ufortyfikował Lwów) - correct for: Obrona Lwowa: Lwów był ufortyfikowany wcześniej, Sobieski成功地 go bronił przed Tatarami w 1675, ale nie budował nowych fortyfikacji po 1685
+- Odpowiedź D (Zbudował flotę na Dniestrze) - no referenced answer: Budowa floty rzecznej nie była priorytetem Sobieskiego, skupiał się na fortyfikacjach lądowych
 
 ---
 
@@ -351,9 +351,9 @@ Po śmierci Jana III Sobieskiego w 1696 roku następcą został August II Mocny,
 - https://pl.wikipedia.org/wiki/August_II_Mocny
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer: Mimo prób ojca zabezpieczenia tronu dla potomstwa, Jakub Sobieski nie został wybrany na króla w 1697 roku
-- C: incorrect from XVIII wiek: Był królem Polski w XVIII wieku (1704-1709 i 1733-1736), ponad 10 lat po śmierci Sobieskiego
-- D: incorrect from Michał Korybut Wiśniowiecki: Poprzednik Sobieskiego, panujący w latach 1669-1673, zmarł w 1673 roku
+- Odpowiedź B (Jakub Sobieski, syn Jana III) - no referenced answer: Mimo prób ojca zabezpieczenia tronu dla potomstwa, Jakub Sobieski nie został wybrany na króla w 1697 roku
+- Odpowiedź C (Stanisław Leszczyński) - incorrect from XVIII wiek: Był królem Polski w XVIII wieku (1704-1709 i 1733-1736), ponad 10 lat po śmierci Sobieskiego
+- Odpowiedź D (Michał Korybut Wiśniowiecki) - incorrect from Michał Korybut Wiśniowiecki: Poprzednik Sobieskiego, panujący w latach 1669-1673, zmarł w 1673 roku
 
 ---
 

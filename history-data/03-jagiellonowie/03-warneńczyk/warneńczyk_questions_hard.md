@@ -42,9 +42,9 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Warn%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer: decyzja nie uwzględniała realiów militarnych i braku realnego wsparcia zachodniego
-- C: no referenced answer: polska szlachta nie wywierała presji na kontynuowanie wojny z Turcją
-- D: no referenced answer: Habsburgowie byli stroną Elżbiety w wojnie domowej na Węgrzech, ale nie spiskowali przeciw krucjacie
+- Odpowiedź B (wyłącznie racjonalna) – no referenced answer: decyzja nie uwzględniała realiów militarnych i braku realnego wsparcia zachodniego
+- Odpowiedź C (opozycja szlachecka) – no referenced answer: polska szlachta nie wywierała presji na kontynuowanie wojny z Turcją
+- Odpowiedź D (spisek Habsburgów) – no referenced answer: Habsburgowie byli stroną Elżbiety w wojnie domowej na Węgrzech, ale nie spiskowali przeciw krucjacie
 
 ---
 
@@ -67,9 +67,9 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 - https://pl.wikipedia.org/wiki/Zbigniew_Ole%C5%9Bnicki
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Oleśnicki dążył do stabilizacji państwa, a nie do osobistej władzy absolutnej
-- C: no referenced answer: Oleśnicki sprzeciwiał się kandydaturze Albrechta Habsburga na tron czeski w 1438
-- D: no referenced answer: to Oleśnicki dominował w Radzie Opiekuńczej i zwalczał stronnictwo królowej Zofii
+- Odpowiedź A (bezwnzględny dyktator) – no referenced answer: Oleśnicki dążył do stabilizacji państwa, a nie do osobistej władzy absolutnej
+- Odpowiedź C (agent Habsburgów) – no referenced answer: Oleśnicki sprzeciwiał się kandydaturze Albrechta Habsburga na tron czeski w 1438
+- Odpowiedź D (marionetka Zofii) – no referenced answer: to Oleśnicki dominował w Radzie Opiekuńczej i zwalczał stronnictwo królowej Zofii
 
 ---
 
@@ -93,8 +93,8 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 - https://pl.wikipedia.org/wiki/Dynastia_jagiello%C5%84ska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Kazimierz Jagiellończyk chapter: Jagiellonowie rządzili jeszcze przez 128 lat i rozciągnęli swoje panowanie na Czechy i Węgry
-- B: no referenced answer: śmierć króla i bezkrólewie osłabiły pozycję Polski w Europie
-- C: incorrect from Unia lubelska chapter: bitwa miała znaczenie strategiczne i polityczne dla całego regionu, choć unia lubelska z 1569 roku była późniejszym wydarzeniem
+- Odpowiedź A (koniec dominacji) – incorrect from Kazimierz Jagiellończyk chapter: Jagiellonowie rządzili jeszcze przez 128 lat i rozciągnęli swoje panowanie na Czechy i Węgry
+- Odpowiedź B (wzmocnienie Polski) – no referenced answer: śmierć króla i bezkrólewie osłabiły pozycję Polski w Europie
+- Odpowiedź C (brak znaczenia) – incorrect from Unia lubelska chapter: bitwa miała znaczenie strategiczne i polityczne dla całego regionu, choć unia lubelska z 1569 roku była późniejszym wydarzeniem
 
 ---

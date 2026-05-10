@@ -48,9 +48,9 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer - Rosja nie pomagała Szwecji, prowadziła osobną wojnę z Polską (1654-1667)
-- B: no referenced answer - Polska walczyła ze Szwecją, nie była z nią sprzymierzona
-- D: no referenced answer - Wojska polskie były słabsze i mniej zorganizowane niż szwedzkie
+- Odp A: no referenced answer - Rosja nie pomagała Szwecji, prowadziła osobną wojnę z Polską (1654-1667)
+- Odp B: no referenced answer - Polska walczyła ze Szwecją, nie była z nią sprzymierzona
+- Odp D: no referenced answer - Wojska polskie były słabsze i mniej zorganizowane niż szwedzkie
 
 ---
 
@@ -98,9 +98,9 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Jasnej_G%C3%B3ry
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer - Jasna Góra była sanktuarium maryjnym, nie skarbcem królewskim
-- C: no referenced answer - Obrona nie otworzyła drogi do Sztokholmu
-- D: no referenced answer - Szwecja nie kapitulowała po oblężeniu Jasnej Góry
+- Odp B: no referenced answer - Jasna Góra była sanktuarium maryjnym, nie skarbcem królewskim
+- Odp C: no referenced answer - Obrona nie otworzyła drogi do Sztokholmu
+- Odp D: no referenced answer - Szwecja nie kapitulowała po oblężeniu Jasnej Góry
 
 ---
 
@@ -148,9 +148,9 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer - Szwecja i Brandenburgia były początkowo sprzymierzone, nie walczyły ze sobą
-- C: no referenced answer - Brandenburgia nie była zainteresowana pomocą Rosji
-- D: no referenced answer - Polska nie miała wystarczających środków na płacenie Brandenburgii
+- Odp A: no referenced answer - Szwecja i Brandenburgia były początkowo sprzymierzone, nie walczyły ze sobą
+- Odp C: no referenced answer - Brandenburgia nie była zainteresowana pomocą Rosji
+- Odp D: no referenced answer - Polska nie miała wystarczających środków na płacenie Brandenburgii
 
 ---
 
@@ -198,9 +198,9 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 - https://pl.wikipedia.org/wiki/Jan_II_Kazimierz_Waza
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer - Jan Kazimierz nie został pojmany przez Szwedów, zdołał uciec na Śląsk
-- C: no referenced answer - Uciekł na Śląsk, nie do Rosji (z którą Polska walczyła w wojnie polsko-rosyjskiej 1654-1667)
-- D: no referenced answer - Nie zginął podczas wojny, zmarł w 1672 roku we Francji
+- Odp A: no referenced answer - Jan Kazimierz nie został pojmany przez Szwedów, zdołał uciec na Śląsk
+- Odp C: no referenced answer - Uciekł na Śląsk, nie do Rosji (z którą Polska walczyła w wojnie polsko-rosyjskiej 1654-1667)
+- Odp D: no referenced answer - Nie zginął podczas wojny, zmarł w 1672 roku we Francji
 
 ---
 
@@ -223,9 +223,9 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer - Szwecja była protestancka, nie prowadziła krucjat ani misji chrystianizacyjnych
-- C: no referenced answer - Szwecja zaatakowała Polskę, wykorzystując jej osłabienie, nie jej pomagała
-- D: no referenced answer - Karol Gustaw nie chciał zostać królem Polski, dążył do dominacji morskiej
+- Odp A: no referenced answer - Szwecja była protestancka, nie prowadziła krucjat ani misji chrystianizacyjnych
+- Odp C: no referenced answer - Szwecja zaatakowała Polskę, wykorzystując jej osłabienie, nie jej pomagała
+- Odp D: no referenced answer - Karol Gustaw nie chciał zostać królem Polski, dążył do dominacji morskiej
 
 ---
 
@@ -248,9 +248,9 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer - Mieszczanie nie byli przychylni Szwedom, poddanie się wynikało z beznadziejnej sytuacji militarnej
-- B: no referenced answer - Król nie kazał się poddawać, sam uciekł na Śląsk i wzywał do oporu
-- C: no referenced answer - Szwedzi nie obiecywali niższych podatków, wręcz przeciwnie - łupili kraj
+- Odp A: no referenced answer - Mieszczanie nie byli przychylni Szwedom, poddanie się wynikało z beznadziejnej sytuacji militarnej
+- Odp B: no referenced answer - Król nie kazał się poddawać, sam uciekł na Śląsk i wzywał do oporu
+- Odp C: no referenced answer - Szwedzi nie obiecywali niższych podatków, wręcz przeciwnie - łupili kraj
 
 ---
 
@@ -273,6 +273,6 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer - Nie wszyscy magnaci walczyli ze Szwedami, część przeszła na stronę szwedzką (jak Janusz Radziwiłł)
-- B: no referenced answer - Nie wszyscy przeszli na stronę szwedzką, wielu walczyło (jak Stefan Czarniecki, Jerzy Lubomirski)
-- C: no referenced answer - Większość pozostała w kraju - część walczyła, część kolaborowała ze Szwedami
+- Odp A: no referenced answer - Nie wszyscy magnaci walczyli ze Szwedami, część przeszła na stronę szwedzką (jak Janusz Radziwiłł)
+- Odp B: no referenced answer - Nie wszyscy przeszli na stronę szwedzką, wielu walczyło (jak Stefan Czarniecki, Jerzy Lubomirski)
+- Odp C: no referenced answer - Większość pozostała w kraju - część walczyła, część kolaborowała ze Szwedami

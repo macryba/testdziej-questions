@@ -40,9 +40,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Rozbicie Dzielnicowe: Przemysław II, Wacław II i III oraz Henryk III Głogowczyk rzeczywiście zmarli w odpowiednich latach (1296, 1305, 1306, 1309), co ułatwiło Łokietkowi zjednoczenie, jednak ich śmierć sama w sobie nie gwarantowałaby sukcesu bez zdolności politycznych Łokietka
-- B: partially correct but underestimates Łokietek's role: Proporcja 50/50 nie oddaje pełnego wkładu Łokietka, który musiał aktywnie wykorzystać sytuację, pokonać opozycję wewnętrzną i zjednywać sojuszników
-- D: overstates his role: Zbyt wysoki procent ignoruje realne korzyści ze śmierci rywali, bez których Łokietek nie miałby szans na zjednoczenie ziem polskich
+- Odpowiedź A (Sukces Łokietka był w 90% wynikiem sprzyjających okoliczności) – incorrect from Rozbicie Dzielnicowe: Przemysław II, Wacław II i III oraz Henryk III Głogowczyk rzeczywiście zmarli w odpowiednich latach (1296, 1305, 1306, 1309), co ułatwiło Łokietkowi zjednoczenie, jednak ich śmierć sama w sobie nie gwarantowałaby sukcesu bez zdolności politycznych Łokietka
+- Odpowiedź B (Sukces Łokietka był w równym stopniu wynikiem sprzyjających okoliczności i jego zdolności) – partially correct but underestimates Łokietek's role: Proporcja 50/50 nie oddaje pełnego wkładu Łokietka, który musiał aktywnie wykorzystać sytuację, pokonać opozycję wewnętrzną i zjednywać sojuszników
+- Odpowiedź D (Sukces Łokietka był niemal wyłącznie (95%) wynikiem jego osobistych zdolności politycznych) – overstates his role: Zbyt wysoki procent ignoruje realne korzyści ze śmierci rywali, bez których Łokietek nie miałby szans na zjednoczenie ziem polskich
 
 ---
 
@@ -65,9 +65,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/Zdobycie_Pomorza_Gda%C5%84skiego_przez_Krzy%C5%BCak%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- B: consequence of earlier decision: Negocjacje w 1309 roku były próbą rozwiązania problemu stworzonego przez sprowadzenie Krzyżaków w 1308 roku, nie były pierwotną decyzją strategiczną
-- C: important but less consequential: Proces papieski był ważny z dyplomatycznego punktu widzenia, jednak nie miał tak dalekosiężnych skutków jak zajęcie Pomorza przez Krzyżaków
-- D: reaction to occupation: Atak na ziemię chełmińską był reakcją na wcześniejsze działania Krzyżaków, nie był pierwotną decyzją Łokietka, która zmieniła relacje polsko-krzyżackie
+- Odpowiedź B (Nieudana próba odzyskania Pomorza Gdańskiego w drodze negocjacji w 1309 roku) – consequence of earlier decision: Negocjacje w 1309 roku były próbą rozwiązania problemu stworzonego przez sprowadzenie Krzyżaków w 1308 roku, nie były pierwotną decyzją strategiczną
+- Odpowiedź C (Wystąpienie z oskarżeniem przeciw Zakonowi do sądu papieskiego w Inowrocławiu w 1320 roku) – important but less consequential: Proces papieski był ważny z dyplomatycznego punktu widzenia, jednak nie miał tak dalekosiężnych skutków jak zajęcie Pomorza przez Krzyżaków
+- Odpowiedź D (Uderzenie na ziemię chełmińską podczas wojny w 1330 roku) – reaction to occupation: Atak na ziemię chełmińską był reakcją na wcześniejsze działania Krzyżaków, nie był pierwotną decyzją Łokietka, która zmieniła relacje polsko-krzyżackie
 
 ---
 
@@ -90,9 +90,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: strategic failure: Łokietek stracił Pomorze Gdańskie (1308-1309) i nie zdołał odzyskać go mimo wojen i procesów papieskich, co było porażką strategiczną
-- B: weak position: Jan Luksemburski skutecznie kwestionował legalność koronacji Łokietka i rościł prawa do tronu polskiego, co osłabiło pozycję międzynarodową Polski
-- D: incorrect assessment: Skuteczność była zróżnicowana – najlepsza wobec opozycji wewnętrznej, słaba wobec Zakonu Krzyżackiego i Jana Luksemburskiego
+- Odpowiedź A (Polityka wobec Zakonu Krzyżackiego) – strategic failure: Łokietek stracił Pomorze Gdańskie (1308-1309) i nie zdołał odzyskać go mimo wojen i procesów papieskich, co było porażką strategiczną
+- Odpowiedź B (Polityka wobec Jana Lukenburgskiego) – weak position: Jan Luksemburski skutecznie kwestionował legalność koronacji Łokietka i rościł prawa do tronu polskiego, co osłabiło pozycję międzynarodową Polski
+- Odpowiedź D (Wszystkie trzy obszary zostały zarządzane z równą skutecznością) – incorrect assessment: Skuteczność była zróżnicowana – najlepsza wobec opozycji wewnętrznej, słaba wobec Zakonu Krzyżackiego i Jana Luksemburskiego
 
 ---
 
@@ -115,9 +115,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: overstates the break: Sojusz nie był antychrześcijański, lecz pragmatyczny; Łokietek pozostawał w dobrych relacjach z Kościołem i maintained chrześcijańską orientację Polski
-- C: historically incorrect: Litwa przyjęła chrzest dopiero w 1387 roku (za czasów Władysława Jagiełły), w czasach Łokietka była jeszcze pogańska
-- D: contradicts historical facts: Sojusz miał kluczowe znaczenie militarno-polityczne, zapewniając pomoc Litwy w wojnach z Brandenburgią (1326) i wzmacniając pozycję Polski wobec Czech i Zakonu Krzyżackiego
+- Odpowiedź A (Było to całkowite odejście od dotychczasowej polityki i zwrócenie się przeciw chrześcijaństwu) – overstates the break: Sojusz nie był antychrześcijański, lecz pragmatyczny; Łokietek pozostawał w dobrych relacjach z Kościołem i maintained chrześcijańską orientację Polski
+- Odpowiedź C (Było to kontynuacja polityki piastowskiej, gdyż Litwa była już chrześcijańska od 1320 roku) – historically incorrect: Litwa przyjęła chrzest dopiero w 1387 roku (za czasów Władysława Jagiełły), w czasach Łokietka była jeszcze pogańska
+- Odpowiedź D (Sojusz ten nie miał znaczenia dla polityki zagranicznej Polski) – contradicts historical facts: Sojusz miał kluczowe znaczenie militarno-polityczne, zapewniając pomoc Litwy w wojnach z Brandenburgią (1326) i wzmacniając pozycję Polski wobec Czech i Zakonu Krzyżackiego
 
 ---
 
@@ -140,9 +140,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- B: underestimates the success: Zjednoczenie głównych ziem polskich było znacznie większym osiągnięciem niż utrata Pomorza, zarówno pod względem terytorium, ludności, jak i potencjału gospodarczego
-- C: incorrectly balances the outcome: Zyski (Małopolska, Wielkopolska, Kujawy, Sieradz, Łęczyca) znacznie przewyższały straty (Pomorze Gdańskie, ziemia dobrzyńska)
-- D: contradicts historical assessment: Utrata Pomorza była poważna, ale zjednoczenie głównych ziem polskich przeważało bilans na korzyść sukcesu
+- Odpowiedź B (Umiarkowany sukces — zjednoczenie zrekompensowało straty, ale nie wszystkie) – underestimates the success: Zjednoczenie głównych ziem polskich było znacznie większym osiągnięciem niż utrata Pomorza, zarówno pod względem terytorium, ludności, jak i potencjału gospodarczego
+- Odpowiedź C (Remis — zyski i straty były wyrównowane) – incorrectly balances the outcome: Zyski (Małopolska, Wielkopolska, Kujawy, Sieradz, Łęczyca) znacznie przewyższały straty (Pomorze Gdańskie, ziemia dobrzyńska)
+- Odpowiedź D (Umiarkowana porażka — utrata Pomorza Gdańskiego nie została zrekompensowana) – contradicts historical assessment: Utrata Pomorza była poważna, ale zjednoczenie głównych ziem polskich przeważało bilans na korzyść sukcesu
 
 ---
 
@@ -165,9 +165,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- B: opposite of what happened: Koronacja zwiększyła rolę szlachty, która musiała wyrazić zgodę na podatki i fundusze, beginning the process of noble estates gaining influence
-- C: ignores historical development: Koronacja rozpoczęła proces kształtowania się monarchii stanowej, który doprowadził do wzrostu znaczenia szlachty w kolejnych stuleciach
-- D: contradicts historical facts: Szlachta brała czynny udział w przygotowaniach do koronacji i finansowaniu uroczystości, co zwiększyło jej pozycję polityczną
+- Odpowiedź B (Koronacja umocniła władzę monarchy na szkodę szlachty) – opposite of what happened: Koronacja zwiększyła rolę szlachty, która musiała wyrazić zgodę na podatki i fundusze, beginning the process of noble estates gaining influence
+- Odpowiedź C (Koronacja nie miała wpływu na pozycję szlachty w systemie politycznym) – ignores historical development: Koronacja rozpoczęła proces kształtowania się monarchii stanowej, który doprowadził do wzrostu znaczenia szlachty w kolejnych stuleciach
+- Odpowiedź D (Koronacja osłabiła pozycję szlachty, która nie brała udziału w uroczystości) – contradicts historical facts: Szlachta brała czynny udział w przygotowaniach do koronacji i finansowaniu uroczystości, co zwiększyło jej pozycję polityczną
 
 ---
 
@@ -190,9 +190,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- B: reverses the actual outcome: Krótkoterminowo decyzja osłabiła pozycję Łokietka (Jan Luksemburski kwestionował legalność), ale długoterminowo wzmocniła pozycję Krakowa jako stolicy
-- C: ignores long-term benefits: Przeniesienie koronacji do Krakowa stworzyło tradycję, która trwała ponad 300 lat i wzmocniła pozycję miasta jako stolicy Polski
-- D: overlooks short-term problems: W perspektywie krótkoterminowej decyzja osłabiła pozycję międzynarodową Łokietka i dała Janowi Luksemburskiemu argument do kwestionowania legalności koronacji
+- Odpowiedź B (Z perspektywy krótkoterminowej była sukcesem, ale z długoterminowej okazała się błędem) – reverses the actual outcome: Krótkoterminowo decyzja osłabiła pozycję Łokietka (Jan Luksemburski kwestionował legalność), ale długoterminowo wzmocniła pozycję Krakowa jako stolicy
+- Odpowiedź C (Z obu perspektyw była błędem politycznym) – ignores long-term benefits: Przeniesienie koronacji do Krakowa stworzyło tradycję, która trwała ponad 300 lat i wzmocniła pozycję miasta jako stolicy Polski
+- Odpowiedź D (Z obu perspektyw był sukcesem politycznym) – overlooks short-term problems: W perspektywie krótkoterminowej decyzja osłabiła pozycję międzynarodową Łokietka i dała Janowi Luksemburskiemu argument do kwestionowania legalności koronacji
 
 ---
 
@@ -215,9 +215,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: underestimates Łokietek's achievements: Choć Łokietek nie prowadził wielkich wojen ani nie dokonał spektakularnych reform, jego systematyczne dążenie do zjednoczenia ziem polskich i odrodzenie instytucji królewskich czynią go kluczową postacią
-- B: partially correct but incomplete: Ta interpretacja jest przeważająca, ale ignoruje fakt, że Łokietek rzeczywiście nie prowadził wielkich wojen ani nie dokonał spektakularnych reform, co uzasadnia pierwszą interpretację
-- C: contradicts historical consensus: Obie interpretacje mają częściowo rację, choć druga jest przeważająca; historiografia uznaje Łokietka za kluczową postać w procesie zjednoczenia
+- Odpowiedź A (Interpretacja "władca małych działań" jest bardziej uzasadniona) – underestimates Łokietek's achievements: Choć Łokietek nie prowadził wielkich wojen ani nie dokonał spektakularnych reform, jego systematyczne dążenie do zjednoczenia ziem polskich i odrodzenie instytucji królewskich czynią go kluczową postacią
+- Odpowiedź B (Interpretacja "ojciec zjednoczenia" jest bardziej uzasadniona) – partially correct but incomplete: Ta interpretacja jest przeważająca, ale ignoruje fakt, że Łokietek rzeczywiście nie prowadził wielkich wojen ani nie dokonał spektakularnych reform, co uzasadnia pierwszą interpretację
+- Odpowiedź C (Obie interpretacje są równie nieuzasadnione) – contradicts historical consensus: Obie interpretacje mają częściowo rację, choć druga jest przeważająca; historiografia uznaje Łokietka za kluczową postać w procesie zjednoczenia
 
 ---
 
@@ -240,9 +240,9 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: overstates Church's dominance: Łokietek otrzymał wsparcie Kościoła, ale potrafił być niezależny (konflikt z biskupem Muskato) i decydował o swojej polityce
-- C: overstates Łokietek's dominance: Łokietek współpracował z Kościołem i potrzebował jego wsparcia (koronacja, legitymizacja), nie dominował nad nim
-- D: oversimplifies complex relationship: Relacja miała charakter partnerski z elementami wzajemności, nie była czysto transakcyjna; Łokietek i Kościół wspierali się wzajemnie w procesie zjednoczenia
+- Odpowiedź A (Łokietek był wyraźnie "protegowanym" Kościoła, który zawdzięczał mu wszystko) – overstates Church's dominance: Łokietek otrzymał wsparcie Kościoła, ale potrafił być niezależny (konflikt z biskupem Muskato) i decydował o swojej polityce
+- Odpowiedź C (Łokietek dominował nad Kościołem i narzucał mu swoją wolę) – overstates Łokietek's dominance: Łokietek współpracował z Kościołem i potrzebował jego wsparcia (koronacja, legitymizacja), nie dominował nad nim
+- Odpowiedź D (Relacja była czysto transakcyjna bez głębszego znaczenia) – oversimplifies complex relationship: Relacja miała charakter partnerski z elementami wzajemności, nie była czysto transakcyjna; Łokietek i Kościół wspierali się wzajemnie w procesie zjednoczenia
 
 ---
 
@@ -265,6 +265,6 @@ Panowanie Władysława Łokietka (1306-1333) oznaczało powrót do jednego pańs
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%82okietek
 
 **Analiza odpowiedzi błędnych:**
-- A: underestimates Łokietek's institutional legacy: Łokietek stworzył podstawowe instytucje (kancelaria ogólnopolska, administracja, skarbowość), które Kazimierz rozwinął
-- B: contradicts historical facts: Łokietek przekazał nie tylko zjednoczone terytorium, ale także podstawowe instytucje państwowe i pozycję międzynarodową jako król Polski
-- D: completely contradicts historical reality: Kazimierz odziedziczył zjednoczone państwo z instytucjami, pozycją międzynarodową i tytułem królewskim, co pozwoliło mu na przeprowadzenie wielkich reform
+- Odpowiedź A (Łokietek przekazał Kazimierzowi zjednoczone państwo, ale bez instytucji potrzebnych do wielkich reform) – underestimates Łokietek's institutional legacy: Łokietek stworzył podstawowe instytucje (kancelaria ogólnopolska, administracja, skarbowość), które Kazimierz rozwinął
+- Odpowiedź B (Łokietek przekazał Kazimierzowi tylko terytorium, ale nie żadne instytucje państwowe) – contradicts historical facts: Łokietek przekazał nie tylko zjednoczone terytorium, ale także podstawowe instytucje państwowe i pozycję międzynarodową jako król Polski
+- Odpowiedź D (Łokietek nie przekazał Kazimierzowi żadnego dziedzictwa, syn musiał zaczynać od zera) – completely contradicts historical reality: Kazimierz odziedziczył zjednoczone państwo z instytucjami, pozycją międzynarodową i tytułem królewskim, co pozwoliło mu na przeprowadzenie wielkich reform

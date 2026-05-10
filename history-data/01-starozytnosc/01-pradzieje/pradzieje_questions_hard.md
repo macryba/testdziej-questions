@@ -40,9 +40,9 @@ D. Przejście od gospodarki przyswajającej do wytwórczej (rolnictwo, hodowla) 
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A: context from Pradzieje: minimalizuje znaczenie rewolucji neolitycznej; zmiany technologiczne były tylko częścią szerszych przemian społecznych i gospodarczych
-- B: context from Pradzieje (incorrect chronology): błędna chronologia; metalurgia brązu rozwijała się ponad 3000 lat po rozpoczęciu rewolucji neolitycznej (od ok. 1800 r. p.n.e.)
-- C: context from Pradzieje: sprzeczne z dowodami archeologicznymi; kultura wstęgowa szybko rozprzestrzeniła się na lessowe tereny Polski
+- Odpowiedź A (Rewolucja neolityczna przyniosła głównie zmiany w technologiach) – context from Pradzieje: minimalizuje znaczenie rewolucji neolitycznej; zmiany technologiczne były tylko częścią szerszych przemian społecznych i gospodarczych
+- Odpowiedź B (Najważniejszym skutkiem było upowszechnienie metalurgii brązu) – context from Pradzieje (incorrect chronology): błędna chronologia; metalurgia brązu rozwijała się ponad 3000 lat po rozpoczęciu rewolucji neolitycznej (od ok. 1800 r. p.n.e.)
+- Odpowiedź C (Rewolucja neolityczna miała ograniczone znaczenie) – context from Pradzieje: sprzeczne z dowodami archeologicznymi; kultura wstęgowa szybko rozprzestrzeniła się na lessowe tereny Polski
 
 ---
 
@@ -68,9 +68,9 @@ D. Eksploatacja surowców miała znaczenie wyłączenie lokalne i nie wpływała
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- B: context from Pradzieje (incorrect fact): sprzeczne z faktami; ziemie polskie mają bogate złoża krzemienia (Krzemionki), bursztynu (Bałtyk) i soli (Wieliczka)
-- C: context from Pradzieje (incorrect causation): przesadzenie; sól była ważna gospodarczo, ale nie decydowała o przewagach militarnych społeczności z ziemi polskich
-- D: context from Pradzieje: sprzeczne z licznymi znaleziskami wyrobów z polskich surowców w odległych regionach Europy (krzemień polski znajdywany setki km od źródeł, bursztyn na szlaku bałtycko-śródziemnomorskim)
+- Odpowiedź B (Złoża surowców na ziemiach polskich były ubogie) – context from Pradzieje (incorrect fact): sprzeczne z faktami; ziemie polskie mają bogate złoża krzemienia (Krzemionki), bursztynu (Bałtyk) i soli (Wieliczka)
+- Odpowiedź C (Najważniejszym surowcem była sól, która decydowała o przewadze militarnej) – context from Pradzieje (incorrect causation): przesadzenie; sól była ważna gospodarczo, ale nie decydowała o przewagach militarnych społeczności z ziemi polskich
+- Odpowiedź D (Eksploatacja surowców miała znaczenie wyłączenie lokalne) – context from Pradzieje: sprzeczne z licznymi znaleziskami wyrobów z polskich surowców w odległych regionach Europy (krzemień polski znajdywany setki km od źródeł, bursztyn na szlaku bałtycko-śródziemnomorskim)
 
 ---
 
@@ -96,6 +96,6 @@ D. Znaleziska z ziem polskich mają przede wszystkim wartość lokalną i nie wn
 - https://pl.wikipedia.org/wiki/Krzemionki
 
 **Analiza odpowiedzi błędnych:**
-- A: context from Pradzieje (incorrect uniqueness): polskie stanowiska są unikalne; Biskupin to najlepiej zachowane grodzisko epoki żelaza w Europie, Krzemionki to unikalne neolityczne kopalnie krzemienia UNESCO
-- B: context from Pradzieje (incorrect generalization): nieprawda; wszystkie okresy pradziejów na ziemiach polskich (paleolit, neolit, epoka brązu, epoka żelaza, okres rzymski) są dobrze udokumentowane i mają znaczenie europejskie
-- D: context from Pradzieje: drastyczne niedoszacowanie; polskie stanowiska (Biskupin, Krzemionki, jaskinie jurajskie) mają fundamentalne znaczenie dla rozumienia pradziejów całej Europy Środkowej
+- Odpowiedź A (Znaleziska z polskich ziem są w zasadzie zbliżone do innych) – context from Pradzieje (incorrect uniqueness): polskie stanowiska są unikalne; Biskupin to najlepiej zachowane grodzisko epoki żelaza w Europie, Krzemionki to unikalne neolityczne kopalnie krzemienia UNESCO
+- Odpowiedź B (Największe znaczenie mają stanowiska z okresu rzymskiego) – context from Pradzieje (incorrect generalization): nieprawda; wszystkie okresy pradziejów na ziemiach polskich (paleolit, neolit, epoka brązu, epoka żelaza, okres rzymski) są dobrze udokumentowane i mają znaczenie europejskie
+- Odpowiedź D (Znaleziska z ziem polskich mają przede wszystkim wartość lokalną) – context from Pradzieje: drastyczne niedoszacowanie; polskie stanowiska (Biskupin, Krzemionki, jaskinie jurajskie) mają fundamentalne znaczenie dla rozumienia pradziejów całej Europy Środkowej

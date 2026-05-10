@@ -48,9 +48,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Plemiona polskie](https://pl.wikipedia.org/wiki/Plemiona_polskie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Słowianie: Polanie zamieszkiwali Wielkopolskę w dorzeczu Warty, a nie górną Wisłę z Krakowem
-- B: incorrect from Słowianie: Mazowszanie zamieszkiwali środkowe dorzecze Wisły, a nie górną Wisłę z Krakowem
-- C: incorrect from Słowianie: Pomorzanie zamieszkiwali tereny nad Bałtykiem, a nie dorzecze górnej Wisły
+- Odpowiedź A (Polanie) – incorrect from Słowianie: Polanie zamieszkiwali Wielkopolskę w dorzeczu Warty, a nie górną Wisłę z Krakowem
+- Odpowiedź B (Mazowszanie) – incorrect from Słowianie: Mazowszanie zamieszkiwali środkowe dorzecze Wisły, a nie górną Wisłę z Krakowem
+- Odpowiedź C (Pomorzanie) – incorrect from Słowianie: Pomorzanie zamieszkiwali tereny nad Bałtykiem, a nie dorzecze górnej Wisły
 
 ---
 
@@ -73,9 +73,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Słowianie pojawili się na ziemiach polskich później, w drugiej połowie VI wieku
-- C: no referenced answer: Słowianie przybyli na ziemie polskie w VI wieku, a nie w VII
-- D: no referenced answer: Proces osadniczy Słowian na ziemiach polskich rozpoczął się wcześniej, w VI wieku
+- Odpowiedź A (W wieku V) – no referenced answer: Słowianie pojawili się na ziemiach polskich później, w drugiej połowie VI wieku
+- Odpowiedź C (W wieku VII) – no referenced answer: Słowianie przybyli na ziemie polskie w VI wieku, a nie w VII
+- Odpowiedź D (W wieku VIII) – no referenced answer: Proces osadniczy Słowian na ziemiach polskich rozpoczął się wcześniej, w VI wieku
 
 ---
 
@@ -99,9 +99,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Słowianie nie budowali murowanych zamków, tylko drewniane grody
-- B: no referenced answer: Słowianie nie budowali świątyń, oddawali cześć bogom w "świętych gajach"
-- D: no referenced answer: Grody pełniły funkcje obronne i administracyjne, a nie były głównie targowiskami
+- Odpowiedź A (Duży zamek murowany króla) – no referenced answer: Słowianie nie budowali murowanych zamków, tylko drewniane grody
+- Odpowiedź B (Świątynia religijna na wzgórzu) – no referenced answer: Słowianie nie budowali świątyń, oddawali cześć bogom w "świętych gajach"
+- Odpowiedź D (Targowisko handlowe w mieście) – no referenced answer: Grody pełniły funkcje obronne i administracyjne, a nie były głównie targowiskami
 
 ---
 
@@ -125,9 +125,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Gospodarka wczesnych Słowian](https://pl.wikipedia.org/wiki/Gospodarka_wczesno%C5%9Bredniowiecza) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Górnictwo węglowe rozwinęło się znacznie później, w czasach nowożytnych
-- B: no referenced answer: Słowianie nie zajmowali się żeglugą morską, tylko rolnictwem i hodowlą
-- D: no referenced answer: Przemysł metalurgiczny na dużą skalę pojawił się później, Słowianie znali tylko podstawowe kowalstwo
+- Odpowiedź A (Górnictwo węglowe) – no referenced answer: Górnictwo węglowe rozwinęło się znacznie później, w czasach nowożytnych
+- Odpowiedź B (Żegluga morska) – no referenced answer: Słowianie nie zajmowali się żeglugą morską, tylko rolnictwem i hodowlą
+- Odpowiedź D (Przemysł metalurgiczny) – no referenced answer: Przemysł metalurgiczny na dużą skalę pojawił się później, Słowianie znali tylko podstawowe kowalstwo
 
 ---
 
@@ -151,9 +151,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Geografia osadnictwa słowiańskiego](https://pl.wikipedia.org/wiki/Osadnictwo) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Słowianie: Ren i Łaba to rzeki zachodnie, graniczące z ziemiami germańskimi, a nie główne osie osadnicze Słowian
-- B: incorrect from Słowianie: Dunaj był południową granicą ekspansji Słowian, a nie główną osią osadniczą na ziemiach polskich
-- C: no referenced answer: Sekwana i Rodan to rzeki francuskie, daleko od terenów zamieszkiwanych przez Słowian
+- Odpowiedź A (Ren i Łaba) – incorrect from Słowianie: Ren i Łaba to rzeki zachodnie, graniczące z ziemiami germańskimi, a nie główne osie osadnicze Słowian
+- Odpowiedź B (Dunaj i Sawa) – incorrect from Słowianie: Dunaj był południową granicą ekspansji Słowian, a nie główną osią osadniczą na ziemiach polskich
+- Odpowiedź C (Sekwana i Rodan) – no referenced answer: Sekwana i Rodan to rzeki francuskie, daleko od terenów zamieszkiwanych przez Słowian
 
 ---
 
@@ -176,9 +176,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Kultura materialna Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer: Plastik i aluminium to nowoczesne materiały, nieznane w okresie wczesnego średniowiecza
-- C: no referenced answer: Guma i stal to materiały z czasów nowożytnych i przemysłowych
-- D: no referenced answer: Szkło i beton nie były powszechnie używane przez Słowian w okresie przedpaństwowym
+- Odpowiedź B (Z plastiku i aluminium) – no referenced answer: Plastik i aluminium to nowoczesne materiały, nieznane w okresie wczesnego średniowiecza
+- Odpowiedź C (Z gumy i stali) – no referenced answer: Guma i stal to materiały z czasów nowożytnych i przemysłowych
+- Odpowiedź D (Ze szkła i betonu) – no referenced answer: Szkło i beton nie były powszechnie używane przez Słowian w okresie przedpaństwowym
 
 ---
 
@@ -201,9 +201,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Struktura społeczna Słowian](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Polska piastowska: Feudalizm i pańszczyzna rozwinęły się w późniejszym okresie państwowości polskiej (XII-XIII wiek)
-- B: no referenced answer: Demokracja parlamentarna to system z czasów nowożytnych, nieznany w okresie plemiennym
-- D: no referenced answer: System kastowy pochodzi z kultury indyjskiej i nie istniał w strukturze społecznej Słowian
+- Odpowiedź A (Na feudalizmie i pańszczyźnie) – incorrect from Polska piastowska: Feudalizm i pańszczyzna rozwinęły się w późniejszym okresie państwowości polskiej (XII-XIII wiek)
+- Odpowiedź B (Na demokracji parlamentarnej) – no referenced answer: Demokracja parlamentarna to system z czasów nowożytnych, nieznany w okresie plemiennym
+- Odpowiedź D (Na systemie kastowym) – no referenced answer: System kastowy pochodzi z kultury indyjskiej i nie istniał w strukturze społecznej Słowian
 
 ---
 
@@ -226,9 +226,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Ceramika słowiańska](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer: Fajans to technika ceramiczna z XVI-XVII wieku, nieznana w okresie wczesnego średniowiecza
-- C: no referenced answer: Porcelana pochodzi z Chin i pojawiła się w Europie dopiero w czasach nowożytnych
-- D: no referenced answer: Plastik to materiał z XX wieku, nie istniał w okresie przedpaństwowym Słowian
+- Odpowiedź B (Fajansowe wazy z malarstwem) – no referenced answer: Fajans to technika ceramiczna z XVI-XVII wieku, nieznana w okresie wczesnego średniowiecza
+- Odpowiedź C (Porcelanowe filiżanki ze złoceniami) – no referenced answer: Porcelana pochodzi z Chin i pojawiła się w Europie dopiero w czasach nowożytnych
+- Odpowiedź D (Plastikowe pojemniki na żywność) – no referenced answer: Plastik to materiał z XX wieku, nie istniał w okresie przedpaństwowym Słowian
 
 ---
 
@@ -251,9 +251,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Handel wczesnych Słowian](https://pl.wikipedia.org/wiki/Handel_w_polsce_(%C5%9Bredniowiecze)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Ameryka nie była znana w Europie przed wyprawami Kolumba (1492 rok)
-- B: no referenced answer: Słowianie nie mieli bezpośrednich kontaktów handlowych z państwami afrykańskimi w okresie przedpaństwowym
-- C: no referenced answer: Handel z Chinami odbywał się szlakiem jedwabnym, ale nie był bezpośrednio prowadzony przez Słowian z ziem polskich
+- Odpowiedź A (Z cywilizacjami amerykańskimi) – no referenced answer: Ameryka nie była znana w Europie przed wyprawami Kolumba (1492 rok)
+- Odpowiedź B (Z państwami afrykańskimi) – no referenced answer: Słowianie nie mieli bezpośrednich kontaktów handlowych z państwami afrykańskimi w okresie przedpaństwowym
+- Odpowiedź C (Z imperium chińskim) – no referenced answer: Handel z Chinami odbywał się szlakiem jedwabnym, ale nie był bezpośrednio prowadzony przez Słowian z ziem polskich
 
 ---
 
@@ -276,9 +276,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Uzbrojenie Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- B: no referenced answer: Karabiny i granaty to broń palna z XIX i XX wieku, nie istniała w okresie wczesnego średniowiecza
-- C: incorrect from Rycerstwo średniowieczne: Kusze i katapulty to broń oblężnicza znana w średniowieczu, ale nie była typowa dla Słowian w okresie plemiennym
-- D: no referenced answer: Czołgi i samoloty to broń z XX wieku, wynalazki nowoczesnej techniki
+- Odpowiedź B (Karabiny i granaty) – no referenced answer: Karabiny i granaty to broń palna z XIX i XX wieku, nie istniała w okresie wczesnego średniowiecza
+- Odpowiedź C (Kusze i katapulty) – incorrect from Rycerstwo średniowieczne: Kusze i katapulty to broń oblężnicza znana w średniowieczu, ale nie była typowa dla Słowian w okresie plemiennym
+- Odpowiedź D (Czołgi i samoloty) – no referenced answer: Czołgi i samoloty to broń z XX wieku, wynalazki nowoczesnej techniki
 
 ---
 
@@ -302,9 +302,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Plemiona polskie](https://pl.wikipedia.org/wiki/Plemiona_polskie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Słowianie: Ludy wojenne z Azji to np. Hunowie czy Awarowie, którzy najechali na Europę, ale nie byli Słowianami
-- B: no referenced answer: Cesarstwo rzymskie upadło w V wieku, przed ekspansją Słowian
-- C: no referenced answer: Społeczności arabskie nie miały związku z plemionami słowiańskimi w Europie
+- Odpowiedź A (Ludy wojenne z Azji) – incorrect from Słowianie: Ludy wojenne z Azji to np. Hunowie czy Awarowie, którzy najechali na Europę, ale nie byli Słowianami
+- Odpowiedź B (Państwa zorganizowane przez cesarza rzymskiego) – no referenced answer: Cesarstwo rzymskie upadło w V wieku, przed ekspansją Słowian
+- Odpowiedź C (Społeczności kupieckie z krajów arabskich) – no referenced answer: Społeczności arabskie nie miały związku z plemionami słowiańskimi w Europie
 
 ---
 
@@ -327,9 +327,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Kultura dawnych Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Polska piastowska: Podboje wojenne były charakterystyczne dla niektórych władców piastowskich (np. Bolesława Chrobrego), ale nie dla plemion słowiańskich w okresie przedpaństwowym
-- B: no referenced answer: Handel dalekosiężny z Azją był prowadzony szlakiem jedwabnym, ale nie przez plemiona słowiańskie z ziem polskich
-- C: no referenced answer: Górnictwo i hutnictwo na dużą skalę rozwinęło się znacznie później, w czasach nowożytnych
+- Odpowiedź A (Podboje wojenne i rabunek bogactw) – incorrect from Polska piastowska: Podboje wojenne były charakterystyczne dla niektórych władców piastowskich (np. Bolesława Chrobrego), ale nie dla plemion słowiańskich w okresie przedpaństwowym
+- Odpowiedź B (Handel dalekosiężny z krajami azjatyckimi) – no referenced answer: Handel dalekosiężny z Azją był prowadzony szlakiem jedwabnym, ale nie przez plemiona słowiańskie z ziem polskich
+- Odpowiedź C (Górnictwo i hutnictwo na dużą skalę) – no referenced answer: Górnictwo i hutnictwo na dużą skalę rozwinęło się znacznie później, w czasach nowożytnych
 
 ---
 
@@ -353,9 +353,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Kultura dawnych Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Polska piastowska: System dziedzicznej władzy książęcej rozwinął się w państwie Piastów, ale w okresie plemiennym wodzów wybierano na wiecu
-- C: no referenced answer: W systemie plemiennym nie było księcia z absolutną władzą, a decyzje podejmowano na wiecu
-- D: no referenced answer: Wiec był zgromadzeniem wszystkich wolnych mężczyzn, a nie tylko wojowników
+- Odpowiedź A (Wieczne rządy jednego wodza) – incorrect from Polska piastowska: System dziedzicznej władzy książęcej rozwinął się w państwie Piastów, ale w okresie plemiennym wodzów wybierano na wiecu
+- Odpowiedź C (Rada starszych wyznaczona przez księcia) – no referenced answer: W systemie plemiennym nie było księcia z absolutną władzą, a decyzje podejmowano na wiecu
+- Odpowiedź D (Zgromadzenie tylko wojowników przed wyprawą) – no referenced answer: Wiec był zgromadzeniem wszystkich wolnych mężczyzn, a nie tylko wojowników
 
 ---
 
@@ -378,9 +378,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Kultura dawnych Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Ceramika słowiańska charakteryzowała się brakiem uchwytów, a naczynia z dwoma uchwytami to typowa ceramika z innych kultur
-- C: no referenced answer: Słowianie wytwarzali różne naczynia, nie tylko małe kubki, ale również większe naczynia do przechowywania żywności
-- D: no referenced answer: Złocenie ceramiki nie było praktykowane przez Słowian w okresie przedpaństwowym
+- Odpowiedź A (Naczynia z dwoma uchwytami i pokrywą) – no referenced answer: Ceramika słowiańska charakteryzowała się brakiem uchwytów, a naczynia z dwoma uchwytami to typowa ceramika z innych kultur
+- Odpowiedź C (Tylko małe kubki do picia) – no referenced answer: Słowianie wytwarzali różne naczynia, nie tylko małe kubki, ale również większe naczynia do przechowywania żywności
+- Odpowiedź D (Duże wazy zdobione złotem) – no referenced answer: Złocenie ceramiki nie było praktykowane przez Słowian w okresie przedpaństwowym
 
 ---
 
@@ -403,9 +403,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Kultura dawnych Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- B: incorrect from Chrystianizacja: Chrzest Polski w 966 roku przyjął chrześcijaństwo łacińskie (zachodnie), a nie prawosławne (wschodnie)
-- C: no referenced answer: Islam nie dotarł do ziem polskich w okresie przedpaństwowym Słowian
-- D: no referenced answer: Judaizm nie był religią Słowian, choć Żydzi pojawili się na ziemiach polskich znacznie później
+- Odpowiedź B (Chrześcijaństwo prawosławne) – incorrect from Chrystianizacja: Chrzest Polski w 966 roku przyjął chrześcijaństwo łacińskie (zachodnie), a nie prawosławne (wschodnie)
+- Odpowiedź C (Islam) – no referenced answer: Islam nie dotarł do ziem polskich w okresie przedpaństwowym Słowian
+- Odpowiedź D (Judaizm) – no referenced answer: Judaizm nie był religią Słowian, choć Żydzi pojawili się na ziemiach polskich znacznie później
 
 ---
 
@@ -428,9 +428,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Opole to nie nazwa plemienia, ale jednostka organizacji społecznej mniejsza niż plemię
-- C: no referenced answer: Opole to jednostka terytorialna, a nie nazwa grodowca
-- D: no referenced answer: Opole to nie tytuł, ale wspólnota terytorialna
+- Odpowiedź A (Nazwa plemienia) – no referenced answer: Opole to nie nazwa plemienia, ale jednostka organizacji społecznej mniejsza niż plemię
+- Odpowiedź C (Nazwa grodowca) – no referenced answer: Opole to jednostka terytorialna, a nie nazwa grodowca
+- Odpowiedź D (Tytuł wodza plemienia) – no referenced answer: Opole to nie tytuł, ale wspólnota terytorialna
 
 ---
 
@@ -453,9 +453,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Kultura dawnych Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Grody nie były głównie przeznaczone do handlu, choć mogły pełnić funkcje handlowe
-- B: incorrect from Polska piastowska: W okresie plemiennym nie było książąt, a grody pełniły głównie funkcje obronne
-- D: no referenced answer: Słowianie nie budowali świątyń, a kult religijny odbywał się w "świętych gajach"
+- Odpowiedź A (Do celów handlowych i przechowywania towarów) – no referenced answer: Grody nie były głównie przeznaczone do handlu, choć mogły pełnić funkcje handlowe
+- Odpowiedź B (Jako siedziby książąt i miejsce produkcji) – incorrect from Polska piastowska: W okresie plemiennym nie było książąt, a grody pełniły głównie funkcje obronne
+- Odpowiedź D (Jako miejsca kultu religijnego) – no referenced answer: Słowianie nie budowali świątyń, a kult religijny odbywał się w "świętych gajach"
 
 ---
 
@@ -478,9 +478,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Kapłani pełnili funkcje religijne, a nie wojskowe
-- B: no referenced answer: Dowódców wojskowych wybierano na wiecu, a nie automatycznie mianowano najstarszego rodu
-- D: incorrect from Polska piastowska: System dziedzicznej władzy książęcej rozwinął się później, w okresie państwowości Piastów
+- Odpowiedź A (Kapłan (żerca)) – no referenced answer: Kapłani pełnili funkcje religijne, a nie wojskowe
+- Odpowiedź B (Najstarszy rodu) – no referenced answer: Dowódców wojskowych wybierano na wiecu, a nie automatycznie mianowano najstarszego rodu
+- Odpowiedź D (Książę dziedziczny) – incorrect from Polska piastowska: System dziedzicznej władzy książęcej rozwinął się później, w okresie państwowości Piastów
 
 ---
 
@@ -503,9 +503,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Chrystianizacja: Dagome Iudex to dokument z ok. 990 roku, późniejszy niż Vita s. Adalberti
-- C: no referenced answer: Gesta Hammaburgensis Adama z Bremy pochodzi z lat 1075-1080, późniejsza niż Vita s. Adalberti
-- D: no referenced answer: Powieść minionych lat Nestora to źródło z 1113 roku, najpóźniejsze z wymienionych
+- Odpowiedź A (Dagome Iudex) – incorrect from Chrystianizacja: Dagome Iudex to dokument z ok. 990 roku, późniejszy niż Vita s. Adalberti
+- Odpowiedź C (Gesta Hammaburgensis) – no referenced answer: Gesta Hammaburgensis Adama z Bremy pochodzi z lat 1075-1080, późniejsza niż Vita s. Adalberti
+- Odpowiedź D (Powieść minionych lat) – no referenced answer: Powieść minionych lat Nestora to źródło z 1113 roku, najpóźniejsze z wymienionych
 
 ---
 
@@ -528,9 +528,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Słowianie: Goplanie mieli 400 grodów według Geografa Bawarskiego, co było drugą co do wielkości liczbą
-- B: no referenced answer: Zuireani to plemię wymienione przez Geografa Bawarskiego z mniejszą liczbą grodów
-- D: no referenced answer: Thadesi to plemię z mniejszą liczbą grodów niż Stadici
+- Odpowiedź A (Glopeani/Goplanie – 400 grodów) – incorrect from Słowianie: Goplanie mieli 400 grodów według Geografa Bawarskiego, co było drugą co do wielkości liczbą
+- Odpowiedź B (Zuireani – 325 grodów) – no referenced answer: Zuireani to plemię wymienione przez Geografa Bawarskiego z mniejszą liczbą grodów
+- Odpowiedź D (Thadesi – ponad 200 grodów) – no referenced answer: Thadesi to plemię z mniejszą liczbą grodów niż Stadici
 
 ---
 
@@ -553,9 +553,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: "Civitates" nie oznaczało tylko grodów, ale szersze wspólnoty terytorialne
-- C: no referenced answer: Prawa miejskie nie istniały w IX wieku, a "civitates" oznaczało osady, a nie miasta w nowożytnym sensie
-- D: no referenced answer: W IX wieku nie było państwa słowiańskiego z podziałami administracyjnymi
+- Odpowiedź A (Wyłącznie grody warowne i zamki) – no referenced answer: "Civitates" nie oznaczało tylko grodów, ale szersze wspólnoty terytorialne
+- Odpowiedź C (Miasta na prawach miejskich) – no referenced answer: Prawa miejskie nie istniały w IX wieku, a "civitates" oznaczało osady, a nie miasta w nowożytnym sensie
+- Odpowiedź D (Podziały administracyjne państwa) – no referenced answer: W IX wieku nie było państwa słowiańskiego z podziałami administracyjnymi
 
 ---
 
@@ -578,9 +578,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Nie ma dowodów na to, że nazwa "Polanie" jest błędem translatorskim
-- B: no referenced answer: Teoria o legendarnym założycielu Polu nie jest powszechnie akceptowana w nauce
-- D: incorrect from Polska piastowska: Zjazd gnieźnieński odbył się w roku 1000, a nazwa "Polanie" była używana wcześniej
+- Odpowiedź A (Nazwa jest błędem translatorskim) – no referenced answer: Nie ma dowodów na to, że nazwa "Polanie" jest błędem translatorskim
+- Odpowiedź B (Nazwa pochodzi od imienia założyciela) – no referenced answer: Teoria o legendarnym założycielu Polu nie jest powszechnie akceptowana w nauce
+- Odpowiedź D (Nazwa nadana przez Ottona III) – incorrect from Polska piastowska: Zjazd gnieźnieński odbył się w roku 1000, a nazwa "Polanie" była używana wcześniej
 
 ---
 
@@ -604,9 +604,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Geograf Bawarski](https://pl.wikipedia.org/wiki/Geograf_Bawarski) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Według Geografa Bawarskiego Goplanie mieli 400 grodów, co było drugą co do wielkości liczbą
-- C: no referenced answer: Goplanie zamieszkiwali tereny Wielkopolski, a nie Śląska
-- D: no referenced answer: Nie ma dowodów na to, że Goplanie byli bezpośrednimi przodkami Piastów
+- Odpowiedź A (Goplanie byli małym plemieniem) – no referenced answer: Według Geografa Bawarskiego Goplanie mieli 400 grodów, co było drugą co do wielkości liczbą
+- Odpowiedź C (Goplanie zamieszkiwali Śląsk) – no referenced answer: Goplanie zamieszkiwali tereny Wielkopolski, a nie Śląska
+- Odpowiedź D (Goplanie byli przodkami Piastów) – no referenced answer: Nie ma dowodów na to, że Goplanie byli bezpośrednimi przodkami Piastów
 
 ---
 
@@ -629,9 +629,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Teoria o pochodzeniu od "sclavus" (niewolnik) jest alternatywna, ale nie wyjaśnia tożsamości etnicznej Słowian
-- C: no referenced answer: Nie ma historycznych dowodów na rzekę o nazwie Słowa, od której wywodziłaby się nazwa Słowian
-- D: no referenced answer: Nazwa "Słowianie" jest endoetnonimem (nazwą własną), a nie egzoetnonimem nadanym przez Germanów
+- Odpowiedź A (Nazwa od "niewolnik") – no referenced answer: Teoria o pochodzeniu od "sclavus" (niewolnik) jest alternatywna, ale nie wyjaśnia tożsamości etnicznej Słowian
+- Odpowiedź C (Nazwa od rzeki Słowa) – no referenced answer: Nie ma historycznych dowodów na rzekę o nazwie Słowa, od której wywodziłaby się nazwa Słowian
+- Odpowiedź D (Nazwa nadana przez Germanów) – no referenced answer: Nazwa "Słowianie" jest endoetnonimem (nazwą własną), a nie egzoetnonimem nadanym przez Germanów
 
 ---
 
@@ -655,9 +655,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Geograf Bawarski nie był Polakiem, lecz frankońskim mnichem z IX wieku
-- C: incorrect from Polska piastowska: Bolesław Chrobry żył w późniejszym okresie (X/XI wiek), a dokument powstał w IX wieku
-- D: no referenced answer: Geograf Bawarski nie był Grekiem, lecz frankońskim mnichem
+- Odpowiedź A (Polski kronikarz z X wieku) – no referenced answer: Geograf Bawarski nie był Polakiem, lecz frankońskim mnichem z IX wieku
+- Odpowiedź C (Dokument na życzenie Chrobrego) – incorrect from Polska piastowska: Bolesław Chrobry żył w późniejszym okresie (X/XI wiek), a dokument powstał w IX wieku
+- Odpowiedź D (Współczesny geograf grecki) – no referenced answer: Geograf Bawarski nie był Grekiem, lecz frankońskim mnichem
 
 ---
 
@@ -682,9 +682,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Nie ma dowodów na przeludnienie praojczyzny słowiańskiej jako główną przyczynę ekspansji
-- C: no referenced answer: Poszukiwanie lepszych terenów rolniczych mogło być czynnikiem, ale nie było możliwe bez upadku dominacji huńskiej
-- D: no referenced answer: Cesarstwo rzymskie upadło w V wieku, a ekspansja Słowian rozpoczęła się później
+- Odpowiedź A (Przeludnienie) – no referenced answer: Nie ma dowodów na przeludnienie praojczyzny słowiańskiej jako główną przyczynę ekspansji
+- Odpowiedź C (Lepsze tereny rolnicze) – no referenced answer: Poszukiwanie lepszych terenów rolniczych mogło być czynnikiem, ale nie było możliwe bez upadku dominacji huńskiej
+- Odpowiedź D (Najazdy rzymskie) – no referenced answer: Cesarstwo rzymskie upadło w V wieku, a ekspansja Słowian rozpoczęła się później
 
 ---
 
@@ -708,9 +708,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Plemiona polskie](https://pl.wikipedia.org/wiki/Plemiona_polskie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Cesarstwo rzymskie upadło przed ekspansją Słowian
-- C: no referenced answer: Ludy germańskie nie wyginęły, lecz migrowały lub zostały wchłonięte
-- D: no referenced answer: Ekspansja doprowadziła do powstania wielu plemion, a nie jednego zjednoczonego państwa
+- Odpowiedź A (Zniszczenie cesarstwa rzymskiego) – no referenced answer: Cesarstwo rzymskie upadło przed ekspansją Słowian
+- Odpowiedź C (Wymarcie ludów germańskich) – no referenced answer: Ludy germańskie nie wyginęły, lecz migrowały lub zostały wchłonięte
+- Odpowiedź D (Powstanie zjednoczonego państwa) – no referenced answer: Ekspansja doprowadziła do powstania wielu plemion, a nie jednego zjednoczonego państwa
 
 ---
 
@@ -733,9 +733,9 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Kultura dawnych Słowian](https://pl.wikipedia.org/wiki/Kultura_dawnych_S%C5%82owian) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Słowianie nie budowali kamiennych zamków, a Germanie nie używali tylko drewnianych chat
-- C: no referenced answer: Słowianie znali metal i wytwarzali bron żelazną
-- D: no referenced answer: Słowianie nie mieszkali w jurtach, a Germanie nie budowali domów murowanych
+- Odpowiedź A (Kamienne zamki, drewniane chaty) – no referenced answer: Słowianie nie budowali kamiennych zamków, a Germanie nie używali tylko drewnianych chat
+- Odpowiedź C (Słowianie nie znali metalu) – no referenced answer: Słowianie znali metal i wytwarzali bron żelazną
+- Odpowiedź D (Jurtamy, domy murowane) – no referenced answer: Słowianie nie mieszkali w jurtach, a Germanie nie budowali domów murowanych
 
 ---
 
@@ -759,6 +759,6 @@ Dziedzictwo tego okresu obejmuje etnogenezę Polaków i innych narodów zachodni
 - [Plemiona polskie](https://pl.wikipedia.org/wiki/Plemiona_polskie) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Okres plemienny był kluczowy dla formowania się państwowości polskiej
-- B: no referenced answer: Okres plemienny nie był okresem anarchii, lecz czasu tworzenia się struktur protopaństwowych
-- D: incorrect from Chrystianizacja: Polska przyjęła chrześcijaństwo łacińskie (zachodnie), a nie bizantyńskie (prawosławne)
+- Odpowiedź A (Nie miał znaczenia) – no referenced answer: Okres plemienny był kluczowy dla formowania się państwowości polskiej
+- Odpowiedź B (Okres anarchii) – no referenced answer: Okres plemienny nie był okresem anarchii, lecz czasu tworzenia się struktur protopaństwowych
+- Odpowiedź D (Kultura bizantyńska) – incorrect from Chrystianizacja: Polska przyjęła chrześcijaństwo łacińskie (zachodnie), a nie bizantyńskie (prawosławne)

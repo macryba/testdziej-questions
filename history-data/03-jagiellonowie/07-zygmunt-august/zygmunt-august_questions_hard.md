@@ -47,9 +47,9 @@ Oceń, w jakim stopniu śmierć Zygmunta II Augusta bezpotomna wpłynęła na zm
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Wolna elekcja: Monarchia elekcyjna praktycznie osłabiła pozycję monarchy, ponieważ król był zależny od szlachty i musiał respektować jej przywileje
-- C: incorrect from Wolna elekcja: Pomija fundamentalną zmianę – wcześniej król był dziedziczny, teraz wybierany, co znacznie zmieniło jego pozycję i relację z szlachtą
-- D: no referenced answer: System szlachecki nie został obalony, monarchia elekcyjna go wzmocniła; nie było natychmiastowego przewrotu
+- Odpowiedź A (Zmiana na monarchię elekcyjną znacząco wzmocniła pozycję monarchy) – incorrect from Wolna elekcja: Monarchia elekcyjna praktycznie osłabiła pozycję monarchy, ponieważ król był zależny od szlachty i musiał respektować jej przywileje
+- Odpowiedź C (Zmiana ustroju nie miała znaczącego wpływu na pozycję monarchy) – incorrect from Wolna elekcja: Pomija fundamentalną zmianę – wcześniej król był dziedziczny, teraz wybierany, co znacznie zmieniło jego pozycję i relację z szlachtą
+- Odpowiedź D (Monarchia elekcyjna doprowadziła do natychmiastowego przewrotu) – no referenced answer: System szlachecki nie został obalony, monarchia elekcyjna go wzmocniła; nie było natychmiastowego przewrotu
 
 ---
 
@@ -75,9 +75,9 @@ Wyprawa poswolska (1557) była demonstracją siły, która zmusiła inflancką g
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Wojna o Inflanty: Wojna o Inflanty wybuchła po traktacie pozwolskim i trwała od 1558 do 1583 roku (ponad 20 lat)
-- C: no referenced answer: Działania Zygmunta Augusta miały pewne skutki (demonstracja siły, tymczasowy sojusz), choć niewystarczające dla długotrwałego pokoju
-- D: no referenced answer: Sojusz z Turcją nie dotyczył bezpieczeństwa wschodniego ani Inflant
+- Odpowiedź A (Wyprawa poswolska i traktat pozwolski całkowicie rozwiązały problem) – incorrect from Wojna o Inflanty: Wojna o Inflanty wybuchła po traktacie pozwolskim i trwała od 1558 do 1583 roku (ponad 20 lat)
+- Odpowiedź C (Polityka Zygmunta Augusta była całkowicie nieskuteczna) – no referenced answer: Działania Zygmunta Augusta miały pewne skutki (demonstracja siły, tymczasowy sojusz), choć niewystarczające dla długotrwałego pokoju
+- Odpowiedź D (Problem bezpieczeństwa rozwiązany przez sojusz z Imperium Osmańskim) – no referenced answer: Sojusz z Turcją nie dotyczył bezpieczeństwa wschodniego ani Inflant
 
 ---
 
@@ -103,9 +103,9 @@ Największym osiągnięciem Zygmunta Augusta była unia lubelska (1569), która 
 - https://pl.wikipedia.org/wiki/Unia_lubelska_1569
 
 **Analiza odpowiedzi błędnych:**
-- B: incorrect from Wojna o Inflanty: Wojna o Inflanty nie zakończyła się pełnym zwycięstwem Polski, lecz przedłużającym się konfliktem (1558-1583)
-- C: incorrect from Wojna o Inflanty i Unia lubelska: Nie było trwałego pokoju z Rosją (wojna trwała do 1583), a unia lubelska była największym osiągnięciem Zygmunta Augusta
-- D: no referenced answer: Kryzys gospodarczy nie był głównym elementem dziedzictwa Zygmunta Augusta; głównym problemem był brak potomka
+- Odpowiedź B (Osiągnięciem: zwycięstwo w wojnie o Inflanty) – incorrect from Wojna o Inflanty: Wojna o Inflanty nie zakończyła się pełnym zwycięstwem Polski, lecz przedłużającym się konfliktem (1558-1583)
+- Odpowiedź C (Osiągnięciem: pokój z Rosją; niepowodzeniem: unia lubelska) – incorrect from Wojna o Inflanty i Unia lubelska: Nie było trwałego pokoju z Rosją (wojna trwała do 1583), a unia lubelska była największym osiągnięciem Zygmunta Augusta
+- Odpowiedź D (Osiągnięciem: tolerancja religijna; niepowodzeniem: brak reform) – no referenced answer: Kryzys gospodarczy nie był głównym elementem dziedzictwa Zygmunta Augusta; głównym problemem był brak potomka
 
 ---
 
@@ -131,9 +131,9 @@ Sprawa małżeństwa z Barbarą Radziwiłłówną miała charakter nie tylko oso
 - https://pl.wikipedia.org/wiki/Barbara_Radziwiłłówna
 
 **Analiza odpowiedzi błędnych:**
-- A: no referenced answer: Konflikt pokazał ograniczenia władzy królewskiej, a nie jej wzmocnienie; monarcha musiał uwzględniać opinię magnaterii
-- B: no referenced answer: Sprawa dotyczyła relacji monarchy z magnaterią i wykazała, że władza królewska jest ograniczona
-- D: no referenced answer: Monarchia nie została obalona, system polityczny nie uległ zmianie; Zygmunt August pozostał królem do śmierci
+- Odpowiedź A (Konflikt wzmocnił pozycję monarchy) – no referenced answer: Konflikt pokazał ograniczenia władzy królewskiej, a nie jej wzmocnienie; monarcha musiał uwzględniać opinię magnaterii
+- Odpowiedź B (Konflikt nie miał wpływu na pozycję monarchy) – no referenced answer: Sprawa dotyczyła relacji monarchy z magnaterią i wykazała, że władza królewska jest ograniczona
+- Odpowiedź D (Konflikt doprowadził do obalenia monarchy) – no referenced answer: Monarchia nie została obalona, system polityczny nie uległ zmianie; Zygmunt August pozostał królem do śmierci
 
 ---
 
@@ -158,9 +158,9 @@ Gotthard Kettler był ostatnim wielkim mistrzem zakonu inflanckiego. W 1561 roku
 - https://pl.wikipedia.org/wiki/Wojna_o_Inflanty_(1558%E2%80%931583)
 
 **Analiza odpowiedzi błędnych:**
-- B: incorrect from Wojna trzynastoletnia: Wielki mistrz zakonu krzyżackiego w Prusach (1511-1525), który po sekularyzacji został księciem Prus Książęcych; nie był związany z zakonem inflanckim
-- C: incorrect from Grunwald: Wielki mistrz zakonu krzyżackiego z XIII wieku (1210-1239), twórca potęgi zakonu; żył ponad 300 lat przed Kettlerem
-- D: incorrect from Grunwald: Wielki mistrz zakonu krzyżackiego z XIV wieku (1351-1382), panujący w okresie największej potęgi państwa krzyżackiego; żył około 200 lat przed Kettlerem
+- Odpowiedź B (Albrecht Hohenzollern) – incorrect from Wojna trzynastoletnia: Wielki mistrz zakonu krzyżackiego w Prusach (1511-1525), który po sekularyzacji został księciem Prus Książęcych; nie był związany z zakonem inflanckim
+- Odpowiedź C (Hermann von Salza) – incorrect from Grunwald: Wielki mistrz zakonu krzyżackiego z XIII wieku (1210-1239), twórca potęgi zakonu; żył ponad 300 lat przed Kettlerem
+- Odpowiedź D (Winrich von Kniprode) – incorrect from Grunwald: Wielki mistrz zakonu krzyżackiego z XIV wieku (1351-1382), panujący w okresie największej potęgi państwa krzyżackiego; żył około 200 lat przed Kettlerem
 
 ---
 **Koniec pytań poziom trudny.**

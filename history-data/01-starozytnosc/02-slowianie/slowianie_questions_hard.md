@@ -43,9 +43,9 @@ Słowianie przybyli na terytoria polskie w drugiej połowie VI wieku wzdłuż ł
 **Wyjaśnienie:** Teoria autochtoniczna (prowadzona przez badaczy polskich takich jak Józef Kostrzewski) zakłada, że Słowianie zamieszkiwali tereny między Odrą a Bugiem od czasów prahistorycznych i są spadkobiercami kultur localnych jak kultura łużycka. Teoria allochtoniczna głosi, że przed wędrówkami Słowianie zamieszkiwali obszar wschodniej, a ich prakolebka znajdowała się w dorzeczu środkowego Dniepru, skąd wyprawili się na zachód w V-VI wieku. Obecnie większość badaczy skłania się ku wersji allochtonicznej z elementami ciągłości genetycznej na terenie Polski.
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from no referenced answer: Niedorzeczna odpowiedź – teorie naukowe dotyczą pochodzenia Słowian z Europy (wschód lub tereny polskie), nie Azji ani Ameryki
-- B: incorrect from Słowianie: Odwrócenie definicji – teoria autochtoniczna wiąże Słowian z terenami Polski (Odra-Bug), a allochtoniczna z migracją ze wschodu (Dniepr)
-- D: incorrect from Słowianie: Obie teorie są błędne – autochtoniczna dotyczy terenów polskich, allochtoniczna migracji ze wschodu, nie Bałkanów ani Skandynawii
+- Odpowiedź A (Teoria autochtoniczna zakazuje przybycia Słowian z Azji, allochtoniczna z Ameryki) – incorrect from no referenced answer: Niedorzeczna odpowiedź – teorie naukowe dotyczą pochodzenia Słowian z Europy (wschód lub tereny polskie), nie Azji ani Ameryki
+- Odpowiedź B (Teoria autochtoniczna wywodzi Słowian znad Dniepru, allochtoniczna z terenów Polski) – incorrect from Słowianie: Odwrócenie definicji – teoria autochtoniczna wiąże Słowian z terenami Polski (Odra-Bug), a allochtoniczna z migracją ze wschodu (Dniepr)
+- Odpowiedź D (Teoria autochtoniczna twierdzi, że Słowianie pochodzą z Bałkanów, allochtoniczna z Skandynawii) – incorrect from Słowianie: Obie teorie są błędne – autochtoniczna dotyczy terenów polskich, allochtoniczna migracji ze wschodu, nie Bałkanów ani Skandynawii
 
 **Źródła:**
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
@@ -68,9 +68,9 @@ Słowianie przybyli na terytoria polskie w drugiej połowie VI wieku wzdłuż ł
 **Wyjaśnienie:** Proces transformacji państwowej u Słowian na ziemiach polskich przebiegał inaczej ze względu na specyficzną sytuację geopolityczną: oddalenie od centrów cywilizacyjnych (Rzym, Konstantynopol), późne zetknięcie z chrześcijaństwem (966 roku) oraz brak wcześniejszych struktur państwowych pod wpływem rzymskim. W przeciwieństwie do ludów germańskich, które wchodziły w skład cesarstwa rzymskiego i tworzyły królestwa na jego gruzach, Słowianie w Polsce rozwijali się samodzielnie, co wpłynęło na specyficzną strukturę państwa wczesnopiastowskiego (silna rola monarchy przy zachowaniu elementów demokracji plemiennej).
 
 **Analiza odpowiedzi błędnych:**
-- A: incorrect from Słowianie: Niedokładne – Słowianie mieli kontakt z chrześcijaństwem (przez Bizancjum i państwa zachodnie), ale kluczowa była specyficzna sytuacja geopolityczna
-- C: incorrect from Słowianie: Błędna – Słowianie nie odrzucili chrześcijaństwa, tylko proces ich chrystianizacji przebiegał później niż u ludów zachodnich
-- D: incorrect from Słowianie: Nieudowodniona – Słowianie mieli rozwinięte rolnictwo, garncarstwo i obróbkę metalu, różnica leżała w strukturze politycznej i cywilizacyjnej
+- Odpowiedź A (Z powodu braku kontaktów z cesarstwem rzymskim i chrześcijaństwem) – incorrect from Słowianie: Niedokładne – Słowianie mieli kontakt z chrześcijaństwem (przez Bizancjum i państwa zachodnie), ale kluczowa była specyficzna sytuacja geopolityczna
+- Odpowiedź C (Ponieważ Słowianie odrzucili chrześcijaństwo na rzecz pogaństwa) – incorrect from Słowianie: Błędna – Słowianie nie odrzucili chrześcijaństwa, tylko proces ich chrystianizacji przebiegał później niż u ludów zachodnich
+- Odpowiedź D (Z powodu słabszego rozwoju gospodarczego niż u Germanów czy Celtów) – incorrect from Słowianie: Nieudowodniona – Słowianie mieli rozwinięte rolnictwo, garncarstwo i obróbkę metalu, różnica leżała w strukturze politycznej i cywilizacyjnej
 
 **Źródła:**
 - [Słowianie](https://pl.wikipedia.org/wiki/S%C5%82owianie) - Wikipedia Polska
@@ -94,9 +94,9 @@ Słowianie przybyli na terytoria polskie w drugiej połowie VI wieku wzdłuż ł
 **Wyjaśnienie:** Brak Polan w spisie Geografa Bawarskiego jest interpretowany na dwa sposoby: albo Polanie byli podporządkowani innym plemionom (np. Goplanom), albo nazwa "Polanie" pojawiła się później jako określenie mieszkańców Polski, a nie konkretnego plemienia. Ta debata ma znaczenie dla zrozumienia procesu powstawania państwowości polskiej i transformacji od struktur plemiennych do państwowych.
 
 **Analiza odpowiedzi błędnych:**
-- B: incorrect from Słowianie: Nadinterpretacja – brak wzmianki nie dowodzi nieistnienia, może wskazywać na podporządkowanie innym plemionom lub późniejsze wyodrębnienie się nazwy
-- C: incorrect from Słowianie: Nieuzasadniona – Geograf Bawarski jest uznawany za wiarygodne źródło do poznania struktury plemiennej, mimo że nie wymienia wszystkich plemion
-- D: incorrect from Słowianie: Mało prawdopodobna – Geograf Bawarski opisywał plemiona słowiańskie, a tereny Polan leżały w centrum jego zainteresowań
+- Odpowiedź B (Ponieważ dowodzi, że Polanie nigdy nie istnieli jako plemię) – incorrect from Słowianie: Nadinterpretacja – brak wzmianki nie dowodzi nieistnienia, może wskazywać na podporządkowanie innym plemionom lub późniejsze wyodrębnienie się nazwy
+- Odpowiedź C (Ponieważ Geograf Bawarski nie był rzetelnym źródłem historycznym) – incorrect from Słowianie: Nieuzasadniona – Geograf Bawarski jest uznawany za wiarygodne źródło do poznania struktury plemiennej, mimo że nie wymienia wszystkich plemion
+- Odpowiedź D (Ponieważ Polanie zamieszkiwali tereny poza zasięgiem jego zainteresowania) – incorrect from Słowianie: Mało prawdopodobna – Geograf Bawarski opisywał plemiona słowiańskie, a tereny Polan leżały w centrum jego zainteresowań
 
 **Źródła:**
 - [Polanie](https://pl.wikipedia.org/wiki/Polanie) - Wikipedia Polska
