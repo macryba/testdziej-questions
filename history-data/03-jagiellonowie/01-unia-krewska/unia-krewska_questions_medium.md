@@ -60,25 +60,25 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 ### Pytanie 2
 **Question ID:** Q-UNIAKRE-M-002
 
-**Pytanie:** Kto był wielkim księciem litewskim przed objęciem tronu polskiego przez Jagiełłę?
+**Pytanie:** Kto był wielkim księciem litewskim bezpośrednio przed Jagiełłą?
 
 **A.** Witold
 **B.** Kiejstut
-**C.** Jagiełło
-**D.** Olgierd
+**C.** Olgierd
+**D.** Giedymin
 
-**Poprawna odpowiedź:** D
+**Poprawna odpowiedź:** C
 
-**Wyjaśnienie:** Przed objęciem tronu polskiego Jagiełło był wielkim księciem litewskim. Był on synem Olgierda i wnukiem Giedymina. Witold był jego bratem stryjecznym, Kiejstut – stryjem, a Olgierd – ojcem Jagiełły.
+**Wyjaśnienie:** Olgierd był wielkim księciem litewskim w latach 1345-1377, bezpośrednio przed Jagiełłą. Po śmierci Olgierda w 1377 roku władzę objął Jagiełło. Giedymin był dziadkiem Jagiełły (zm. 1341), Kiejstut był stryjem Jagiełły i współrządcą z Olgierdem, a Witold był bratem stryjecznym Jagiełły.
 
 **Źródła:**
-- https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o
 - https://pl.wikipedia.org/wiki/Olgierd_Giedyminowicz
+- https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Witold) – no referenced answer: Witold był bratem stryjecznym Jagiełły i wielkim księciem litewskim od 1401 roku (unia wileńska)
-- Odpowiedź B (Kiejstut) – no referenced answer: Kiejstut był stryjem Jagiełły i wielkim księciem litewskim w latach 1345-1382 (ojciec Witolda)
-- Odpowiedź C (Jagiełło) – CORRECT ANSWER: Jagiełło był wielkim księciem litewskim w latach 1377-1434 (przed koronacją na króla Polski)
+- Odpowiedź A (Witold) – no referenced answer: Witold był bratem stryjecznym Jagiełły (synem Kiejstuta), wielkim księciem litewskim od 1401 roku (unia wileńska)
+- Odpowiedź B (Kiejstut) – no referenced answer: Kiejstut był stryjem Jagiełły i wielkim księciem litewskim w latach 1345-1382 (współrządził z Olgierdem)
+- Odpowiedź D (Giedymin) – incorrect from Giedymin: Giedymin był dziadkiem Jagiełły i wielkim księciem litewskim w latach 1316-1341
 
 ---
 
@@ -87,12 +87,12 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Pytanie:** Jakie główne postanowienia zawierał akt krewski?
 
-**A.** Chrzest Jagiełły, chrystianizacja Litwy, małżeństwo z Jadwigą, objęcie tronu polskiego
-**B.** Podział Litwy między Polskę a Zakon Krzyżacki
+**A.** Podział Litwy między Polskę a Zakon Krzyżacki
+**B.** Chrzest Jagiełły, chrystianizacja Litwy, małżeństwo z Jadwigą, objęcie tronu polskiego
 **C.** Wypowiedzenie wojny Moskwie i zajęcie Kijowa
 **D.** Przeniesienie stolicy Litwy z Wilna do Krakowa
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Akt krewski przewidywał cztery główne postanowienia: chrzest Jagiełły w obrządku katolickim, chrystianizację Litwy, poślubienie królowej polskiej Jadwigi Andegaweńskiej oraz objęcie tronu polskiego przez Jagiełłę. Nie przewidywał podziału Litwy ani wypowiedzenia wojny Moskwie.
 
@@ -101,8 +101,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 - https://pl.wikipedia.org/wiki/Unia_w_Krewie
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Chrzest Jagiełły, chrystianizacja Litwy, małżeństwo z Jadwigą, objęcie tronu polskiego) – CORRECT ANSWER: To są główne postanowienia unii krewskiej
-- Odpowiedź B (Podział Litwy między Polskę a Zakon Krzyżacki) – no referenced answer: Niehistoryczne – Zakon Krzyżacki nie uzyskał nigdy ziem litewskich
+- Odpowiedź A (Podział Litwy między Polskę a Zakon Krzyżacki) – no referenced answer: Niehistoryczne – Zakon Krzyżacki nie uzyskał nigdy ziem litewskich
+- Odpowiedź C (Wypowiedzenie wojny Moskwie i zajęcie Kijowa) – no referenced answer: Niehistoryczne – akt krewski nie przewidywał wojny z Moskwą
 - Odpowiedź D (Przeniesienie stolicy Litwy z Wilna do Krakowa) – no referenced answer: Niehistoryczne – Wilno pozostało stolicą Litwy
 
 ---
@@ -117,7 +117,7 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 **C.** Planowała podbój Rusi Halickiej
 **D.** Zależało jej na kolonizacji Litwy
 
-**Poprawna odpowiedź:** D
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Polska szlachta popierała małżeństwo z Jagiełłą, ponieważ dążyła do sojuszu z Litwą przeciwko wspólnemu wrogowi – Zakonowi Krzyżackiemu. Ponadto unia z Litwą oznaczała wzmocnienie militarne i dostęp do wschodnich rynków handlowych. Szlachta była przeciwna sojuszowi z prokrzyżackimi Habsburgami (Wilhelm).
 
@@ -126,9 +126,9 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-litewskie
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Dążyła do sojuszu z Litwą przeciwko Zakonowi Krzyżackiemu) – CORRECT ANSWER: To był główny powód poparcia małżeństwa przez szlachtę
 - Odpowiedź B (Chciała uniknąć sojuszu z Habsburgami) – no referenced answer: Szlachta rzeczywiście była przeciwna małżeństwu z Wilhelmem Habsburgiem (sojusznikiem Zakonu Krzyżackiego), ale to nie był główny powód poparcia dla Jagiełły
 - Odpowiedź C (Planowała podbój Rusi Halickiej) – no referenced answer: Rus Halicka była już pod panowaniem Węgier (Andegawenów) od 1340 roku
+- Odpowiedź D (Zależało jej na kolonizacji Litwy) – no referenced answer: Niehistoryczne – celem był sojusz militarny, nie kolonizacja
 
 ---
 
@@ -142,7 +142,7 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 **C.** W 1410 roku
 **D.** W 1413 roku
 
-**Poprawna odpowiedź:** D
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Chrzest Litwy i utworzenie biskupstwa w Wilnie miało miejsce w 1387 roku. Jagiełło po koronacji podjął decyzję o chrystianizacji Litwy. Bojarzy przyjęli chrzest 22 lutego 1387 roku, a następnie utworzono biskupstwo w Wilnie. 1386 to rok chrztu Jagiełły, 1410 to bitwa pod Grunwaldem, a 1413 to unia horodelska.
 
@@ -152,8 +152,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Analiza odpowiedzi błędnych:**
 - Odpowiedź A (W 1386 roku) – correct for: Chrzest Jagiełły (1386)
-- Odpowiedź B (W 1387 roku) – CORRECT ANSWER: Chrzest Litwy i utworzenie biskupstwa wileńskiego (1387)
 - Odpowiedź C (W 1410 roku) – incorrect from Grunwald: Bitwa pod Grunwaldem (1410)
+- Odpowiedź D (W 1413 roku) – correct for: Unia horodelska (1413)
 
 ---
 
@@ -163,8 +163,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 **Pytanie:** Kto był bratem stryjecznym Jagiełły i wielkim księciem litewskim od 1401 roku?
 
 **A.** Kiejstut
-**B.** Witold
-**C.** Olgierd
+**B.** Olgierd
+**C.** Witold
 **D.** Świdrygiełło
 
 **Poprawna odpowiedź:** C
@@ -177,7 +177,7 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Kiejstut) – no referenced answer: Kiejstut był stryjem Jagiełły (ojciec Witolda), wielkim księciem litewskim w latach 1345-1382
-- Odpowiedź B (Witold) – CORRECT ANSWER: Witold był bratem stryjecznym Jagiełły i wielkim księciem litewskim od 1401 roku (unia wileńska)
+- Odpowiedź B (Olgierd) – no referenced answer: Olgierd był ojcem Jagiełły, wielkim księciem litewskim w latach 1345-1377
 - Odpowiedź D (Świdrygiełło) – no referenced answer: Świdrygiełło był młodszym bratem Jagiełły, wielkim księciem litewskim w latach 1430-1432
 
 ---
@@ -188,11 +188,11 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 **Pytanie:** Jaki obrządek chrześcijański przyjął Jagiełło i dlaczego było to ważne?
 
 **A.** Prawosławny, aby zyskać poparcie Moskwy
-**B.** Katolicki, aby włączyć Litwę do kręgu kultury zachodniej
-**C.** Greckokatolicki, jako kompromis między Wschodem a Zachodem
-**D.** Ariański, aby przeciwstawić się Kościołowi rzymskiemu
+**B.** Greckokatolicki, jako kompromis między Wschodem a Zachodem
+**C.** Ariański, aby przeciwstawić się Kościołowi rzymskiemu
+**D.** Katolicki, aby włączyć Litwę do kręgu kultury zachodniej
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Jagiełło przyjął chrzest w obrządku katolickim (rzymskim), co miało fundamentalne znaczenie – włączyło Litwę do kręgu kultury zachodniej i cywilizacji łacińskiej. Wybór rytu łacińskiego, a nie prawosławnego, zadecydował o późniejszej przynależności kulturowej Litwy do Europy Zachodniej, a nie Wschodu.
 
@@ -202,8 +202,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Prawosławny, aby zyskać poparcie Moskwy) – no referenced answer: Niehistoryczne – Jagiełło nie przyjął chrztu prawosławnego; Moskwa była rywalem Litwy, nie sojusznikiem
-- Odpowiedź C (Greckokatolicki, jako kompromis między Wschodem a Zachodem) – no referenced answer: Niehistoryczne – Kościół greckokatolicki (unicki) powstał dopiero w 1596 roku (unia brzeska)
-- Odpowiedź D (Ariański, aby przeciwstawić się Kościołowi rzymskiemu) – no referenced answer: Niehistoryczne – Arianizm pojawił się w Polsce dopiero w XVI wieku (reformacja, 1565)
+- Odpowiedź B (Greckokatolicki, jako kompromis między Wschodem a Zachodem) – no referenced answer: Niehistoryczne – Kościół greckokatolicki (unicki) powstał dopiero w 1596 roku (unia brzeska)
+- Odpowiedź C (Ariański, aby przeciwstawić się Kościołowi rzymskiemu) – no referenced answer: Niehistoryczne – Arianizm pojawił się w Polsce dopiero w XVI wieku (reformacja, 1565)
 
 ---
 
@@ -212,10 +212,10 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Pytanie:** Co uregulowała unia wileńska z 1401 roku?
 
-**A.** Witold został wielkim księciem litewskim pod zwierzchnictwem Jagiełły
-**B.** Litwa została inkorporowana do Polski
-**C.** Jagiełło zrzekł się tronu polskiego
-**D.** Zakon Krzyżacki zyskał Żmudź
+**A.** Litwa została inkorporowana do Polski
+**B.** Jagiełło zrzekł się tronu polskiego
+**C.** Zakon Krzyżacki zyskał Żmudź
+**D.** Witold został wielkim księciem litewskim pod zwierzchnictwem Jagiełły
 
 **Poprawna odpowiedź:** D
 
@@ -226,9 +226,9 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 - https://pl.wikipedia.org/wiki/Witold
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Witold został wielkim księciem litewskim pod zwierzchnictwem Jagiełły) – CORRECT ANSWER: To uregulowała unia wileńska z 1401 roku
-- Odpowiedź B (Litwa została inkorporowana do Polski) – no referenced answer: Niehistoryczne dla unii wileńskiej – inkorporacja nastąpiła dopiero w 1569 roku (unia lubelska)
-- Odpowiedź C (Jagiełło zrzekł się tronu polskiego) – no referenced answer: Niehistoryczne – Jagiełło panował do śmierci w 1434 roku
+- Odpowiedź A (Litwa została inkorporowana do Polski) – no referenced answer: Niehistoryczne dla unii wileńskiej – inkorporacja nastąpiła dopiero w 1569 roku (unia lubelska)
+- Odpowiedź B (Jagiełło zrzekł się tronu polskiego) – no referenced answer: Niehistoryczne – Jagiełło panował do śmierci w 1434 roku
+- Odpowiedź C (Zakon Krzyżacki zyskał Żmudź) – no referenced answer: Niehistoryczne – Żmudź była przedmiotem sporu, ale nie została przekazana Zakonowi w unii wileńskiej
 
 ---
 
@@ -238,13 +238,13 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 **Pytanie:** Jaki był główny skutek bitwy pod Grunwaldem dla stosunków polsko-krzyżackich?
 
 **A.** Zakon Krzyżacki zajął Mazowsze
-**B.** Potęga militarna Zakonu Krzyżackiego została złamana
-**C.** Polska odstąpiła Pomorze Zakonowi
+**B.** Polska odstąpiła Pomorze Zakonowi
+**C.** Potęga militarna Zakonu Krzyżackiego została złamana
 **D.** Zakon Krzyżacki zyskał przewagę na Bałtyku
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
-**Wyjaśnienie:** Głównym skutkiem bitwy pod Grunwaldem (1410) było złamanie potęgi militarnej Zakonu Krzyżackiego. Po raz pierwszy Zakon przegrał wielką woję z Polską, co osłabiło jego pozycję polityczną w Europie. Nie zajął on Mazowsza, ani nie zyskał przewagi na Bałtyku – wręcz przeciwnie.
+**Wyjaśnienie:** Głównym skutkiem bitwy pod Grunwaldem (1410) było złamanie potęgi militarnej Zakonu Krzyżackiego. Po raz pierwszy Zakon przegrał wielką wojnę z Polską, co osłabiło jego pozycję polityczną w Europie. Nie zajął on Mazowsza, ani nie zyskał przewagi na Bałtyku – wręcz przeciwnie.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
@@ -252,7 +252,7 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Zakon Krzyżacki zajął Mazowsze) – no referenced answer: Niehistoryczne – Mazowsze nie było zajęte przez Zakon Krzyżacki
-- Odpowiedź C (Polska odstąpiła Pomorze Zakonowi) – no referenced answer: Niehistoryczne – Polska nie odstąpiła Pomorza; wojna zakończyła się pokojem toruńskim (1411)
+- Odpowiedź B (Polska odstąpiła Pomorze Zakonowi) – no referenced answer: Niehistoryczne – Polska nie odstąpiła Pomorza; wojna zakończyła się pokojem toruńskim (1411)
 - Odpowiedź D (Zakon Krzyżacki zyskał przewagę na Bałtyku) – no referenced answer: Niehistoryczne – po Grunwaldzie Zakon stracił przewagę na Bałtyku
 
 ---
@@ -262,12 +262,12 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Pytanie:** Co przewidywała unia horodelska z 1413 roku?
 
-**A.** Zrównanie bojarów litewskich w prawach ze szlachtą polską
-**B.** Podział Litwy między Polskę a Zakon Krzyżacki
+**A.** Podział Litwy między Polskę a Zakon Krzyżacki
+**B.** Zrównanie bojarów litewskich w prawach ze szlachtą polską
 **C.** Koronacja Witolda na króla Litwy
 **D.** Przeniesienie stolicy Litwy do Trok
 
-**Poprawna odpowiedź:** D
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Unia horodelska z 1413 roku przewidywała zrównanie bojarów litewskich w prawach ze szlachtą polską oraz przyjęcie przez nich herbu. Umacniało to związki polsko-litewskie i integrację elit litewskich z polską szlachtą. Nie przewidywała podziału Litwy ani koronacji Witolda.
 
@@ -276,9 +276,9 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 - https://pl.wikipedia.org/wiki/Herb_Giedymina
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Zrównanie bojarów litewskich w prawach ze szlachtą polską) – CORRECT ANSWER: To przewidywała unia horodelska z 1413 roku
-- Odpowiedź B (Podział Litwy między Polskę a Zakon Krzyżacki) – no referenced answer: Niehistoryczne – Zakon Krzyżacki nie uzyskał ziem litewskich
+- Odpowiedź A (Podział Litwy między Polskę a Zakon Krzyżacki) – no referenced answer: Niehistoryczne – Zakon Krzyżacki nie uzyskał ziem litewskich
 - Odpowiedź C (Koronacja Witolda na króla Litwy) – no referenced answer: Niehistoryczne – Witold nie był koronowany na króla Litwy
+- Odpowiedź D (Przeniesienie stolicy Litwy do Trok) – no referenced answer: Niehistoryczne – stolica Litwy pozostała w Wilnie
 
 ---
 
@@ -287,9 +287,9 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Pytanie:** Jakie ziemie odzyskała Polska na mocy pokoju toruńskiego (1411)?
 
-**A.** Ziemię dobrzyńską i Żmudź
-**B.** Pomorze Gdańskie i Warmię
-**C.** Mazowsze i Kujawy
+**A.** Pomorze Gdańskie i Warmię
+**B.** Mazowsze i Kujawy
+**C.** Ziemię dobrzyńską i Żmudź
 **D.** Ruś Halicką i Wołyń
 
 **Poprawna odpowiedź:** C
@@ -301,8 +301,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 - https://pl.wikipedia.org/Ziemia_dobrzy%C5%84ska
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Ziemię dobrzyńską i Żmudź) – CORRECT ANSWER: To Polska odzyskała na mocy pokoju toruńskiego (1411)
-- Odpowiedź B (Pomorze Gdańskie i Warmię) – no referenced answer: Pomorze Gdańskie zostało odzyskane dopiero w 1466 roku (pokój toruński 1466)
+- Odpowiedź A (Pomorze Gdańskie i Warmię) – no referenced answer: Pomorze Gdańskie zostało odzyskane dopiero w 1466 roku (pokój toruński 1466)
+- Odpowiedź B (Mazowsze i Kujawy) – no referenced answer: Niehistoryczne – Mazowsze i Kujawy nie były przedmiotem pokoju toruńskiego 1411
 - Odpowiedź D (Ruś Halicką i Wołyń) – no referenced answer: Ruś Halicka i Wołyń nie były przedmiotem pokoju toruńskiego 1411
 
 ---
@@ -313,11 +313,11 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 **Pytanie:** Dlaczego chrystianizacja Litwy była tak ważna dla Polski?
 
 **A.** Pozwalała na pobieranie podatków z Litwy
-**B.** Odbierała Zakonowi Krzyżackiemu pretekst do krucjat
-**C.** Umożliwiała podbój Moskwy
-**D.** Dawała dostęp do Morza Czarnego
+**B.** Umożliwiała podbój Moskwy
+**C.** Dawała dostęp do Morza Czarnego
+**D.** Odbierała Zakonowi Krzyżackiemu pretekst do krucjat
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Chrystianizacja Litwy była kluczowa, ponieważ odbierała Zakonowi Krzyżackiemu główny pretekst do krucjat – od lat 80. XIV wieku Zakon prowadził "wojny z poganami" przeciwko Litwie. Po chrzcie Litwy (1387) Krzyżacy nie mogli już uzasadniać swoich wypraw religijnymi motywami.
 
@@ -327,8 +327,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Pozwalała na pobieranie podatków z Litwy) – no referenced answer: Niehistoryczne w kontekście chrystianizacji – Litwa zachowała autonomię podziału podatkowego
-- Odpowiedź C (Umożliwiała podbój Moskwy) – no referenced answer: Niehistoryczne – Polska nie planowała podboju Moskwy; Moskwa była rywalem Litwy
-- Odpowiedź D (Dawała dostęp do Morza Czarnego) – no referenced answer: Niehistoryczne – Morze Czarne było poza zasięgiem wpływów polsko-litewskich w tym okresie
+- Odpowiedź B (Umożliwiała podbój Moskwy) – no referenced answer: Niehistoryczne – Polska nie planowała podboju Moskwy; Moskwa była rywalem Litwy
+- Odpowiedź C (Dawała dostęp do Morza Czarnego) – no referenced answer: Niehistoryczne – Morze Czarne było poza zasięgiem wpływów polsko-litewskich w tym okresie
 
 ---
 
@@ -362,9 +362,9 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Pytanie:** Co się stało z Jadwigą po małżeństwie z Jagiełłą?
 
-**A.** Zmarła przy porodzie w 1399 roku
-**B.** została zmuszona do rezygnacji z tronu
-**C.** Uciekła do Węgier
+**A.** Została zmuszona do rezygnacji z tronu
+**B.** Uciekła do Węgier
+**C.** Zmarła przy porodzie w 1399 roku
 **D.** Wstąpiła do klasztoru
 
 **Poprawna odpowiedź:** C
@@ -376,8 +376,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 - https://pl.wikipedia.org/wiki/El%C5%BCbieta_Bonifacja
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Zmarła przy porodzie w 1399 roku) – CORRECT ANSWER: Jadwiga zmarła 17 lipca 1399 roku przy porodzie
-- Odpowiedź B (została zmuszona do rezygnacji z tronu) – no referenced answer: Niehistoryczne – Jadwiga nie rezygnowała z tronu; zmarła jako królowa
+- Odpowiedź A (Została zmuszona do rezygnacji z tronu) – no referenced answer: Niehistoryczne – Jadwiga nie rezygnowała z tronu; zmarła jako królowa
+- Odpowiedź B (Uciekła do Węgier) – no referenced answer: Niehistoryczne – Jadwiga nie uciekła na Węgry; zmarła w Krakowie
 - Odpowiedź D (Wstąpiła do klasztoru) – no referenced answer: Niehistoryczne – Jadwiga nie wstąpiła do klasztoru; zmarła przy porodzie
 
 ---
@@ -387,12 +387,12 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 
 **Pytanie:** Jakie były główne konsekwencje unii krewskiej dla rozwoju Rzeczypospolitej?
 
-**A.** Powstanie dynastii Jagiellonów i wzmocnienie militarne państwa
-**B.** Rozbiór dzielnicowy Polski
-**C.** Utrata niepodległości Polski
+**A.** Rozbiór dzielnicowy Polski
+**B.** Utrata niepodległości Polski
+**C.** Powstanie dynastii Jagiellonów i wzmocnienie militarne państwa
 **D.** Włączenie Polski do Świętego Cesarstwa Rzymskiego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Główną konsekwencją unii krewskiej było powstanie dynastii Jagiellonów (panującej do 1572) oraz wzmocnienie militarne państwa, co pozwoliło na zwycięstwo pod Grunwaldem (1410). Unia dała początek potężnemu państwu polsko-litewskiemu, które stało się jedną z głównych potęg w Europie XV wieku.
 
@@ -401,8 +401,8 @@ Następstwa unii krewskiej były dalekosiężne. Dała ona początek dynastii Ja
 - https://pl.wikipedia.org/wiki/Jagiellonowie
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Powstanie dynastii Jagiellonów i wzmocnienie militarne państwa) – CORRECT ANSWER: To były główne konsekwencje unii krewskiej
-- Odpowiedź C (Utrata niepodległości Polski) – no referenced answer: Niehistoryczne – Unia krewska wzmocniła Polskę, nie spowodowała utraty niepodległości
+- Odpowiedź A (Rozbiór dzielnicowy Polski) – no referenced answer: Niehistoryczne – unia krewska zakończyła okres rozbicia dzielnicowego, wzmocniła państwo
+- Odpowiedź B (Utrata niepodległości Polski) – no referenced answer: Niehistoryczne – Unia krewska wzmocniła Polskę, nie spowodowała utraty niepodległości
 - Odpowiedź D (Włączenie Polski do Świętego Cesarstwa Rzymskiego) – no referenced answer: Niehistoryczne – Polska nie została włączona do Świętego Cesarstwa Rzymskiego
 
 ---
