@@ -28,12 +28,12 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 **Question ID:** Q-WAR-001
 **Pytanie:** W którym roku Władysław III Warneńczyk został koronowany na króla Polski?
 
-**A.** W 1434 roku
-**B.** W 1410 roku
-**C.** W 1440 roku
-**D.** W 1424 roku
+**A.** W 1410 roku
+**B.** W 1424 roku
+**C.** W 1434 roku
+**D.** W 1440 roku
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Władysław III został koronowany 25 lipca 1434 roku w katedrze wawelskiej przez prymasa Wojciecha Jastrzębca, kilka miesięcy po śmierci swojego ojca Władysława Jagiełły.
 
@@ -41,9 +41,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (1410) – to rok bitwy pod Grunwaldem
-- Odpowiedź C (1440) – to rok wyboru Władysława na króla Węgier
-- Odpowiedź D (1424) – to rok urodzin Władysława III
+- Odpowiedź A (1410) – incorrect from Grunwald: rok bitwy pod Grunwaldem z Zakonem Krzyżackim
+- Odpowiedź B (1424) – no referenced answer: rok urodzin Władysława III Warneńczyka
+- Odpowiedź D (1440) – incorrect from Warneńczyk: rok wyboru Władysława na króla Węgier
 
 ---
 
@@ -52,12 +52,12 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 **Question ID:** Q-WAR-002
 **Pytanie:** Kto sprawował faktyczną władzę w Polsce podczas małoletniości Władysława III Warneńczyka?
 
-**A.** Zofia Holszańska
-**B.** Zbigniew Oleśnicki
+**A.** Zbigniew Oleśnicki
+**B.** Zofia Holszańska
 **C.** Kazimierz Jagiellończyk
 **D.** Spytko z Melsztyna
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Biskup krakowski Zbigniew Oleśnicki jako regent i przewodniczący Rady Opiekuńczej decydował o polityce wewnętrznej i zagranicznej w czasie małoletniości króla.
 
@@ -66,9 +66,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/Zbigniew_Ole%C5%9Bnicki
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Zofia Holszańska) – matka króla, liderka opozycji przeciw Oleśnickiemu
-- Odpowiedź C (Kazimierz Jagiellończyk) – młodszy brat Władysława, w tym czasie wielki książę litewski
-- Odpowiedź D (Spytko z Melsztyna) – przywódca konfederacji anty-Oleśnickiej, zginął w bitwie pod Grotnikami
+- Odpowiedź B (Zofia Holszańska) – no referenced answer: matka króla, liderka opozycji przeciw Oleśnickiemu
+- Odpowiedź C (Kazimierz Jagiellończyk) – no referenced answer: młodszy brat Władysława, w tym czasie wielki książę litewski
+- Odpowiedź D (Spytko z Melsztyna) – no referenced answer: przywódca konfederacji anty-Oleśnickiej, zginął w bitwie pod Grotnikami
 
 ---
 
@@ -90,9 +90,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (pod Grunwaldem) – bitwa z 1410 roku z Zakonem Krzyżackim
-- Odpowiedź C (pod Warną) – bitwa z 1444 roku, w której zginął Władysław Warneńczyk
-- Odpowiedź D (pod Koronowo) – bitwa z 1410 roku podczas wojny polsko-krzyżackiej
+- Odpowiedź A (pod Grunwaldem) – incorrect from Grunwald: bitwa z 1410 roku z Zakonem Krzyżackim
+- Odpowiedź C (pod Warną) – incorrect from Warneńczyk: bitwa z 1444 roku, w której zginął Władysław Warneńczyk
+- Odpowiedź D (pod Koronowo) – incorrect from Grunwald: bitwa z 1410 roku podczas wojny polsko-krzyżackiej
 
 ---
 
@@ -102,11 +102,11 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 **Pytanie:** W którym roku Władysław III Warneńczyk został wybrany na króla Węgier?
 
 **A.** W 1434 roku
-**B.** W 1440 roku
-**C.** W 1444 roku
-**D.** W 1439 roku
+**B.** W 1439 roku
+**C.** W 1440 roku
+**D.** W 1444 roku
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** W 1440 roku sejm węgierski wybrał Władysława na króla Węgier jako obrońcę przed zagrożeniem tureckim, mimo że wdowa po poprzednim królu była w ciąży.
 
@@ -114,9 +114,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (1434) – rok koronacji Władysława na króla Polski
-- Odpowiedź C (1444) – rok śmierci Warneńczyka pod Warną
-- Odpowiedź D (1439) – rok bitwy pod Grotnikami
+- Odpowiedź A (1434) – no referenced answer: rok koronacji Władysława na króla Polski
+- Odpowiedź B (1439) – incorrect from Warneńczyk: rok bitwy pod Grotnikami
+- Odpowiedź D (1444) – incorrect from Warneńczyk: rok śmierci Warneńczyka pod Warną
 
 ---
 
@@ -138,9 +138,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (z Turcją osmańską) – wojna z Turcją rozpoczęła się później, w 1443 roku
-- Odpowiedź C (z Zakonem Krzyżackim) – wojna z Krzyżakami zakończyła się pokojem w 1435 roku
-- Odpowiedź D (z książętami śląskimi) – Władysław podporządkował sobie kilku książąt śląskich w 1438 roku
+- Odpowiedź A (z Turcją osmańską) – no referenced answer: wojna z Turcją rozpoczęła się później, w 1443 roku
+- Odpowiedź C (z Zakonem Krzyżackim) – incorrect from Grunwald: wojna z Krzyżakami zakończyła się pokojem w 1435 roku
+- Odpowiedź D (z książętami śląskimi) – no referenced answer: Władysław podporządkował sobie kilku książąt śląskich w 1438 roku
 
 ---
 
@@ -187,9 +187,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (pod Grunwaldem) – bitwa z 1410 roku z Zakonem Krzyżackim
-- Odpowiedź C (pod Grotnikami) – bitwa z 1439 roku podczas wojny domowej w Polsce
-- Odpowiedź D (pod Wiedniem) – bitwa z 1683 roku, w której walczył Jan III Sobieski
+- Odpowiedź A (pod Grunwaldem) – incorrect from Grunwald: bitwa z 1410 roku z Zakonem Krzyżackim
+- Odpowiedź C (pod Grotnikami) – incorrect from Warneńczyk: bitwa z 1439 roku podczas wojny domowej w Polsce
+- Odpowiedź D (pod Wiedniem) – incorrect from Sobieski: bitwa z 1683 roku, w której walczył Jan III Sobieski
 
 ---
 
@@ -211,9 +211,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Władysław Pogrobiec) – syn Elżbiety Habsburżanki, pretendent do tronu węgierskiego
-- Odpowiedź C (Zygmunt Luksemburski) – cesarz Świętego Cesarstwa Rzymskiego, zmarł w 1437 roku
-- Odpowiedź D (Albrecht Habsburg) – król Węgier i Czech, zmarł w 1439 roku
+- Odpowiedź B (Władysław Pogrobiec) – no referenced answer: syn Elżbiety Habsburżanki, pretendent do tronu węgierskiego
+- Odpowiedź C (Zygmunt Luksemburski) – incorrect from Grunwald: cesarz Świętego Cesarstwa Rzymskiego, zmarł w 1437 roku
+- Odpowiedź D (Albrecht Habsburg) – no referenced answer: król Węgier i Czech, zmarł w 1439 roku
 
 ---
 
@@ -222,12 +222,12 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 **Question ID:** Q-WAR-009
 **Pytanie:** Dlaczego Władysław III Warneńczyk został koronowany na króla Polski w wieku zaledwie 10 lat?
 
-**A.** Ponieważ jego ojciec Władysław Jagiełło zmarł nagle, a szybko koronacja miała zabezpieczyć sukcesję tronu
-**B.** Ponieważ sejm elekcyjny wybrał go spośród wielu kandydatów
-**C.** Ponieważ zrzekł się tronu węgierskiego na rzecz Polski
-**D.** Ponieważ uzyskał specjalne dyspensę od papieża
+**A.** Ponieważ sejm elekcyjny wybrał go spośród wielu kandydatów
+**B.** Ponieważ zrzekł się tronu węgierskiego na rzecz Polski
+**C.** Ponieważ uzyskał specjalne dyspensę od papieża
+**D.** Ponieważ jego ojciec Władysław Jagiełło zmarł nagle, a szybko koronacja miała zabezpieczyć sukcesję tronu
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Po śmierci Jagiełły w 1434 roku szybko koronacja najstarszego syna miała zabezpieczyć ciągłość dynastii i zapobiec walkom o tron, mimo sprzeciwów części możnych.
 
@@ -235,9 +235,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (wybór spośród kandydatów) – nie było wolnej elekcji, był to dynastyczny sukcesja
-- Odpowiedź C (zrzeczenie się tronu) – Władysław został królem Węgier dopiero w 1440, 6 lat po koronacji polskiej
-- Odpowiedź D (dyspensa papieska) – koronacja odbyła się zgodnie z prawem, bez specjalnej dyspensy
+- Odpowiedź A (wybór spośród kandydatów) – no referenced answer: nie było wolnej elekcji, był to dynastyczny sukcesja
+- Odpowiedź B (zrzeczenie się tronu) – no referenced answer: Władysław został królem Węgier dopiero w 1440, 6 lat po koronacji polskiej
+- Odpowiedź C (dyspensa papieska) – no referenced answer: koronacja odbyła się zgodnie z prawem, bez specjalnej dyspensy
 
 ---
 
@@ -259,9 +259,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (ziemia chełmińska) – wojna z Krzyżakami zakończyła się pokojem w 1435 roku
-- Odpowiedź C (tron czeski) – w 1438 roku Czesi wybrali na króla Kazimierza Jagiellończyka, ale planu nie zrealizowano
-- Odpowiedź D (Rusz Halicka) – była już przyłączona do Polski w XIV wieku
+- Odpowiedź A (ziemia chełmińska) – incorrect from Grunwald: wojna z Krzyżakami zakończyła się pokojem w 1435 roku
+- Odpowiedź C (tron czeski) – no referenced answer: w 1438 roku Czesi wybrali na króla Kazimierza Jagiellończyka, ale planu nie zrealizowano
+- Odpowiedź D (Rusz Halicka) – no referenced answer: była już przyłączona do Polski w XIV wieku
 
 ---
 
@@ -271,11 +271,11 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 **Pytanie:** Jakie były skutki śmierci Władysława III Warneńczyka dla Polski?
 
 **A.** Natychmiastowy upadek państwa polskiego i utrata niepodległości
-**B.** Trzyletnie bezkrólewie, przejęcie władzy przez Kazimierza Jagiellończyka i osłabienie pozycji Polski na arenie międzynarodowej
-**C.** Włączenie Polski do państwa Habsburgów
-**D.** Wybuch wojny domowej między stronnictwami szlacheckimi
+**B.** Włączenie Polski do państwa Habsburgów
+**C.** Wybuch wojny domowej między stronnictwami szlacheckimi
+**D.** Trzyletnie bezkrólewie, przejęcie władzy przez Kazimierza Jagiellończyka i osłabienie pozycji Polski na arenie międzynarodowej
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Śmierć króla spowodowała trzyletnie bezkrólewie (1444-1447), po którym tron objął Kazimierz Jagiellończyk. Polska straciła wpływ na Węgry i osłabiła swoją pozycję w Europie.
 
@@ -283,9 +283,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (upadek państwa) – Polska przetrwała śmierć króla i kontynuowała istnienie
-- Odpowiedź C (państwo Habsburgów) – Habsburgowie nie przejęli władzy w Polsce
-- Odpowiedź D (wojna domowa) – nie doszło do otwartej wojny domowej po śmierci Warneńczyka
+- Odpowiedź A (upadek państwa) – no referenced answer: Polska przetrwała śmierć króla i kontynuowała istnienie
+- Odpowiedź B (państwo Habsburgów) – no referenced answer: Habsburgowie nie przejęli władzy w Polsce
+- Odpowiedź C (wojna domowa) – no referenced answer: nie doszło do otwartej wojny domowej po śmierci Warneńczyka
 
 ---
 
@@ -331,9 +331,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Zbigniew Oleśnicki) – przeciwnik konfederacji, zwyciężył w bitwie pod Grotnikami
-- Odpowiedź C (Jan Jiskra) – dowódca wojsk Elżbiety Habsburżanki na Węgrzech
-- Odpowiedź D (Kazimierz Jagiellończyk) – młodszy brat Władysława, w tym czasie wielki książę litewski
+- Odpowiedź A (Zbigniew Oleśnicki) – no referenced answer: przeciwnik konfederacji, zwyciężył w bitwie pod Grotnikami
+- Odpowiedź C (Jan Jiskra) – no referenced answer: dowódca wojsk Elżbiety Habsburżanki na Węgrzech
+- Odpowiedź D (Kazimierz Jagiellończyk) – no referenced answer: młodszy brat Władysława, w tym czasie wielki książę litewski
 
 ---
 
@@ -342,12 +342,12 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 **Question ID:** Q-WAR-014
 **Pytanie:** W którym roku Władysław Warneńczyk rozpoczął zbrojną wyprawę przeciw Turcji, która doprowadziła do zawarcia rozejmu w Segedynie?
 
-**A.** W 1440 roku
-**B.** W 1443 roku
-**C.** W 1444 roku
-**D.** W 1439 roku
+**A.** W 1439 roku
+**B.** W 1440 roku
+**C.** W 1443 roku
+**D.** W 1444 roku
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** W październiku 1443 roku Władysław rozpoczął wyprawę przeciw Turcji, odniósł kilka zwycięstw (pod Aleksinacem, Zlatnicą, Kunowicą) i zmusił sułtana Murada II do rozejmu.
 
@@ -355,9 +355,9 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (1440) – rok wyboru na króla Węgier
-- Odpowiedź C (1444) – rok drugiej, tragicznej wyprawy pod Warnę
-- Odpowiedź D (1439) – rok bitwy pod Grotnikami
+- Odpowiedź A (1439) – incorrect from Warneńczyk: rok bitwy pod Grotnikami
+- Odpowiedź B (1440) – incorrect from Warneńczyk: rok wyboru na króla Węgier
+- Odpowiedź D (1444) – incorrect from Warneńczyk: rok drugiej, tragicznej wyprawy pod Warnę
 
 ---
 
@@ -368,8 +368,8 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 
 **A.** Fakt, że jego ciało zostało odnalezione i pochowane w Krakowie
 **B.** Brak odnalezienia ciała króla i nadzieja na powrót monarchy
-**C.** Oficjalne oświadczenie sułtana tureckiego o uwolnieniu króla
-**D.** Świadectwa polskich rycerzy, którzy widzieli go uciekając z pola bitwy
+**C.** Świadectwa polskich rycerzy, którzy widzieli go uciekając z pola bitwy
+**D.** Oficjalne oświadczenie sułtana tureckiego o uwolnieniu króla
 
 **Prawidłowa odpowiedź:** B
 
@@ -379,8 +379,8 @@ Władysław III Warneńczyk (1424-1444) był najstarszym synem Władysława Jagi
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (ciało odnalezione) – ciało nigdy nie zostało odnalezione
-- Odpowiedź C (oświadczenie sułtana) – sułtan kazał odcinać głowę króla i wystawiać ją jako trofeum
-- Odpowiedź D (świadectwa rycerzy) – nie ma wiarygodnych świadectw o ucieczce króla
+- Odpowiedź A (ciało odnalezione) – no referenced answer: ciało nigdy nie zostało odnalezione
+- Odpowiedź C (świadectwa rycerzy) – no referenced answer: nie ma wiarygodnych świadectw o ucieczce króla
+- Odpowiedź D (oświadczenie sułtana) – no referenced answer: sułtan kazał odcinać głowę króla i wystawiać ją jako trofeum
 
 ---

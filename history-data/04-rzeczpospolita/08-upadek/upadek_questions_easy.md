@@ -31,22 +31,22 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Question ID:** Q-UPA-E-001
 **Pytanie:** Kto był przywódcą insurekcji kościuszkowskiej w 1794 roku?
 
-**A)** Tadeusz Kościuszko
+**A)** Hugo Kołłątaj
 **B)** Stanisław August Poniatowski
-**C)** Hugo Kołłątaj
+**C)** Tadeusz Kościuszko
 **D)** Jan Henryk Dąbrowski
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Tadeusz Kościuszko był Naczelnikiem Siły Zbrojnej Narodowej podczas insurekcji kościuszkowskiej w 1794 roku. To on złożył przysięgę na rynku krakowskim i poprowadził Polaków do walki o niepodległość.
 
 **Źródła:**
 - [Insurekcja kościuszkowska](https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Stanisław August Poniatowski był ostatnim królem Polski, ale przystąpił do konfederacji targowickiej
-- B) Hugo Kołłątaj był jednym z przywódców politycznych powstania, ale nie jego dowódcą wojskowym
-- C) Jan Henryk Dąbrowski był generałem podczas powstania, ale nie jego głównym przywódcą
+**Analiza odpowiedzi błędnych:**
+- A) Hugo Kołłątaj – incorrect from Oświecenie: Był jednym z głównych organizatorów spisku i przywódców politycznych insurekcji, ale nie jej dowódcą wojskowym
+- B) Stanisław August Poniatowski – no referenced answer: Był ostatnim królem Polski, ale przystąpił do konfederacji targowickiej i nie był przywódcą powstania
+- D) Jan Henryk Dąbrowski – incorrect from Insurekcja: Był generałem walczącym podczas insurekcji (głównie w Wielkopolsce), ale nie Naczelnikiem powstania
 
 ---
 
@@ -67,10 +67,10 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Źródła:**
 - [Insurekcja kościuszkowska](https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) 1792 to rok wojny polsko-rosyjskiej i powstania konfederacji targowickiej
-- B) 1793 to roku drugiego rozbioru Polski
-- C) 1795 to rok trzeciego rozbioru Polski i likwidacji państwa
+**Analiza odpowiedzi błędnych:**
+- A) 1792 – no referenced answer: Rok wojny polsko-rosyjskiej i powstania konfederacji targowickiej
+- B) 1793 – no referenced answer: Rok drugiego rozbioru Polski (Prusy i Rosja)
+- D) 1795 – no referenced answer: Rok trzeciego rozbioru Polski i likwidacji państwa polskiego
 
 ---
 
@@ -80,21 +80,21 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Pytanie:** Jak nazywała się konfederacja, która doprowadziła do interwencji rosyjskiej w Polsce w 1792 roku?
 
 **A)** Konfederacja barska
-**B)** Konfederacja targowicka
-**C)** Konfederacja warszawska
-**D)** Konfederacja radomska
+**B)** Konfederacja radomska
+**C)** Konfederacja targowicka
+**D)** Konfederacja warszawska
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Konfederacja targowicka została zawiązana w 1792 roku przez polskich magnatów i szlachtę przeciwną reformom Sejmu Wielkiego i Konstytucji 3 maja. Wezwała ona Rosję do interwencji, co doprowadziło do wojny polsko-rosyjskiej.
 
 **Źródła:**
 - [Konfederacja targowicka](https://pl.wikipedia.org/wiki/Konfederacja_targowicka) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Konfederacja barska była zawiązana w 1768 roku w obronie wiary katolickiej i niepodległości
-- C) Konfederacja warszawska dotyczyła innych wydarzeń historycznych
-- D) Konfederacja radomska była związana z wydarzeniami z 1767 roku
+**Analiza odpowiedzi błędnych:**
+- A) Konfederacja barska – incorrect from Oświecenie: Zawiązana w 1768 roku w obronie wiary katolickiej i niepodległości, ponad 20 lat przed konfederacją targowicką
+- B) Konfederacja radomska – incorrect from Oświecenie: Związana z wydarzeniami z 1767 roku (sejm repninowski)
+- D) Konfederacja warszawska – no referenced answer: Dotyczyła innych wydarzeń historycznych (unii personalnej z Saksonią w XVIII wieku)
 
 ---
 
@@ -103,22 +103,22 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Question ID:** Q-UPA-E-004
 **Pytanie:** Który król był ostatnim monarchą Rzeczypospolitej Obojga Narodów?
 
-**A)** Stanisław Leszczyński
-**B)** Stanisław August Poniatowski
-**C)** August III Sas
-**D)** Jan III Sobieski
+**A)** Stanisław August Poniatowski
+**B)** August III Sas
+**C)** Jan III Sobieski
+**D)** Stanisław Leszczyński
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Stanisław August Poniatowski był ostatnim królem Rzeczypospolitej Obojga Narodów, panującym w latach 1764-1795. 25 listopada 1795 roku abdykował, co zakończyło istnienie państwa polskiego.
 
 **Źródła:**
 - [Stanisław August Poniatowski](https://pl.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Stanisław Leszczyński panował w pierwszej połowie XVIII wieku
-- C) August III Sas był poprzednikiem Poniatowskiego
-- D) Jan III Sobieski panował w XVII wieku
+**Analiza odpowiedzi błędnych:**
+- B) August III Sas – incorrect from Czasy saskie: Był poprzednikiem Poniatowskiego, panując w latach 1734-1763
+- C) Jan III Sobieski – incorrect from Sobieski: Panował w XVII wieku (1674-1696), ponad 100 lat przed upadkiem Rzeczypospolitej
+- D) Stanisław Leszczyński – incorrect from XVIII wiek: Panował w pierwszej połowie XVIII wieku (1704-1709 i 1733-1734)
 
 ---
 
@@ -139,10 +139,10 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Źródła:**
 - [Rozbiory Polski](https://pl.wikipedia.org/wiki/Rozbiory_Polski) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) 1772 to rok pierwszego rozbioru Polski
-- C) 1794 to roku insurekcji kościuszkowskiej
-- D) 1795 to rok trzeciego rozbioru Polski
+**Analiza odpowiedzi błędnych:**
+- A) 1772 – no referenced answer: Rok pierwszego rozbioru Polski (Austria, Prusy, Rosja)
+- C) 1794 – no referenced answer: Rok insurekcji kościuszkowskiej
+- D) 1795 – no referenced answer: Rok trzeciego rozbioru Polski i likwidacji państwa
 
 ---
 
@@ -151,22 +151,22 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Question ID:** Q-UPA-E-006
 **Pytanie:** Gdzie Tadeusz Kościuszko ogłosił akt powstania i złożył przysięgę na rzecz walki o wolność ojczyzny?
 
-**A)** W Warszawie
-**B)** W Krakowie
+**A)** W Krakowie
+**B)** W Warszawie
 **C)** Wilnie
 **D)** W Poznaniu
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Tadeusz Kościuszko ogłosił akt powstania 24 marca 1794 roku na rynku krakowskim. Po mszy w kościele kapucynów złożył przysięgę, że odda życie za obronę ojczyzny, co zapoczątkowało insurekcję kościuszkowską.
 
 **Źródła:**
 - [Insurekcja kościuszkowska](https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Warszawa dołączyła do powstania później podczas insurekcji warszawskiej
-- C) Wilno dołączyło do powstania, ale nie było miejscem ogłoszenia aktu
-- D) Poznań nie odegrało głównej roli podczas powstania
+**Analiza odpowiedzi błędnych:**
+- B) Warszawa – no referenced answer: Dołączyła do powstania później (17 kwietnia 1794) podczas insurekcji warszawskiej
+- C) Wilno – no referenced answer: Dołączyło do powstania (23 kwietnia 1794), ale nie było miejscem ogłoszenia aktu powstania
+- D) Poznań – no referenced answer: Nie odegrało głównej roli podczas powstania Kościuszki
 
 ---
 
@@ -176,21 +176,21 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Pytanie:** Jak nazywał się słynny chłop, który walczył z kosą pod Racławicami i został chorążym?
 
 **A)** Jan Kiliński
-**B)** Bartosz Głowacki
+**B)** Kazimierz Pułaski
 **C)** Józef Piłsudski
-**D)** Kazimierz Pułaski
+**D)** Bartosz Głowacki
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Bartosz Głowacki (właściwie Wojciech Bartos Głowacki) był chłopem, który walczył z kosą pod Racławicami. Za swą odwagę Kościuszko mianował go chorążym regimentu grenadierów krakowskich, co było niezwykłym wyróżnieniem dla osoby stanu chłopskiego.
 
 **Źródła:**
 - [Bartosz Głowacki](https://pl.wikipedia.org/wiki/Bartosz_G%C5%82owacki) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Jan Kiliński był przywódcą insurekcji warszawskiej
-- C) Józef Piłsudski żył w XIX i XX wieku
-- D) Kazimierz Pułaski żył w XVIII wieku, ale nie był uczestnikiem bitwy pod Racławicami
+**Analiza odpowiedzi błędnych:**
+- A) Jan Kiliński – incorrect from Insurekcja: Był przywódcą insurekcji warszawskiej (kwiecień 1794), ale nie walczył pod Racławicami
+- B) Kazimierz Pułaski – no referenced answer: Żył w XVIII wieku (1745-1779), ale zmarł 15 lat przed bitwą pod Racławicami
+- C) Józef Piłsudski – no referenced answer: Żył w XIX i XX wieku (1867-1935), ponad 70 lat po insurekcji kościuszkowskiej
 
 ---
 
@@ -211,10 +211,10 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Źródła:**
 - [Rozbiory Polski](https://pl.wikipedia.org/wiki/Rozbiory_Polski) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Niemcy nie istniały jako państwo w XVIII wieku, a Francja nie uczestniczyła w rozbiorach
-- C) Szwecja nie uczestniczyła w rozbiorach Polski
-- D) Turcja nie brała udziału w rozbiorach
+**Analiza odpowiedzi błędnych:**
+- B) Niemcy, Francja – no referenced answer: Niemcy nie istniały jako państwo w XVIII wieku (zjednoczenie w 1871), a Francja nie uczestniczyła w rozbiorach
+- C) Szwecja – no referenced answer: Nie uczestniczyła w rozbiorach Polski
+- D) Turcja – no referenced answer: Nie brała udziału w rozbiorach Polski
 
 ---
 
@@ -235,10 +235,10 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Źródła:**
 - [Rozbiory Polski](https://pl.wikipedia.org/wiki/Rozbiory_Polski) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) 1792 to rok wojny polsko-rosyjskiej
-- B) 1793 to roku drugiego rozbioru Polski
-- C) 1794 to roku insurekcji kościuszkowskiej
+**Analiza odpowiedzi błędnych:**
+- A) 1792 – no referenced answer: Rok wojny polsko-rosyjskiej i powstania konfederacji targowickiej
+- B) 1793 – no referenced answer: Rok drugiego rozbioru Polski
+- C) 1794 – no referenced answer: Rok insurekcji kościuszkowskiej
 
 ---
 
@@ -259,10 +259,10 @@ W latach 1792-1795 Rzeczpospolita Obojga Narodów przeżywała swoje ostatnie ch
 **Źródła:**
 - [Bitwa pod Maciejowicami](https://pl.wikipedia.org/wiki/Bitwa_pod_Maciejowicami) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Bitwa pod Racławicami była zwycięstwem Polaków
-- C) Oblężenie Warszawy było późniejszym wydarzeniem
-- D) Sejm Czteroletni miał miejsce przed powstaniem
+**Analiza odpowiedzi błędnych:**
+- A) Bitwa pod Racławicami – no referenced answer: Była zwycięstwem Polaków (4 kwietnia 1794), co rozpoczęło insurekcję
+- C) Oblężenie Warszawy – no referenced answer: Było późniejszym wydarzeniem (sierpień-wrzesień 1794)
+- D) Sejm Czteroletni – incorrect from Oświecenie: Miał miejsce przed powstaniem (1788-1792), uchwalając Konstytucję 3 maja
 
 ---
 

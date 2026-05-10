@@ -30,12 +30,12 @@ Jan III Sobieski (1629-1696) był królem Polski w latach 1674-1696. Przed obję
 **Pytanie:**
 Kto był królem Polski, który poprowadził wojska na odsiecz Wiednia w 1683 roku?
 
-**A)** Jan II Kazimierz Waza
-**B)** Jan III Sobieski
+**A)** Jan III Sobieski
+**B)** Jan II Kazimierz Waza
 **C)** Michał Korybut Wiśniowiecki
 **D)** Jan Sobieski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Jan III Sobieski był królem Polski, który w 1683 roku poprowadził wojska polskie na odsiecz Wiednia. Był wybitnym wodzem, który wcześniej zasłynął jako hetman w walkach z Turkami i Tatarami. Został wybrany na króla w 1674 roku po śmierci Michała Korybuta Wiśniowieckiego. Jan II Kazimierz Waza to poprzedni król z dynastii Wazów, który abdykował w 1668 roku. Jan Sobieski to samo nazwisko, ale bez królewskiego przydomka "III".
@@ -44,10 +44,10 @@ Jan III Sobieski był królem Polski, który w 1683 roku poprowadził wojska pol
 - https://pl.wikipedia.org/wiki/Jan_III_Sobieski
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem
 
-**Analiza niepoprawnych odpowiedzi:**
-- A) Jan II Kazimierz Waza - był królem Polski w latach 1648-1668, abdykował 6 lat przed odsieczą wiedeńską
-- C) Michał Korybut Wiśniowiecki - poprzedni król Polski zmarł w 1673 roku, przed odsieczą wiedeńską
-- D) Jan Sobieski - prawidłowe nazwisko, ale brak królewskiego numeru "III"
+**Analiza odpowiedzi błędnych:**
+- B) Jan II Kazimierz Waza – incorrect from Wazowie: był królem Polski w latach 1648-1668, abdykował 6 lat przed odsieczą wiedeńską
+- C) Michał Korybut Wiśniowiecki – incorrect from Wazowie: poprzedni król Polski zmarł w 1673 roku, przed odsieczą wiedeńską
+- D) Jan Sobieski – no referenced answer: prawidłowe nazwisko, ale brak królewskiego numeru "III"
 
 ---
 
@@ -72,10 +72,10 @@ Odsiecz wiedeńska miała miejsce 12 września 1683 roku. W tej bitwie wojska po
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem
 - https://pl.wikipedia.org/wiki/Odsiecz_wiede%C5%84ska_1683
 
-**Analiza niepoprawnych odpowiedzi:**
-- A) 1673 - rok bitwy pod Chocimiem, 10 lat przed odsieczą wiedeńską
-- C) 1693 - 10 lat po odsieczy wiedeńskiej, w tym czasie Sobieski był już królem
-- D) 1703 - 7 lat po śmierci Sobieskiego, Polska była już pod panowaniem Augusta II
+**Analiza odpowiedzi błędnych:**
+- A) 1673 – incorrect from Wojny polsko-tureckie: rok bitwy pod Chocimiem, 10 lat przed odsieczą wiedeńską
+- C) 1693 – no referenced answer: 10 lat po odsieczy wiedeńskiej, w tym czasie Sobieski był już królem
+- D) 1703 – no referenced answer: 7 lat po śmierci Sobieskiego, Polska była już pod panowaniem Augusta II
 
 ---
 
@@ -87,11 +87,11 @@ Odsiecz wiedeńska miała miejsce 12 września 1683 roku. W tej bitwie wojska po
 Jaką ważną rezydencję zbudował dla siebie Jan III Sobieski niedaleko Warszawy?
 
 **A)** Zamek Królewski w Warszawie
-**B)** Pałac w Wilanowie
-**C)** Zamek w Ujazdowie
-**D)** Pałac Łazienkowski
+**B)** Zamek w Ujazdowie
+**C)** Pałac Łazienkowski
+**D)** Pałac w Wilanowie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Jan III Sobieski zbudował pałac w Wilanowie jako swoją letnią rezydencję. Wilanów to wspaniały barokowy pałac, który do dziś jest jedną z najważniejszych pamiątek po Sobieskim. Król kupił te ziemie w 1677 roku i przez wiele lat rozbudowywał pałac. Zamek Królewski w Warszawie istniał już wcześniej i był siedzibą polskich monarchów. Pałac w Ujazdowie i Łazienki zostały zbudowane później, w XVIII wieku, już za panowania dynastii Sasów i Stanisława Augusta Poniatowskiego.
@@ -100,10 +100,10 @@ Jan III Sobieski zbudował pałac w Wilanowie jako swoją letnią rezydencję. W
 - https://pl.wikipedia.org/wiki/Jan_III_Sobieski
 - https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Wilanowie
 
-**Analiza niepoprawnych odpowiedzi:**
-- A) Zamek Królewski w Warszawie - istniał od XVI wieku, nie został zbudowany przez Sobieskiego
-- C) Zamek w Ujazdowie - zbudowany w XVIII wieku za czasów Stanisława Augusta Poniatowskiego
-- D) Pałac Łazienkowski - również z XVIII wieku, związany z Stanisławem Augustem Poniatowskim
+**Analiza odpowiedzi błędnych:**
+- A) Zamek Królewski w Warszawie – no referenced answer: istniał od XVI wieku, nie został zbudowany przez Sobieskiego
+- B) Zamek w Ujazdowie – incorrect from Oświecenie: zbudowany w XVIII wieku za czasów Stanisława Augusta Poniatowskiego
+- C) Pałac Łazienkowski – incorrect from Oświecenie: również z XVIII wieku, związany z Stanisławem Augustem Poniatowskim
 
 ---
 
@@ -128,10 +128,10 @@ Jan III Sobieski walczył przeciwko Turkom (Imperium Osmańskiemu) podczas odsie
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem
 - https://pl.wikipedia.org/wiki/Odsiecz_wiede%C5%84ska_1683
 
-**Analiza niepoprawnych odpowiedzi:**
-- A) Przeciwko Szwedom - Polska walczyła ze Szwecją podczas potopu szwedzkiego w latach 1655-1660
-- B) Przeciwko Rosji - wojny z Rosją miały miejsce w innych okresach, głównie XVII i XX wieku
-- D) Przeciwko Prusom - Prusy Książęce były sojusznikiem Polski w tym okresie
+**Analiza odpowiedzi błędnych:**
+- A) Przeciwko Szwedom – incorrect from Potop: Polska walczyła ze Szwecją podczas potopu szwedzkiego w latach 1655-1660
+- B) Przeciwko Rosji – no referenced answer: wojny z Rosją miały miejsce w innych okresach, głównie XVII i XX wieku
+- D) Przeciwko Prusom – no referenced answer: Prusy Książęce były sojusznikiem Polski w tym okresie
 
 ---
 
@@ -143,11 +143,11 @@ Jan III Sobieski walczył przeciwko Turkom (Imperium Osmańskiemu) podczas odsie
 Jaką część armii polskiej, która szczególnie wsławiła się podczas odsieczy wiedeńskiej, prowadził osobiście Jan III Sobieski?
 
 **A)** Piechotę
-**B)** Husarię
+**B)** Dragonię
 **C)** Artylerię
-**D)** Dragonię
+**D)** Husarię
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Jan III Sobieski osobiście poprowadził husarię - polską kawalerię ciężkozbrojną, która była elitą wojsk polskich. Husaria słynęła z skrzydlatych zbroi i bitewnej skuteczności. Podczas odsieczy wiedeńskiej to właśnie gwałtowna szarża husarii rozstrzygnęła bitwę na korzyść wojsk chrześcijańskich. Husarzy uderzyli na tureckie pozycje i zmusili ich do ucieczki. Piechota, artyleria i dragonia również walczyły w tej bitwie, ale to husaria odegrała kluczową rolę w rozstrzygnięciu starcia.
@@ -156,10 +156,10 @@ Jan III Sobieski osobiście poprowadził husarię - polską kawalerię ciężkoz
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem
 - https://pl.wikipedia.org/wiki/Husaria
 
-**Analiza niepoprawnych odpowiedzi:**
-- A) Piechota - ważna część armii, ale nie była decydującym czynnikiem w bitwie
-- C) Artylerię - wspomagała działania wojsk, ale nie rozstrzygnęła bitwy
-- D) Dragonię - rodzaj kawalerii średniej, który wspierał husarię, ale nie był główną siłą
+**Analiza odpowiedzi błędnych:**
+- A) Piechota – no referenced answer: ważna część armii, ale nie była decydującym czynnikiem w bitwie
+- B) Dragonia – no referenced answer: rodzaj kawalerii średniej, który wspierał husarię, ale nie był główną siłą
+- C) Artylerię – no referenced answer: wspomagała działania wojsk, ale nie rozstrzygnęła bitwy
 
 ---
 

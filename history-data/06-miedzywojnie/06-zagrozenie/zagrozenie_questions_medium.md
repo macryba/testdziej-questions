@@ -47,12 +47,12 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Pytanie:** Pakt Ribbentrop-Mołotow, tajny układ między Niemcami a ZSRR, został podpisany w którym dniu?
 
-**A)** 1 września 1939
-**B)** 17 września 1939
-**C)** 23 sierpnia 1939
-**D)** 3 marca 1939
+**A)** 3 marca 1939
+**B)** 23 sierpnia 1939
+**C)** 1 września 1939
+**D)** 17 września 1939
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Pakt Ribbentrop-Mołotow został podpisany 23 sierpnia 1939 roku w Moskwie przez ministra spraw zagranicznych III Rzeszy Joachima von Ribbentropa i ludowego komisarza spraw zagranicznych ZSRR Wiaczesława Mołotowa. Formalnie był to pakt o nieagresji, ale tajny protokół przewidywał podział stref wpływów w Europie Wschodniej, w tym czwarty rozbiór Polski. ZSRR miał otrzymać wschodnie ziemie Polski, a Niemcy zachodnie. Pakt ten umożliwił obajom agresorom atak na Polskę bez obawy przed interwencją drugiego strony.
 
@@ -61,9 +61,9 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Inwazja_na_Polsk%C4%99_w_1939_roku_%E2%80%93_chronologicznie
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) 1 września 1939 to dzień niemieckiego ataku na Polskę, nie podpisania paktu
-- B) 17 września 1939 to dzień agresji ZSRR na Polskę, dwa tygodnie po podpisaniu paktu
-- D) 3 marca 1939 to data bez znaczenia w tym kontekście
+- A) 3 marca 1939 to data bez znaczenia w tym kontekście
+- C) 1 września 1939 to dzień niemieckiego ataku na Polskę, nie podpisania paktu
+- D) 17 września 1939 to dzień agresji ZSRR na Polskę, dwa tygodnie po podpisaniu paktu
 
 ## Pytanie 3
 
@@ -72,11 +72,11 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 **Pytanie:** Kto był premierem Wielkiej Brytanii w okresie polityki ustępstw (appeasement) wobec Hitlera, znany z podpisania układu monachijskiego we wrześniu 1938 roku?
 
 **A)** Winston Churchill
-**B)** Neville Chamberlain
-**C)** Anthony Eden
-**D)** Stanley Baldwin
+**B)** Anthony Eden
+**C)** Stanley Baldwin
+**D)** Neville Chamberlain
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Neville Chamberlain był premierem Wielkiej Brytanii od maja 1937 do maja 1940 roku. Był on głównym architektem polityki ustępstw (appeasement) wobec Hitlera, wierząc, że ustępstwa zaspokoją niemieckie żądania terytorialne i zapobiegną wojnie. We wrześniu 1938 roku podpisał z Hitlerem układ monachijski, który zezwolił na aneksję przez Niemcy sudeckich ziem Czechosłowacji (tzw. Kraju Sudetów). Chamberlain wrócił do Londynu z hasłem "peace for our time" (pokój dla naszego pokolenia), ale pakt ten jedynie opóźnił wojnę. Zastąpił go w maju 1940 roku Winston Churchill, który prowadził twardą politykę wobec Hitlera.
 
@@ -86,8 +86,8 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Winston Churchill zastąpił Chamberlaina w maju 1940 roku, był przeciwnikiem appeasementu
-- C) Anthony Eden był ministrem spraw zagranicznych w rządzie Chamberlaina, ale nie premierem
-- D) Stanley Baldwin był premierem przed Chamberlainem (1923-1924, 1935-1937)
+- B) Anthony Eden był ministrem spraw zagranicznych w rządzie Chamberlaina, ale nie premierem
+- C) Stanley Baldwin był premierem przed Chamberlainem (1923-1924, 1935-1937)
 
 ## Pytanie 4
 
@@ -96,11 +96,11 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 **Pytanie:** Józef Beck, minister spraw zagranicznych Polski w latach 1932-1939, słynął z powiedzenia:
 
 **A)** "Polska dla Polaków – Niemcy do Niemiec"
-**B)** "Nie wchodzimy w cudze cudze, ani w cudzo cudzość"
-**C)** "Wielka Polska od morza do morza"
+**B)** "Wielka Polska od morza do morza"
+**C)** "Nie wchodzimy w cudze cudze, ani w cudzo cudzość"
 **D)** "Za wolność waszą i naszą, aż do ostatniej kropli krwi"
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Józef Beck, minister spraw zagranicznych Polski w latach 1932-1939, był głównym architektem polskiej polityki zagranicznej w okresie zagrożenia wojną. Słynął z powiedzenia: "Nie wchodzimy w cudze cudze, ani w cudzo cudzość", co wyrażało zasadę polskiej polityki zagranicznej – nieufność wobec gwarancji międzynarodowych i dążenie do samodzielnego zabezpieczenia państwa. Beck wierzył, że Polska powinna polegać na politykę równowagi między Niemcami a ZSRR, nie wiążąc się sojuszami z żadnym z tych mocarstw. Odniósł niemieckie żądania odstąpienia Gdańska i udziału w podziale Czechosłowacji (październik 1938), co zaostrzało relacje polsko-niemieckie. Jego polityka zagraniczna okazała się niewystarczająca dla ochrony Polski przed atakiem we wrześniu 1939 roku.
 
@@ -110,7 +110,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) "Polska dla Polaków – Niemcy do Niemców" było hasłem nacjonalistycznej endecji, nie sanacji
-- C) "Wielka Polska od morza do morza" to hasło dotyczące granic II RP (1921-1939), ale nie jest to cytat Becka
+- B) "Wielka Polska od morza do morza" to hasło dotyczące granic II RP (1921-1939), ale nie jest to cytat Becka
 - D) To hasło powstałe w czasie powstania styczniowego, ale nie jest to cytat Becka
 
 ## Pytanie 5
@@ -144,11 +144,11 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 **Pytanie:** Polityka ustępstw (appeasement), prowadzona przez Wielką Brytanię i Francję wobec Hitlera w latach 1938-1939, polegała na:
 
 **A)** Zbrojnym ataku na Niemcy w celu odzyskania terytoriów utraconych po I wojnie
-**B)** Ustępstaniu wobec żądań Hitlera w nadziei na uniknięcie wojny
-**C)** Sojuszu wojskowym z Polską przeciwko Niemcom
+**B)** Sojuszu wojskowym z Polską przeciwko Niemcom
+**C)** Ustępstaniu wobec żądań Hitlera w nadziei na uniknięcie wojny
 **D)** Eksporcie terytorium Czechosłowacji na rzecz Niemiec
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Polityka ustępstw (appeasement), prowadzona przez Wielką Brytanię i Francję wobec Hitlera w latach 1938-1939, polegała na ustępowaniu wobec żądań Hitlera w nadziei na uniknięcie wojny. W marcu 1938 roku Zachód zgodził się na aneksję Austrii przez Niemcy (Anschluss). We wrześniu 1938 roku, podczas układu monachijskiego, Wielka Brytania i Francja zmusiły Czechosłowację do odstąpienia Kraju Sudetów na rzecz Niemiec. W marcu 1939 roku Hitler złamał resztę Czechosłowacji. Polityka ta była motywowana chęcią uniknięcia kolejnej wojny, ale w rzeczywistości tylko opóźniła ją i dała Hitlerowi czas na wzmocnienie swojej armii. Zachód nie był przygotowany na wojnę i nie chciał angażować się w konflikcie z Hitlerem. Polska odmówiła polityki ustępstw i nie zgodziła się na żądania Niemiec, co zostało ukarane jako "brak kompromisu".
 
@@ -159,7 +159,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Zachód nie prowadził polityki zbrojnej przeciwko Niemcom, lecz ustępstwa
-- C) Zachód nie zawarł sojuszu wojskowego z Polską przed wrześniem 1939
+- B) Zachód nie zawarł sojuszu wojskowego z Polską przed wrześniem 1939
 - D) Ekspansja terytorium Czechosłowacji była skutkiem ustępstwa, nie celem samej polityki
 
 ## Pytanie 7
@@ -218,11 +218,11 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 **Pytanie:** Polska podpisała sojusz wojskowy z Francją w 1921 roku i z Rumunią w 1925 roku. Głównym celem tych sojuszy było:
 
 **A)** Obrona przed agresją ze strony ZSRR
-**B)** Zabezpieczenie przed ewentualną agresją niemiecką
-**C)** Wsparcie ekonomiczne i modernizacja przemysłu
-**D)** Rozwój infrastruktury transportowej
+**B)** Wsparcie ekonomiczne i modernizacja przemysłu
+**C)** Rozwój infrastruktury transportowej
+**D)** Zabezpieczenie przed ewentualną agresją niemiecką
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Polska podpisała sojusz wojskowy z Francją (1921) i z Rumunią (1925) głównie w celu zabezpieczenia przed ewentualną agresją niemiecką. Były to tzw. sojusze dwustronne, które zobowiązywały strony do wzajemnej pomocy wojskowej w przypadku ataku. Francja była tradycyjnym sojusznikiem Polski od czasu odzyskania niepodległości, podczas gdy Rumunia również obawiała się niepokojona niemieckimi dążeniami do ekspansji. Jednak te sojusze okazały się niewystarczające w 1939 roku. Francja i Wielka Brytania nie udzieliły Polsce realnej pomocy wojskowej we wrześniu 1939 roku, ograniczając się do formalnej deklaracji wojny. Rumunia, under pressure from the Soviet Union, declared neutrality initially. The failure of these alliances was a major factor in Poland's isolation before the September 1939 invasion.
 
@@ -232,8 +232,8 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Sojusze nie były skierowane przeciwko ZSRR, lecz przeciwko Niemcom
-- C) Sojusze nie miały charakteru gospodarczego
-- D) Infrastruktura transportowa nie była głównym celem sojuszy
+- B) Sojusze nie miały charakteru gospodarczego
+- C) Infrastruktura transportowa nie była głównym celem sojuszy
 
 ## Pytanie 10
 
@@ -242,11 +242,11 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 **Pytanie:** Edward Rydz-Śmigły, marszałek Polski i generalny inspektor sił zbrojnych, w sierpniu 1939 roku:
 
 **A)** Był premierem RP i kierował rządem cywilnym
-**B)** Sprawował ogólną dowództwo nad armią polską i przygotowywał kraj do wojny
-**C)** Był ministrem spraw zagranicznych i prowadził negocjacje z mocarstwami zachodnimi
+**B)** Był ministrem spraw zagranicznych i prowadził negocjacje z mocarstwami zachodnimi
+**C)** Sprawował ogólną dowództwo nad armią polską i przygotowywał kraj do wojny
 **D)** Pełnił funkcję ceremonialną i nie miał realnego wpływu na decyzje wojskowe
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Edward Rydz-Śmigły, marszałek Polski od 1935 roku, był generalnym inspektorem sił zbrojnych i faktycznym dowódcą armii polskiej przed wybuchem wojny. W okresie zagrożenia wojną (1933-1939) Rydz-Śmigły odegrał kluczową rolę w przygotowaniach do obrony kraju. Był on uważany za jednego z głównych architektów modernizacji i zbrojenia armii polskiej. We wrześniu 1939 roku, jako naczelny wódz, rozkazał opór wobec niemieckiej inwazji. Jednak jego decyzje strategiczne, takie jak obrona Warszawa czy utrzymanie się na linii środkowej, były później krytykowane. Po klęsce wrześniowej Rydz-Śmigły przedostał do Francji, gdzie kierował polskimi siłami zbrojnymi na emigracji.
 
@@ -256,7 +256,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Rydz-Śmigły nie był premierem – funkcję tę sprawowali Felicjan Sławoj Składkowski i inni
-- C) Ministrem spraw zagranicznych był Józef Beck
+- B) Ministrem spraw zagranicznych był Józef Beck
 - D) Odpowiedź jest błędna – Rydz-Śmigły miał realny wpływ na decyzje wojskowe jako naczelny wódz
 
 ## Pytanie 11

@@ -35,18 +35,18 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 **C.** Jagiełło nie chciał ryzykować strat w starciu o silnie ufortyfikowany zamek
 **D.** Witold odmówił dalszej współpracy po wygaśnięciu rozejmu z inflancką gałęzią zakonu
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
-**Wyjaśnienie:** Decyzja Jagiełły o opóźnionym marszu na Malbork była strategicznie uzasadniona z kilku powodów. Po pierwsze, wygasał rozejm Witolda z inflancką gałęzią zakonu, co stwarzało realne zagrożenie ataku z północy i zmuszało wojska litewskie do odwrotu. Po drugie, Zygmunt Luksemburczyk — sojusznik zakonu — mógł zaatakować południowe granice Polski. Po trzecie, sam marsz był powolny, co dało obrońcom Malborka (komtur Henryk von Plauen) czas na przygotowanie obrony. Cały epizod pokazuje ostrożność i rozwagę polityczną Jagiełły, który przedkładał pewne sukcesy nad ryzykowne decyzje.
+**Wyjaśnienie:** Decyzja Jagiełły o opóźnionym marszu na Malbork była podyktowana ostrożnością i racją stanu. Jagiełło nie chciał ryzykować strat w starciu o silnie ufortyfikowany zamek, zwłaszcza że armia polsko-litewska poniosła już straty w bitwie i była zmęczona. Oblężenie twierdzy takiej jak Malbork wymagało specjalistycznego sprzętu i czasu, a Jagiełło przedkładał pewne sukcesy nad ryzykowne decyzje. Dodatkowo wygasał rozejm Witolda z inflancką gałęzią zakonu, co stwarzało zagrożenie z północy, a Zygmunt Luksemburczyk mógł zaatakować południowe granice Polski.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Brak żywności): Problem logistyczny istniał, ale nie był to główny powód
-- Odpowiedź C (Ryzyko strat): Jagiełło podejmował ryzykowne decyzje, tu chodziło o kalkulację polityczną
-- Odpowiedź D (Odmowa Witolda): Witold rzeczywiście wycofał się, ale z powodu zagrożenia z północy, a nie niechęci do współpracy
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Atak węgierski) – no referenced answer: Zagrożenie ze strony Zygmunta Luksemburczyka istniało, ale nie było to główne powstrzymującego czynnika przed atakiem na Malbork
+- Odpowiedź B (Brak żywności) – no referenced answer: Problem logistyczny istniał, ale nie był to główny powód decyzji Jagiełły
+- Odpowiedź D (Odmowa Witolda) – correct for: Grunwald: Witold rzeczywiście wycofał się po wygaśnięciu rozejmu z inflancką gałęzią zakonu, ale z powodu zagrożenia z północy, a nie z niechęci do współpracy z Jagiełłą
 
 ---
 
@@ -68,10 +68,10 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - https://pl.wikipedia.org/wiki/Pawe%C5%82_W%C5%82odkowic
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Krucjata uzasadniona): To był argument zakonu krzyżackiego, nie Włodkowicza
-- Odpowiedź C (Prawo do ziemi): Włodkowic kwestionował te prawa zakonu
-- Odpowiedź D (Prawo Jagiełły): To nie był główny argument debaty
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Krucjata uzasadniona) – incorrect from Chrystianizacja: To był argument zakonu krzyżackiego, nie Włodkowicza. Zakon twierdził, że chrystianizacja Litwy z 1387 roku była nieważna i usprawiedliwiała krucjatę
+- Odpowiedź C (Prawo do ziemi) – incorrect from Grunwald: Włodkowic kwestionował historyczne prawa zakonu do ziemi chełmińskiej i michałowskiej, argumentując, że zostały zdobyte niesprawiedliwie
+- Odpowiedź D (Prawo Jagiełły) – no referenced answer: To nie był główny argument debaty; Włodkowic skupiał się na prawie międzynarodowym, nie na prerogatywach monarchy
 
 ---
 
@@ -85,18 +85,18 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 **C.** Wiedeń miał większe znaczenie dla Europy niż Grunwald
 **D.** Obie bitwy były równie ważne, ale Grunwald był zwycięstwem pełnym, Wiedeń nie
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
-**Wyjaśnienie:** Bitwa pod Grunwaldem miało fundamentalne znaczenie dla rozwoju państwa polskiego i dynastii jagiellońskiej. Złamała potęgę zakonu krzyżackiego, umożliwiła rozwój unii polsko-litewskiej i umocniła pozycję Polski w Europie Środkowo-Wschodniej. Bitwa pod Wiedniem (1683) miała większe znaczenie dla Europy (powstrzymując ekspansję turecką), ale nie przyniosła Polsce trwałych korzyści politycznych. Sukcesy Jana III Sobieskiego nie zostały odpowiednio wykorzystane przez Rzeczpospolitą, która wchodziła w okres kryzysu. Grunwald był fundamentem dla rozwoju państwa, Wiedeń był tylko chwilowym sukcesem w okresie upadku.
+**Wyjaśnienie:** Porównanie obu bitew wykazuje fundamentalne różnice. Grunwald (1410) był pełnym zwycięstwem militarnym, które złamało potęgę zakonu krzyżackiego i stworzyło fundamenty dla rozwoju unii polsko-litewskiej oraz dynastii jagiellońskiej. Bitwa pod Wiedniem (1683) była co prawda zwycięstwem, ale nie zostało pełne wykorzystane politycznie - Rzeczpospolita nie odniosła z niego trwałych korzyści, a państwo wchodziło w okres kryzysu. Grunwald był punktem zwrotnym budującym potęgę Polski, Wiedeń był tylko chwilowym sukcesem w okresie upadku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Wiedniem_(1683)
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Podobny wpływ): Różne konteksty i skutki
-- Odpowiedź C (Wiedeń ważniejszy dla Europy): Dla Europy tak, ale nie dla rozwoju Polski
-- Odpowiedź D (Równo ważne): Grunwald był ważniejszy dla rozwoju Polski
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Podobny wpływ) – incorrect from Sobieski: Różne konteksty i skutki. Grunwald umocnił unię polsko-litewską i dynastię jagiellońską, podczas gdy Wiedeń był chwilowym sukcesem w okresie upadku Rzeczypospolitej
+- Odpowiedź B (Grunwald ważniejszy) – incorrect from Sobieski: To stwierdzenie jest prawdziwe, ale pytanie dotyczy porównania kompletności obu zwycięstw, nie tylko ich znaczenia
+- Odpowiedź C (Wiedeń ważniejszy dla Europy) – incorrect from Sobieski: Dla Europy Wiedeń był ważniejszy (powstrzymał ekspansję turecką), ale pytanie dotyczy znaczenia dla rozwoju państwa polskiego, a nie Europy
 
 ---
 
@@ -118,10 +118,10 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - Literatura: Stefan Maria Kuczyński, "Wielka wojna z Zakonem Krzyżackim w latach 1409-1411"
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Data): Data bitwy jest powszechnie uznana (15 lipca 1410)
-- Odpowiedź C (Śmierć mistrza): Szczegóły śmierci są sporne, ale data i fakt nie
-- Odpowiedź D (Dowódca): Kwestia nie jest kontrowersyjna - Jagiełło był głównym dowódcą
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Data) – no referenced answer: Data bitwy jest powszechnie uznana (15 lipca 1410), nie budzi wątpliwości wśród badaczy
+- Odpowiedź C (Śmierć mistrza) – correct for: Grunwald: Szczegóły śmierci Ulricha von Jungingena są przedmiotem dyskusji (czy zginął w walce, czy został zabity po pojmaniu), ale data i fakt śmierci nie są kontrowersyjne
+- Odpowiedź D (Dowódca) – no referenced answer: Kwestia nie jest kontrowersyjna - Władysław Jagiełło był głównym dowódcą wojsk polsko-litewskich, co jest potwierdzone w źródłach
 
 ---
 
@@ -131,11 +131,11 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 **Pytanie:** Analizując długoterminowe skutki bitwy pod Grunwaldem, która z poniższych tez jest najbardziej uzasadniona?
 
 **A.** Zwycięstwo grunwaldzkie bezpośrednio doprowadziło do upadku zakonu krzyżackiego i odzyskania Pomorza
-**B.** Bitwa była punktem zwrotnym, który umocnił unię polsko-litewską, ale nie rozstrzygnął sporów z zakonem
-**C.** Po bitwie Polska stała się najpotężniejszym państwem w Europie i dominowała nad swoimi sąsiadami
+**B.** Po bitwie Polska stała się najpotężniejszym państwem w Europie i dominowała nad swoimi sąsiadami
+**C.** Bitwa była punktem zwrotnym, który umocnił unię polsko-litewską, ale nie rozstrzygnął sporów z zakonem
 **D.** Skutki bitwy były wyłącznie kulturowe i symboliczne, bez znaczenia politycznego
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Bitwa pod Grunwaldem była punktem zwrotnym, który złamał militarną potęgę zakonu krzyżackiego i umocnił unię polsko-litewską, ale nie rozstrzygnąła ostatecznie sporów z zakonem. I pokój toruński (1411) był tylko częściowym sukcesem - Polska odzyskała ziemię dobrzyńską, a Litwa Żmudź, ale Pomorze Gdańskie pozostało przy zakonie. Dopiero wojna trzynastoletnia (1454-1466) i II pokój toruński zakończyły spór. Bitwa grunwaldzka stworzyła fundamenty dla późniejszych sukcesów, ale sama w sobie nie była rozstrzygająca.
 
@@ -143,10 +143,10 @@ Bitwa ta miała także znaczenie dla rozwoju polskiej szkoły prawa międzynarod
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/II_pok%C3%B3j_toru%C5%84ski_(1466)
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Bezpośredni upadek): Zakon upadł dopiero po wojnie trzynastoletniej
-- Odpowiedź C (Najpotężniejsze państwo): Polska nie stała się najpotężniejszym państwem Europy
-- Odpowiedź D (Tylko kulturowe): Skutki były polityczne i militarne, nie tylko symboliczne
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Bezpośredni upadek) – incorrect for: Wojna trzynastoletnia: Zakon krzyżacki upadł dopiero po wojnie trzynastoletniej (1454-1466) i II pokoju toruńskim, ponad 50 lat po Grunwaldzie. Bitwa grunwaldzka osłabiła zakon, ale nie zniszczyła go
+- Odpowiedź B (Najpotężniejsze państwo) – no referenced answer: Polska nie stała się najpotężniejszym państwem Europy. Zwycięstwo umocniło pozycję Polski w regionie, ale nie dominowała nad wszystkimi sąsiadami
+- Odpowiedź D (Tylko kulturowe) – no referenced answer: Skutki były polityczne i militarne (osłabienie zakonu, umocnienie unii polsko-litewskiej), nie tylko symboliczne i kulturowe
 
 ---
 

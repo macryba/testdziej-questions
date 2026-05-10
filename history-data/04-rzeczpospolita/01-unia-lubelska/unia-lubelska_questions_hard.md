@@ -29,12 +29,12 @@ Unia lubelska utworzyła federacyjne państwo – Rzeczpospolitą Obojga Narodó
 
 **Pytanie:** Oceń, czy inkorporacja ziem ruskich (Podlasia, Wołynia, Kijowszczyzny i Podola) do Korony w 1569 roku była strategią skuteczną w dłuższej perspektywie historycznej, biorąc pod uwagę jej wpływ na późniejsze powstania kozackie i stosunki polsko-rosyjskie?
 
-**A.** Strategia była skuteczna, ponieważ wzmocniła pozycję Rzeczypospolitej i zabezpieczyła wschodnią granicę
-**B.** Strategia była częściowo skuteczna, ale doprowadziła do powstania Kozaczyzny i powstania Chmielnickiego
+**A.** Strategia była częściowo skuteczna, ale doprowadziła do powstania Kozaczyzny i powstania Chmielnickiego
+**B.** Strategia była skuteczna, ponieważ wzmocniła pozycję Rzeczypospolitej i zabezpieczyła wschodnią granicę
 **C.** Strategia była błędna, ponieważ osłabiła Wielkie Księstwo Litewskie bez zysku dla Korony
 **D.** Strategia była neutralna, ponieważ nie miała znaczącego wpływu na późniejsze dzieje
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Inkorporacja ziem ruskich była strategicznym posunięciem w krótkiej perspektywie – zmusiła Litwę do akceptacji unii i wzmocniła pozycję Korony. Jednak w dłuższej perspektywie przyczyniła się do narastania napięć na wschodnich kresach. Szlachta polska na ziemiach ruskich dominowała nad szlachtą ruską, co wywoływało niezadowolenie społeczne. Później doprowadziło to do powstania kozackich, w tym do powstania Bohdana Chmielnickiego w 1648 roku. Inkorporacja również zaostrzyła stosunki z Rosją, która uważała te ziemie za część swojej strefy wpływów.
 
@@ -58,11 +58,11 @@ Unia lubelska utworzyła federacyjne państwo – Rzeczpospolitą Obojga Narodó
 **Pytanie:** Porównaj model federacyjny Rzeczypospolitej Obojga Narodów z innymi modelami integracji państwowej w XVI-wiecznej Europie (np. unia kalmarska, unia personalna w Hiszpanii). W jaki sposób unia lubelska różniła się od nich pod względem struktury i dynamiki władzy?
 
 **A.** Unia lubelska była identyczna jak inne unie w Europie, z przewagą jednego podmiotu
-**B.** Unia lubelska opierała się na równoprawności obu części, podczas gdy inne unie charakteryzowały się dominacją jednego podmiotu
-**C.** Unia lubelska była luźniejsza niż inne unie europejskie, z minimalnymi instytucjami wspólnymi
+**B.** Unia lubelska była luźniejsza niż inne unie europejskie, z minimalnymi instytucjami wspólnymi
+**C.** Unia lubelska opierała się na równoprawności obu części, podczas gdy inne unie charakteryzowały się dominacją jednego podmiotu
 **D.** Unia lubelska była ściślejsza niż inne unie, z całkowitą integracją struktur
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Unia lubelska wyróżniała się na tle innych XVI-wiecznych unii (unia kalmarska między Danią, Norwegią i Szwecją, unia personalna w Hiszpanii między Kastylią i Aragonią), ponieważ opierała się na formalnej równoprawności obu części – Korony i Wielkiego Księstwa Litewskiego. W innych uniach zazwyczaj jeden podmiot dominował (Dania w unii kalmarskiej, Kastylia w Hiszpanii). Unia lubelska stworzyła model federacyjny z silnymi autonomiami lokalnymi, ale ze wspólnymi instytucjami na szczeblu centralnym (monarcha, sejm, polityka zagraniczna). Ten unikatowy model przetrwał ponad 200 lat.
 
@@ -86,11 +86,11 @@ Unia lubelska utworzyła federacyjne państwo – Rzeczpospolitą Obojga Narodó
 **Pytanie:** Analizując działania Zygmunta II Augusta podczas negocjacji unii lubelskiej, czy można uznać go za "architekta unii", czy raczej za pragmatycznego polityka reagującego na presję szlachty egzekucyjnej?
 
 **A.** Zygmunt II August był wyłącznie architektem unii, autorem koncepcji federacyjnej
-**B.** Zygmunt II August był pragmatykiem reagującym na presję szlachty egzekucyjnej i okoliczności międzynarodowe
-**C.** Zygmunt II August był przeciwny unii i został do niej zmuszony przez szlachtę
-**D.** Zygmunt II August nie miał znaczącego wpływu na przebieg negocjacji unijnych
+**B.** Zygmunt II August był przeciwny unii i został do niej zmuszony przez szlachtę
+**C.** Zygmunt II August nie miał znaczącego wpływu na przebieg negocjacji unijnych
+**D.** Zygmunt II August był pragmatykiem reagującym na presję szlachty egzekucyjnej i okoliczności międzynarodowe
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Rola Zygmunta II Augusta w zawarciu unii lubelskiej jest złożona. Z jednej strony był on ostatnim Jagiellonem, bezpotomnym władcą, który rozumiał potrzebę uregulowania kwestii sukcesji i wzmocnienia państwa wobec zagrożenia ze strony Rosji. Z drugiej strony, jego działania były w dużej mierze reakcją na presję szlachty egzekucyjnej, domagającej się inkorporacji Wielkiego Księstwa Litewskiego. Strategia "faktów dokonanych" poprzez inkorporację ziem ruskich była jego decyzją, ale wynikała z impasu w negocjacjach z Litwą. Można więc uznać go za pragmatycznego polityka, który wykorzystał sprzyjające okoliczności do zawarcia unii, a nie za jej jedynego "architekta".
 

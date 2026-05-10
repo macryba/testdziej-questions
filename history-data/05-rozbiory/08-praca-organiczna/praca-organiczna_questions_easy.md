@@ -27,12 +27,12 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 
 **Pytanie:** Kto był pionierem pracy organicznej na ziemiach polskich, który po 1815 roku wprowadzał reformy w swoim majątku w Turwia?
 
-**A)** Karol Marcinkowski
-**B)** Dezydery Chłapowski
+**A)** Dezydery Chłapowski
+**B)** Karol Marcinkowski
 **C)** Hipolit Cegielski
 **D)** Edward Raczyński
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Dezydery Chłapowski był pionierem pracy organicznej, który po powrocie z Wielkiej Brytanii w 1815 roku rozpoczął wdrażać reformy w swoim majątku w Turwia. Wprowadzał nowoczesne metody gospodarcze i edukacyjne.
 
@@ -52,10 +52,10 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 
 **Pytanie:** Która organizacja została założona w 1857 roku w Poznaniu i stała się ważnym centrum działalności organiczników?
 
-**A)** Spółka Akcyjna Bazar
+**A)** Spółka Akcyjna Bazar z 1838 roku
 **B)** Poznańskie Towarzystwo Przyjaciół Nauk
-**C)** Towarzystwo Rolnicze
-**D)** Liga Narodowa
+**C)** Centralne Towarzystwo Rolnicze
+**D)** Liga Polska w Poznaniu
 
 **Poprawna odpowiedź:** B
 
@@ -65,9 +65,9 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
 **Analiza niepoprawnych odpowiedzi:**
-- Spółka Akcyjna Bazar — powstała wcześniej w 1838 roku
-- Towarzystwo Rolnicze — były to różne lokalne organizacje
-- Liga Narodowa — partia polityczna z późniejszego okresu
+- Spółka Akcyjna Bazar z 1838 roku — powstała wcześniej, w 1838 roku
+- Centralne Towarzystwo Rolnicze — organizacja rolnicza z lat 60. XIX wieku
+- Liga Polska w Poznaniu — partia polityczna z późniejszego okresu
 
 ---
 
@@ -80,7 +80,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **A)** W zaborze rosyjskim
 **B)** W zaborze pruskim
 **C)** W zaborze austriackim
-**D)** We wszystkich zaborach jednocześnie
+**D)** W Księstwie Warszawskim
 
 **Poprawna odpowiedź:** B
 
@@ -92,7 +92,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Analiza niepoprawnych odpowiedzi:**
 - Zabór rosyjski — praca organiczna rozwinęła się tu dopiero po upadku powstania styczniowego
 - Zabór austriacki — miał specyficzne warunki autonomii galicyjskiej
-- Jednoczesny rozwój — ruch rozwijał się stopniowo, od zaboru pruskiego
+- Księstwo Warszawskie — nie istniało już w okresie pracy organicznej
 
 ---
 
@@ -102,12 +102,12 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 
 **Pytanie:** Co pozytywiści rozumieli przez hasło "bogaćcie się", które było ważnym elementem pracy organicznej?
 
-**A)** Należność do bogatych organizacji politycznych
-**B)** Pomnażanie majątku osobistego i tworzenie miejsc pracy
+**A)** Pomnażanie majątku osobistego i tworzenie miejsc pracy
+**B)** Należność do bogatych organizacji politycznych
 **C)** Gromadzenie bogactwa kulturalnego w muzeach
-**D)** Posiadanie dużej ilości ziemi rolnej
+**D)** Gromadzenie oszczędności w bankach spółdzielczych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Pozytywiści uważali, że należy pomnażać osobisty majątek i tworzyć miejsca pracy dla uboższych. To było realizacją hasła "rozumnego egoizmu" — bogacenie się służyło całemu społeczeństwu.
 
@@ -117,7 +117,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Analiza niepoprawnych odpowiedzi:**
 - Organizacje polityczne — praca organiczna unikała polityki na rzecz działalności gospodarczej
 - Muzea — nie były głównym celem ruchu
-- Ziemia rolna — ważna, ale nie jedyny element bogacenia się
+- Banki spółdzielcze — były ważnym elementem, ale nie celem samym w sobie
 
 ---
 
@@ -128,11 +128,11 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Pytanie:** Który działacz, znany z założenia fabryki maszyn rolniczych w Poznaniu, był jednym z najważniejszych organiczników Wielkopolski?
 
 **A)** Karol Marcinkowski
-**B)** Hipolit Cegielski
-**C)** Maksymilian Jackowski
+**B)** Maksymilian Jackowski
+**C)** Hipolit Cegielski
 **D)** August Cieszkowski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Hipolit Cegielski był wybitnym działaczem gospodarczym, który zbudował imperium produkujące maszyny rolnicze. Jego fabryka w Poznaniu stała się symbolem polskiego sukcesu gospodarczego pod zaborami.
 
@@ -141,7 +141,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 
 **Analiza niepoprawnych odpowiedzi:**
 - Karol Marcinkowski — prowadził głównie działalność medyczną i edukacyjną
-- Maksymilian Jackowski — organizer ruchu rolniczego
+- Maksymilian Jackowski — organizer ruchu rolniczego, nie fabrykant
 - August Cieszkowski — filozof, teoretyk pozytywizmu
 
 ---

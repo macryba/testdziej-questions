@@ -26,12 +26,12 @@ Stan wojenny w Polsce (1981-1983) stanowił jeden z najbardziej kontrowersyjnych
 **Pytanie:**
 Czy wprowadzenie stanu wojennego było zgodne z konstytucją Polskiej Rzeczypospolitej Ludowej?
 
-**A:** Nie, stan wojenny został wprowadzony niezgodnie z konstytucją PRL
-**B:** Tak, stan wojenny był w pełni zgodny z konstytucją PRL
-**C:** Stan wojenny był częściowo zgodny z konstytucją
-**D:** Konstytucja PRL nie regulowała kwestii stanu wojennego
+**A:** Konstytucja PRL nie przewidywała stanu wojennego jako instytucji
+**B:** Nie, wprowadzono go niezgodnie z konstytucją PRL z 1952 roku
+**C:** Stan wojenny był częściowo zgodny z konstytucją PRL z 1952
+**D:** Tak, był w pełni zgodny z konstytucją Polskiej Rzeczypospolitej Ludowej
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Stan wojenny został wprowadzony niezgodnie z konstytucją PRL z 1952 roku, która nie przewidywała takiego stanu nadzwyczajnego ani nie dawała Radzie Państwa prawa do wprowadzania stanu wojennego na wniosek WRON – niekonstytucyjnego organu.
@@ -41,9 +41,9 @@ Stan wojenny został wprowadzony niezgodnie z konstytucją PRL z 1952 roku, któ
 - [Konstytucja PRL](https://pl.wikipedia.org/wiki/Konstytucja_Polskiej_Rzeczypospolitej_Ludowej_(1952)) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Tak, stan wojenny był w pełni zgodny z konstytucją PRL) – Stan wojenny naruszył konstytucję PRL
-- C (Stan wojenny był częściowo zgodny z konstytucją) – Nie można mówić o częściowej zgodności
-- D (Konstytucja PRL nie regulowała kwestii stanu wojennego) – Konstytucja nie przewidywała stanu wojennego, ale to nie oznacza, że nie regulowała podobnych kwestii
+- A (Konstytucja PRL nie przewidywała stanu wojennego jako instytucji) – Konstytucja przewidywała stany nadzwyczajne, ale nie w formie stanu wojennego
+- C (Stan wojenny był częściowo zgodny z konstytucją PRL z 1952) – Nie można mówić o częściowej zgodności z konstytucją
+- D (Tak, był w pełni zgodny z konstytucją Polskiej Rzeczypospolitej Ludowej) – Stan wojenny naruszył konstytucję PRL z 1952 roku
 
 ---
 
@@ -54,12 +54,12 @@ Stan wojenny został wprowadzony niezgodnie z konstytucją PRL z 1952 roku, któ
 **Pytanie:**
 Wojciech Jaruzelski twierdził, że wprowadzenie stanu wojennego miało zapobiec interwencji ZSRR w Polsce. Czy historycy potwierdzają tę tezę?
 
-**A:** Jest to przedmiotem debaty historycznej; część badaczy uważa, że groźba była realna, inni – że była wymówką
-**B:** Tak, wszystkie źródła potwierdzają, że interwencja była nieuchronna
-**C:** Nie, historycy jednomyślnie uważają, że Jaruzelski skłamał
-**D:** ZSRR nigdy nie groził interwencją wojskową
+**A:** ZSRR nigdy nie groził interwencją wojskową na terytorium Polski
+**B:** Tak, wszystkie źródła potwierdzają, że interwencja ZSRR była nieuchronna
+**C:** To przedmiot debaty; część badaczy uważa groźbę za realną, inni – za wymówkę
+**D:** Nie, wszyscy historycy uważają zgodnie, że Jaruzelski skłamał wobec narodu
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Historycy do dziś debatują nad kwestią "znaku zapytania" – czy ZSRR rzeczywiście planował interwencję, czy była to wymówka Jaruzelskiego. Brak jednoznacznych dowodów na groźbę sowiecką.
@@ -69,9 +69,9 @@ Historycy do dziś debatują nad kwestią "znaku zapytania" – czy ZSRR rzeczyw
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Tak, wszystkie źródła potwierdzają, że interwencja była nieuchronna) – Nie ma takiego jednogłośnego potwierdzenia
-- C (Nie, historycy jednomyślnie uważają, że Jaruzelski skłamał) – Historycy nie są jednomyślni
-- D (ZSRS nigdy nie groził interwencją wojskową) – Były sygnały o możliwej interwencji
+- A (ZSRR nigdy nie groził interwencją wojskową na terytorium Polski) – Były sygnały o możliwej interwencji ZSRR w 1981 roku
+- B (Tak, wszystkie źródła potwierdzają, że interwencja ZSRR była nieuchronna) – Nie ma takiego jednogłośnego potwierdzenia
+- D (Nie, wszyscy historycy uważają zgodnie, że Jaruzelski skłamał wobec narodu) – Historycy nie są zgodni w tej ocenie
 
 ---
 
@@ -82,10 +82,10 @@ Historycy do dziś debatują nad kwestią "znaku zapytania" – czy ZSRR rzeczyw
 **Pytanie:**
 Jak stan wojenny wpłynął na drogę Polski do transformacji ustrojowej w 1989 roku?
 
-**A:** Opóźnił transformację, ale nie zdołał zniszczyć Solidarności, która zeszła do podziemia i doprowadziła do zmian
-**B:** Przyspieszył upadek komunizmu w Polsce
-**C:** Zniszczył opozycję demokratyczną i przesądził o utrzymaniu komunizmu
-**D:** Nie miał wpływu na transformację w 1989 roku
+**A:** Opóźnił transformację, ale nie zniszczył Solidarności, która zeszła do podziemia
+**B:** Umożliwił szybsze zakończenie zimnej wojny oraz jednoczenie Europy
+**C:** Zniszczył opozycję demokratyczną i przesądził o utrzymaniu komunizmu w Polsce
+**D:** Nie miał istotnego wpływu na późniejsze przemiany polityczne w kraju
 
 **Poprawna odpowiedź:** A
 
@@ -98,6 +98,6 @@ Stan wojenny opóźnił transformację, ale nie zdołał zniszczyć Solidarnośc
 - [Okrągły Stół](https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_(1989)) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Przyspieszył upadek komunizmu w Polsce) – Stan wojenny opóźnił, a nie przyspieszył upadek
-- C (Zniszczył opozycję demokratyczną i przesądził o utrzymaniu komunizmu) – Opozycja przetrwała i wygrała
-- D (Nie miał wpływu na transformację w 1989 roku) – Miał znaczący wpływ, choć pośredni
+- B (Umożliwił szybsze zakończenie zimnej wojny i jednoczenie Europy) – Zakończenie zimnej wojny miało inne przyczyny, nie stan wojenny w Polsce
+- C (Zniszczył opozycję demokratyczną i przesądził o utrzymaniu komunizmu) – Opozycja przetrwała w podziemiu i wygrała w 1989 roku
+- D (Nie miał istotnego wpływu na późniejsze przemiany polityczne) – Miał znaczący wpływ, choć pośredni, na drogę do transformacji

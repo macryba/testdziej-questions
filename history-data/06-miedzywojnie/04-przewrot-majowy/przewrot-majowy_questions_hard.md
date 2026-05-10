@@ -24,12 +24,12 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Pytanie:** Jakie były główne przyczyny kryzysu demokracji parlamentarnej w Polsce, który doprowadził do przewrotu majowego?
 
-**A:** Zbyt silna pozycja prezydenta i brak kontroli nad władzą wykonawczą
-**B:** Fragmentacja partyjna, niestabilność rządów i spory koalicyjne
+**A:** Fragmentacja partyjna, niestabilność rządów i spory koalicyjne
+**B:** Zbyt silna pozycja prezydenta i brak kontroli nad władzą wykonawczą
 **C:** Zbyt duża dominacja Partii Socjalistycznej w życiu politycznym
 **D:** Brak zainteresowania społeczeństwa polityką parlamentarną
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Główną przyczyną kryzysu demokracji parlamentarnej była fragmentacja partyjna Sejmu, niestabilność rządów i ciągłe spory w koalicjach chłopsko-narodowych. W latach 1922-1926 Polska miała aż pięć rządów, a parlament był sparaliżowany przez konflikty między partiami, co uniemożliwiało skuteczne rządzenie państwem.
 
@@ -38,7 +38,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [II Rzeczpospolita](https://pl.wikipedia.org/wiki/II_Rzeczpospolita) - Wikipedia Polska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Silna pozycja prezydenta): Przed przewrotem prezydent miał ograniczone uprawnienia
+- Odpowiedź B (Silna pozycja prezydenta): Przed przewrotem prezydent miał ograniczone uprawnienia
 - Odpowiedź C (Dominacja socjalistów): PPS nie miał dominującej pozycji w Sejmie
 - Odpowiedź D (Brak zainteresowania): Społeczeństwo było zaangażowane politycznie
 
@@ -75,11 +75,11 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Pytanie:** Jakie są główne różnice między systemem politycznym Polski przed przewrotem majowym a po nim?
 
 **A:** Przed przewrotem dominował Piłsudski, a po nim rządziła koalicja chłopska
-**B:** Przed przewrotem istniała demokracja parlamentarna, a po nim system autorytarny
-**C:** Przed przewrotem Polska była monarchią, a po nim republiką
-**D:** Przed przewrotem rządziła prawica, a po nim lewica
+**B:** Przed przewrotem Polska była monarchią, a po nim republiką
+**C:** Przed przewrotem rządziła prawica, a po nim lewica
+**D:** Przed przewrotem istniała demokracja parlamentarna, a po nim system autorytarny
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Przed przewrotem majowym Polska miała demokrację parlamentarną z konstytucją marcową, gdzie Sejm miał dominującą pozycję. Po przewrocie system stał się bardziej autorytarny z silną władzą wykonawczą - prezydent i rząd zyskali rozległe uprawnienia kosztem parlamentu, co było efektem rządów sanacji.
 
@@ -90,8 +90,8 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (Dominacja Piłsudskiego): Przed przewrotem Piłsudski nie dominował w polityce
-- Odpowiedź C (Monarchia): Polska była republiką przed i po przewrocie
-- Odpowiedź D (Prawica/lewica): Podział nie był tak jednoznaczny
+- Odpowiedź B (Monarchia): Polska była republiką przed i po przewrocie
+- Odpowiedź C (Prawica/lewica): Podział nie był tak jednoznaczny
 
 ---
 
@@ -100,10 +100,10 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Pytanie:** Jakie były skutki społeczne rządów sanacji po przewrocie majowym?
 
-**A:** Pełna konsolidacja społeczeństwa wokół władzy
+**A:** Pełna konsolidacja społeczeństwa polskiego wokół władz sanacyjnych
 **B:** Ograniczenie pluralizmu politycznego i rozwój ruchów opozycyjnych
 **C:** Całkowite wyeliminowanie opozycji z życia politycznego
-**D:** Wzrost poparcia dla partii komunistycznej
+**D:** Znaczny wzrost poparcia społecznego dla partii komunistycznej
 
 **Prawidłowa odpowiedź:** B
 
@@ -114,7 +114,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Konsolidacja): Społeczeństwo nie było w pełni skonsolidowane
+- Odpowiedź A (Konsolidacja): Społeczeństwo nie było w pełni skonsolidowane wokół władz sanacyjnych
 - Odpowiedź C (Całkowite wyeliminowanie): Opozycja istniała, choć była ograniczana
 - Odpowiedź D (Komuniści): Partia komunistyczna była nielegalna i marginalna
 

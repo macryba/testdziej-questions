@@ -26,12 +26,12 @@ Stan wojenny w Polsce (1981-1983) stanowił kluczowy moment w powojennych dzieja
 **Pytanie:**
 Kto był liderem "Solidarności" w czasie wprowadzenia stanu wojennego?
 
-**A:** Lech Wałęsa
-**B:** Wojciech Jaruzelski
+**A:** Wojciech Jaruzelski
+**B:** Lech Wałęsa
 **C:** Czesław Kiszczak
 **D:** Mieczysław Rakowski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Lech Wałęsa jako przewodniczący "Solidarności" został internowany w nocy 13 grudnia 1981 roku i był symbolem oporu przeciwko władzy komunistycznej.
@@ -40,10 +40,10 @@ Lech Wałęsa jako przewodniczący "Solidarności" został internowany w nocy 13
 - [Lech Wałęsa](https://pl.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa) - Wikipedia Polska
 - [Solidarność](https://pl.wikipedia.org/wiki/NSZZ_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9C) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Wojciech Jaruzelski) – Przywódca wojskowy wprowadzający stan wojenny, nie działacz Solidarności
-- C (Czesław Kiszczak) – Minister spraw wewnętrznych, odpowiedzialny za represje
-- D (Mieczysław Rakowski) – Dziennikarz i polityk PZPR, premier PRL w latach 80.
+**Analiza odpowiedzi błędnych:**
+- A (Wojciech Jaruzelski) – correct for: Stan wojenny (przywódca wojskowy wprowadzający stan wojenny)
+- C (Czesław Kiszczak) – correct for: Stan wojenny (minister spraw wewnętrznych, odpowiedzialny za represje)
+- D (Mieczysław Rakowski) – correct for: Okrągły Stół (premier PRL w latach 1988-1989)
 
 ---
 
@@ -54,12 +54,12 @@ Lech Wałęsa jako przewodniczący "Solidarności" został internowany w nocy 13
 **Pytanie:**
 Kiedy zawieszono stan wojenny w Polsce?
 
-**A:** 31 grudnia 1982
-**B:** 22 lipca 1983
-**C:** 13 grudnia 1982
-**D:** 1 maja 1983
+**A:** 13 grudnia 1982
+**B:** 31 grudnia 1982
+**C:** 1 maja 1983
+**D:** 22 lipca 1983
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Stan wojenny został formalnie zawieszony 31 grudnia 1982 roku, choć pełne zniesienie nastąpiło dopiero 22 lipca 1983 roku.
@@ -67,10 +67,10 @@ Stan wojenny został formalnie zawieszony 31 grudnia 1982 roku, choć pełne zni
 **Źródła:**
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (22 lipca 1983) – Data pełnego zniesienia stanu wojennego, nie zawieszenia
-- C (13 grudnia 1982) – Rocznica wprowadzenia stanu wojennego, nie zawieszenia
-- D (1 maja 1983) – Święto Pracy, nie związane ze stanem wojennym
+**Analiza odpowiedzi błędnych:**
+- A (13 grudnia 1982) – Pierwsza rocznica wprowadzenia stanu wojennego, nie data zawieszenia
+- C (1 maja 1983) – Święto Pracy, nie związane ze stanem wojennym
+- D (22 lipca 1983) – Data pełnego zniesienia stanu wojennego, nie zawieszenia
 
 ---
 
@@ -81,12 +81,12 @@ Stan wojenny został formalnie zawieszony 31 grudnia 1982 roku, choć pełne zni
 **Pytanie:**
 Jaki urząd sprawował Czesław Kiszczak podczas stanu wojennego?
 
-**A:** Minister spraw wewnętrznych
-**B:** Minister obrony narodowej
-**C:** Premier PRL
-**D:** Szef SB
+**A:** Premier PRL
+**B:** Szef SB
+**C:** Minister spraw wewnętrznych
+**D:** Minister obrony narodowej
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Czesław Kiszczak jako minister spraw wewnętrznych był odpowiedzialny za milicję, SB i przeprowadzenie operacji wprowadzenia stanu wojennego.
@@ -94,10 +94,10 @@ Czesław Kiszczak jako minister spraw wewnętrznych był odpowiedzialny za milic
 **Źródła:**
 - [Czesław Kiszczak](https://pl.wikipedia.org/wiki/Czes%C5%82aw_Kiszczak) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Minister obrony narodowej) – To urząd Wojciecha Jaruzelskiego
-- C (Premier PRL) – Kiszczak był premierem dopiero w latach 80., nie podczas stanu wojennego
-- D (Szef SB) – Kiszczak był ministrem spraw wewnętrznych, co obejmowało SB, ale formalnie nie był "szefem SB"
+**Analiza odpowiedzi błędnych:**
+- A (Premier PRL) – incorrect for: Stan wojenny (Kiszczak był premierem dopiero w latach 1988-1989)
+- B (Szef SB) – no referenced answer (Kiszczak był ministrem spraw wewnętrznych, co obejmowało nadzór nad SB, ale formalnie nie był "szefem SB")
+- D (Minister obrony narodowej) – correct for: Stan wojenny (to urząd Wojciecha Jaruzelskiego)
 
 ---
 
@@ -108,12 +108,12 @@ Czesław Kiszczak jako minister spraw wewnętrznych był odpowiedzialny za milic
 **Pytanie:**
 Gdzie miała miejsce tragiczna pacyfikacja strajku podczas stanu wojennego, w której zginęło 9 górników?
 
-**A:** Kopalnia Wujek w Katowicach
-**B:** Stocznie Gdańskie
+**A:** Stocznie Gdańskie
+**B:** Kopalnia Wujek w Katowicach
 **C:** Huta Katowice
 **D:** Kopalnia Piast w Bieruniu
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 16 grudnia 1981 roku doszło do pacyfikacji strajku w Kopalni Wujek w Katowicach, podczas której zginęło 9 górników zastrzelonych przez ZOMO.
@@ -122,10 +122,10 @@ Gdzie miała miejsce tragiczna pacyfikacja strajku podczas stanu wojennego, w kt
 - [Pacyfikacja Kopalni Wujek](https://pl.wikipedia.org/wiki/Pacyfikacja_Kopalni_Wujek) - Wikipedia Polska
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Stocznie Gdańskie) – Miejsce narodzin Solidarności, nie pacyfikacji ze skutkiem śmiertelnym
-- C (Huta Katowice) – Duży zakład przemysłowy, ale nie miejsce pacyfikacji
-- D (Kopalnia Piast w Bieruniu) – Inna kopalnia, niezwiązana z tą tragedią
+**Analiza odpowiedzi błędnych:**
+- A (Stocznie Gdańskie) – correct for: Sierpień 1980 (miejsce narodzin Solidarności)
+- C (Huta Katowice) – no referenced answer (duży zakład przemysłowy, ale nie miejsce pacyfikacji ze skutkiem śmiertelnym)
+- D (Kopalnia Piast w Bieruniu) – no referenced answer (inna kopalnia, niezwiązana z tą tragedią)
 
 ---
 
@@ -136,12 +136,12 @@ Gdzie miała miejsce tragiczna pacyfikacja strajku podczas stanu wojennego, w kt
 **Pytanie:**
 Jakie ograniczenie wprowadzono podczas stanu wojennego, które dotyczyło poruszania się w nocy?
 
-**A:** Godzina milicyjna
-**B:** Zakaz opuszczania miasta
+**A:** Zakaz opuszczania miasta
+**B:** Godzina milicyjna
 **C:** Zakaz podróżowania pociągami
 **D:** Obowiązek meldunkowy
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Podczas stanu wojennego wprowadzono godzinę milicyjną, która ograniczała przebywanie na ulicach w godzinach nocnych (zwykle od 22:00 do 6:00).
@@ -149,10 +149,10 @@ Podczas stanu wojennego wprowadzono godzinę milicyjną, która ograniczała prz
 **Źródła:**
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Zakaz opuszczania miasta) – Nie wprowadzano takiego ogólnego zakazu
-- C (Zakaz podróżowania pociągami) – Podróżowanie było ograniczone, ale nie zabronione
-- D (Obowiązek meldunkowy) – Nie wprowadzano takiego obowiązku
+**Analiza odpowiedzi błędnych:**
+- A (Zakaz opuszczania miasta) – no referenced answer (nie wprowadzano takiego ogólnego zakazu)
+- C (Zakaz podróżowania pociągami) – no referenced answer (podróżowanie było ograniczone, ale nie zabronione)
+- D (Obowiązek meldunkowy) – no referenced answer (nie wprowadzano takiego obowiązku)
 
 ---
 
@@ -163,12 +163,12 @@ Podczas stanu wojennego wprowadzono godzinę milicyjną, która ograniczała prz
 **Pytanie:**
 Dlaczego władze PRL zdecydowały się wprowadzić stan wojenny?
 
-**A:** Aby stłumić działalność Solidarności i zapobiec interwencji ZSRR
-**B:** Aby chronić kraj przed agresją NATO
-**C:** Aby poprawić sytuację gospodarczą
-**D:** Aby wzmocnić demokrację w Polsce
+**A:** Aby poprawić sytuację gospodarczą
+**B:** Aby wzmocnić demokrację w Polsce
+**C:** Aby stłumić działalność Solidarności i zapobiec interwencji ZSRR
+**D:** Aby chronić kraj przed agresją NATO
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Władze komunistyczne bały się utraty władzy pod wpływem rosnącej popularności Solidarności oraz presji ZSRR, który groził interwencją wojskową.
@@ -176,10 +176,10 @@ Władze komunistyczne bały się utraty władzy pod wpływem rosnącej popularno
 **Źródła:**
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Aby chronić kraj przed agresją NATO) – NATO nie groziło Polsce agresją
-- C (Aby poprawić sytuację gospodarczą) – Stan wojenny pogorszył gospodarkę
-- D (Aby wzmocnić demokrację) – Stan wojenny ograniczył prawa demokratyczne
+**Analiza odpowiedzi błędnych:**
+- A (Aby poprawić sytuację gospodarczą) – no referenced answer (stan wojenny pogorszył gospodarkę)
+- B (Aby wzmocnić demokrację w Polsce) – no referenced answer (stan wojenny ograniczył prawa demokratyczne)
+- D (Aby chronić kraj przed agresją NATO) – no referenced answer (NATO nie groziło Polsce agresją)
 
 ---
 
@@ -190,12 +190,12 @@ Władze komunistyczne bały się utraty władzy pod wpływem rosnącej popularno
 **Pytanie:**
 Co się stało z "Solidarnością" po wprowadzeniu stanu wojennego?
 
-**A:** Została zdelegalizowana w 1982 roku
-**B:** Została rozwiązana dobrowolnie
-**C:** Została włączona do struktur PZPR
+**A:** Została rozwiązana dobrowolnie
+**B:** Została włączona do struktur PZPR
+**C:** Została zdelegalizowana w 1982 roku
 **D:** Została przekształcona w partię polityczną
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Sąd Najwyższy PRL zdelegalizował Solidarność 8 października 1982 roku, co zmusiło związek do działania w podziemiu.
@@ -203,10 +203,10 @@ Sąd Najwyższy PRL zdelegalizował Solidarność 8 października 1982 roku, co 
 **Źródła:**
 - [Solidarność](https://pl.wikipedia.org/wiki/NSZZ_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9C) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Została rozwiązana dobrowolnie) – Solidarność nie zrezygnowała z działalności
-- C (Została włączona do struktur PZPR) – Nie doszło do takiego włączenia
-- D (Została przekształcona w partię polityczną) – Solidarność pozostała związkiem zawodowym
+**Analiza odpowiedzi błędnych:**
+- A (Została rozwiązana dobrowolnie) – no referenced answer (Solidarność nie zrezygnowała z działalności)
+- B (Została włączona do struktur PZPR) – no referenced answer (nie doszło do takiego włączenia)
+- D (Została przekształcona w partię polityczną) – no referenced answer (Solidarność pozostała związkiem zawodowym)
 
 ---
 
@@ -217,12 +217,12 @@ Sąd Najwyższy PRL zdelegalizował Solidarność 8 października 1982 roku, co 
 **Pytanie:**
 Jaką formę oporu społecznego organizowano podczas stanu wojennego?
 
-**A:** Wszystkie wymienione formy
-**B:** Strajki i demonstracje
-**C:** Niezależne wydawnictwa
-**D:** Ulotki i plakaty
+**A:** Strajki i demonstracje
+**B:** Niezależne wydawnictwa
+**C:** Ulotki i plakaty
+**D:** Wszystkie wymienione formy
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Podczas stanu wojennego opór społeczny przybierał różne formy: strajki (np. w Kopalni Wujek), demonstracje, ulotki, plakaty oraz niezależne wydawnictwa podziemne.
@@ -230,10 +230,10 @@ Podczas stanu wojennego opór społeczny przybierał różne formy: strajki (np.
 **Źródła:**
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Strajki i demonstracje) – Prawda, ale nie jedyne formy oporu
-- C (Niezależne wydawnictwa) – Prawda, ale nie jedyna forma oporu
-- D (Ulotki i plakaty) – Prawda, ale nie jedyna forma oporu
+**Analiza odpowiedzi błędnych:**
+- A (Strajki i demonstracje) – no referenced answer (prawda, ale nie jedyne formy oporu)
+- B (Niezależne wydawnictwa) – no referenced answer (prawda, ale nie jedyna forma oporu)
+- C (Ulotki i plakaty) – no referenced answer (prawda, ale nie jedyna forma oporu)
 
 ---
 
@@ -244,12 +244,12 @@ Podczas stanu wojennego opór społeczny przybierał różne formy: strajki (np.
 **Pytanie:**
 Jak międzynarodowa społeczność reagowała na wprowadzenie stanu wojennego w Polsce?
 
-**A:** Wprowadziła sankcje gospodarcze przeciwko PRL
-**B:** Wysłano wojska NATO do Polski
-**C:** Zwiększono pomoc gospodarczą dla PRL
+**A:** Wysłano wojska NATO do Polski
+**B:** Zwiększono pomoc gospodarczą dla PRL
+**C:** Wprowadziła sankcje gospodarcze przeciwko PRL
 **D:** Zignorowano wydarzenia w Polsce
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Kraje zachodnie, w tym USA oraz państwa europejskie, wprowadziły sankcje gospodarcze wobec PRL i wstrzymały pomoc finansową.
@@ -257,10 +257,10 @@ Kraje zachodnie, w tym USA oraz państwa europejskie, wprowadziły sankcje gospo
 **Źródła:**
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Wysłano wojska NATO do Polski) – Nie doszło do interwencji militarnej
-- C (Zwiększono pomoc gospodarczą) – Wręcz przeciwnie, wstrzymano pomoc
-- D (Zignorowano wydarzenia) – Zachód zareagował sankcjami
+**Analiza odpowiedzi błędnych:**
+- A (Wysłano wojska NATO do Polski) – no referenced answer (nie doszło do interwencji militarnej)
+- B (Zwiększono pomoc gospodarczą) – no referenced answer (wręcz przeciwnie, wstrzymano pomoc)
+- D (Zignorowano wydarzenia) – no referenced answer (Zachód zareagował sankcjami)
 
 ---
 
@@ -271,12 +271,12 @@ Kraje zachodnie, w tym USA oraz państwa europejskie, wprowadziły sankcje gospo
 **Pytanie:**
 Ile osób straciło życie podczas stanu wojennego?
 
-**A:** Ponad 70
-**B:** Ponad 700
-**C:** Ponad 7
+**A:** Ponad 700
+**B:** Ponad 7
+**C:** Ponad 70
 **D:** Ponad 7000
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Podczas stanu wojennego zginęło ponad 70 osób, w tym 9 górników z Kopalni Wujek, oraz ofiary śmiertelne podczas demonstracji i w wyniku tortur.
@@ -284,10 +284,10 @@ Podczas stanu wojennego zginęło ponad 70 osób, w tym 9 górników z Kopalni W
 **Źródła:**
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Ponad 700) – Zbyt duża liczba
-- C (Ponad 7) – Zbyt mała liczba
-- D (Ponad 7000) – Drastycznie przeszacowana liczba
+**Analiza odpowiedzi błędnych:**
+- A (Ponad 700) – no referenced answer (zbyt duża liczba)
+- B (Ponad 7) – no referenced answer (zbyt mała liczba)
+- D (Ponad 7000) – no referenced answer (drastycznie przeszacowana liczba)
 
 ---
 
@@ -298,12 +298,12 @@ Podczas stanu wojennego zginęło ponad 70 osób, w tym 9 górników z Kopalni W
 **Pytanie:**
 Jakie skutki gospodarcze wywołał stan wojenny?
 
-**A:** Pogłębienie kryzysu gospodarczego i spadek produkcji
-**B:** Poprawę sytuacji gospodarczej
-**C:** Stabilizację gospodarki
+**A:** Poprawę sytuacji gospodarczej
+**B:** Stabilizację gospodarki
+**C:** Pogłębienie kryzysu gospodarczego i spadek produkcji
 **D:** Wzrost eksportu
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Stan wojenny pogorszył sytuację gospodarczą Polski – spadła produkcja, wzrosły ceny i pojawiły się niedobory towarów.
@@ -311,10 +311,10 @@ Stan wojenny pogorszył sytuację gospodarczą Polski – spadła produkcja, wzr
 **Źródła:**
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Poprawę sytuacji gospodarczej) – Stan wojenny pogorszył gospodarkę
-- C (Stabilizację gospodarki) – Gospodarka była niestabilna
-- D (Wzrost eksportu) – Eksport spadł z powodu sankcji
+**Analiza odpowiedzi błędnych:**
+- A (Poprawę sytuacji gospodarczej) – no referenced answer (stan wojenny pogorszył gospodarkę)
+- B (Stabilizację gospodarki) – no referenced answer (gospodarka była niestabilna)
+- D (Wzrost eksportu) – no referenced answer (eksport spadł z powodu sankcji)
 
 ---
 
@@ -325,12 +325,12 @@ Stan wojenny pogorszył sytuację gospodarczą Polski – spadła produkcja, wzr
 **Pytanie:**
 Co działo się z Solidarnością po wprowadzeniu stanu wojennego?
 
-**A:** Zeszła do podziemia i kontynuowała działalność
-**B:** Została całkowicie zniszczona
+**A:** Została całkowicie zniszczona
+**B:** Została przekształcona w legalną organizację
 **C:** Przerwała działalność do 1989 roku
-**D:** Została przekształcona w legalną organizację
+**D:** Zeszła do podziemia i kontynuowała działalność
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Pomimo delegalizacji, Solidarność kontynuowała działalność w podziemiu poprzez struktury TKK, Regionalne Komitety Strajkowe i niezależne wydawnictwa.
@@ -339,7 +339,7 @@ Pomimo delegalizacji, Solidarność kontynuowała działalność w podziemiu pop
 - [Solidarność](https://pl.wikipedia.org/wiki/NSZZ_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9C) - Wikipedia Polska
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- B (Została całkowicie zniszczona) – Solidarność przetrwała w podziemiu
-- C (Przerwała działalność do 1989) – Działalność kontynuowano w podziemiu
-- D (Została przekształcona w legalną organizację) – Została zdelegalizowana
+**Analiza odpowiedzi błędnych:**
+- A (Została całkowicie zniszczona) – no referenced answer (Solidarność przetrwała w podziemiu)
+- B (Została przekształcona w legalną organizację) – no referenced answer (została zdelegalizowana)
+- C (Przerwała działalność do 1989) – no referenced answer (działalność kontynuowano w podziemiu)

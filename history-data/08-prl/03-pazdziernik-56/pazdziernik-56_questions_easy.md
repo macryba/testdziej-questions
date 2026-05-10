@@ -128,10 +128,10 @@ tokens_total: 27000
 
 **Pytanie:** W którym roku odbyło się VIII Plenum KC PZPR, podczas którego Władysław Gomułka został pierwszym sekretarzem?
 
-**A:** 1953  
-**B:** 1955  
-**C:** 1956  
-**D:** 1957  
+**A:** Rok śmierci Bolesława Bieruta
+**B:** Rok początków stalinizmu w Polsce
+**C:** 1956
+**D:** Rok powstania Solidarności
 
 **Poprawna odpowiedź:** C
 
@@ -141,9 +141,9 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
 **Analiza odpowiedzi niepoprawnych:**
-- A: 1953 to rok śmierci Józefa Stalina
-- B: 1955 to rok przed wydarzeniami październikowymi
-- D: 1957 to rok po VIII Plenum
+- A: Bolesław Bierut zmarł w marcu 1956 roku, nie w 1953 (1953 to rok śmierci Stalina)
+- B: Stalinizm w Polsce rozpoczął się w 1948 roku, nie w 1955
+- D: Solidarność powstała w 1980 roku, 24 lata po VIII Plenum
 
 ---
 

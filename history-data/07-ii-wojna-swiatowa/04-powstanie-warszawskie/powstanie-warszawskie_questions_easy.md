@@ -30,12 +30,12 @@ Wśród uczestników powstania walczyli członkowie Szarych Szeregów — konspi
 **Pytanie:**
 Których trzech bohaterów Szarych Szeregów, opisanych w książce "Kamienie na szaniec", wymienia podstawa programowa szkoły podstawowej jako przykłady postaw patriotycznych podczas II wojny światowej?
 
-**A:** Zośka, Alek, Rudy
-**B:** Czarny, Lotnik, Sęk
+**A:** Czarny, Lotnik, Sęk
+**B:** Zośka, Alek, Rudy
 **C:** Bór, Monter, Niedźwiadek
 **D:** Zośka, Rudy, Maciek
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Podstawa programowa szkoły podstawowej wymienia konkretnie "Zośkę", "Alka" i "Rudego" jako przykłady postaw patriotycznych (Dział IV). Byli to harcerze Szarych Szeregów: Jan Bytnar ("Zośka"), Maciej Aleksy Dawidowski ("Alek") i Jan Romocki ("Rudy"), którzy brali udział w konspiracji i walce z okupantem.
@@ -46,7 +46,7 @@ Podstawa programowa szkoły podstawowej wymienia konkretnie "Zośkę", "Alka" i 
 - Podstawa programowa szkoły podstawowej, Dział IV
 
 **Analiza odpowiedzi błędnych:**
-- **Odp B:** "Czarny", "Lotnik", "Sęk" to pseudonimy żołnierzy AK z książki "Kamienie na szaniec", ale nie są oni wymienieni w podstawie programowej jako główne przykłady
+- **Odp A:** "Czarny", "Lotnik", "Sęk" to pseudonimy żołnierzy AK z książki "Kamienie na szaniec", ale nie są oni wymienieni w podstawie programowej jako główne przykłady
 - **Odp C:** "Bór", "Monter", "Niedźwiadek" to pseudonimy dowódców wojskowych (gen. Komorowski, gen. Chruściel, gen. Okulicki), a nie Szarych Szeregów
 - **Odp D:** "Zośka", "Rudy", "Maciek" - Maciek to nie jest pseudonim "Alka", który jest wymieniony w podstawie programowej
 
@@ -59,12 +59,12 @@ Podstawa programowa szkoły podstawowej wymienia konkretnie "Zośkę", "Alka" i 
 **Pytanie:**
 Którego dnia sierpnia 1944 roku rozpoczęło się powstanie warszawskie?
 
-**A:** 1 sierpnia
-**B:** 17 września
-**C:** 8 maja
-**D:** 27 lipca
+**A:** 17 września 1939
+**B:** 27 lipca 1944
+**C:** 1 sierpnia 1944
+**D:** 8 maja 1945
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Powstanie warszawskie rozpoczęło się 1 sierpnia 1944 roku o godzinie "W" (17:00). Tego dnia około 40-50 tysięcy słabo uzbrojonych powstańców podjęło walkę z okupantami niemieckimi w Warszawie.
@@ -74,9 +74,9 @@ Powstanie warszawskie rozpoczęło się 1 sierpnia 1944 roku o godzinie "W" (17:
 - https://www.1944.pl
 
 **Analiza odpowiedzi błędnych:**
-- **Odp B:** 17 września 1939 to data agresji ZSRR na Polskę, a nie wybuchu powstania warszawskiego
-- **Odp C:** 8 maja 1945 to data zakończenia II wojny światowej w Europie
-- **Odp D:** 27 lipca 1944 to data wydania rozkazu Hitlera o przygotowaniu Warszawy do obrony, a nie wybuchu powstania
+- **Odp A:** 17 września 1939 to data agresji ZSRR na Polskę (incorrect from Kampania wrześniowa)
+- **Odp B:** 27 lipca 1944 to data wydania rozkazu Hitlera o przygotowaniu Warszawy do obrony (correct for: Przygotowania do powstania)
+- **Odp D:** 8 maja 1945 to data zakończenia II wojny światowej w Europie (incorrect from Wyzwolenie)
 
 ---
 
@@ -87,12 +87,12 @@ Powstanie warszawskie rozpoczęło się 1 sierpnia 1944 roku o godzinie "W" (17:
 **Pytanie:**
 Którego października 1944 roku podpisano akt kapitulacji powstania warszawskiego?
 
-**A:** 2 października
-**B:** 17 września
-**C:** 8 maja
-**D:** 1 sierpnia
+**A:** 17 września 1939
+**B:** 1 sierpnia 1944
+**C:** 2 października 1944
+**D:** 8 maja 1945
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Akt kapitulacji powstania warszawskiego został podpisany 2 października 1944 roku po 63 dniach walk. Tego dnia zakończyły się działania bojowe w Warszawie.
@@ -102,8 +102,8 @@ Akt kapitulacji powstania warszawskiego został podpisany 2 października 1944 r
 - https://pl.wikipedia.org/wiki/Skutki_powstania_warszawskiego
 
 **Analiza odpowiedzi błędnych:**
-- **Odp B:** 17 września to data agresji ZSRR na Polsję w 1939 roku
-- **Odp C:** 8 maja to data zakończenia II wojny światowej w Europie w 1945 roku
-- **Odp D:** 1 sierpnia to data rozpoczęcia powstania warszawskiego, a nie jego kapitulacji
+- **Odp A:** 17 września 1939 to data agresji ZSRR na Polskę (incorrect from Kampania wrześniowa)
+- **Odp B:** 1 sierpnia 1944 to data rozpoczęcia powstania warszawskiego (correct for: Rozpoczęcie powstania)
+- **Odp D:** 8 maja 1945 to data zakończenia II wojny światowej w Europie (incorrect from Wyzwolenie)
 
 ---

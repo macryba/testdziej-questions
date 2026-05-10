@@ -32,7 +32,7 @@ Okrągły Stół był bezprecedensowym wydarzeniem w historii krajów bloku wsch
 
 **A.** Uważała, że rozmowy były zbyt radykalne i zagrażały stabilności państwa
 **B.** Nie akceptowała „kontraktowego charakteru" negocjacji z władzami komunistycznymi
-**C.** Sprzeciwiała się jakimkolwiek rozmowom z władzami PRL
+**C.** Sprzeciwiała się jakimkolwiek rozmowom z władzami PRL bez wcześniejszych ustaleń
 **D.** Uważała, że porozumienia nie gwarantowały wystarczających reform gospodarczych
 
 **Poprawna odpowiedź:** B
@@ -57,8 +57,8 @@ Okrągły Stół był bezprecedensowym wydarzeniem w historii krajów bloku wsch
 
 **A.** Była zaskoczeniem dla stron, ale nie wpłynęła znacząco na dalsze przemiany
 **B.** Zmusiła stronę rządową do rezygnacji z dalszych reform i utrzymania status quo
-**C.** Doprowadziła do impasu politycznego i przedterminowych wyborów
-**D.** Zdestabilizowała planowany układ sił i umożliwiła sformowanie pierwszego niekomunistycznego rządu
+**C.** Doprowadziła do impasu politycznego i konieczności przedterminowych wyborów
+**D.** Zdestabilizowała układ sił i umożliwiła powołanie rządu niekomunistycznego
 
 **Poprawna odpowiedź:** D
 
@@ -81,10 +81,10 @@ Okrągły Stół był bezprecedensowym wydarzeniem w historii krajów bloku wsch
 
 **Pytanie:** W jakim stopniu Okrągły Stół był modelem transformacji ustrojowej dla innych państw bloku wschodniego w latach 1989-1990?
 
-**A.** Nie miał znaczenia dla przemian w innych krajach
+**A.** Nie miał znaczenia dla przemian w innych krajach bloku wschodniego
 **B.** Był inspiracją, ale każdy kraj stosował własny model transformacji
 **C.** Został w całości skopiowany przez wszystkie państwa regionu
-**D.** Miał wpływ jedynie na reformy w Czechosłowacji
+**D.** Miał wpływ jedynie na przemiany w Czechosłowacji i na Węgrzech
 
 **Poprawna odpowiedź:** B
 

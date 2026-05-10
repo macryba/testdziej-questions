@@ -21,7 +21,7 @@
       "chapters": [
         {"short_name": "Chrystianizacja", "tech_name": "chrystianizacja", "long_name": "Państwo Gnieźnieńskie i chrystianizacja", "start_year": 960, "end_year": 1025},
         {"short_name": "Ekspansja", "tech_name": "ekspansja", "long_name": "Ekspansja i struktura państwa", "start_year": 1025, "end_year": 1138},
-        {"short_name": "Rozbicie dzielnicowe I", "tech_name": "rozbicie-dzielnicowe-i", "long_name": "Rozbicie dzielnicowe - początek", "start_year": 1138, "end_year": 1241},
+        {"short_name": "Rozbicie dzielnicowe I", "tech_name": "rozbicie-dzielnicowe", "long_name": "Rozbicie dzielnicowe - początek", "start_year": 1138, "end_year": 1241},
         {"short_name": "Najazd mongolski", "tech_name": "najazd-mongolski", "long_name": "Najazd mongolski i jego skutki", "start_year": 1241, "end_year": 1275},
         {"short_name": "Zjednoczenie", "tech_name": "zjednoczenie", "long_name": "Zjednoczenie w Księstwie Wielkopolskim", "start_year": 1275, "end_year": 1306},
         {"short_name": "Łokietek", "tech_name": "lokietek", "long_name": "Władysław Łokietek - odnowienie królestwa", "start_year": 1306, "end_year": 1333},
@@ -105,12 +105,12 @@
       "long_name": "II Wojna Światowa (1939-1945)",
       "is_international": false,
       "chapters": [
-        {"short_name": "Kampania wrześniowa", "tech_name": "kampania-wrzesniowa", "long_name": "Kampania wrześniowa", "start_year": 1939, "end_year": 1939},
-        {"short_name": "Okupacja", "tech_name": "okupacja", "long_name": "Okupacja niemiecka i sowiecka", "start_year": 1939, "end_year": 1945},
-        {"short_name": "Ruch oporu", "tech_name": "ruch-oporu", "long_name": "Polskie Państwo Podziemne", "start_year": 1939, "end_year": 1945},
-        {"short_name": "Powstanie warszawskie", "tech_name": "powstanie-warszawskie", "long_name": "Powstanie warszawskie", "start_year": 1944, "end_year": 1944},
-        {"short_name": "Holocaust", "tech_name": "holocaust", "long_name": "Holocaust na ziemiach polskich", "start_year": 1939, "end_year": 1945},
-        {"short_name": "Wyzwolenie", "tech_name": "wyzwolenie", "long_name": "Wyzwolenie i koniec wojny", "start_year": 1944, "end_year": 1945}
+        {"id": 1, "short_name": "Kampania wrześniowa", "tech_name": "kampania-wrzesniowa", "long_name": "Kampania wrześniowa", "start_year": 1939, "end_year": 1939},
+        {"id": 2, "short_name": "Okupacja", "tech_name": "okupacja", "long_name": "Okupacja niemiecka i sowiecka", "start_year": 1939, "end_year": 1945},
+        {"id": 3, "short_name": "Ruch oporu", "tech_name": "ruch-oporu", "long_name": "Polskie Państwo Podziemne", "start_year": 1939, "end_year": 1945},
+        {"id": 4, "short_name": "Powstanie warszawskie", "tech_name": "powstanie-warszawskie", "long_name": "Powstanie warszawskie", "start_year": 1944, "end_year": 1944},
+        {"id": 5, "short_name": "Holocaust", "tech_name": "holocaust", "long_name": "Holocaust na ziemiach polskich", "start_year": 1939, "end_year": 1945},
+        {"id": 6, "short_name": "Wyzwolenie", "tech_name": "wyzwolenie", "long_name": "Wyzwolenie i koniec wojny", "start_year": 1944, "end_year": 1945}
       ],
       "questions_needed": {"easy": 20, "medium": 20, "hard": 20}
     },

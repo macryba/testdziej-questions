@@ -39,10 +39,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Mieszko_I
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Rok 960 to początek panowania Mieszka I, ale data chrztu jest późniejsza
-- C) Rok 1000 to data zjazdu gnieźnieńskiego, nie chrztu Mieszka I
-- D) Rok 1025 to rok koronacji Bolesława Chrobrego, nie chrztu Mieszka I
+**Analiza odpowiedzi błędnych:**
+- A) 960 – incorrect from same chapter: początek panowania Mieszka I, ale data chrztu jest późniejsza
+- C) 1000 – incorrect from same chapter: zjazd gnieźnieński, nie chrzt Mieszka I
+- D) 1025 – incorrect from same chapter: koronacja Bolesława Chrobrego, nie chrzt Mieszka I
 
 ## Pytanie 2
 
@@ -55,7 +55,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Richeza
 **D)** Jadwiga
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Dobrawa była czeską księżniczką, córką Bolesława Okrutnego, która poślubiła Mieszka I około 965 roku. Jej małżeństwo z Mieszkiem I było związane z chrystianizacją Polski. Dobrawa wniosła do Polski wpływy chrześcijańskie z Czech.
 
@@ -63,10 +63,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Dobrawa_(%C5%BCona_Mieszka_I)
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Święta Kinga żyła w XIII wieku i była żoną Bolesława Wstydliwego
-- C) Rycheza była żoną Mieszka II, żyła w XI wieku
-- D) Jadwiga była królową polską w XIV wieku, żoną Władysława Łokietka
+**Analiza odpowiedzi błędnych:**
+- A) Święta Kinga – incorrect for chapter "Święty Kinga": żyła w XIII wieku i była żoną Bolesława Wstydliwego
+- B) Richeza – incorrect from Ekspansja: żona Mieszka II, żyła w XI wieku
+- C) Jadwiga – correct for: Unia krewska: królowa polska w XIV wieku, żona Władysława Łokietka
 
 ## Pytanie 3
 
@@ -79,7 +79,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Kazimierz Odnowiciel
 **D)** Władysław Łokietek
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Bolesław Chrobry został pierwszy raz koronowany na króla Polski w 1025 roku. Był to syn Mieszka I, który kontynuował dzieło chrystianizacji i umocnił pozycję Polski w Europie. Jego koronacja ukoronowała proces tworzenia silnego państwa polskiego.
 
@@ -87,10 +87,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry
 - https://pl.wikipedia.org/wiki/Koronacja_Boles%C5%82awa_Chrobrego
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Mieszko I był księciem, nie królem Polski
-- C) Kazimierz Odnowiciel żył w XI wieku, ale został koronowany później
-- D) Władysław Łokietek był królem Polski w XIV wieku
+**Analiza odpowiedzi błędnych:**
+- B) Mieszko I – incorrect from same chapter: był księciem, nie królem Polski
+- C) Kazimierz Odnowiciel – incorrect from Rozbicie dzielnicowe II: żył w XI wieku, ale został koronowany później
+- D) Władysław Łokietek – correct for: Zjednoczenie: król Polski w XIV wieku
 
 ## Pytanie 4
 
@@ -103,7 +103,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Gniezno
 **D)** Wrocław
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Gniezno było pierwszą stolicą Polski i siedzibą pierwszego polskiego arcybiskupa. W 1000 roku podczas zjazdu gnieźnieńskiego cesarz Otton III i Bolesław Chrobry ustanowili arcybiskupstwo w Gnieźnie, co podniosło Polskę do rangi niezależnej prowincji kościelnej.
 
@@ -111,10 +111,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 - https://pl.wikipedia.org/wiki/Archidiecezja_gnie%C5%BAnie%C5%84ska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Kraków stał się stolicą Polski później, w czasach Kazimierza Odnowiciela
-- B) Poznań było ważnym ośrodkiem, ale nie było siedzibą arcybiskupa
-- D) Wrocław był siedzibą biskupa, nie arcybiskupa
+**Analiza odpowiedzi błędnych:**
+- A) Kraków – incorrect from Rozbicie dzielnicowe II: stał się stolicą Polski później, w czasach Kazimierza Odnowiciela
+- B) Poznań – incorrect from same chapter: ważny ośrodek, ale nie był siedzibą arcybiskupa
+- C) Gniezno – no referenced answer: pierwsza stolicą Polski i siedziba arcybiskupa (CORRECT ANSWER)
 
 ## Pytanie 5
 
@@ -127,7 +127,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Koronacja Bolesława Chrobrego
 **D)** Utworzenie biskupstwa w Poznaniu
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Zjazd gnieźnieński miał miejsce w 1000 roku. Było to spotkanie cesarza Ottona III z Bolesławem Chrobrym. Podczas tego zjazdu ustanowiono arcybiskupstwo w Gnieźnie oraz biskupstwa w Krakowie, Wrocławiu i Kołobrzegu.
 
@@ -135,10 +135,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 - https://pl.wikipedia.org/wiki/Otto_III
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Chrzest Polski odbył się w 966 roku
-- C) Koronacja Bolesława Chrobrego miała miejsce w 1025 roku
-- D) Pierwsze biskupstwo w Poznaniu powstało wcześniej, w 968 roku
+**Analiza odpowiedzi błędnych:**
+- B) Zjazd gnieźnieński – no referenced answer: wydarzenie z 1000 roku (CORRECT ANSWER)
+- C) Koronacja Bolesława Chrobrego – incorrect from same chapter: miała miejsce w 1025 roku
+- D) Utworzenie biskupstwa w Poznaniu – incorrect from same chapter: powstało wcześniej, w 968 roku
 
 ## Pytanie 6
 
@@ -151,7 +151,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Otton III
 **D)** Konrad II
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Otton III był cesarzem Świętego Cesarstwa Rzymskiego, który spotkał się z Bolesławem Chrobrym podczas zjazdu gnieźnieńskiego w 1000 roku. Otton III wsparł stworzenie niezależnej struktury kościelnej w Polsce i uznawał Bolesława Chrobrego za ważnego sojusznika.
 
@@ -159,10 +159,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Otto_III
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Otton I żył w X wieku, przed zjazdem gnieźnieńskim
-- B) Otton II był ojcem Ottona III, nie żył w 1000 roku
-- D) Konrad II był cesarzem po Ottonie III
+**Analiza odpowiedzi błędnych:**
+- A) Otton I – incorrect from same chapter: żył w X wieku, przed zjazdem gnieźnieńskim
+- B) Otton II – incorrect from same chapter: był ojcem Ottona III, nie żył w 1000 roku
+- C) Otton III – no referenced answer: cesarz który spotkał się z Bolesławem Chrobrym (CORRECT ANSWER)
 
 ## Pytanie 7
 
@@ -175,7 +175,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Diecezja
 **D)** Parafia
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Arcybiskupstwo zostało ustanowione w Gnieźnie w 1000 roku podczas zjazdu gnieźnieńskiego. Była to najwyższa jednostka administracji kościelnej w Polsce, co oznaczało, że Kościół polski był niezależny od niemieckich hierarchów kościelnych.
 
@@ -183,10 +183,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 - https://pl.wikipedia.org/wiki/Archidiecezja_gnie%C5%BAnie%C5%84ska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Biskupstwo to niższa jednostka administracji kościelnej niż arcybiskupstwo
-- C) Diecezja to odpowiednik biskupstwa
-- D) Parafia to najniższa jednostka administracji kościelnej
+**Analiza odpowiedzi błędnych:**
+- B) Arcybiskupstwo – no referenced answer: najwyższa jednostka administracji kościelnej (CORRECT ANSWER)
+- C) Diecezja – incorrect from same chapter: odpowiednik biskupstwa, niższa jednostka niż arcybiskupstwo
+- D) Parafia – incorrect from same chapter: najniższa jednostka administracji kościelnej
 
 ## Pytanie 9
 
@@ -207,10 +207,10 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Biskupstwo_pozna%C5%84skie
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Gniezno stało się siedzibą arcybiskupstwa później, w 1000 roku
-- B) Kraków stał się siedzibą biskupstwa w 1000 roku
-- D) Wrocław stał się siedzibą biskupstwa w 1000 roku
+**Analiza odpowiedzi błędnych:**
+- A) Gniezno – incorrect from same chapter: stało się siedzibą arcybiskupstwa później, w 1000 roku
+- B) Kraków – incorrect from same chapter: stał się siedzibą biskupstwa w 1000 roku
+- D) Wrocław – incorrect from same chapter: stał się siedzibą biskupstwa w 1000 roku
 
 ## Pytanie 10
 
@@ -223,7 +223,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Poznań
 **D)** Kraków
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Ostrów Lednicki jest uważany za hipotetyczne miejsce chrztu Mieszka I. Na tym miejscu odkryto pozostałości romańskiego kościoła z X wieku oraz baptysterium, co sugeruje, że mogło tam mieć miejsce ważne wydarzenie chrystianizacyjne. Jednak dokładne miejsce chrztu nie jest do końca pewne.
 
@@ -231,12 +231,12 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Lednicki
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Gniezno było ważnym ośrodkiem, ale nie ma bezpośrednich dowodów na chrzt tam
-- C) Poznań było siedzibą biskupstwa, ale nie ma dowodów na chrzt tam
-- D) Kraków nie był głównym ośrodkiem w czasach Mieszka I
+**Analiza odpowiedzi błędnych:**
+- B) Gniezno – incorrect from same chapter: ważny ośrodek, ale nie ma bezpośrednich dowodów na chrzt tam
+- C) Ostrów Lednicki – no referenced answer: hipotetyczne miejsce chrztu Mieszka I (CORRECT ANSWER)
+- D) Kraków – incorrect from Rozbicie dzielnicowe II: nie był głównym ośrodkiem w czasach Mieszka I
 
-## Pytanie 10
+## Pytanie 11
 
 **Question ID:** Q-CHR-E12
 
@@ -247,7 +247,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Z dynastii Przemyślidów
 **D)** Z dynastii Wazów
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Mieszko I pochodził z dynastii Piastów, która rządziła Polską od X do XIV wieku. To najstarsza polska dynastia panująca.
 
@@ -255,12 +255,12 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Piastowie
 - https://pl.wikipedia.org/wiki/Mieszko_I
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Jagiellonowie pojawili się znacznie później — od końca XIV wieku
-- C) Przemyślidzi byli czeską dynastią, z której pochodziła Dobrawa, a nie Mieszko I
-- D) Wazowie to szwedzka dynastia, która rządziła Polską w XVII wieku — znacznie później
+**Analiza odpowiedzi błędnych:**
+- A) Jagiellonowie – incorrect for chapter "Unia krewska": pojawili się znacznie później — od końca XIV wieku
+- B) Piastowie – no referenced answer: najstarsza polska dynastia panująca (CORRECT ANSWER)
+- C) Przemyślidzi – incorrect for chapter "Przemyślidzi": czeska dynastia, z której pochodziła Dobrawa, a nie Mieszko I
 
-## Pytanie 11
+## Pytanie 12
 
 **Question ID:** Q-CHR-E13
 
@@ -271,7 +271,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Pogaństwo - politeizm
 **D)** Judaizm
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Przed chrztem w 966 roku Polanie wyznawali pogaństwo — wierzyli w wielu bogów związanych z naturą. Była to religia politeistyczna typowa dla ludów słowiańskich.
 
@@ -279,12 +279,12 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Religia_Słowian
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Chrześcijaństwo prawosławne przyjęto na Rusi, a nie w Polsce — to inny obrządek
-- B) Islam nie był religią Polan — to religia Bliskiego Wschodu i Afryki Północnej
-- D) Judaizm nie był religią Polan — to religia Żydów, nie Słowian
+**Analiza odpowiedzi błędnych:**
+- B) Islam – incorrect from same chapter: nie był religią Polan — to religia Bliskiego Wschodu i Afryki Północnej
+- C) Pogaństwo - politeizm – no referenced answer: religia Słowian przed chrystianizacją (CORRECT ANSWER)
+- D) Judaizm – incorrect from same chapter: nie był religią Polan — to religia Żydów, nie Słowian
 
-## Pytanie 12
+## Pytanie 13
 
 **Question ID:** Q-CHR-E14
 
@@ -295,7 +295,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Z cegły
 **D)** Z gliny
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Pierwsze kościoły w Polsce budowano z kamienia (romańskie), co było nową techniką budowlaną przywiezioną z zachodu. Przykładem jest kościół na Ostrowie Lednickim.
 
@@ -303,12 +303,12 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Szlak_Roma%C5%84ski_w_Polsce
 - https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Lednicki
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Drewno było powszechnie używane przed chrztem, ale kościoły chrześcijańskie budowano z kamienia
-- C) Cegła pojawiła się później — styl gotycki używał cegieł, ale nie w czasach Mieszka I
-- D) Glina nie była używana do budowy kościołów — to materiał na chaty, nie na świątynie
+**Analiza odpowiedzi błędnych:**
+- A) Drewno – incorrect from same chapter: powszechnie używane przed chrztem, ale kościoły chrześcijańskie budowano z kamienia
+- B) Kamień – no referenced answer: materiał z którego budowano pierwsze kościoły romańskie (CORRECT ANSWER)
+- D) Glina – incorrect from same chapter: nie była używana do budowy kościołów — to materiał na chaty, nie na świątynie
 
-## Pytanie 13
+## Pytanie 14
 
 **Question ID:** Q-CHR-E15
 
@@ -319,7 +319,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 **C)** Zakończony w roku 1000
 **D)** Tylko dla elit - ludność pozostała pogańska
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Chrystianizacja Polski była długotrwałym procesem trwającym wiele pokoleń. Chrzest Mieszka I w 966 roku był początkiem, ale ludność stopniowo przyjmowała chrześcijaństwo.
 
@@ -327,7 +327,7 @@ Okres chrystianizacji Polski (960-1025) to czas, kiedy Polska przyjęła chrześ
 - https://pl.wikipedia.org/wiki/Chrystianizacja_Polski
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Nie był natychmiastowy — ludzie stopniowo porzucali pogaństwo przez wiele lat
-- C) Nie zakończył się w 1000 roku — proces trwał znacznie dłużej
-- D) Nie dotyczył tylko elit — chrystianizacja obejmowała całą ludność
+**Analiza odpowiedzi błędnych:**
+- A) Natychmiastowy – incorrect from same chapter: nie był natychmiastowy — ludzie stopniowo porzucali pogaństwo przez wiele lat
+- B) Długotrwały - trwał wiele pokoleń – no referenced answer: chrystianizacja była procesem wieloletnim (CORRECT ANSWER)
+- C) Zakończony w roku 1000 – incorrect from same chapter: nie zakończył się w 1000 roku — proces trwał znacznie dłużej

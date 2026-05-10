@@ -35,22 +35,22 @@ Pokój oliwski (3 maja 1660) zakończył wojnę, ale koszty były katastrofalne:
 
 **Pytanie:** W jaki sposób potop szwedzki przyczynił się do długoterminowego upadku Rzeczypospolitej Obojga Narodów?
 
-**A.** Zniszczył gospodarkę, zredukował ludność i pozbawił kraju wpływów nad Prusami Książęcymi
-**B.** Zmusił Polskę do przyjęcia katolicyzmu
-**C.** Doprowadził do unii ze Szwecją
+**A.** Zmusił Polskę do przyjęcia katolicyzmu
+**B.** Doprowadził do unii ze Szwecją
+**C.** Zniszczył gospodarkę, zredukował ludność i pozbawił kraju wpływów nad Prusami Książęcymi
 **D.** Wzmocnił pozycję szlachty kosztem króla
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Potop szwedzki spowodował katastrofalne straty demograficzne (30-40% ludności), gospodarcze (ponad 50% majątku narodowego) i polityczne (utrata zwierzchnictwa nad Prusami Książęcymi). Te straty osłabiły Rzeczpospolitą na całe stulecia i przyczyniły się do jej upadku pod koniec XVIII wieku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B: Polska była katolicka od 966 roku, potop tego nie zmienił
-- Odp C: Polska nie zawarła unii ze Szwecją, walczyła z nią
-- Odp D: Pozycja szlachty została wzmocniona wcześniej, nie przez potop
+**Analiza odpowiedzi błędnych:**
+- Odp A (Zmusił Polskę do przyjęcia katolicyzmu): incorrect from Chrystianizacja - Polska przyjęła chrześćijaństwo w 966 roku, ponad 600 lat przed potopem szwedzkim
+- Odp B (Doprowadził do unii ze Szwecją): no referenced answer - Polska walczyła ze Szwecją podczas potopu, nie zawierając z nią unii (dynastia Wazów panowała w obu krajach, ale nie było to unia państw)
+- Odp D (Wzmocnił pozycję szlachty kosztem króla): no referenced answer - pozycja szlachty była już silna dzięki liberum veto i złotej wolności, potop jedynie pogłębił kryzys państwowy
 
 ---
 
@@ -72,10 +72,10 @@ Pokój oliwski (3 maja 1660) zakończył wojnę, ale koszty były katastrofalne:
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Jasnej_G%C3%B3ry
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B: Jasna Góra nie przechowywała skarbca królewskiego
-- Odp C: Szwecja nie wycofała się natychmiast po oblężeniu
-- Odp D: Francja nie udzieliła Polsce pomocy podczas potopu
+**Analiza odpowiedzi błędnych:**
+- Odp B (Zabezpieczyła skarbiec królewski): no referenced answer - Jasna Góra była sanktuarium maryjnym, nie miejscem przechowywania skarbca królewskiego
+- Odp C (Zmusiła Szwecję do wycofania się z Polski): no referenced answer - Szwedzi kontynuowali okupację Polski po oblężeniu Jasnej Góry, wycofali się dopiero po kampanii odrodzonej armii polskiej
+- Odp D (Doprowadziła do natychmiastowej pomocy ze strony Francji): no referenced answer - Francja nie udzieliła Polsce pomocy podczas potopu szwedzkiego, była zaangażowana w wojnę z Hiszpanią
 
 ---
 
@@ -85,19 +85,19 @@ Pokój oliwski (3 maja 1660) zakończył wojnę, ale koszty były katastrofalne:
 
 **Pytanie:** Jakie były polityczne i strategiczne konsekwencje utraty zwierzchnictwa nad Prusami Książęcymi w traktatach welawsko-bydgoskich (1657)?
 
-**A.** Umożliwiły zjednoczenie Niemiec i przyszłe zagrożenie Polski od zachodu
-**B.** Doprowadziły do sojuszu polsko-pruskiego przeciw Rosji
-**C.** Wzmocniły gospodarkę polską dzięki handlowi z Gdańskiem
-**D.** Zabezpieczyły wschodnią granicę Polski
+**A.** Zabezpieczyły wschodnią granicę Polski
+**B.** Umożliwiły zjednoczenie Niemiec i przyszłe zagrożenie Polski od zachodu
+**C.** Doprowadziły do sojuszu polsko-pruskiego przeciw Rosji
+**D.** Wzmocniły gospodarkę polską dzięki handlowi z Gdańskiem
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Utrata zwierzchnictwa nad Prusami Książęcymi pozwoliła Brandenburgii (późniejszym Prusom) na zjednoczenie Niemiec pod wodzą Prus w XIX wieku. To z kolei doprowadziło do zagrożenia Polski od zachodu i w konsekwencji do rozbiorów pod koniec XVIII wieku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B: Prusy nie były sojusznikiem Polski, lecz zagrożeniem
-- Odp C: Utrata Prus nie wzmocniła gospodarki polskiej
-- Odp D: Utrata Prus nie zabezpieczyła wschodniej granicy Polski
+**Analiza odpowiedzi błędnych:**
+- Odp A (Zabezpieczyły wschodnią granicę Polski): no referenced answer - utrata Prus Książęcych osłabiła pozycję Polski na zachodzie, nie miała związku ze wschodnią granicą
+- Odp C (Doprowadziły do sojuszu polsko-pruskiego przeciw Rosji): no referenced answer - Prusy stały się zagrożeniem dla Polski, nie sojusznikiem; Brandenburgia dążyła do niezależności od Polski
+- Odp D (Wzmocniły gospodarkę polską dzięki handlowi z Gdańskiem): no referenced answer - utrata Prus osłabiła gospodarkę polską, zmniejszyła dochody i wpływy handlowe

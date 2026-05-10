@@ -30,11 +30,11 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 **Pytanie:** Dlaczego Zygmunt II August zdecydował się na inkorporację ziem ruskich (Podlasia, Wołynia, Kijowszczyzny i Podola) do Korony w trakcie negocjacji unii lubelskiej?
 
 **A.** Aby zabezpieczyć wschodnią granicę przed najazdami tatarskimi
-**B.** Aby zmusić litewskich magnatów do powrotu do negocjacji i zaakceptowania unii
-**C.** Aby zwiększyć liczebność szlachty polskiej w sejmie walnym
-**D.** Aby uzyskać dostęp do szlaków handlowych nad Morzem Czarnym
+**B.** Aby zwiększyć liczebność szlachty polskiej w sejmie walnym
+**C.** Aby uzyskać dostęp do szlaków handlowych nad Morzem Czarnym
+**D.** Aby zmusić litewskich magnatów do powrotu do negocjacji i zaakceptowania unii
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Inkorporacja ziem ruskich była strategią "faktów dokonanych" stosowaną przez Zygmunta II Augusta. Gdy magnaci litewscy sprzeciwiający się ścisłej unii opuścili negocjacje, król – za aprobatą lokalnej szlachty ruskiej – przyłączył te ziemie do Korony. To zmusiło litewskich przedstawicieli do powrotu i zaakceptowania unii, ponieważ nie mogli już negocjować w imieniu całego Wielkiego Księstwa Litewskiego.
 
@@ -44,8 +44,8 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 
 **Analiza odpowiedzi nieprawidłowych:**
 - **A. Aby zabezpieczyć wschodnią granicę przed najazdami tatarskimi** – Inkorporacja nie miała na celu głównie obrony przed Tatarami, była narzędziem politycznym w negocjacjach z Litwą
-- **C. Aby zwiększyć liczebność szlachty polskiej w sejmie walnym** – Szlachta ruska uzyskała miejsca w sejmie, ale nie była to główna przyczyna inkorporacji
-- **D. Aby uzyskać dostęp do szlaków handlowych nad Morzem Czarnym** – Cele handlowe nie były głównym motywem inkorporacji ziem ruskich w 1569 roku
+- **B. Aby zwiększyć liczebność szlachty polskiej w sejmie walnym** – Szlachta ruska uzyskała miejsca w sejmie, ale nie była to główna przyczyna inkorporacji
+- **C. Aby uzyskać dostęp do szlaków handlowych nad Morzem Czarnym** – Cele handlowe nie były głównym motywem inkorporacji ziem ruskich w 1569 roku
 
 ---
 
@@ -106,12 +106,12 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 
 **Pytanie:** Jaki był główny powód sprzeciwu magnatów litewskich wobec zawarcia unii lubelskiej?
 
-**A.** Obawa przed utratą niezależności Wielkiego Księstwa Litewskiego
-**B.** Niechęć do wspólnej waluty z Koroną
-**C.** Sprzeciw wobec wolnej elekcji monarchy
-**D.** Zgodność religijna z Polską
+**A.** Niechęć do wspólnej waluty z Koroną
+**B.** Sprzeciw wobec wolnej elekcji monarchy
+**C.** Zgodność religijna z Polską
+**D.** Obawa przed utratą niezależności Wielkiego Księstwa Litewskiego
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Magnaci litewscy sprzeciwiali się unii lubelskiej przede wszystkim z obawy przed utratą niezależności Wielkiego Księstwa Litewskiego. Dążyli do utrzymania jak najluźniejszego związku z Polską, preferując unię personalną lub konfederację. Ostatecznie część magnatów opuściła nawet negocjacje w proteście przeciw planom inkorporacji.
 
@@ -120,9 +120,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Magnateria_litewska
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Niechęć do wspólnej waluty z Koroną** – Kwestia waluty nie była głównym powodem sprzeciwu magnatów litewskich
-- **C. Sprzeciw wobec wolnej elekcji monarchy** – Wolna elekcja była wspólnej korzyścią, nie głównym punktem sporu
-- **D. Zgodność religijna z Polską** – Różnice religijne nie były istotne, ponieważ większość magnatów litewskich była już katolikami
+- **A. Niechęć do wspólnej waluty z Koroną** – Kwestia waluty nie była głównym powodem sprzeciwu magnatów litewskich
+- **B. Sprzeciw wobec wolnej elekcji monarchy** – Wolna elekcja była wspólnej korzyścią, nie głównym punktem sporu
+- **C. Zgodność religijna z Polską** – Różnice religijne nie były istotne, ponieważ większość magnatów litewskich była już katolikami
 
 ---
 
@@ -184,11 +184,11 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 **Pytanie:** Jaką strukturę ustrojową przyjęła Rzeczpospolita Obojga Narodów na mocy unii lubelskiej?
 
 **A.** Unitarne państwo z jednym centrum władzy
-**B.** Federacja dwóch równoprawnych państw
-**C.** Konfederacja luźnych ziem i województw
-**D.** Unia personalna z wspólnym monarchą
+**B.** Konfederacja luźnych ziem i województw
+**C.** Unia personalna z wspólnym monarchą
+**D.** Federacja dwóch równoprawnych państw
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Unia lubelska utworzyła federację dwóch równoprawnych państwa – Korony Królestwa Polskiego i Wielkiego Księstwa Litewskiego. Miały one wspólne instytucje (monarcha, sejm, polityka zagraniczna), ale zachowały odrębność w wielu dziedzinach (skarb, wojsko, urzędy, sądownictwo).
 
@@ -198,8 +198,8 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 
 **Analiza odpowiedzi nieprawidłowych:**
 - **A. Unitarne państwo z jednym centrum władzy** – Państwo nie było unitarne, lecz federacyjne
-- **C. Konfederacja luźnych ziem i województw** – To nie była konfederacja, lecz federacja dwóch równoprawnych państw
-- **D. Unia personalna z wspólnym monarchą** – Unia lubelska była unią realną, nie tylko personalną
+- **B. Konfederacja luźnych ziem i województw** – To nie była konfederacja, lecz federacja dwóch równoprawnych państw
+- **C. Unia personalna z wspólnym monarchą** – Unia lubelska była unią realną, nie tylko personalną
 
 ---
 
@@ -235,12 +235,12 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 
 **Pytanie:** Jakie prawo otrzymała szlachta ruska z ziem włączonych do Korony w 1569 roku?
 
-**A.** Równe prawa ze szlachtą polską z zachowaniem języka ruskiego jako urzędowego
-**B.** Ograniczone prawa bez możliwości zasiadania w sejmie
-**C.** Prawa szlacheckie pod warunkiem przejścia na katolicyzm
-**D.** Status gości bez praw politycznych
+**A.** Ograniczone prawa bez możliwości zasiadania w sejmie
+**B.** Prawa szlacheckie pod warunkiem przejścia na katolicyzm
+**C.** Status gości bez praw politycznych
+**D.** Równe prawa ze szlachtą polską z zachowaniem języka ruskiego jako urzędowego
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Szlachta ruska z ziem włączonych do Korony otrzymała przywileje identyczne jak szlachta polska, w tym prawo do zasiadania w sejmie. Zachowano również język ruski jako urzędowy na tych ziemiach.
 
@@ -249,9 +249,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Szlachta_ruska
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Ograniczone prawa bez możliwości zasiadania w sejmie** – Szlachta ruska otrzymała pełne prawa, w tym prawo do zasiadania w sejmie
-- **C. Prawa szlacheckie pod warunkiem przejścia na katolicyzm** – Nie było takiego warunku religijnego
-- **D. Status gości bez praw politycznych** – Szlachta ruska otrzymała pełne prawa polityczne
+- **A. Ograniczone prawa bez możliwości zasiadania w sejmie** – Szlachta ruska otrzymała pełne prawa, w tym prawo do zasiadania w sejmie
+- **B. Prawa szlacheckie pod warunkiem przejścia na katolicyzm** – Nie było takiego warunku religijnego
+- **C. Status gości bez praw politycznych** – Szlachta ruska otrzymała pełne prawa polityczne
 
 ---
 
@@ -288,11 +288,11 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 **Pytanie:** Który biskup przygotował projekt unii lubelskiej zakładający luźny związek Polski z Litwą?
 
 **A.** Jakub Uchański
-**B.** Filip Padniewski
-**C.** Stanisław Hozjusz
-**D.** Piotr Myszkowski
+**B.** Stanisław Hozjusz
+**C.** Piotr Myszkowski
+**D.** Filip Padniewski
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Biskup krakowski Filip Padniewski przygotował projekt unii lubelskiej zakładający bardzo luźny związek w formie unii personalnej, jedynie w celu prowadzenia wspólnej polityki obronnej. Nawet ta propozycja nie została przyjęta przez sejm litewski zdominowany przez magnatów.
 
@@ -302,8 +302,8 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 
 **Analiza odpowiedzi nieprawidłowych:**
 - **A. Jakub Uchański** – Był prymasem Polski, ale nie autorem projektu unii lubelskiej
-- **C. Stanisław Hozjusz** – Był biskupem warmińskim i kardynałem, nie autorem projektu unii lubelskiej
-- **D. Piotr Myszkowski** – Był biskupem, ale nie był głównym autorem projektu unii lubelskiej
+- **B. Stanisław Hozjusz** – Był biskupem warmińskim i kardynałem, nie autorem projektu unii lubelskiej
+- **C. Piotr Myszkowski** – Był biskupem, ale nie był głównym autorem projektu unii lubelskiej
 
 ---
 

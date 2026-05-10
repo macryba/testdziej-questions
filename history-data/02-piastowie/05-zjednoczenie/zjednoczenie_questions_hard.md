@@ -30,7 +30,7 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Polityka była w pełni skuteczna i zakończyła okres rozbicia dzielnicowego
 **D.** Polityka przyniosła odwrotne skutki - zwiększyła rozdrobnienie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Polityka Przemysła II była częściowo skuteczna. Koronacja w 1295 roku przywróciła instytucję królestwa i stworzyła precedens dla Łokietka. Choć nie zdołał zjednoczyć wszystkich ziem, jego działania stworzyły fundamenty dla dalszego procesu unifikacji.
 
@@ -38,10 +38,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 - https://dzieje.pl/artykuly/artykuly/historia-polski/odrodzenie-krolestwa-polskiego-koronacja-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nieprawda - działania zmierzały do unifikacji
-- C. Przesada - zjednoczenie nie było kompletne
-- D. Nieprawda - działani zmierzały do unifikacji
+**Analiza odpowiedzi błędnych:**
+- A (całkowicie nieudana) – incorrect from Zjednoczenie: Przemysł II rzeczywiście osiągnął część celów zjednoczeniowych (Wielkopolska, koronacja królewska)
+- B (częściowo skuteczna) – correct for: Zjednoczenie: To trafna ocena polityki Przemysła II jako ogniwa pośredniego
+- C (w pełni skuteczna) – incorrect from Zjednoczenie: Zjednoczenie nie było kompletne – brakowało Małopolski i innych ziem
 
 ---
 
@@ -54,17 +54,17 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Przeciwstawiał się zjednoczeniu
 **D.** Jego rola była marginalna
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Arcybiskup Jakub Świnka był aktywnym sojusznikiem zjednoczenia, co pokazuje, że Kościół w Polsce był kluczowym wsparciem dla odrodzenia monarchii. Ta współpraca była charakterystyczna dla polityki unifikacyjnej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie był neutralny - aktywnie wspierał zjednoczenie
-- C. Nie przeciwstawiał się
-- D. Jego rola była kluczowa, nie marginalna
+**Analiza odpowiedzi błędnych:**
+- B (aktywnym sojusznikiem) – correct for: Zjednoczenie: Jakub Świnka rzeczywiście wspierał politykę zjednoczeniową Przemysła II
+- C (przeciwstawiał się) – incorrect from Zjednoczenie: Świnka był zwolennikiem zjednoczenia, nie przeciwnikiem
+- D (rola marginalna) – incorrect from Zjednoczenie: Jego rola była kluczowa jako sojusznika Przemysła II
 
 ---
 
@@ -77,7 +77,7 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Łokietek skupił się tylko na Wielkopolsce
 **D.** Nie było różnic w ich strategiach
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Przemysł II koncentrował się głównie na Wielkopolsce i używał dyplomacji oraz dziedziczenia, podczas gdy Łokietek prowadził szerszą akcję zjednoczeniową, sięgając po Małopolskę i inne ziemie.
 
@@ -85,10 +85,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie używali wyłącznie siły
-- C. Łokietek nie skupiał się tylko na Wielkopolsce
-- D. Istniały wyraźne różnice w strategiach
+**Analiza odpowiedzi błędnych:**
+- A (wyłącznie siły militarnej) – incorrect from Zjednoczenie: Obaj używali kombinacji dyplomacji, dziedziczenia i siły militarnej
+- B (różnice w strategiach) – correct for: Zjednoczenie: To trafne porównanie różnic w strategiach obaj władców
+- D (nie było różnic) – incorrect from Zjednoczenie: Istniały wyraźne różnice – Przemysł II fokus na Wielkopolskę, Łokietek na szerszą unifikację
 
 ---
 
@@ -108,10 +108,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Polska nie była w całkowitej izolacji
-- C. Przeciwnie - sąsiedzi byli zagrożeniem
-- D. Kontekst miał kluczowe znaczenie
+**Analiza odpowiedzi błędnych:**
+- A (izolacja międzynarodowa) – incorrect from Zjednoczenie: Polska nie była całkowicie izolowana – miała sprzymierzeńców
+- C (sąsiedzi wspierali) – incorrect from Zjednoczenie: Czechy, Brandenburgia i Zakon Krzyżacki były zagrożeniem
+- D (kontekst bez znaczenia) – no referenced answer: Kontekst geopolityczny był kluczowy dla działań zjednoczeniowych
 
 ---
 
@@ -124,17 +124,17 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Przemysł II został zamordowany przez swoich sojuszników
 **D.** Przyczyny są nieznane
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Najbardziej uzasadniona interpretacja wskazuje, że był to politycznie motywowany zamachu zorganizowany przez Brandenburgię, która widziała w Przemysle II przeszkodę dla swoich ekspansyjnych planów.
 
 **Źródła:**
 - https://dzieje.pl/wydarzenia/zamach-na-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie był przypadkowy
-- C. Nie ma dowodów na sojuszników
-- D. Przyczyny są dobrze zbadane przez historyków
+**Analiza odpowiedzi błędnych:**
+- B (zamach przez Brandenburgię) – correct for: Zjednoczenie: To jest najbardziej uzasadniona interpretacja historyczna zamachu
+- C (zamordowany przez sojuszników) – incorrect from Zjednoczenie: Nie ma dowodów na udział sojuszników – prawdopodobnie Brandenburczycy
+- D (przyczyny nieznane) – incorrect from Zjednoczenie: Przyczyny są dobrze zbadane – polityczny motyw Brandenburgii
 
 ---
 
@@ -147,17 +147,17 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Skutki były pozytywne - przyspieszyło to zjednoczenie
 **D.** Nie miało to żadnego wpływu na dalsze losy
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Śmierć Przemysła II opóźniła proces zjednoczenia o kilkadziesiąt lat, wywołała kryzys sukcesyjny, jednak działania unifikacyjne zostały podjęte ponownie przez Władysława Łokietka.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Proces nie został zatrzymany
-- C. Nie przyspieszyło zjednoczenia
-- D. Miało istotny wpływ
+**Analiza odpowiedzi błędnych:**
+- A (całkowicie zatrzymany) – incorrect from Zjednoczenie: Proces nie został zatrzymany – Łokietek go kontynuował
+- B (opóźniło o kilkadziesiąt lat) – correct for: Zjednoczenie: To trafna ocena wpływu śmierci Przemysła II na proces unifikacji
+- D (żadnego wpływu) – incorrect from Zjednoczenie: Śmierć wywołała kryzys sukcesyjny i opóźniła zjednoczenie
 
 ---
 
@@ -170,17 +170,17 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Tylko z powodu prestiżu osobistego
 **D.** Koronacja nie miała większego znaczenia
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Koronacja miała fundamentalne znaczenie prawne i symboliczne - przywracała legalną instytucję królestwa po 219 latach i była symbolem jedności państwa, co dawało podstawy do roszczeń terytorialnych.
 
 **Źródła:**
 - https://dzieje.pl/artykuly/artykuly/historia-polski/odrodzenie-krolestwa-polskiego-koronacja-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie dał władzy absolutnej
-- C. Nie tylko dla prestiżu osobistego
-- D. Miała wielkie znaczenie
+**Analiza odpowiedzi błędnych:**
+- A (władza absolutna) – incorrect from Zjednoczenie: Koronacja nie dała władzy absolutnej, ale legitymację prawno-symboliczną
+- B (przywrócił instytucję królestwa) – correct for: Zjednoczenie: To jest główny znaczenie koronacji Przemysła II
+- C (tylko prestiż osobisty) – incorrect from Zjednoczenie: Koronacja miała znaczenie państwowe, nie tylko osobiste
 
 ---
 
@@ -193,7 +193,7 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Był głównym twórcą zjednoczonej Polski
 **D.** Jego działania były kontrproduktywne
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Przemysł II zajmuje kluczowe miejsce jako ogniwo pośrednie - rozpoczął proces odrodzenia monarchy i stworzył precedens koronacji, choć ostateczne zjednoczenie osiągnął Łokietek.
 
@@ -201,10 +201,11 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie był marginalny
-- C. Nie był głównym twórcą - to Łokietek
-- D. Jego działania nie były kontrproduktywne
+**Analiza odpowiedzi błędnych:**
+- A (postacią marginalną) – incorrect from Zjednoczenie: Przemysł II nie był marginalny – rozpoczął proces zjednoczeniowy
+- B (ogniwem pośrednim) – correct for: Zjednoczenie: To trafna synteza miejsca Przemysła II w procesie odrodzenia monarchii
+- C (głównym twórcą) – incorrect from Zjednoczenie: Głównym twórcą zjednoczonej Polski był Łokietek, nie Przemysł II
+- D (działania kontrproduktywne) – no referenced answer: Działania Przemysła II wspierały proces zjednoczenia
 
 ---
 
@@ -217,17 +218,17 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 **C.** Tylko presja zewnętrzna zmuszała go do działań
 **D.** Historycy nie są zgodni co do motywacji
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Najlepiej uzasadniona interpretacja wskazuje na kombinację czynników - ambicje osobiste, potrzebę stabilizacji państwa po rozbiciu dzielnicowym i konieczność obrony przed ekspansją zewnętrzną.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie tylko dla osobistych korzyści
-- C. Nie tylko presja zewnętrzna
-- D. Historycy przedstawiają podobne interpretacje
+**Analiza odpowiedzi błędnych:**
+- A (wyłącznie osobiste korzyści) – incorrect from Zjednoczenie: Motywacja była wieloczynnikowa – nie tylko osobista
+- B (kombinacja czynników) – correct for: Zjednoczenie: To jest najlepiej uzasadniona interpretacja motywacji Przemysła II
+- D (historycy nie są zgodni) – incorrect from Zjednoczenie: Historycy przedstawiają podobne interpretacje motywacji wieloczynnikowej
 
 ---
 
@@ -248,9 +249,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) stanowi kluczowy momen
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie były świetne
-- C. Nie był głównym sojusznikiem
-- D. Nie miał relacji z Zakonem
+**Analiza odpowiedzi błędnych:**
+- A (świetne relacje) – incorrect from Zjednoczenie: Relacje były napięte, nie świetne – Zakon dążył do ekspansji
+- B (napięte relacje) – correct for: Zjednoczenie: To trafne określenie relacji Przemysła II z Zakonem Krzyżackim
+- C (głównym sojusznikiem) – incorrect from Zjednoczenie: Zakon był zagrożeniem, nie sojusznikiem
+- D (nie miał relacji) – no referenced answer: Relacje istniały i były problematyczne dla zjednoczenia
 
 ---

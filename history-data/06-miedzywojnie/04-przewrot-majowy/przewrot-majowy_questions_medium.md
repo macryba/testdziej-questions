@@ -37,9 +37,9 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Roman Dmowski): Był przywódcą obozu narodowego i politycznym przeciwnikiem Piłsudskiego
+- Odpowiedź A (Roman Dmowski): Był przywódcą obozu narodowego
 - Odpowiedź B (Wincenty Witos): Był premierem Polski obalonym w wyniku przewrotu majowego
-- Odpowiedź D (Stanisław Wojciechowski): Był prezydentem Polski, który zrezygnował w wyniku przewrotu
+- Odpowiedź D (Stanisław Wojciechowski): Był prezydentem Polski podczas przewrotu
 
 ---
 
@@ -73,11 +73,11 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Pytanie:** Kto był prezydentem Polski w czasie przewrotu majowego?
 
 **A:** Ignacy Mościcki
-**B:** Stanisław Wojciechowski
-**C:** Gabriel Narutowicz
-**D:** Maciej Rataj
+**B:** Gabriel Narutowicz
+**C:** Maciej Rataj
+**D:** Stanisław Wojciechowski
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Stanisław Wojciechowski był prezydentem Polski podczas przewrotu majowego. W wyniku zamachu stanu zrezygnował z urzędu 15 maja 1926 roku, a uprawnienia prezydenta przejął czasowo marszałek Sejmu Maciej Rataj.
 
@@ -86,8 +86,8 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (Ignacy Mościcki): Został prezydentem dopiero po przewrocie majowym, 1 czerwca 1926 roku
-- Odpowiedź C (Gabriel Narutowicz): Był pierwszym prezydentem Polski, zamordowanym w 1922 roku
-- Odpowiedź D (Maciej Rataj): Był marszałkiem Sejmu, który czasowo przejął uprawnienia prezydenta po rezygnacji Wojciechowskiego
+- Odpowiedź B (Gabriel Narutowicz): Był pierwszym prezydentem Polski, zamordowanym w 1922 roku
+- Odpowiedź C (Maciej Rataj): Był marszałkiem Sejmu, który czasowo przejął uprawnienia prezydenta po rezygnacji Wojciechowskiego
 
 ---
 
@@ -144,12 +144,12 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Pytanie:** Kto został wybrany na prezydenta Polski po przewrocie majowym?
 
-**A:** Stanisław Wojciechowski
+**A:** Ignacy Mościcki
 **B:** Józef Piłsudski
-**C:** Ignacy Mościcki
+**C:** Stanisław Wojciechowski
 **D:** Maciej Rataj
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Ignacy Mościcki został wybrany na prezydenta Polski 1 czerwca 1926 roku po przewrocie majowym. Został zarekomendowany przez Józefa Piłsudskiego, który sam odmówił objęcia tego urzędu. Mościcki sprawował urząd prezydenta do 1939 roku.
 
@@ -157,9 +157,9 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Ignacy Mościcki](https://pl.wikipedia.org/wiki/Ignacy_Mo%C5%9Bcicki) - Wikipedia Polska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Stanisław Wojciechowski): Był prezydentem przed przewrotem, zrezygnował 15 maja
-- Odpowiedź B (Józef Piłsudski): Zgromadzenie Narodowe wybrało go na prezydenta, ale on odmówił objęcia urzędu
-- Odpowiedź D (Maciej Rataj): Był marszałkiem Sejmu, który czasowo przejął uprawnienia prezydenta
+- Odpowiedź B (Józef Piłsudski): Odmówił objęcia urzędu prezydenta
+- Odpowiedź C (Stanisław Wojciechowski): Był prezydentem przed przewrotem majowym
+- Odpowiedź D (Maciej Rataj): Był marszałkiem Sejmu, pełniąc obowiązki prezydenta
 
 ---
 
@@ -169,21 +169,21 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Pytanie:** Dlaczego Józef Piłsudski odmówił objęcia urzędu prezydenta po przewrocie majowym?
 
 **A:** Bał się odpowiedzialności za stan państwa
-**B:** Chciał zachować wpływ na politykę bez formalnych ograniczeń
-**C:** Nie miał wystarczającego poparcia w Zgromadzeniu Narodowym
+**B:** Nie miał poparcia w Zgromadzeniu Narodowym
+**C:** Chciał zachować wpływ na politykę bez ograniczeń
 **D:** Planował wyjazd z Polski
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
-**Wyjaśnienie:** Piłsudski odmówił objęcia urzędu prezydenta, ponieważ konstytucja marcowa ograniczała władzę prezydenta. Woląc zachować rzeczywisty wpływ na politykę jako minister spraw wojskowych, zrekomendował na to stanowisko Ignacego Mościckiego.
+**Wyjaśnienie:** Piłsudski odmówił objęcia urzędu prezydenta, ponieważ konstytucja marcana ograniczała władzę prezydenta. Woląc zachować rzeczywisty wpływ na politykę jako minister spraw wojskowych, zrekomendował na to stanowisko Ignacego Mościckiego.
 
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Bał się odpowiedzialności): Piłsudski jako doświadczony polityk i wojskowy nie bał się odpowiedzialności
-- Odpowiedź C (Nie miał poparcia): Został wybrany przez Zgromadzenie Narodowe, więc miał poparcie
-- Odpowiedź D (Planował wyjazd): Piłsudski nie planował opuszczać Polski, wręcz przeciwnie
+- Odpowiedź A (Bał się odpowiedzialności): Piłsudski nie bał się odpowiedzialności
+- Odpowiedź B (Nie miał poparcia): Został wybrany przez Zgromadzenie Narodowe
+- Odpowiedź D (Planował wyjazd): Piłsudski nie planował opuszczać Polski
 
 ---
 
@@ -192,12 +192,12 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Pytanie:** Co było bezpośrednim powodem rozpoczęcia walk w Warszawie 12 maja 1926?
 
-**A:** Nieudana rozmowa Piłsudskiego z prezydentem Wojciechowskim
-**B:** Zabójstwo ministra spraw wewnętrznych
-**C:** Strajk generalny robotników
-**D:** Odmowa Zgromadzenia Narodowego uchwalenia budżetu
+**A:** Zabójstwo ministra spraw wewnętrznych
+**B:** Odmowa Zgromadzenia Narodowego uchwalenia budżetu
+**C:** Nieudana rozmowa Piłsudskiego z prezydentem Wojciechowskim
+**D:** Strajk generalny robotników
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Bezpośrednim powodem rozpoczęcia walk była bezowocna rozmowa między Piłsudskim a prezydentem Wojciechowskim 12 maja 1926. Po nieudanej negocjacji oddziały wierne Piłsudskiemu zajęły pozycje w Warszawie, co doprowadziło do starć z wojskami lojalnymi wobec rządu.
 
@@ -205,9 +205,9 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Zabójstwo ministra): Nie doszło do takiego wydarzenia w czasie przewrotu
-- Odpowiedź C (Strajk generalny): Strajk kolejarzy wybuchnął później, jako poparcie dla Piłsudskiego
-- Odpowiedź D (Budżet): Kwestie budżetowe nie były bezpośrednim powodem przewrotu
+- Odpowiedź A (Zabójstwo ministra): Nie doszło do takiego wydarzenia w czasie przewrotu
+- Odpowiedź B (Budżet): Kwestie budżetowe nie były bezpośrednim powodem przewrotu
+- Odpowiedź D (Strajk generalny): Strajk kolejarzy wybuchnął później, jako poparcie dla Piłsudskiego
 
 ---
 
@@ -216,10 +216,10 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Pytanie:** Jaką rolę odegrał związek zawodowy kolejarzy w przewrocie majowym?
 
-**A:** Wspierał rząd Witosa transportując wojska
+**A:** Transportował wojska rządowe na front
 **B:** Ogłosił strajk, blokując transporty sił rządowych
 **C:** Pozostał neutralny podczas konfliktu
-**D:** Wystąpił przeciwko Piłsudskiemu
+**D:** Zablokował ruch pociągów na terenie całego kraju
 
 **Prawidłowa odpowiedź:** B
 
@@ -229,9 +229,9 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Wspierał rząd): Kolejarze wystąpili przeciwko rządowi Witosa
+- Odpowiedź A (Transportował wojska): Kolejarze zablokowali transporty rządowe, nie ich realizowali
 - Odpowiedź C (Pozostał neutralny): Kolejarze aktywnie wspierali Piłsudskiego
-- Odpowiedź D (Przeciw Piłsudskiemu): Kolejarze byli po stronie Piłsudskiego
+- Odpowiedź D (Zablokował cały kraj): Strajk był selektywny, dotyczył głównie transportu wojsk rządowych
 
 ---
 
@@ -241,11 +241,11 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Pytanie:** Jakie zmiany ustrojowe nastąpiły po przewrocie majowym?
 
 **A:** Przywrócono monarchię konstytucyjną
-**B:** Wzmocniono władzę wykonawczą kosztem parlamentu
-**C:** Zniesiono urząd prezydenta
-**D:** Rozwiązano Sejm i Senat
+**B:** Zniesiono urząd prezydenta
+**C:** Rozwiązano Sejm i Senat
+**D:** Wzmocniono władzę wykonawczą kosztem parlamentu
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Po przewrocie majowym wzmocniono władzę wykonawczą kosztem parlamentu. Wprowadzono nowelę sierpniową z 1926 roku, a później konstytucję kwietniową z 1935 roku, które dawały prezydentowi rozległe uprawnienia kosztem Sejmu.
 
@@ -254,8 +254,8 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (Przywrócono monarchię): Polska pozostała republiką
-- Odpowiedź C (Zniesiono prezydenta): Urząd prezydenta został zachowany i wzmocniony
-- Odpowiedź D (Rozwiązano parlament): Sejm i Senat kontynuowały działalność, ale z ograniczonymi uprawnienieniami
+- Odpowiedź B (Zniesiono prezydenta): Urząd prezydenta został zachowany i wzmocniony
+- Odpowiedź C (Rozwiązano parlament): Sejm i Senat kontynuowały działalność, ale z ograniczonymi uprawnienieniami
 
 ---
 
@@ -290,10 +290,10 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 
 **A:** 1926
 **B:** 1930
-**C:** 1935
-**D:** 1939
+**C:** 1939
+**D:** 1935
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Konstytucja kwietniowa została uchwalona 23 kwietnia 1935 roku, już po śmierci Józefa Piłsudskiego (który zmarł 12 maja 1935). Była ona efektem rządów sanacji i znacznie wzmocniła władzę prezydenta kosztem Sejmu.
 
@@ -303,6 +303,6 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (1926): W tym roku uchwalono nowelę sierpniową, nie konstytucję kwietniową
 - Odpowiedź B (1930): W tym czasie trwały rządy sanacji, ale konstytucja jeszcze nie powstała
-- Odpowiedź D (1939): Konstytucja została uchwalona przed wybuchem wojny, w 1935 roku
+- Odpowiedź C (1939): Konstytucja została uchwalona przed wybuchem wojny, w 1935 roku
 
 ---

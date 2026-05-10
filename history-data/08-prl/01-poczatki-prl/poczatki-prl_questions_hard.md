@@ -28,12 +28,12 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres głębokiej tra
 
 **Pytanie:** Oceń z perspektywy interesów narodowych Polski decyzje Wielkiej Trójki (Churchill, Roosevelt, Stalin) podjęte na konferencjach jałtańskiej (luty 1945) i poczdamskiej (lipiec-sierpień 1945) w sprawie polskich granic i rządu. Jakie były alternatywy dla tych decyzji i dlaczego nie zostały zrealizowane?
 
-**A)** Decyzje były korzystne dla Polski – Zachód bronił jej niepodległości przed ekspansją ZSRR
-**B)** Decyzje były kompromisem – Polska uzyskała terytoria na zachodzie w zamian za utratę Kresów, ale straciła suwerenność na rzecz ZSRR
-**C)** Decyzje były całkowicie niekorzystne – Polska utraciła zarówno Kresy, jak i suwerenność, bez uzyskania jakichkolwiek korzyści
-**D)** Polska mogła zachować Kresy i suwerenność, ale zrezygnowała z nich dobrowolnie
+**A)** Decyzje były kompromisem – Polska uzyskała terytoria na zachodzie w zamian za utratę Kresów, ale straciła suwerenność na rzecz ZSRR
+**B)** Decyzje były niekorzystne – Polska utraciła Kresy i suwerenność, nie otrzymując w zamian żadnych istotnych korzyści terytorialnych
+**C)** Decyzje były korzystne – Zachód skutecznie bronił polskiej niepodległości przed radziecką ekspansją i uzależnieniem od ZSRR
+**D)** Polska mogła zachować Kresy Wschodnie i pełną suwerenność, ale zrezygnowała z nich dobrowolnie na rzecz innych priorytetów
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Decyzje jałtańska i poczdamska były kompromisem między zachodnimi aliantami a Stalinem. Polska uzyskała tzw. Ziemie Odzyskane na zachodzie (Odra-Nysa), co zabezpieczało dostęp do morza i odszkodowywało za utratę Kresów Wschodnich, ale ceną była utrata suwerenności na rzecz ZSRR. Alternatywą byłoby zachowanie granicy wschodniej z 1939 roku, co było nie do przyjęcia dla Stalina, lub całkowite podporządkowanie Polski bez żadnych rekompensat terytorialnych. Decyzje te zaprzepaściły szansę na niepodległość, ale Provided Polsce formalne uznanie międzynarodowe i terytoria na zachodzie, które stały się fundamentami państwowości po 1989 roku.
 
@@ -43,8 +43,8 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres głębokiej tra
 - https://pl.wikipedia.org/wiki/Zmiany_granic_Polski_po_II_wo%C5%9Bnie_%C5%9Bwiatowej
 
 **Analiza odpowiedzi nieprawidłowych:**
+- Decyzje nie były całkowicie niekorzystne – Polska uzyskała zrekompensowanie terytorialne na zachodzie
 - Zachód nie bronił niepodległości Polski – sprzedał ją Stalinowi za pokój
-- Decyzje nie były całkowicie niekorzystne – Polska uzyskała zrekompensowanie terytorialne
 - Zachowanie Kresów było niemożliwe wobec determinacji Stalina i armii sowieckiej
 
 ---
@@ -81,11 +81,11 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres głębokiej tra
 **Pytanie:** Dokonaj bilansu przemian politycznych, gospodarczych i społecznych w Polsce w latach 1945-1956. Jak te przemiany wpłynęły na dalsze dzieje Polski do 1989 roku i co z nich pozostało po transformacji ustrojowej po 1989 roku?
 
 **A)** Przemiany były całkowicie negatywne – zniszczono państwowość, gospodarkę i społeczeństwo obywatelskie
-**B)** Przemiany przyniosły modernizację przemysłową i urbanizację, ale ceną utraty suwerenności i zniszczenia elity
-**C)** Przemiany były korzystne – Polska zyskała silną gospodarkę i sprawne instytucje państwowe
-**D)** Przemiany lat 1945-1956 nie miały wpływu na dalsze dzieje Polski – wszystko zmieniło się po 1956 roku
+**B)** Przemiany były korzystne – Polska zyskała silną gospodarkę i sprawne instytucje państwowe
+**C)** Przemiany nie miały wpływu na dalsze dzieje – wszystkie zmiany odwrócono wkrótce później
+**D)** Przemiany przyniosły modernizację przemysłową i urbanizację, ale ceną utraty suwerenności i zniszczenia elity
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Przemiany lat 1945-1956 przyniosły skutki dwuwymiarowe. Z jednej strony – industrializacja (Nowa Huta, elektrownie), rozwój miast, urbanizacja, oświata dla mas, wzrost poziomu życia robotników. Z drugiej – utrata suwerenności, terror, zniszczenie elity przedwojennej (AK, inteligencja), likwidacja własności prywatnej, zależność od ZSRR. Te przemiany ukształtowały Polskę na kolejne 30 lat – PRL był państwem komunistycznym zależnym od ZSRR do 1989 roku. Po transformacji ustrojowej (po 1989) pozostały: przemysł ciężki, miasta i infrastruktura, ale również deformacje społeczne (mentalność zależności) i gospodarcze (nierentowne zakłady, zaniedbane rolnictwo).
 
@@ -94,9 +94,9 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres głębokiej tra
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1945%E2%80%931989)
 
 **Analiza odpowiedzi nieprawidłowych:**
-- Przemiany nie były całkowicie negatywne – przyniosły modernizację i rozwój
-- Przemiany nie były korzystne – ceną była utrata niepodległości i zniszczenie elity
-- Przemiany miały trwały wpływ – PRL istniał do 1989 roku
+- Przemiany nie były całkowicie negatywne – przyniosły modernizację przemysłową i urbanizację
+- Przemiany nie były korzystne – ceną była utrata niepodległości, zniszczenie elity i zależność od ZSRR
+- Przemiany miały trwały wpływ – ukształtowały Polskę na kolejne 30 lat do 1989 roku
 
 ---
 

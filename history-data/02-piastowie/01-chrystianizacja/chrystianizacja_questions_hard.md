@@ -25,12 +25,12 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 
 **Pytanie:** Przeanalizuj znaczenie wyboru obrządku łacińskiego przez Polskę w X wieku. Które stwierdzenie najlepiej oddaje długofalowe skutki tej decyzji?
 
-**A)** Wybór obrządku łacińskiego miał wyłącznie religijne znaczenie i nie wpłynął na dalsze dzieje Polski
-**B)** Obrządek łaciński przesądził o przynależności Polski do zachodniej cywilizacji, ale nie miał wpływu na relacje z sąsiadami
-**C)** Wybór obrządku łacińskiego przesądził o przynależności kulturowej i politycznej Polski do zachodu Europy, co miało fundamentalne znaczenie dla jej dalszych dziejów i relacji z Niemcami, Czechami i Rusią
+**A)** Wybór obrządku łacińskiego przesądził o przynależności kulturowej i politycznej Polski do zachodu Europy, co miało fundamentalne znaczenie dla jej dalszych dziejów i relacji z Niemcami, Czechami i Rusią
+**B)** Wybór obrządku łacińskiego miał wyłącznie religijne znaczenie i nie wpłynął na dalsze dzieje Polski
+**C)** Obrządek łaciński przesądził o przynależności Polski do zachodniej cywilizacji, ale nie miał wpływu na relacje z sąsiadami
 **D)** Obrządek łaciński był gorszy od bizantyjskiego i uniemożliwił Polsce rozwój kulturowy
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Wybór obrządku łacińskiego przez Polskę w X wieku miał fundamentalne znaczenie dla jej dalszych dziejów. **Przynależność kulturowa:** Obrządek łaciński oznaczał orientację ku zachodniej Europie, kulturze łacińskiej, romańskiej architekturze, piśmiennictwu łacińskiemu i prawu kanonicznemu. Polska stała się częścią chrześcijańskiej Europy łacińskiej, a nie bizantyjskiej. **Relacje z sąsiadami:** Decyzja ta wzmocniła sojusz z Czechami (również łacińskimi) i Cesarstwem Rzymskim, ale również stworzyła podstawy do konfliktów z Niemcami o wpływy kościelne. Z drugiej strony, różnice obrządku oddzielały Polskę od Rusi Kijowskiej (prawosławnej), co miało znaczenie dla późniejszych relacji polsko-ruskich. **Długoterminowe skutki:** Przynależność do zachodu Europy oznaczała, że Polska była częścią tego samego kręgu kulturowego co Francja, Niemcy czy Włochy, co miało znaczenie dla rozwoju kultury, edukacji, prawa i tożsamości narodowej. To również oznaczało, że Polska była narażona na zachodnie wpływy polityczne i kulturowe, co miało zarówno pozytywne (rozwój, edukacja), jak i negatywne (konflikty, zależność) skutki.
 
@@ -51,11 +51,11 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 **Pytanie:** Oceń rolę świętego Wojciecha w procesie tworzenia niezależnej struktury kościelnej w Polsce. Które stwierdzenie najlepiej oddaje jego znaczenie?
 
 **A)** Święty Wojciech nie miał znaczenia dla niezależności kościelnej Polski
-**B)** Męczeństwo świętego Wojciecha pozwoliło Polsce uzyskać niezależność kościelną od Niemiec poprzez włączenie go do kultu i wykorzystanie jego relikwii do podniesienia prestiżu Gniezna
-**C)** Święty Wojciech był przeciwny niezależności kościelnej Polski
+**B)** Święty Wojciech był przeciwny niezależności kościelnej Polski
+**C)** Męczeństwo świętego Wojciecha pozwoliło Polsce uzyskać niezależność kościelną od Niemiec poprzez włączenie go do kultu i wykorzystanie jego relikwii do podniesienia prestiżu Gniezna
 **D)** Relikwie świętego Wojciecha zostały sprzedane do Niemców
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Święty Wojciech (Wojciech Sławnikowic) odegrał kluczową rolę w procesie tworzenia niezależnej struktury kościelnej w Polsce. **Męczeństwo:** Święty Wojciech zginął jako męczennik w 997 roku podczas misji ewangelizacyjnej wśród Prusów. Jego śmierć była świadectwem wiary i pozwoliła mu zostać uznany za świętego. **Relikwie:** Relikwie świętego Wojciecha zostały sprowadzone do Polski i umieszczone w Gnieźnie. To wydarzenie podniosło prestiż Gniezna jako miejsca spoczynku świętego męczennika. **Niezależność kościelna:** Podczas zjazdu gnieźnieńskiego w 1000 roku cesarz Otton III i Bolesław Chrobry ustanowili arcybiskupstwo w Gnieźnie. Obecność relikwii świętego Wojciecha była argumentem dla niezależności polskiej struktury kościelnej od Niemiec. **Znaczenie:** Święty Wojciech stał się patronem Polski i symbolem niezależności kościelnej. Jego kult był ważnym elementem tożsamości chrześcijańskiej Polski.
 
@@ -76,11 +76,11 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 **Pytanie:** Przeanalizuj zjazd gnieźnieński z perspektywy polityki uniwersalistycznej cesarza Ottona III. Która interpretacja jest najbardziej uzasadniona?
 
 **A)** Zjazd gnieźnieński był wyłącznie polskim wydarzeniem bez znaczenia dla cesarza
-**B)** Zjazd gnieźnieński był elementem polityki uniwersalistycznej cesarza Ottona III, który dążył do odnowy imperium rzymskiego i widział w Polsce ważnego sojusznika w tej polityce
-**C)** Zjazd gnieźnieński był próbą podporządkowania Polsce przez cesarza
-**D)** Zjazd gnieźnieński był przypadkowym spotkaniem bez politycznych celów
+**B)** Zjazd gnieźnieński był próbą podporządkowania Polsce przez cesarza
+**C)** Zjazd gnieźnieński był przypadkowym spotkaniem bez politycznych celów
+**D)** Zjazd gnieźnieński był elementem polityki uniwersalistycznej cesarza Ottona III, który dążył do odnowy imperium rzymskiego i widział w Polsce ważnego sojusznika w tej polityce
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Zjazd gnieźnieński w 1000 roku był elementem polityki uniwersalistycznej cesarza Ottona III. **Polityka uniwersalistyczna:** Otton III dążył do odnowy imperium rzymskiego (Renovatio imperii Romanorum). Jego polityka była uniwersalistyczna – dążył do zjednoczenia chrześcijańskiej Europy pod przywództwem cesarza. **Rola Polski:** Otton III widział w Polsce ważnego sojusznika w tej polityce. Bolesław Chrobry był uznany za "brata i współpracownika cesarza" (frater et cooperator imperii). **Znaczenie zjazdu:** Podczas zjazdu gnieźnieńskiego cesarz ustanowił arcybiskupstwo w Gnieźnie i podniósł prestiż Bolesława Chrobrego. Nie było to podporządkowanie Polski, ale wzajemne uznanie i sojusz. **Symbolika:** Otton III symbolicznie zdjął z głowy diadem cesarski i nałożył na głowę Bolesława Chrobrego, co oznaczało uznanie jego królewskiej godności. To nie była formalna koronacja, ale gest uzdolnienia. **Wnioski:** Zjazd gnieźnieński był elementem polityki uniwersalistycznej cesarza, która dążyła do zjednoczenia chrześcijańskiej Europy. Polska była ważnym elementem tej polityki, a nie jej podporządkowanym wasalem.
 
@@ -100,10 +100,10 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 
 **Pytanie:** Oceń bilans przemian z okresu 960-1025 dla dalszych dziejów Polski. Która synteza jest najbardziej uzasadniona?
 
-**A)** Okres 960-1025 nie miał znaczenia dla dalszych dziejów Polski
+**A)** Okres 960-1025 był czasem izolacji Polski od Europy
 **B)** Okres 960-1025 był czasem fundamentalnych przemian, które ukształtowały polską państwowość, tożsamość kulturową i przynależność do zachodniej cywilizacji na stulecia
-**C)** Okres 960-1025 był czasem upadku Polski
-**D)** Okres 960-1025 był czasem izolacji Polski od Europy
+**C)** Okres 960-1025 nie miał znaczenia dla dalszych dziejów Polski
+**D)** Okres 960-1025 był czasem upadku Polski
 
 **Prawidłowa odpowiedź:** B
 
@@ -126,11 +126,11 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 **Pytanie:** Przeanalizuj kontekst polityczny chrztu Mieszka I z perspektywy relacji państwa Polan z sąsiadami w latach 60. X wieku. Które stwierdzenie najlepiej oddaje sytuację polityczną bezpośrednio poprzedzającą chrzest?
 
 **A)** Mieszko I prowadził zwycięskie wojny z cesarstwem niemieckim i chrzest był aktem potwierdzenia jego potęgi
-**B)** Klęska Polan w wojnie z Wieletami, którzy zawarli sojusz z Czechami, zmusiła Mieszka do szukania protekcji cesarza i zawarcia przymierza polańsko-czeskiego, którego elementem był chrzest
-**C)** Mieszko I był bezpieczny politycznie i chrzest był wyłącznie aktem religijnym bez znaczenia politycznego
+**B)** Mieszko I był bezpieczny politycznie i chrzest był wyłącznie aktem religijnym bez znaczenia politycznego
+**C)** Klęska Polan w wojnie z Wieletami, którzy zawarli sojusz z Czechami, zmusiła Mieszka do szukania protekcji cesarza i zawarcia przymierza polańsko-czeskiego, którego elementem był chrzest
 **D)** Sojusz z Czechami został zawarty już przed chrztem i nie miał wpływu na decyzję Mieszka
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** W latach 60. X wieku Mieszko toczył walki z Wieletami o Pomorze Zachodnie. Wieleci zawarli sojusz z Czechami, co groziło katastrofą militarną i polityczną dla państwa Polan. Klęska Polan spowodowała, że Mieszko rozpoczął rozmowy z cesarstwem i zawarł przymierze polańsko-czeskie. Chrzest Mieszka I, który był elementem tego sojuszu, rozbił sojusz czesko-wielecki i pozwolił na zwycięstwo nad Wolinianami w 967 roku.
 
@@ -149,12 +149,12 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 
 **Pytanie:** Przeanalizuj dwie najstarsze tradycje kronikarskie dotyczące chrztu Polski. Która interpretacja różnic między przekazami Thietmara z Merseburga i Galla Anonima jest najbardziej uzasadniona?
 
-**A)** Różnice wynikają z faktu, że kronikarze opierali się na różnych źródłach pisanych z X wieku
+**A)** Thietmar (XI wiek) twierdził, że chrzest nastąpił po ślubie z Dobrawą, podczas gdy Gall Anonim (XII wiek) pisał, że Mieszko ochrzcił się przed małżeństwem – obie tradycje oparte na ustnych przekazach sprzecznym
 **B)** Thietmar i Gall Anonim przekazują identyczne informacje o kolejności wydarzeń
-**C)** Thietmar (XI wiek) twierdził, że chrzest nastąpił po ślubie z Dobrawą, podczas gdy Gall Anonim (XII wiek) pisał, że Mieszko ochrzcił się przed małżeństwem – obie tradycje oparte na ustnych przekazach sprzecznym
+**C)** Różnice wynikają z faktu, że kronikarze opierali się na różnych źródłach pisanych z X wieku
 **D)** Gall Anonim był bezpośrednim świadkiem chrztu, a Thietmar pisał na podstawie dokumentów
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Thietmar z Merseburga (XI wiek) przedstawia chrzest jako skutek małżeństwa z Dobrawą, która nawróciła męża. Gall Anonim (XII wiek) twierdzi, że Dobrawa odmówiła poślubienia poganina, więc Mieszko ochrzcił się jeszcze przed zawarciem małżeństwa. Obaj kronikarze nie mieli dostępu do źródeł pisanych z X wieku i opierali się na przekazach ustnych, które ukształtowały się w różnych wersjach.
 
@@ -174,11 +174,11 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 **Pytanie:** Przeanalizuj wpływ chrystianizacji na system wartości społeczeństwa polskiego w X wieku. Które stwierdzenie najlepiej oddaje fundamentalne zmiany w sferze moralności?
 
 **A)** Chrystianizacja nie wpłynęła na system wartości społeczeństwa polskiego
-**B)** Wprowadzenie chrześcijaństwa spowodowało uwzględnienie koncepcji życia pozagrobowego i sądu ostatecznego, co rozpoczęło proces de laicyzacji moralności – moralność kontrolowana przez społeczność znalazła się pod nadzorem Kościoła
-**C)** Natychmiast po chrzcie wszyscy Polanie przyjęli nowe zasady moralności i porzucili stare zwyczaje
+**B)** Natychmiast po chrzcie wszyscy Polanie przyjęli nowe zasady moralności i porzucili stare zwyczaje
+**C)** Wprowadzenie chrześcijaństwa spowodowało uwzględnienie koncepcji życia pozagrobowego i sądu ostatecznego, co rozpoczęło proces de laicyzacji moralności – moralność kontrolowana przez społeczność znalazła się pod nadzorem Kościoła
 **D)** Chrystianizacja jedynie wzmocniła istniejące wcześniej zasady moralne społeczeństwa polskiego
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Chrześcijaństwo wniosło koncepcję eschatologiczną – życie wieczne i sąd ostateczny. Moralność, która wcześniej była kontrolowana przez społeczność, znalazła się pod nadzorem Kościoła. To rozpoczęło proces de laicyzacji moralności, który był stopniowy i długotrwały. Przed chrztem moralność członków grupy społecznej pozostawała pod kontrolą tejże grupy, po chrzcie zachowania były normowane według wskazań nowej religii i kontrolowane przez organy kościelne.
 
@@ -197,12 +197,12 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 
 **Pytanie:** Przeanalizuj długofalowe skutki ekonomiczne chrystianizacji Polski dla struktury własnościowej. Które stwierdzenie najlepiej oddaje wpływ dziesięciny na gospodarkę?
 
-**A)** Chrystianizacja nie miała wpływu na strukturę własnościową w Polsce
-**B)** Wprowadzenie dziesięciny (zwłaszcza świętopietrza) stworzyło fundamenty pod dużą własność kościelną, która stała się trzecim obok książąt i rycerstwa właścicielem ziem w Polsce
-**C)** Kościół natychmiast przejął całą ziemię od chłopów i stał się jedynym właścicielem
-**D)** Dziesięcina była tylko symboliczna i nie miała znaczenia ekonomicznego
+**A)** Chrystianizacja nie miała wpływu na strukturę własnościowej w Polsce
+**B)** Kościół natychmiast przejął całą ziemię od chłopów i stał się jedynym właścicielem
+**C)** Dziesięcina była tylko symboliczna i nie miała znaczenia ekonomicznego
+**D)** Wprowadzenie dziesięciny (zwłaszcza świętopietrza) stworzyło fundamenty pod dużą własność kościelną, która stała się trzecim obok książąt i rycerstwa właścicielem ziem w Polsce
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Dziesięcina (zwłaszcza świętopietrze) stworzyła fundamenty pod dużą własność kościelną. W kolejnych stuleciach Kościół stał się trzecim (obok książąt i rycerstwa) właścicielem ziem w Polsce. Był to długotrwały proces, który miał znaczące skutki dla struktury własnościowej i gospodarki. Własność kościelna stopniowo rosła dzięki dziesięcinom, fundacjom i darowiznom.
 
@@ -222,11 +222,11 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 **Pytanie:** Przeanalizuj różnice między modelem chrystianizacji polskiej a modelem użytym na Rusi Kijowskiej przez Włodzimierza Wielkiego. Który aspekt ma fundamentalne znaczenie dla dalszych dziejów obu państw?
 
 **A)** Obaj władcy ochrzcili się pod przymusem zewnętrznym
-**B)** Kluczowa różnica to wybór obrządku: Polska przyjęła chrześcijaństwo z zachodu (Rzym, obrządek łaciński), a Ruś ze wschodu (Bizancjum, obrządek prawosławny), co przesądziło o przynależności do różnych kręgów kulturowych
-**C)** Oba państwa zachowały język grecki w liturgii
+**B)** Oba państwa zachowały język grecki w liturgii
+**C)** Kluczowa różnica to wybór obrządku: Polska przyjęła chrześcijaństwo z zachodu (Rzym, obrządek łaciński), a Ruś ze wschodu (Bizancjum, obrządek prawosławny), co przesądziło o przynależności do różnych kręgów kulturowych
 **D)** Model polski był promowany przez cesarza, a ruski przez papieża
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Kluczowa różnica to podział na łaciński zachód i grecki wschód. Polska znalazła się w kręgu kultury zachodniej (łacina, prawo kanoniczne, architektura romańska), podczas gdy Ruś wschodniej (greka, prawo bizantyjskie, architektura bizantyjska). To miało fundamentalne znaczenie dla dalszych dziejów obu państw – ich kultury, prawa, relacji z sąsiadami i tożsamości. Obaj władcy ochrzcili się dobrowolnie, z przyczyn politycznych.
 
@@ -246,11 +246,11 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 **Pytanie:** Przeanalizuj tempo chrystianizacji społeczeństwa polskiego po chrzcie Mieszka I. Które stwierdzenie najlepiej oddaje rzeczywisty proces zmian religijnych?
 
 **A)** Natychmiastowe – całe społeczeństwo ochrzciło się w 966 roku
-**B)** Szybkie – w ciągu jednego pokolenia większość Polaków była chrześcijanami
-**C)** Powolne – proces trwał wieki, z elementami pogaństwa przetrwanymi do XIII-XIV wieku, co świadczy o głębokim zakorzenieniu starych wierzeń
+**B)** Powolne – proces trwał wieki, z elementami pogaństwa przetrwanymi do XIII-XIV wieku, co świadczy o głębokim zakorzenieniu starych wierzeń
+**C)** Szybkie – w ciągu jednego pokolenia większość Polaków była chrześcijanami
 **D)** Chrystianizacja ograniczyła się tylko do elity społecznej
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Proces chrystianizacji był długotrwały. Elementy pogaństwa (zwyczaje, wierzenia) przetrwały wieki. Dopiero w XIII-XIV wieku można mówić o powszechnej chrystianizacji. Pogaństwo było głęboko zakorzenione w społeczeństwie i proces jego zastępowania przez chrześcijaństwo był stopniowy. Wiele pogańskich praktyk i wierzeń przetrwało w zmienionej formie, co potwierdzają źródła historyczne i badania archeologiczne.
 

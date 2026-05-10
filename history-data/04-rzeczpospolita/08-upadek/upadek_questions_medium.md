@@ -34,22 +34,22 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Question ID:** Q-UPA-M-001
 **Pytanie:** Kto był głównym organizatorem spisku poprzedzającego wybuch insurekcji kościuszkowskiej w 1794 roku?
 
-**A)** Hugo Kołłątaj
-**B)** Stanisław Szczęsny Potocki
-**C)** Franciszek Ksawery Branicki
+**A)** Stanisław Szczęsny Potocki
+**B)** Franciszek Ksawery Branicki
+**C)** Hugo Kołłątaj
 **D)** Seweryn Rzewuski
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Hugo Kołłątaj był jednym z głównych organizatorów spisku poprzedzającego insurekcję kościuszkowską. Wraz z Ignacym Potockim i innymi działaczami politycznymi przygotował powstanie w celu obrony niepodległości i odzyskania suwerenności państwa.
 
 **Źródła:**
 - [Insurekcja kościuszkowska](https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Stanisław Szczęsny Potocki był przywódcą konfederacji targowickiej
-- B) Franciszek Ksawery Branicki był również przywódcą targowiczan
-- C) Seweryn Rzewuski był jednym z przywódców konfederacji targowickiej
+**Analiza odpowiedzi błędnych:**
+- B) Stanisław Szczęsny Potocki – incorrect from Oświecenie (Konfederacja targowicka): Był przywódcą konfederacji targowickiej, sprzeciwiającej się reformom Sejmu Wielkiego i Konstytucji 3 maja
+- C) Franciszek Ksawery Branicki – incorrect from Oświecenie (Konfederacja targowicka): Był jednym z przywódców targowiczan, którzy wezwali Rosję do interwencji
+- D) Seweryn Rzewuski – incorrect from Oświecenie (Konfederacja targowicka): Był magnatem i przywódcą konfederacji targowickiej
 
 ---
 
@@ -59,21 +59,21 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Pytanie:** Jaki był główny powód zawiązania konfederacji targowickiej w 1792 roku?
 
 **A)** Obrona granic przed najazdem tureckim
-**B)** Przeciwstawienie się reformom Sejmu Wielkiego i Konstytucji 3 maja
-**C)** Wspieranie przemian gospodarczych w państwie
-**D)** Obrona praw chłopów i mieszczan
+**B)** Wspieranie przemian gospodarczych w państwie
+**C)** Obrona praw chłopów i mieszczan
+**D)** Przeciwstawienie się reformom Sejmu Wielkiego i Konstytucji 3 maja
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Konfederacja targowicka została zawiązana przez polską magnaterię i szlachtę konserwatywną w celu obalenia reform Sejmu Wielkiego i Konstytucji 3 maja. Konfederaci uznali te reformy za zagrażające "złotej wolności" szlacheckiej i wezwali do interwencji rosyjskiej.
 
 **Źródła:**
 - [Konfederacja targowicka](https://pl.wikipedia.org/wiki/Konfederacja_targowicka) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Nie było zagrożenia tureckiego w tym okresie
-- C) Konfederacja była przeciwna reformom
-- D) Konfederacja nie dążyła do polepszenia sytuacji chłopów
+**Analiza odpowiedzi błędnych:**
+- A) Obrona granic przed najazdem tureckim – incorrect context: W tym okresie nie istniało zagrożenie tureckie, a konfederacja targowicka została zawiązana wewnętrznie przeciw reformom
+- B) Wspieranie przemian gospodarczych w państwie – incorrect from Oświecenie: Konfederacja targowicka była przeciwna reformom gospodarczym Sejmu Wielkiego
+- C) Obrona praw chłopów i mieszczan – incorrect: Konfederacja targowicka dążyła do utrzymania przywilejów szlacheckich, a nie do polepszenia sytuacji chłopów
 
 ---
 
@@ -94,10 +94,10 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Źródła:**
 - [Uniwersał Połaniecki](https://pl.wikipedia.org/wiki/Uniwersa%C5%82_Po%C5%82aniecki) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Powszechny pobór był objęty innymi aktami
-- C) Deklaracja niepodległości nie była głównym celem uniwersału
-- D) Mobilizacja była szersza niż tylko Uniwersał Połaniecki
+**Analiza odpowiedzi błędnych:**
+- A) Powszechny pobór do wojska – no referenced answer: Powszechny pobór został ogłoszony w innym akcie prawnym z marca 1794 roku
+- C) Deklaracja niepodległości – incorrect: Uniwersał Połaniecki dotyczył głównie spraw chłopskich, nie był deklaracją niepodległości
+- D) Mobilizacja wszystkich obywateli – no referenced answer: Mobilizacja była szerszym działaniem insurekcji, nie głównym celem Uniwersału Połanieckiego
 
 ---
 
@@ -106,22 +106,22 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Question ID:** Q-UPA-M-004
 **Pytanie:** W którym mieście obradował Sejm Grodzieński, który zatwierdził drugi rozbiór Polski w 1793 roku?
 
-**A)** Warszawa
-**B)** Grodno
+**A)** Grodno
+**B)** Warszawa
 **C)** Wilno
 **D)** Kraków
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Sejm Grodzieński obradował w 1793 roku w Grodnie i został zwołany w celu ratyfikacji drugiego rozbioru Polski. Sejm ten odbywał się pod presją wojsk rosyjskich, a posłowie nieprzychylni rozbiorowi byli zamykani i zastraszani.
 
 **Źródła:**
 - [Sejm Grodzieński](https://pl.wikipedia.org/wiki/Sejm_Grodzie%C5%84ski_(1793)) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Warszawa nie była miejscem obrad Sejmu Grodzieńskiego
-- C) Wilno nie było miejscem obrad
-- D) Kraków nie było miejscem obrad
+**Analiza odpowiedzi błędnych:**
+- B) Warszawa – incorrect: Sejm Grodzieński obradował w Grodnie, a nie w Warszawie
+- C) Wilno – incorrect: Wilno nie było miejscem obrad Sejmu Grodzieńskiego
+- D) Kraków – incorrect: Kraków nie był miejscem obrad Sejmu Grodzieńskiego
 
 ---
 
@@ -130,22 +130,22 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Question ID:** Q-UPA-M-005
 **Pytanie:** Jakie było główne zadanie Rady Najwyższej Narodowej utworzonej podczas insurekcji kościuszkowskiej?
 
-**A)** Organizacja obrony państwa i zarządzanie powstaniem
-**B)** Negocjacje z mocarstwami zaborczymi
-**C)** Przygotowanie nowych reform ustrojowych
-**D)** Organizacja pomocy społecznej
+**A)** Organizacja pomocy społecznej
+**B)** Organizacja obrony państwa i zarządzanie powstaniem
+**C)** Negocjacje z mocarstwami zaborczymi
+**D)** Przygotowanie nowych reform ustrojowych
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Rada Najwyższa Narodowa została utworzona 10 maja 1794 roku jako najwyższy organ władzy podczas insurekcji kościuszkowskiej. Jej głównym zadaniem było organizowanie obrony państwa, zarządzanie powstaniem i koordynacja działań wojskowych.
 
 **Źródła:**
 - [Rada Najwyższa Narodowa](https://pl.wikipedia.org/wiki/Rada_Najwy%C5%BCsza_Narodowa) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Rada nie prowadziła negocjacji z zaborcami
-- B) Rada zajmowała się bieżącymi sprawami, a nie nowymi reformami
-- C) Pomoc społeczna nie była głównym zadaniem Rady
+**Analiza odpowiedzi błędnych:**
+- A) Organizacja pomocy społecznej – no referenced answer: Pomoc społeczna nie była głównym zadaniem Rady Najwyższej Narodowej
+- C) Negocjacje z mocarstwami zaborczymi – no referenced answer: Rada Najwyższa Narodowa nie prowadziła negocjacji z zaborcami, lecz organizowała obronę
+- D) Przygotowanie nowych reform ustrojowych – no referenced answer: Rada zajmowała się bieżącym zarządzaniem powstaniem, a nie przygotowywaniem nowych reform
 
 ---
 
@@ -154,22 +154,22 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Question ID:** Q-UPA-M-006
 **Pytanie:** Kto był przywódcą insurekcji warszawskiej, która wypędziła garnizon rosyjski ze stolicy w kwietniu 1794 roku?
 
-**A)** Jan Kiliński
+**A)** Stanisław August Poniatowski
 **B)** Tadeusz Kościuszko
 **C)** Hugo Kołłątaj
-**D)** Stanisław August Poniatowski
+**D)** Jan Kiliński
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Jan Kiliński, przewodniczący miasta Warszawy, był jednym z przywódców insurekcji warszawskiej w kwietniu 1794 roku. Razem z innymi przywódcami zorganizował wyparcie garnizonu rosyjskiego ze stolicy.
 
 **Źródła:**
 - [Insurekcja warszawska](https://pl.wikipedia.org/wiki/Insurekcja_warszawska_(1794)) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Tadeusz Kościuszko nie był bezpośrednim przywódcą insurekcji warszawskiej
-- C) Hugo Kołłątaj działał głównie w sferze politycznej
-- D) Stanisław August Poniatowski nie popierał powstania
+**Analiza odpowiedzi błędnych:**
+- A) Stanisław August Poniatowski – incorrect: Król nie popierał insurekcji i nie był jej przywódcą
+- B) Tadeusz Kościuszko – incorrect context: Kościuszko był Naczelnikiem Powstania, ale nie bezpośrednim przywódcą insurekcji warszawskiej w kwietniu 1794
+- C) Hugo Kołłątaj – incorrect from Oświecenie: Był działaczem politycznym i organizatorem spisku, ale nie przywódcą insurekcji warszawskiej
 
 ---
 
@@ -190,10 +190,10 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Źródła:**
 - [Insurekcja kościuszkowska](https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Bitwa pod Brześciem była wcześniejszym wydarzeniem
-- C) Śmierć Jakuba Jasińskiego nastąpiła wcześniej
-- D) Wycofanie wojsk było skutkiem kapitulacji
+**Analiza odpowiedzi błędnych:**
+- B) Bitwa pod Brześciem – no referenced answer: Była to wcześniejsza bitwa insurekcji, nie wydarzenie kończące powstanie na Litwie
+- C) Śmierć Jakuba Jasińskiego – incorrect context: Jasiński zginął w bitwie o Pragę 4 listopada 1794, co było po kapitulacji Wilna (12 sierpnia)
+- D) Wycofanie wojsk litewskich na zachód – incorrect: Wycofanie wojsk było skutkiem kapitulacji, a nie jej przyczyną
 
 ---
 
@@ -202,22 +202,22 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Question ID:** Q-UPA-M-008
 **Pytanie:** Jakie były główne skutki upadku Rzeczypospolitej w 1795 roku dla jej mieszkańców?
 
-**A)** Utrata niepodległości i podział terytorium między trzy mocarstwa
-**B)** Zachowanie autonomii pod panowaniem rosyjskim
-**C)** Utworzenie księstwa polskiego pod protektoratem pruskim
+**A)** Zachowanie autonomii pod panowaniem rosyjskim
+**B)** Utworzenie księstwa polskiego pod protektoratem pruskim
+**C)** Utrata niepodległości i podział terytorium między trzy mocarstwa
 **D)** Przyłączenie ziem polskich do Francji
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Skutkiem upadku Rzeczypospolitej była całkowita utrata niepodległości i podział terytorium między Rosję, Prusy i Austrię. Mieszkańcy znaleźli się pod panowaniem trzech mocarstw zaborczych, co oznaczało koniec istnienia państwa polskiego na 123 lata.
 
 **Źródła:**
 - [Rozbiory Polski](https://pl.wikipedia.org/wiki/Rozbiory_Polski) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Nie zachowano autonomii
-- C) Nie utworzono księstwa polskiego
-- D) Francja nie była zaborcą
+**Analiza odpowiedzi błędnych:**
+- A) Zachowanie autonomii pod panowaniem rosyjskim – incorrect: Po upadku Rzeczypospolitej nie zachowano autonomii, ziemie polskie zostały bezpośrednio włączone do państw zaborczych
+- B) Utworzenie księstwa polskiego pod protektoratem pruskim – incorrect from Rozbiory: Księstwo Warszawskie powstało później w 1807 roku, po wojnach napoleońskich
+- D) Przyłączenie ziem polskich do Francji – incorrect: Francja nie była zaborcą i nie przyłączyła ziem polskich
 
 ---
 
@@ -238,10 +238,10 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Źródła:**
 - [Aleksander Suworow](https://pl.wikipedia.org/wiki/Aleksander_Wasiljewicz_Suworow) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Grigory Potemkin nie uczestniczył w stłumieniu powstania
-- C) Iwan Fersen nie był głównym dowódcą
-- D) Fiodor Denisow był innym rosyjskim dowódcą
+**Analiza odpowiedzi błędnych:**
+- B) Grigory Potemkin – incorrect: Był rosyjskim feldmarszałkiem i politykiem, ale nie uczestniczył w stłumieniu insurekcji kościuszkowskiej ani rzezi Pragi (zmarł w 1791)
+- C) Iwan Fersen – incorrect from Insurekcja: Był rosyjskim generałem, który dowodził korpusem oblegającym Warszawę i walczył pod Maciejowicami, ale nie był głównym dowódcą rzezi Pragi
+- D) Fiodor Denisow – incorrect from Insurekcja: Był rosyjskim generałem, który dowodził wojskami w bitwach pod Racławicami i Szczekocinami, ale nie stłumił insurekcji ani nie masakrował ludności na Pradze
 
 ---
 
@@ -250,22 +250,22 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Question ID:** Q-UPA-M-010
 **Pytanie:** Co oznaczało dla Europy upadek Rzeczypospolitej Obojga Narodów w 1795 roku?
 
-**A)** Utratę buforu między mocarstwami europejskimi
-**B)** Wzmocnienie pozycji Francji
+**A)** Wzmocnienie pozycji Francji
+**B)** Utratę buforu między mocarstwami europejskimi
 **C)** Utworzenie nowego porządku europejskiego
 **D)** Rozpoczęcie wojen napoleońskich
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Upadek Rzeczypospolitej oznaczał utratę bufora między mocarstwami europejskimi, szczególnie między Rosją, Prusami i Austrią. Zmieniło to układ sił w Europie Środkowo-Wschodniej i doprowadziło do bezpośredniego kontaktu między trzema imperiami.
 
 **Źródła:**
 - [Upadek Rzeczypospolitej](https://pl.wikipedia.org/wiki/Historia_Polski_(1764%E2%80%931795)) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Pozycja Francji nie została bezpośrednio wzmocniona
-- C) Nie utworzono nowego porządku europejskiego
-- D) Wojny napoleońskie rozpoczęły się później
+**Analiza odpowiedzi błędnych:**
+- A) Wzmocnienie pozycji Francji – no referenced answer: Upadek Rzeczypospolitej nie bezpośrednio wzmocnił pozycji Francji, choć zmienił układ sił w Europie
+- C) Utworzenie nowego porządku europejskiego – incorrect: Upadek Rzeczypospolitej nie spowodował utworzenia nowego porządku europejskiego, lecz był jego wynikiem
+- D) Rozpoczęcie wojen napoleońskich – incorrect: Wojny napoleońskie rozpoczęły się w 1803 roku, 8 lat po upadku Rzeczypospolitej
 
 ---
 
@@ -286,10 +286,10 @@ W odpowiedzi na te wydarzenia wybuchła insurekcja kościuszkowska pod wodzą Ta
 **Źródła:**
 - [Rozbiory Polski](https://pl.wikipedia.org/wiki/Rozbiory_Polski) — Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- A) Austria zajęła mniejszą część terytorium
-- B) Prusy zajęły mniejszą część terytorium
-- C) Szwecja nie uczestniczyła w rozbiorach
+**Analiza odpowiedzi błędnych:**
+- A) Austria – incorrect from Rozbiory: Austria zajęła około 47 tysięcy km² (trzecią część terytorium), mniej niż Rosja
+- B) Prusy – incorrect from Rozbiory: Prusy zajęły około 55 tysięcy km² (drugą część terytorium), mniej niż Rosja
+- D) Szwecja – incorrect: Szwecja nie uczestniczyła w rozbiorach Polski
 
 ---
 

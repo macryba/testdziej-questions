@@ -134,11 +134,11 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 **Pytanie:** Jaki był główny cel konferencji pokojowej w Paryżu dla Polski w 1919 roku?
 
 **A)** Uznanie granic wschodnich
-**B)** Uznanie niepodległości
-**C)** Otrzymanie odszkodowań
+**B)** Otrzymanie odszkodowań
+**C)** Uznanie niepodległości
 **D)** Ustanowienie monarchii
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Głównym celem delegacji polskiej na konferencji paryskiej w 1919 roku było uzyskanie międzynarodowego uznania niepodległości Polski. Delegacja pod wodzą Romana Dmowskiego skutecznie zrealizowała ten cel.
 
@@ -148,7 +148,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 
 **Analiza odpowiedzi niepoprawnych:**
 - Odpowiedź A: Granice wschodnie były przedmiotem osobnych negocjacji z Rosją Sowiecką.
-- Odpowiedź C: Polska nie otrzymała znaczących odszkodowań.
+- Odpowiedź B: Polska nie otrzymała znaczących odszkodowań.
 - Odpowiedź D: Polska była republiką, nie monarchią.
 
 ---
@@ -159,12 +159,12 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 
 **Pytanie:** Dlaczego plebiscyt na Warmii, Mazurach i Powiślu w 1920 roku zakończył się niepowodzeniem dla polskich dążeń?
 
-**A)** Ponieważ Polacy nie mieli prawa głosu
-**B)** Ponieważ mieszkańcy preferowali kulturę niemiecką
+**A)** Ponieważ mieszkańcy preferowali kulturę niemiecką
+**B)** Ponieważ Polacy nie mieli prawa głosu
 **C)** Ponieważ plebiscyt był sfałszowany przez Niemców
 **D)** Ponieważ Polska nie poparła kampanii plebiscytowej
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Mieszkańcy Warmii, Mazur i Powiśla głosowali w większości za pozostaniem w Niemczech, ponieważ identyfikowali się z kulturą niemiecką i nie czuli silnej więzi z Polską.
 
@@ -173,7 +173,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Polacy mieli prawo głosu w plebiscycie.
+- Odpowiedź B: Polacy mieli prawo głosu w plebiscycie.
 - Odpowiedź C: Nie ma dowodów na sfałszowanie plebiscytu.
 - Odpowiedź D: Polska prowadziła aktywną kampanię plebiscytową.
 
@@ -186,11 +186,11 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 **Pytanie:** Które wydarzenie z 1919 roku bezpośrednio doprowadziło do utworzenia Tymczasowego Rządu Ludowego Republiki Polskiej w Lublinie?
 
 **A)** Objęcie władzy przez Piłsudskiego
-**B)** Upadek Austro-Węgier
+**B)** Rewolucja w Rosji
 **C)** Kapitulacja Niemiec
-**D)** Rewolucja w Rosji
+**D)** Upadek Austro-Węgier
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Tymczasowy Rząd Ludowy Republiki Polskiej powstał w Lublinie 7 listopada 1918 roku w odpowiedzi na upadek Austro-Węgier i przejęcie władzy przez Polską Komisję Likwidacyjną w Krakowie.
 
@@ -200,8 +200,8 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 
 **Analiza odpowiedzi niepoprawnych:**
 - Odpowiedź A: Piłsudski objął władze później, w Warszawie.
+- Odpowiedź B: Rewolucja w Rosji nastąpiła wcześniej, w 1917 roku.
 - Odpowiedź C: Kapitulacja Niemiec wpłynęła na sytuację w Warszawie.
-- Odpowiedź D: Rewolucja w Rosji nastąpiła wcześniej, w 1917 roku.
 
 ---
 **Koniec pytań poziomu średniego.**

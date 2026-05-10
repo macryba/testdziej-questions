@@ -31,12 +31,12 @@ Obaj okupanci stosowali politykę terroru wobec ludności polskiej. Niemcy reali
 **Pytanie:**
 Które dwa państwa okupowały Polskę we wrześniu 1939 roku?
 
-**A:** Niemcy i Związek Sowiecki
-**B:** Niemcy i Francja
-**C:** Wielka Brytania i Związek Sowiecki
-**D:** Francja i Wielka Brytania
+**A:** III Rzesza i Francja
+**B:** Niemcy i Związek Sowiecki
+**C:** Francja i Wielka Brytania
+**D:** ZSRS i Wielka Brytania
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 1 września 1939 Polska została zaatakowana przez Niemcy, a 17 września przez Związek Sowiecki. Oba państwa podzieliły między sobą terytorium Polski na podstawie tajnych uzgodnień paktu Ribbentrop-Mołotow. Francja i Wielka Brytania wypowiedziały wojnę Niemcom, ale nie zajęły terytorium Polski.
@@ -45,9 +45,9 @@ Które dwa państwa okupowały Polskę we wrześniu 1939 roku?
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281939%E2%80%931945%29
 
 **Analiza odpowiedzi błędnych:**
-- Odp B (Francja): Francja była sojusznikiem Polski i wypowiedziała wojnę Niemcom, ale nie okupowała polskiego terytorium
-- Odp C (Wielka Brytania): Wielka Brytania wspierała Polskę politycznie, ale nie miała wojsk na polskim terytorium
-- Odp D (oba): Francja i Wielka Brytania były demokratycznymi sojusznikami Polski, nie okupantami
+- Odp A (III Rzesza i Francja): Francja była sojusznikiem Polski i wypowiedziała wojnę Niemcom, ale nie okupowała polskiego terytorium (incorrect from Kampania wrześniowa)
+- Odp C (Francja i Wielka Brytania): Oba państwa były demokratycznymi sojusznikami Polski, nie okupantami (incorrect from Kampania wrześniowa)
+- Odp D (ZSRS i Wielka Brytania): Wielka Brytania wspierała Polskę politycznie, ale ZSRR był okupantem wschodnich ziem (incorrect from Kampania wrześniowa)
 
 ---
 
@@ -58,9 +58,9 @@ Które dwa państwa okupowały Polskę we wrześniu 1939 roku?
 Jaki niemiecki organ administracyjny zarządzał częścią Polski niewłączoną bezpośrednio do Rzeszy w latach 1939-1945?
 
 **A:** Generalne Gubernatorstwo
-**B:** Rada Ministrów
-**C:** Sejm Okupacyjny
-**D:** Zarząd Cywilny
+**B:** Rada Ministrów RP Londyn
+**C:** Sejm Okupacyjny Niemiecki
+**D:** Zarząd Cywilny Niemcy
 
 **Poprawna odpowiedź:** A
 
@@ -71,9 +71,9 @@ Generalne Gubernatorstwo (GG) było niemieckim tworem administracyjnym utworzony
 - https://pl.wikipedia.org/wiki/Okupacja_niemiecka_ziem_polskich_%281939%E2%80%931945%29
 
 **Analiza odpowiedzi błędnych:**
-- Odp B (Rada Ministrów): To był organ polskiego rządu na uchodźstwie, działający w Londynie, nie na okupowanych ziemiach
-- Odp C (Sejm): Polska nie miała parlamentu podczas okupacji, tylko podziemne struktury państwowe
-- Odp D (Zarząd Cywilny): Był to tymczasowy organ na początku okupacji, zastąpiony przez strukturę GG
+- Odp B (Rada Ministrów): To był organ polskiego rządu na uchodźstwie działający w Londynie (no referenced answer - organ nieistniejący na okupowanych ziemiach)
+- Odp C (Sejm Okupacyjny): Polska nie miała parlamentu podczas okupacji, tylko podziemne struktury państwowe (no referenced answer - nazwa wymyślona)
+- Odp D (Zarząd Cywilny): Był to tymczasowy organ na początku okupacji zastąpiony przez GG (no referenced answer - organ wcześniejszy)
 
 ---
 
@@ -83,12 +83,12 @@ Generalne Gubernatorstwo (GG) było niemieckim tworem administracyjnym utworzony
 **Pytanie:**
 Kiedy Niemcy zaatakowali Związek Sowiecki, kończąc okupację sowiecką wschodnich ziem Polski?
 
-**A:** 22 czerwca 1941
-**B:** 1 września 1939
-**C:** 17 września 1939
+**A:** 1 września 1939
+**B:** 17 września 1939
+**C:** 22 czerwca 1941
 **D:** 8 maja 1945
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 22 czerwca 1941 Niemcy rozpoczęły operację "Barbarossa" - atak na ZSRR. Tego dnia zakończyła się sowiecka okupacja wschodnich ziem polskich, które zostały zajęte przez wojska niemieckie. Do 1941 tereny te znajdowały się pod okupacją ZSRR od 17 września 1939.
@@ -97,9 +97,9 @@ Kiedy Niemcy zaatakowali Związek Sowiecki, kończąc okupację sowiecką wschod
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281939%E2%80%931945%29
 
 **Analiza odpowiedzi błędnych:**
-- Odp B (1 września 1939): To była data agresji Niemiec na Polskę, nie ataku na ZSRR
-- Odp C (17 września 1939): To był początek sowieckiej okupacji polskich ziem wschodnich, nie koniec
-- Odp D (8 maja 1945): To była data kapitulacji Niemiec i zakończenia II wojny światowej w Europie
+- Odp A (1 września 1939): Data agresji Niemiec na Polskę, nie ataku na ZSRR (incorrect from Kampania wrześniowa)
+- Odp B (17 września 1939): Początek sowieckiej okupacji polskich ziem wschodnich, nie koniec (incorrect from Kampania wrześniowa)
+- Odp D (8 maja 1945): Data kapitulacji Niemiec i zakończenia II wojny światowej w Europie (incorrect from Wyzwolenie)
 
 ---
 
@@ -109,12 +109,12 @@ Kiedy Niemcy zaatakowali Związek Sowiecki, kończąc okupację sowiecką wschod
 **Pytanie:**
 Jak nazywał się największy niemiecki obóz koncentracyjny i zagłady utworzony na ziemiach polskich?
 
-**A:** Auschwitz-Birkenau
-**B:** Treblinka
-**C:** Majdanek
-**D:** Sobibór
+**A:** Obóz w Treblince
+**B:** Auschwitz-Birkenau
+**C:** Obóz w Majdanku
+**D:** Obóz w Sobiborze
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Auschwitz-Birkenau (Oświęcim-Brzezinka) był największym niemieckim obozem koncentracyjnym i zagłady, utworzonym przez Niemców na ziemiach polskich. Funkcjonował od 1940 do 1945 roku. W obozie zamordowano około 1,1 miliona ludzi, głównie Żydów, ale także Polaków, Romów i innych więźniów.
@@ -123,9 +123,9 @@ Auschwitz-Birkenau (Oświęcim-Brzezinka) był największym niemieckim obozem ko
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- Odp B (Treblinka): Był to obóz zagłady, ale mniejszy niż Auschwitz, zamordowano tam około 900 tys. osób
-- Odp C (Majdanek): Był oboziem koncentracyjnym i zagładą koło Lublina, mniejszy od Auschwitz
-- Odp D (Sobibór): Był obozem zagłady na Lubelszczyźnie, nie był największym obozem na ziemiach polskich
+- Odp A (Obóz w Treblince): Był to obóz zagłady, ale mniejszy niż Auschwitz - zamordowano tam około 900 tys. osób (incorrect from Holocaust)
+- Odp C (Obóz w Majdanku): Był obozem koncentracyjnym i zagładą koło Lublina, mniejszy od Auschwitz (incorrect from Holocaust)
+- Odp D (Obóz w Sobiborze): Był obozem zagłady na Lubelszczyźnie, nie był największym obozem na ziemiach polskich (incorrect from Holocaust)
 
 ---
 
@@ -135,12 +135,12 @@ Auschwitz-Birkenau (Oświęcim-Brzezinka) był największym niemieckim obozem ko
 **Pytanie:**
 Które polskie miasto było stolicą Generalnego Gubernatorstwa podczas niemieckiej okupacji?
 
-**A:** Kraków
-**B:** Warszawa
-**C:** Lublin
+**A:** Warszawa
+**B:** Lublin
+**C:** Kraków
 **D:** Lwów
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Kraków był stolicą Generalnego Gubernatorstwa i siedzibą generalnego gubernatora Hansa Franka. Warszawa, mimo że była największym miastem w GG, pełniła tylko rolę siedziby władz dystryktu warszawskiego. Kraków został wybrany ze względu na jego historyczne znaczenie i położenie z dala od granic z III Rzeszą.
@@ -149,8 +149,8 @@ Kraków był stolicą Generalnego Gubernatorstwa i siedzibą generalnego guberna
 - https://pl.wikipedia.org/wiki/Okupacja_niemiecka_ziem_polskich_%281939%E2%80%931945%29
 
 **Analiza odpowiedzi błędnych:**
-- Odp B (Warszawa): Było to największe miasto w GG, ale nie było jego stolicą — tylko siedzibą władz dystryktu
-- Odp C (Lublin): Było to ważne miasto w GG, ale nie było stolicą gubernatorstwa
-- Odp D (Lwów): To miasto znalazło się pod okupacją sowiecką od 1939 do 1941, nie należało do GG
+- Odp A (Warszawa): Było to największe miasto w GG, ale nie było jego stolicą - tylko siedzibą władz dystryktu (no referenced answer - miasto w GG)
+- Odp B (Lublin): Było to ważne miasto w GG, ale nie było stolicą gubernatorstwa (no referenced answer - miasto w GG)
+- Odp D (Lwów): To miasto znalazło się pod okupacją sowiecką od 1939 do 1941, nie należało do GG (incorrect from Kampania wrześniowa)
 
 ---

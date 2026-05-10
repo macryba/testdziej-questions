@@ -30,12 +30,12 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 
 **Pytanie:** Dlaczego wybuchła wielka wojna polsko-krzyżacka w latach 1409-1411?
 
-**A.** Spór o tron polski po śmierci Kazimierza Wielkiego
-**B.** Konflikt o Żmudź i ziemię dobrzyńską oraz nieuznanie chrystianizacji Litwy
+**A.** Konflikt o Żmudź i ziemię dobrzyńską oraz nieuznanie chrystianizacji Litwy
+**B.** Spór o tron polski po śmierci Kazimierza Wielkiego
 **C.** Rywalizacja o wpływy na Ruś Halicką
 **D.** Spór handlowy o kontrolę szlaku bursztynowego
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Bezpośrednią przyczyną wojny był bunt Żmudzinów przeciwko zakonowi krzyżackiemu w 1409 roku oraz zajęcie ziemi dobrzyńskiej przez Krzyżaków. Zakon nie uznawał również chrystianizacji Litwy z 1387 roku i nadal uważał Litwinów za pogan, co uzasadniało krucjatę przeciwko niemu. Dodatkowo istniał długoletni spór o ziemię dobrzyńską, którą Krzyżacy zajęli w 1409 roku.
 
@@ -43,10 +43,10 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/Wielka_wojna_z_Zakonem_Krzy%C5%BCackim_(1409%E2%80%931411)
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Spór o tron polski): Kazimierz Wielki zmarł w 1370, a Jagiełło był królem od 1386
-- Odpowiedź C (Ruś Halicka): Była sporna w XIV wieku, ale nie była bezpośrednią przyczyną wojny 1409-1411
-- Odpowiedź D (Szlak bursztynowy): Istniał, ale nie był główną przyczyną wojny
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Spór o tron polski) – incorrect from Kazimierz Wielki: Kazimierz Wielki zmarł w 1370 roku, a sukcesja po nim została rozwiązana w 1384-1386 (unia z Litwą), długo przed wojną 1409-1411
+- Odpowiedź B (Ruś Halicka) – no referenced answer: Ruś Halicka była przedmiotem sporów polsko-węgierskich w XIV wieku, ale nie była przyczyną wojny z zakonem krzyżackim
+- Odpowiedź C (Szlak bursztynowy) – context from Ekspansja Piastów: szlak bursztynowy biegł głównie przez tereny zachodniopomorskie, nie był główną przyczyną wojny polsko-krzyżackiej
 
 ---
 
@@ -56,21 +56,21 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 **Pytanie:** Dlaczego wojska polsko-litewskie nie zdobyły zamku w Malborku po bitwie pod Grunwaldem?
 
 **A.** Jagiełło zrezygnował z oblężenia z powodu braku żywności
-**B.** Wojska Witolda wycofały się z oblężenia z powodu wygaśnięcia rozejmu z inflancką gałęzią zakonu
-**C.** Krzyżacy otrzymali posiłki z całej Europy
-**D.** Zamek był zbyt silnie ufortyfikowany i nie do zdobycia
+**B.** Zamek był zbyt silnie ufortyfikowany i nie do zdobycia
+**C.** Wojska Witolda wycofały się z oblężenia z powodu wygaśnięcia rozejmu z inflancką gałęzią zakonu
+**D.** Krzyżacy otrzymali posiłki z całej Europy
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Głównym powodem niezdobycia Malborka był fakt, że wygasał rozejm Witolda z inflancką gałęzią zakonu krzyżackiego, przez co wojska litewskie rozpoczęły odwrót, obawiając się ataku z północy. Ponadto marsz wojska Jagiełły na Malbork był powolny, co dało obrońcom czasu (komtur Henryk von Plauen) na przygotowanie obrony. Do oblężenia przystąpiono dopiero 22 lipca, gdy zamek był już gotowy do obrony.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Brak żywności): Nie był to główny powód, choć logistyka była trudna
-- Odpowiedź C (Posiłki z Europy): Krzyżacy otrzymali pewne posiłki, ale nie było to decydujące
-- Odpowiedź D (Za silny zamek): Zamek był potężny, ale mógł zostać zdobyty przy odpowiednim oblężeniu
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Brak żywności) – no referenced answer: Nie był to główny powód, choć logistyka była trudna; wojska miały zapasy i could kontynuować oblężenie
+- Odpowiedź B (Za silny zamek) – context from Malbork defense: Zamek był potężny, ale mógł zostać zdobyty przy odpowiednim oblężeniu; problemem było opóźnienie w dotarciu pod zamek
+- Odpowiedź D (Posiłki z Europy) – no referenced answer: Krzyżacy otrzymali pewne posiłki, ale nie było to decydujące; głównym problemem był wyjazd wojsk litewskich
 
 ---
 
@@ -80,11 +80,11 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 **Pytanie:** Jakie były najważniejsze postanowienia I pokoju toruńskiego (1411)?
 
 **A.** Polska odzyskała Pomorze Gdańskie i ziemię chełmińską
-**B.** Litwa odzyskała Żmudź, a ziemia dobrzyńska wróciła do Korony
-**C.** Zakon krzyżacki został całkowicie pokonany i zlikwidowany
+**B.** Zakon krzyżacki został całkowicie pokonany i zlikwidowany
+**C.** Litwa odzyskała Żmudź, a ziemia dobrzyńska wróciła do Korony
 **D.** Polska otrzymała prawo do wybrzeża bałtyckiego od Gdańska do Królewca
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** I pokój toruński (1 lutego 1411) zakończył wielką wojnę polsko-krzyżacką. Na jego mocy Litwa odzyskała Żmudź (do końca życia Jagiełły i Witolda), ziemia dobrzyńska powróciła do Korony, a Krzyżacy wypłacili wysoką kontrybucję. Nie udało się jednak odzyskać Pomorza Gdańskiego, kontrolowanego przez zakon od 1309 roku. Pokój był korzystny, ale nie w pełni wykorzystywał zwycięstwo grunwaldzkie.
 
@@ -92,10 +92,10 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/I_pok%C3%B3j_toru%C5%84ski_(1411)
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Pomorze Gdańskie): Nie zostało odzyskane, to był główny niepowodzenie pokoju
-- Odpowiedź C (Likwidacja zakonu): Zakon przetrwał, choć jego potęga militarna została złamana
-- Odpowiedź D (Wybrzeże bałtyckie): Polska nie uzyskała dostępu do morza
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Likwidacja zakonu) – no referenced answer: Zakon krzyżacki przetrwał I pokój toruński, choć jego potęga militarna została złamana; zlikwidowany został dopiero w 1525 roku (sekularyzacja Prus)
+- Odpowiedź B (Pomorze Gdańskie) – incorrect from Wojna trzynastoletnia: Pomorze Gdańskie zostało odzyskane dopiero w 1466 roku (II pokój toruński), nie w 1411
+- Odpowiedź C (Wybrzeże bałtyckie) – incorrect from Wojna trzynastoletnia: Polska nie uzyskała pełnego dostępu do morza aż do 1466 roku, a Gdańsk i Królewiec nie były pod polską kontrolą w 1411
 
 ---
 
@@ -105,11 +105,11 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 **Pytanie:** Jaki był strategiczny cel ataku wojsk polsko-litewskich w wojnie 1409-1411?
 
 **A.** Zdobycie Szczecina i Wolina
-**B.** Marsz na Malbork - stolicę zakonu krzyżackiego
-**C.** Odzyskanie ziemi dobrzyńskiej i Kujaw
-**D.** Zdobycie Królewca i Gdańska
+**B.** Odzyskanie ziemi dobrzyńskiej i Kujaw
+**C.** Zdobycie Królewca i Gdańska
+**D.** Marsz na Malbork - stolicę zakonu krzyżackiego
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Głównym celem strategicznym wojsk polsko-litewskich był marsz na Malbork (Marienburg) - stolicę zakonu krzyżackiego. Plan zakładał zmuszenie zakonu do walnej rozprawy i podjęcia się decyzji bitnej. Zamiast bezpośrednio atakować zajęte przez Krzyżaków tereny (ziemia dobrzyńska), wojska Jagiełły i Witolda wkroczyły głęboko w terytorium państwa zakonnego, co zaskoczyło przeciwnika.
 
@@ -117,10 +117,10 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/Wielka_wojna_z_Zakonem_Krzy%C5%BCackim_(1409%E2%80%931411)
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Szczecin i Wolin): Były w rękach pomorskich, nie zakonu krzyżackiego
-- Odpowiedź C (Ziemia dobrzyńska i Kujawy): To były tereny sporne, ale nie główny cel strategiczny
-- Odpowiedź D (Królewiec i Gdańsk): Te miasta były ważne, ale Malbork był głównym celem
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Szczecin i Wolin) – incorrect from Pomorze Zachodnie: Szczecin i Wolin były w rękach książąt pomorskich (Griffitów), nie zakonu krzyżackiego
+- Odpowiedź B (Ziemia dobrzyńska i Kujawy) – no referenced answer: To były tereny sporne zajęte przez Krzyżaków, ale nie główny cel strategiczny; celem było zmuszenie zakonu do bitwy
+- Odpowiedź C (Królewiec i Gdańsk) – incorrect from Wojna trzynastoletnia: Te miasta były ważne, ale Malbork (stolica zakonu) był głównym celem w 1410; Królewiec i Gdańsk zostały odzyskane później
 
 ---
 
@@ -129,22 +129,22 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 
 **Pytanie:** Kto udzielił zakonowi krzyżackiemu wsparcia w wojnie 1409-1411?
 
-**A.** Papież i cesarz Świętego Cesarstwa Rzymskiego
-**B.** Król Węgier Zygmunt Luksemburczyk i książęta pomorscy
-**C.** Chan Złotej Ordy i hospodar mołdawski
+**A.** Chan Złotej Ordy i hospodar mołdawski
+**B.** Papież i cesarz Świętego Cesarstwa Rzymskiego
+**C.** Król Węgier Zygmunt Luksemburczyk i książęta pomorscy
 **D.** Król Czech Wacław IV i książęta śląscy
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Zakon krzyżacki zawarł sojusz z królem Węgram Zygmuntem Luksemburczykiem, który dążył do rozbicia unii polsko-litewskiej. Po stronie zakonu opowiedzieli się także książęta Pomorza Zachodniego (choć część z nich przeszła na stronę polską) oraz liczni rycerze z zachodniej Europy (głównie z Czech, Śląska, Francji, Anglii, Luksemburga i Inflant). Inflancka gałąź zakonu jednak nie wzięła udziału w bitwie.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Papież i cesarz): Nie udzielili oni bezpośredniego wsparcia
-- Odpowiedź C (Chan i hospodar): Wspierali Polskę i Litwę
-- Odpowiedź D (Król Czech): Część rycerzy czeskich walczyła po stronie zakonu, ale Wacław IV był pośrednikiem
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Chan i hospodar) – incorrect from Najazd mongolski: Chan Złotej Ordy i hospodar mołdawski wspierali Polskę i Litwę (Tatarzy walczyli po stronie polsko-litewskiej pod wodzą Dżalal ad-Dina)
+- Odpowiedź B (Papież i cesarz) – no referenced answer: Nie udzielili oni bezpośredniego wsparcia militarnego; papież nie był zaangażowany, a cesarz nie istniał w tym okresie (wakat na tronie cesarskim)
+- Odpowiedź D (Król Czech) – no referenced answer: Część rycerzy czeskich i śląskich walczyła po stronie zakonu jako "goście", ale Wacław IV był formalnie pośrednikiem i nie udzielił oficjalnego wsparcia
 
 ---
 
@@ -153,9 +153,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 
 **Pytanie:** Jaki manewr taktyczny zastosowano w bitwie pod Grunwaldem?
 
-**A.** Atak nocny na obóz krzyżacki
+**A.** Bezpośredni atak ciężkiej jazdy na centrum przeciwnika
 **B.** Pozorowana ucieczka wojsk litewskich, a następnie kontratak
-**C.** Bezpośredni atak ciężkiej jazdy na centrum przeciwnika
+**C.** Atak nocny na obóz krzyżacki
 **D.** Oblężenie zamku krzyżackiego przed bitwą
 
 **Prawidłowa odpowiedź:** B
@@ -165,10 +165,10 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Atak nocny): Nie doszło do takiego ataku
-- Odpowiedź C (Bezpośredni atak): Atak był podzielony na fazy, a nie był jednym bezpośrednim uderzeniem
-- Odpowiedź D (Oblężenie przed bitwą): Nie było oblężenia przed bitwą
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Bezpośredni atak) – no referenced answer: Atak nie był pojedynczym uderzeniem ciężkiej jazdy, lecz składał się z kilku faz; wojska polskie manewrowały, aby zmusić Krzyżaków do ataku
+- Odpowiedź C (Atak nocny) – incorrect from various battles: Ataki nocne były stosowane w innych bitwach (np. pod Kircholmem 1605), ale nie pod Grunwaldem; bitwa rozpoczęła się w południe i trwała do zmierzchu
+- Odpowiedź D (Oblężenie przed bitwą) – no referenced answer: Nie było oblężenia przed bitwą; oblężenie Malborka rozpoczęto dopiero po bitwie (22 lipca 1410)
 
 ---
 
@@ -178,11 +178,11 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 **Pytanie:** Co wydarzyło się na soborze w Konstancji (1414-1418) związane z bitwą pod Grunwaldem?
 
 **A.** Jagiełło został ekskomunikowany za prowadzenie wojny z chrześcijaństwem
-**B.** Polska delegacja z Mikołajem Trąbą i Pawłem Włodkowicem broniła praw Polski i Litwy
-**C.** Zakon krzyżacki został zlikwidowany decyzją soboru
-**D.** Uznano prawo Polski do wszystkich ziem spornych z zakonem
+**B.** Zakon krzyżacki został zlikwidowany decyzją soboru
+**C.** Uznano prawo Polski do wszystkich ziem spornych z zakonem
+**D.** Polska delegacja z Mikołajem Trąbą i Pawłem Włodkowicem broniła praw Polski i Litwy
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Na soborze w Konstancji (1414-1418) polska delegacja z arcybiskupem Mikołają Trąbą i prawnikiem Pawłem Włodkowicem broniła praw Polski i Litwy do ziemi spornych oraz uzasadniała prowadzenie wojny z zakonem krzyżackim jako wojny sprawiedliwej. Włodkowic napisał traktat "O władzy cesarza i papieża w stosunku do wiernych" broniący praw innowierców do obrony przed najazdami krzyżackimi.
 
@@ -190,10 +190,10 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/Pawe%C5%82_W%C5%82odkowic
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Ekskomunika): Jagiełło nie został ekskomunikowany
-- Odpowiedź C (Likwidacja zakonu): Zakon nie został zlikwidowany na soborze
-- Odpowiedź D (Uznanie praw): Sprawa nie została rozstrzygnięta w pełni
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Ekskomunika) – no referenced answer: Jagiełło nie został ekskomunikowany; wręcz przeciwnie, Polska przedstawiła swoją sprawę jako obronę chrześcijaństwa przed agresją zakonu
+- Odpowiedź B (Likwidacja zakonu) – incorrect from Prusy Książęce: Zakon nie został zlikwidowany na soborze; przetrwał do 1525 roku, gdy wielki mistrz Albrecht Hohenzollern przeszedł na luteranizm i stworzył Prusy Książęce
+- Odpowiedź C (Uznanie praw) – no referenced answer: Sprawa nie została rozstrzygnięta w pełni; sobór nie wydał decyzji w sprawie ziem spornych, co wymusiło dalsze wojny polsko-krzyżackie
 
 ---
 
@@ -202,22 +202,22 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 
 **Pytanie:** Jaki był skład wojsk polsko-litewskich w bitwie pod Grunwaldem?
 
-**A.** Tylko Polacy i Litwini
-**B.** Polacy, Litwini, Rusini, Tatarzy, Mołdawianie i zaciężni z Czech i Moraw
+**A.** Tylko zaciężni z zachodniej Europy
+**B.** Tylko Polacy i Litwini
 **C.** Polacy, Litwini i goście z Francji i Anglii
-**D.** Tylko zaciężni z zachodniej Europy
+**D.** Polacy, Litwini, Rusini, Tatarzy, Mołdawianie i zaciężni z Czech i Moraw
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Wojska polsko-litewskie były koalicją różnych narodowości. Składały się z Polaków, Litwinów, Rusinów, Tatarów pod wodzą chana Dżalal ad-Dina oraz Mołdawian. Walczyli także zaciężni z Czech i Moraw (ponad 2500 żołnierzy), a część rycerzy śląskich również przeszła na stronę polską. Była to szeroka koalicja przeciwko zakonowi krzyżackiemu.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Tylko Polacy i Litwini): Skład był znacznie bardziej zróżnicowany
-- Odpowiedź C (Goście z Francji i Anglii): Ci walczyli po stronie krzyżackiej
-- Odpowiedź D (Tylko zaciężni): To był tylko jeden z komponentów wojsk
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Tylko zaciężni) – no referenced answer: Zaciężni z zachodniej Europy walczyli głównie po stronie krzyżackiej, nie polsko-litewskiej
+- Odpowiedź B (Tylko Polacy i Litwini) – no referenced answer: Skład wojsk był znacznie bardziej zróżnicowany; obejmował Rusinów, Tatarów, Mołdawian, Czechów i Morawian
+- Odpowiedź C (Goście z Francji i Anglii) – incorrect from Teutonic support: Goście z Francji i Anglii ("guests") walczyli po stronie zakonu krzyżackiego jako "gość" rycerze zachodnioeuropejscy, nie po stronie polskiej
 
 ---
 
@@ -226,9 +226,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 
 **Pytanie:** Jakie były długoterminowe skutki bitwy pod Grunwaldem?
 
-**A.** Natychmiastowe odzyskanie wszystkich ziem spornych z zakonem
+**A.** Likwidacja zakonu krzyżackiego i zajęcie jego ziem przez Polskę
 **B.** Złamanie potęgi militarnej zakonu i umocnienie pozycji Jagiellonów w Europie
-**C.** Likwidacja zakonu krzyżackiego i zajęcie jego ziem przez Polskę
+**C.** Natychmiastowe odzyskanie wszystkich ziem spornych z zakonem
 **D.** Zakończenie wojen polsko-krzyżackich na zawsze
 
 **Prawidłowa odpowiedź:** B
@@ -239,10 +239,10 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/Zakon_krzy%C5%BCacki
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Natychmiastowe odzyskanie): Nie uzyskano wszystkich ziem spornych
-- Odpowiedź C (Likwidacja zakonu): Zakon przetrwał, choć osłabiony
-- Odpowiedź D (Zakończenie wojen): Wojny polsko-krzyżackie trwały dalej
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Natychmiastowe odzyskanie) – no referenced answer: Nie uzyskano wszystkich ziem spornych; Pomorze Gdańskie pozostało przy zakonie do 1466 roku (II pokój toruński)
+- Odpowiedź B (Zakończenie wojen) – incorrect from Wojna trzynastoletnia: Wojny polsko-krzyżackie trwały dalej; kolejna wielka wojna to wojna trzynastoletnia (1454-1466)
+- Odpowiedź C (Likwidacja zakonu) – incorrect from Prusy Książęce: Zakon krzyżacki przetrwał Grunwald; został zlikwidowany dopiero w 1525 roku, gdy wielki mistrz Albrecht Hohenzollern przeszedł na luteranizm i stworzył Prusy Książęce
 
 ---
 
@@ -251,22 +251,22 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 
 **Pytanie:** Dlaczego bitwa pod Grunwaldem jest uważana za jedno z największych starć zbrojnych średniowiecznej Europy?
 
-**A.** Ze względu na liczbę uczestników (50-60 tysięcy żołnierzy)
-**B.** Ze względu na użycie nowoczesnej broni palnej
+**A.** Ze względu na użycie nowoczesnej broni palnej
+**B.** Ze względu na liczbę uczestników (50-60 tysięcy żołnierzy)
 **C.** Ze względu na długość trwania bitwy (3 dni)
 **D.** Ze względu na udział wojsk z całego świata
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Bitwa pod Grunwaldem była jednym z największych starć zbrojnych średniowiecznej Europy pod względem liczby uczestników. Szacunki sugerują, że wzięło w niej udział około 50-60 tysięcy żołnierzy z obu stron. Wojska polsko-litewskie liczyły około 39 tysięcy, a siły krzyżackie około 27 tysięcy. Była to wyjątkowo duża bitwa jak na średniowieczne standardy.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Broń palna): Artyleria krzyżacka oddała tylko dwie salwy, broń palna nie była decydująca
-- Odpowiedź C (3 dni): Bitwa trwała jeden dzień (około 10 godzin)
-- Odpowiedź D (Wojska z całego świata): Uczestnicy byli głównie z regionu Europy Środkowo-Wschodniej
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Broń palna) – no referenced answer: Artyleria krzyżacka oddała tylko dwie salwy na początku bitwy; broń palna nie była decydująca w średniowiecznych bitwach
+- Odpowiedź C (3 dni) – no referenced answer: Bitwa trwała jeden dzień (około 10 godzin: od południa do zmierzchu 15 lipca 1410); wielodniowe bitwy były rzadkością w średniowieczu
+- Odpowiedź D (Wojska z całego świata) – no referenced answer: Uczestnicy byli głównie z regionu Europy Środkowo-Wschodniej (Polska, Litwa, Zakon Krzyżacki, ziemie czeskie, śląskie, morawskie, ruskie, inflanckie)
 
 ---
 
@@ -282,15 +282,15 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 
 **Prawidłowa odpowiedź:** A
 
-**Wyjaśnienie:** Wojnę rozpoczęło się najazdem Krzyżaków na ziemię dobrzyńską i Kujawy w 1409 roku. Jagiełło odzyskał Kujawy i Bydgoszcz, ale działania wojenne wstrzymano rozejmem pod Bobrownikami (8 października 1409) obowiązującym do 24 czerwca 1410 roku. W tym czasie obie strony przygotowywały się do decydującego starcia. W czerwcu 1410 roku Jagiełło i Witold połączyli wojska i wkroczyli w głąb terytorium państwa zakonnego.
+**Wyjaśnienie:** Wojnę rozpoczęła się najazdem Krzyżaków na ziemię dobrzyńską i Kujawy w 1409 roku. Jagiełło odzyskał Kujawy i Bydgoszcz, ale działania wojenne wstrzymano rozejmem pod Bobrownikami (8 października 1409) obowiązującym do 24 czerwca 1410 roku. W tym czasie obie strony przygotowywały się do decydującego starcia. W czerwcu 1410 roku Jagiełło i Witold połączyli wojska i wkroczyli w głąb terytorium państwa zakonnego.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wielka_wojna_z_Zakonem_Krzy%C5%BCackim_(1409%E2%80%931411)
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Od razu do Prus): Najpierw był rozejm i przygotowania
-- Odpowiedź C (Rezygnacja): Jagiełło nie rezygnował z walki
-- Odpowiedź D (Tylko potyczki): Wojna była na dużą skalę
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Od razu do Prus) – no referenced answer: Najpierw był rozejm (8 października 1409 - 24 czerwca 1410) i przygotowania; wkroczenie do Prus nastąpiło dopiero w czerwcu 1410
+- Odpowiedź C (Rezygnacja) – no referenced answer: Jagiełło nie rezygnował z walki; odzyskał Kujawy i Bydgoszcz, a następnie przygotował się do decydującej kampanii
+- Odpowiedź D (Tylko potyczki) – no referenced answer: Wojna była na dużą skalę; obejmowała najazdy na Kujawy i ziemię dobrzyńską oraz wielką kampanię letnią 1410 roku z bitwą pod Grunwaldem
 
 ---
 
@@ -300,21 +300,21 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 **Pytanie:** Co symbolizowały "złote miecze" grunwaldzkie?
 
 **A.** Oficjalne przekazanie władzy nad Litwą dla Jagiełły
-**B.** Prowokacja ze strony wielkiego mistrza dla pośpieszenia bitwy
+**B.** Symbol pojednania między Jagiełłą a Witoldem
 **C.** Podarunek od papieża dla zwycięzców bitwy
-**D.** Symbol pojednania między Jagiełłą a Witoldem
+**D.** Prowokacja ze strony wielkiego mistrza dla pośpieszenia bitwy
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Przed bitwą wielki mistrz Ulrich von Jungingen wysłał do Jagiełły emisariuszy z prowokacyjnym podarunkiem — dwoma nagimi mieczami. Gest ten miał zwrócić uwagę na rzekomo nieśmiałość króla i zachęcić go do podjęcia bitwy. Według relacji Jana Długosza mistrz "posyła tobie i twojemu bratu dwa miecze, ku pomocy, byś ci z nim i z jego wojskiem mniej się ociągał i odważniej walczył". Po otrzymaniu mieczy wojska polskie zaśpiewały "Bogurodzicę" i ruszyły do ataku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Przekazanie władzy): Nie było to przekazanie władzy
-- Odpowiedź C (Podarunek papieża): Nie miało to związku z papieżem
-- Odpowiedź D (Pojednanie): Nie było to pojednanie między władcami
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Przekazanie władzy) – incorrect from Unia krewska: Przekazanie władzy nad Litwą dla Jagiełły nastąpiło wcześniej, w wyniku unii krewskiej (1385) i chrztu Litwy (1387)
+- Odpowiedź B (Pojednanie) – no referenced answer: Nie było to pojednanie między władcami; Jagiełło i Witold byli sojusznikami, a nie skonfliktowanymi stronami
+- Odpowiedź C (Podarunek papieża) – no referenced answer: Nie miało to związku z papieżem; miecze zostały wysłane przez wielkiego mistrza Ulricha von Jungingena jako prowokacja
 
 ---
 

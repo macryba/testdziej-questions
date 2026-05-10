@@ -58,7 +58,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Ch%C5%82opicki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Jan Skrzynecki został wodzem naczelnym w lutym 1831 roku
 - Jan Krukowiecki był prezesem rządu w końcowej fazie powstania
 - Maciej Rybiński był ostatnim wodzem naczelnym
@@ -71,12 +71,12 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 
 **Pytanie:** Która decyzja Sejmu z 25 stycznia 1831 roku była aktem niepodległości Królestwa Polskiego?
 
-**A:** Powołanie Rządu Narodowego
-**B:** Detronizacja Mikołaja I Romanowa
+**A:** Detronizacja Mikołaja I Romanowa
+**B:** Powołanie Rządu Narodowego
 **C:** Wypowiedzenie wojny Rosji
 **D:** Zwołanie pospolitego ruszenia
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Uchwała o detronizacji Mikołaja I z 25 stycznia 1831 roku była aktem niepodległości, który zerwał unię personalną między Polską a Rosją. Pod aktem podpisało się 187 posłów, co oznaczało, że Sejm nie uznaje już cara za monarchy Polski. Była to odpowiedź na rosyjskie żądania bezwarunkowej kapitulacji.
 
@@ -84,7 +84,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Detronizacja_Miko%C5%82aja_I
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Rząd Narodowy został powołany 29 stycznia 1831 roku
 - Wypowiedzenie wojny było następstwem detronizacji
 - Pospolite ruszenie zostało powołane później
@@ -110,7 +110,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Bitwa_o_Olszynk%C4%99_Grochowsk%C4%85
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Pod Ostrołęką Polacy ponieśli porażkę w maju 1831 roku
 - Pod Stoczkiem i Wawrem Polacy odnieśli zwycięstwa, ale Olszynka Grochowska była najważniejszym strategicznie starciem
 
@@ -137,7 +137,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Ostro%C5%82%C4%99k%C4%85_(1831)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Olszynka Grochowska była bitwą nierozstrzygniętą, ale taktycznym sukcesem Polaków
 - Wawer i Stoczek były bitwami wygranymi przez Polaków
 
@@ -150,11 +150,11 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 **Pytanie:** Dlaczego władze Rosji łamały konstytucję Królestwa Polskiego z 1815 roku?
 
 **A:** Bo Polska sprzymierzyła się z Prusami
-**B:** Bo obawiano się polskich dążeń niepodległościowych
-**C:** Bo Polska odmówiła płacenia podatków
+**B:** Bo Polska odmówiła płacenia podatków
+**C:** Bo obawiano się polskich dążeń niepodległościowych
 **D:** Bo Polska atakowała sąsiednie kraje
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Władze Rosji systematycznie łamały konstytucję z 1815 roku, ponieważ obawiały się odrodzenia się niepodległościowej Polski. Po kongresie wiedeńskim Rosja traktowała Królestwo Polskie jako strefę buforową, a polskie dążenia do rozszerzenia terytorium i zachowania autonomii były postrzegane jako zagrożenie dla rosyjskiego imperium.
 
@@ -162,7 +162,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Konstytucja_Kr%C3%B3lestwa_Polskiego_(1815)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Polska nie sprzymierzyła się z Prusami, a Prusy były wrogie powstaniu
 - Podatki były płacone regularnie
 - Polska nie atakowała sąsiadów
@@ -187,7 +187,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wielka_Emigracja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Większość emigrantów nie wróciła do kraju
 - Kolejne powstanie wybuchło dopiero w 1863 roku
 - Francja nie udzieliła pomocy wojskowej
@@ -201,11 +201,11 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 **Pytanie:** Kto był wodzem naczelnym wojsk polskich w czasie bitwy o Olszynkę Grochowską?
 
 **A:** Józef Chłopicki
-**B:** Jan Zygmunt Skrzynecki
-**C:** Henryk Dembiński
-**D:** Ignacy Prądzyński
+**B:** Henryk Dembiński
+**C:** Ignacy Prądzyński
+**D:** Jan Zygmunt Skrzynecki
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Jan Zygmunt Skrzynecki był wodzem naczelnym w czasie bitwy o Olszynkę Grochowską 25 lutego 1831 roku. Zastąpił Józefa Chłopickiego, który złożył dymisję. Skrzynecki był doświadczonym generałem, ale jego dowodzenie było krytykowane za zwłokę i niezdolność do wykorzystania sukcesów taktycznych.
 
@@ -213,7 +213,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Jan_Zygmunt_Skrzynecki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Chłopicki złożył dymisję przed tą bitwą
 - Dembiński i Prądzyński byli innymi generałami
 
@@ -237,7 +237,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Polska nie odmawiała sojuszu z Prusami
 - Austrii nie była głównym sojusznikiem Prus
 - Płatne nie były głównym powodem wrogości
@@ -263,7 +263,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Stoczkiem_(1831)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Ostrołęka była porażką
 - Olszynka Grochowska i Wawr były późniejsze
 
@@ -276,11 +276,11 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 **Pytanie:** Jaki organ był najwyższą władzą wykonawczą w czasie powstania listopadowego?
 
 **A:** Rada Administracyjna
-**B:** Rząd Narodowy
-**C:** Sejm
-**D:** Rada Najwyższa Narodowa
+**B:** Sejm
+**C:** Rada Najwyższa Narodowa
+**D:** Rząd Narodowy
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Rząd Narodowy był najwyższą władzą wykonawczą powstania listopadowego, powołany 29 stycznia 1831 roku po detronizacji cara. W jego skład wchodzili przedstawiciele różnych frakcji politycznych, w tym Adam Jerzy Czartoryski, Joachim Lelewel i inni. Rząd koordynował działania wojenne, politykę zagraniczną i sprawy wewnętrzne.
 
@@ -288,7 +288,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Rz%C4%85d_Narodowy_(1831)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Rada Administracyjna istniała przed wybuchem powstania
 - Sejm był władzą ustawodawczą
 - Rada Najwyższa Narodowa była tymczasowym organem
@@ -313,7 +313,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konstytucja_Kr%C3%B3lestwa_Polskiego_(1815)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Konstytucja 3 maja została uchwalona w 1791 roku
 - Konstytucja Księstwa Warszawskiego obowiązywała w latach 1807-1815
 - Statut Organiczny został wprowadzony po klęsce powstania
@@ -339,7 +339,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Towarzystwo_Patriotyczne_(1830%E2%80%931831)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wolnomularstwo Narodowe działało wcześniej
 - Związek Wolnych Polaków działał na emigracji
 - Sprzysiężenie Wysockiego było grupą inicjatorów powstania
@@ -365,9 +365,9 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Obrona_Woli_(1831)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - 25 lutego była bitwa o Olszynkę Grochowską
-- 26 maja była bitwa pod Ostrołenką
+- 26 maja była bitwa pod Ostrołęką
 - 21 października skapitulowała twierdza Zamość
 
 ---
@@ -379,11 +379,11 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 **Pytanie:** Jakie zmiany wprowadzono w Królestwie Polskim po klęsce powstania w ramach rusyfikacji?
 
 **A:** Zniesiono język polski w urzędach i szkołach
-**B:** Wprowadzono język rosyjski do administracji i szkolnictwa
-**C:** Wprowadzono język niemiecki jako urzędowy
-**D:** Zniesiono wszystkie szkoły
+**B:** Wprowadzono język niemiecki jako urzędowy
+**C:** Zniesiono wszystkie szkoły
+**D:** Wprowadzono język rosyjski do administracji i szkolnictwa
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Po klęsce powstania Rosjanie rozpoczęli systematyczną rusyfikację Królestwa Polskiego. Wprowadzono język rosyjski do administracji i szkolnictwa, zamknięto polskie uczelnie, obniżono jakość szkolnictwa średniego. Polacy byli stopniowo usuwani z urzędów, a rosyjscy urzędnicy zajmowali ich miejsca. Celem było zintegrowanie Królestwa z imperium rosyjskim.
 
@@ -391,7 +391,7 @@ Skutkiem klęski była całkowita likwidacja autonomii Królestwa Polskiego. W 1
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Rusyfikacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Język polski nie został natychmiast zniesiony
 - Język niemiecki nie był wprowadzany
 - Szkoły nie zostały zniesione, tylko zrusyfikowane

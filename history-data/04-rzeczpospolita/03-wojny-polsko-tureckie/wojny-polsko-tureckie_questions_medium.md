@@ -53,11 +53,11 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 **Pytanie:** Jakie postanowienia zawierał upokarzający traktat w Buczaczu z 1672 roku?
 
 **A.** Rzeczpospolita traciła Ukrainę na rzecz Rosji
-**B.** Turcja otrzymała Podole z Kamieńcem i część Ukrainy oraz haracz
+**B.** Wymieniono jeńców wojennych i ustalono rozejm
 **C.** Polska zrzekła się praw do Mołdawii i Wołoszczyzny
-**D.** Wymieniono jeńców wojennych i ustalono rozejm
+**D.** Turcja otrzymała Podole z Kamieńcem i część Ukrainy oraz haracz
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Traktat buczacki z 1672 roku był bardzo krzywdzący dla Polski. Rzeczpospolita oddawała Turcji Podole z Kamieńcem Podolskim oraz część prawobrzeżnej Ukrainy. Zobowiązywała się także do płacenia rocznego haraczu w wysokości 22 tysięcy dukatów. Sejm nie ratyfikował tego traktatu.
 
@@ -66,8 +66,8 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 
 **Incorrect answers analysis:**
 - A. Trata Ukrainy na rzecz Rosji — Rosja nie była stroną konfliktu, Ukraina została przejściowo utracona dla Turcji
+- B. Wymiana jeńców — byłoby to korzystne dla Polski, a traktat był bardzo niekorzystny
 - C. Zrzeczenie się praw do Mołdawii — Rzeczpospolita i tak nie miała kontroli nad Mołdawią od 1617 roku
-- D. Wymiana jeńców — byłoby to korzystne dla Polski, a traktat był bardzo niekorzystny
 
 ---
 
@@ -77,11 +77,11 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 **Pytanie:** Kto dowodził polską armią w zwycięskiej bitwie pod Chocimiem 11 listopada 1673 roku?
 
 **A.** Michał Korybut Wiśniowiecki
-**B.** Jan III Sobieski (jako hetman wielki koronny)
-**C.** Stanisław Jabłonowski
-**D.** Andrzej Potocki
+**B.** Stanisław Jabłonowski
+**C.** Andrzej Potocki
+**D.** Jan III Sobieski (jako hetman wielki koronny)
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Bitwę pod Chocimiem w 1673 roku wygrał hetman wielki koronny Jan Sobieski (przyszły król Jan III). Było to jedno z największych zwycięstw polskich oręża nad wojskami tureckimi. Pomógł mu w tym fakt, że sułtan był chory i nie dowodził osobiście armią.
 
@@ -90,8 +90,8 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 
 **Incorrect answers analysis:**
 - A. Michał Korybut Wiśniowiecki — był królem Polski, ale nie dowodził armią w polu
-- C. Stanisław Jabłonowski — wojewoda ruski, walczył w tej wojnie, ale nie był głównym dowódcą
-- D. Andrzej Potocki — brał udział w bitwie, ale nie był naczelnym wodzem
+- B. Stanisław Jabłonowski — wojewoda ruski, walczył w tej wojnie, ale nie był głównym dowódcą
+- C. Andrzej Potocki — brał udział w bitwie, ale nie był naczelnym wodzem
 
 ---
 
@@ -149,11 +149,11 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 **Pytanie:** Jaki był główny cel wojny Turcji na Rzeczpospolitą w 1672 roku?
 
 **A.** Zdobycie dostępu do Morza Bałtyckiego
-**B.** Zajęcie Kamieńca Podolskiego i Podola
-**C.** Podbój całej Polski
-**D.** Wsparcie Kozaków Chmielnickiego
+**B.** Podbój całej Polski
+**C.** Wsparcie Kozaków Chmielnickiego
+**D.** Zajęcie Kamieńca Podolskiego i Podola
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Głównym celem Turcji było zajęcie Kamieńca Podolskiego i Podola – strategicznych terenów na południowych kresach Rzeczypospolitej. Turcja dążyła do wzmocnienia swojej pozycji w regionie i kontroli nad księstwami naddunajskimi. Oficjalnym pretekstem była sprawa Piotra Doroszenki.
 
@@ -162,8 +162,8 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 
 **Incorrect answers analysis:**
 - A. Dostęp do Bałtyku — Turcja nie miała ambic bałtyckich, leżało too daleko
-- C. Podbój całej Polski — był to cel zbyt ambitny, Turcja dążyła do zajęcia jedynie Podola
-- D. Wsparcie Chmielnickiego — powstanie Chmielnickiego wybuchło wcześniej, w połowie XVII wieku
+- B. Podbój całej Polski — był to cel zbyt ambitny, Turcja dążyła do zajęcia jedynie Podola
+- C. Wsparcie Chmielnickiego — powstanie Chmielnickiego wybuchło wcześniej, w połowie XVII wieku
 
 ---
 
@@ -221,11 +221,11 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 **Pytanie:** Co oznaczało pojęcie "haracz" w kontekście traktatu buczackiego z 1672 roku?
 
 **A.** Wymianę jeńców wojennych
-**B.** Okresową opłatę za pokój
-**C.** Oddanie terytorium
-**D.** Współpracę wojskową z Turcją
+**B.** Oddanie terytorium
+**C.** Współpracę wojskową z Turcją
+**D.** Okresową opłatę za pokój
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Haracz to coroczna opłata, którą Rzeczpospolita miała płacić Turcji w zamian za pokój. W traktacie buczackim ustalono ją na 22 tysiące dukatów rocznie. Było to upokarzające zobowiązanie, które podkreślało słabość Polski.
 
@@ -234,8 +234,8 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 
 **Incorrect answers analysis:**
 - A. Wymiana jeńców — była to osobna kwestia, niezwiązana z haraczem
-- C. Oddanie terytorium — traktat przewidywał zarówno oddanie terytorium, jak i haracz
-- D. Współpraca wojskowa — Polska nie była zobowiązana do pomocy wojskowej Turcji
+- B. Oddanie terytorium — traktat przewidywał zarówno oddanie terytorium, jak i haracz
+- C. Współpraca wojskowa — Polska nie była zobowiązana do pomocy wojskowej Turcji
 
 ---
 
@@ -245,11 +245,11 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 **Pytanie:** Jak nazywała się koalicja państw chrześcijańskich utworzona po zwycięstwie pod Wiedniem do walki z Turcją?
 
 **A.** Liga Święta
-**B.** Święta Liga
-**C.** Sojusz Wiedeński
-**D.** Koalicja Antyturecka
+**B.** Sojusz Wiedeński
+**C.** Koalicja Antyturecka
+**D.** Święta Liga
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Święta Liga została utworzona w 1684 roku po zwycięstwie wiedeńskim. W jej skład weszły: Rzeczpospolita, Cesarstwo (Austria), Wenecja i później Rosja. Celem Ligi było wyparcie Turków z Europy. Działała do 1699 roku.
 
@@ -258,8 +258,8 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 
 **Incorrect answers analysis:**
 - A. Liga Święta — podobna nazwa, ale historycznie poprawna jest "Święta Liga"
-- C. Sojusz Wiedeński — taki twór nie istniał w historii
-- D. Koalicja Antyturecka — nazwa opisowa, nieoficjalna
+- B. Sojusz Wiedeński — taki twór nie istniał w historii
+- C. Koalicja Antyturecka — nazwa opisowa, nieoficjalna
 
 ---
 
@@ -316,12 +316,12 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 
 **Pytanie:** W którym roku zawarto pokój w Karłowicach, kończąc wojny polsko-tureckie?
 
-**A.** 1683
-**B.** 1699
-**C.** 1672
+**A.** 1672
+**B.** 1683
+**C.** 1699
 **D.** 1700
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Pokój w Karłowicach podpisano w 1699 roku. Zakończył on wieloletnie wojny polsko-tureckie i przywrócił Rzeczypospolitej utracone terytoria, w tym Kamieniec Podolski i Podole.
 
@@ -329,8 +329,8 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-tureckie
 
 **Incorrect answers analysis:**
-- A. 1683 — rok bitwy pod Wiedniem, nie pokoju
-- C. 1672 — rok wybuchu wojny i zajęcia Kamieńca Podolskiego przez Turków
+- A. 1672 — rok wybuchu wojny i zajęcia Kamieńca Podolskiego przez Turków
+- B. 1683 — rok bitwy pod Wiedniem, nie pokoju
 - D. 1700 — rok po podpisaniu pokoju w Karłowicach
 
 ---
@@ -390,10 +390,10 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 
 **A.** Jan III Sobieski
 **B.** Stanisław Żółkiewski
-**C.** Jan Karol Chodkiewicz
-**D.** Stanisław Koniecpolski
+**C.** Stanisław Koniecpolski
+**D.** Jan Karol Chodkiewicz
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Hetman wielki litewski Jan Karol Chodkiewicz dowodził obroną Chocimia w 1621 roku. Zmarł 24 września podczas oblężenia, jednak polska armia odegrała zwycięską rolę, zmuszając Turków do rozejmu.
 
@@ -403,6 +403,6 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły okres intensywnych zmagań z
 **Incorrect answers analysis:**
 - A. Jan III Sobieski — był młodym żołnierzem w 1621 roku, hetmanem został znacznie później
 - B. Stanisław Żółkiewski — zginął w bitwie pod Cecorą rok przed obroną Chocimia
-- D. Stanisław Koniecpolski — walczył pod Cecorą i dostał się do tureckiej niewoli
+- C. Stanisław Koniecpolski — walczył pod Cecorą i dostał się do tureckiej niewoli
 
 ---

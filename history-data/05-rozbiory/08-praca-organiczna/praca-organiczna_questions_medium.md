@@ -43,7 +43,7 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - August Cieszkowski — wyjaśnił podstawy pojęcia w dziele "Prolegomena do historiozofii" (1838)
 - Karol Marcinkowski — praktyk, działał w późniejszym okresie
 - Dezydery Chłapowski — pionier praktyczny, ale nie twórca terminu
@@ -56,22 +56,22 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 
 **Pytanie:** Jaki był główny cel powstania bibliotek ludowych i kółek rolniczych w ramach pracy organicznej?
 
-**A)** Organizacja powstań antyzaborczych
-**B)** Edukacja i umacnianie świadomości narodowej chłopów
+**A)** Edukacja i umacnianie świadomości narodowej chłopów
+**B)** Organizacja powstań antyzaborczych
 **C)** Gromadzenie zbiorów muzealnych
 **D)** Wspieranie kandydatów do parlamentu
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Głównym celem bibliotek ludowych i kółek rolniczych była edukacja społeczeństwa, szczególnie chłopów, oraz umacnianie ich świadomości narodowej i gospodarczej. To tworzyło fundamenty nowoczesnego społeczeństwa obywatelskiego.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
-- Powstania — praca organiczna odrzucała zrywy zbrojne
-- Muzea — nie były głównym celem tych organizacji
-- Parlament — działalność polityczna nie była priorytetem
+**Analiza odpowiedzi błędnych:**
+- Organizacja powstań — praca organiczna odrzucała zrywy zbrojne
+- Gromadzenie zbiorów muzealnych — nie były głównym celem tych organizacji
+- Wspieranie kandydatów do parlamentu — działalność polityczna nie była priorytetem
 
 ---
 
@@ -93,10 +93,10 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zysk polityczny — nie ubiegał się o stanowiska
 - Charytatywność — działania miały charakter systemowy, nie doraźny
-- Lojalność — działał na rzecz polskości, przeciwko germanizacji
+- Lojalność wobec władz zaborczych — działał na rzecz polskości, przeciwko germanizacji
 
 ---
 
@@ -111,17 +111,17 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **C)** Na skutek presji ekonomicznej zaborców
 **D)** Ze względu na poparcie władz zaborczych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Po klęsce powstania styczniowego władze rosyjskie zastosowały bardzo surowe represje — ok. 40 tys. uczestników zesłano na Sybir, skonfiskowano prawie 3 tys. majątków. To przekonało wielu, że na razie trzeba zrezygnować ze zrywów zbrojnych.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281831%E2%80%931914%29
 
-**Analiza niepoprawnych odpowiedzi:**
-- Brak przywódców — przywódcy istnieli, ale zmienili strategię
-- Presja ekonomiczna — była obecna, ale nie głównym czynnikiem
-- Poparcie władz — władze wręcz przeciwnie, utrudniały działalność
+**Analiza odpowiedzi błędnych:**
+- Brak przywódców politycznych — przywódcy istnieli, ale zmienili strategię
+- W wyniku surowych represji i utraty nadziei na zrywy niepodległościowe — to był główny powód
+- Na skutek presji ekonomicznej zaborców — presja była obecna, ale nie głównym czynnikiem
 
 ---
 
@@ -131,22 +131,22 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 
 **Pytanie:** Co pozytywiści rozumieli przez "rozumny egoizm"?
 
-**A)** Dbałość tylko o własny interes bez myślenia o innych
-**B)** Pomnażanie majątku osobistego, co służyło całemu społeczeństwu
+**A)** Pomnażanie majątku osobistego, co służyło całemu społeczeństwu
+**B)** Dbałość tylko o własny interes bez myślenia o innych
 **C)** Lojalność wobec zaborcy w zamian za przywileje
 **D)** Unikanie zaangażowania w sprawy publiczne
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** "Rozumny egoizm" oznaczał pomnażanie osobistego majątku i tworzenie miejsc pracy dla uboższych. Bogacenie się jednostek służyło rozwojowi całego społeczeństwa, co było fundamentem pracy organicznej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
-- Tylko własny interes — to byłby egoizm, nie "rozumny egoizm"
-- Lojalność — praca organiczna miała wzmocnić polskość, nie poddać się zaborcy
-- Unikanie spraw publicznych — organicznicy byli bardzo aktywni społecznie
+**Analiza odpowiedzi błędnych:**
+- Dbałość tylko o własny interes bez myślenia o innych — to byłby egoizm, nie "rozumny egoizm"
+- Lojalność wobec zaborcy w zamian za przywileje — praca organiczna miała wzmocnić polskość, nie poddać się zaborcy
+- Unikanie zaangażowania w sprawy publiczne — organicznicy byli bardzo aktywni społecznie
 
 ---
 
@@ -161,17 +161,17 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **C)** Zwiększyła podatki dla polskich rolników
 **D)** Wprowadziła przymusową germanizację wsi
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Reforma agrarna uwłaszczyła chłopów, co zmniejszyło tarcia między szlachtą a chłopstwem. To umożliwiło współpracę różnych warstw społecznych na rzecz rozwoju gospodarczego i narodowego.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
-- Likwidacja gospodarstw — reforma wręcz przeciwnie, wzmocniła chłopów
-- Podatki — reforma była korzystna dla chłopów
-- Germanizacja — to był oddzielny proces, nie część reformy
+**Analiza odpowiedzi błędnych:**
+- Zlikwidowała polskie gospodarstwa — reforma wręcz przeciwnie, wzmocniła chłopów
+- Zwiększyła podatki dla polskich rolników — reforma była korzystna dla chłopów
+- Wprowadziła przymusową germanizację wsi — to był oddzielny proces, nie część reformy
 
 ---
 
@@ -193,10 +193,10 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
-- Hotel dla gości — funkcja hotelowa była uboczna
-- Konkurowanie — nie było głównym celem
-- Spekulacja — działalność miała charakter narodowy, nie spekulacyjny
+**Analiza odpowiedzi błędnych:**
+- Budowa hotelu dla gości z zagranicy — funkcja hotelowa była uboczna
+- Konkurowanie z niemieckimi firmami — nie było głównym celem
+- Spekulacja nieruchomościami — działalność miała charakter narodowy, nie spekulacyjny
 
 ---
 
@@ -211,17 +211,17 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **C)** Ze względu na brak tradycji powstańczych
 **D)** Na skutek lepszych warunków ekonomicznych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** W zaborze pruskim wcześniejsza reforma agrarna (1811–1823) i powszechne szkolnictwo stworzyły sprzyjające warunki. Dodatkowo reakcja na politykę germanizacji (Kulturkampf, Hakata) motywowała do obrony polskości poprzez pracę u podstaw.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
-- Tolerancja władz — władze pruskie prowadziły politykę germanizacji
-- Brak tradycji — tradycje powstańcze istniały
-- Warunki ekonomiczne — nie były lepsze, wręcz przeciwnie
+**Analiza odpowiedzi błędnych:**
+- Z powodu największej tolerancji władz pruskich — władze pruskie prowadziły politykę germanizacji
+- Dzięki wcześniejszej reformie agrarnej i szkolnictwu, a także w reakcji na germanizację — to był główny powód
+- Ze względu na brak tradycji powstańczych — tradycje powstańcze istniały
 
 ---
 
@@ -236,17 +236,17 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **C)** Działacz polityczny walczący w parlamencie
 **D)** Intelektualista organizujący biblioteki
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Michał Drzymała był chłopem, który w odpowiedzi na odmowę pozwolenia na budowę domu od władz pruskich, zamieszkał w wędrownym wagonie. Jego sprawa stała się symbolem oporu przeciw germanizacji i zwycięstwa polskiej determinacji.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
-- Odmowa sprzedaży — to prawda, ale nie klucz sprawy
-- Działacz parlamentarny — nie był politykiem
-- Intelektualista — był prostym chłopem
+**Analiza odpowiedzi błędnych:**
+- Chłop, który zbudował wędrowny wagon, by ominąć pruskie prawo — to była kluczowa sprawa
+- Działacz polityczny walczący w parlamencie — nie był politykiem
+- Intelektualista organizujący biblioteki — był prostym chłopem
 
 ---
 
@@ -261,17 +261,17 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **C)** Zmusiła władze zaborcze do legalizacji partii
 **D)** Spowodowała rozłam w społeczeństwie polskim
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Praca organiczna, poprzez rozwój gospodarczy, oświaty i organizacji społecznych, stworzyła warstwę inteligencji, burżuazji i świadomego chłopstwa, które stały się bazą dla nowoczesnych ruchów politycznych (socjalizm, ruch ludowy, ruch narodowy).
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281831%E2%80%931914%29
 
-**Analiza niepoprawnych odpowiedzi:**
-- Zastopowała — wręcz przeciwnie, przyspieszyła rozwój
-- Legalizacja — partie powstały głównie pod koniec XIX wieku
-- Rozłam — ruch scalał różne warstwy społeczne
+**Analiza odpowiedzi błędnych:**
+- Zastopowała rozwój ruchów politycznych — wręcz przeciwnie, przyspieszyła rozwój
+- Zmusiła władze zaborcze do legalizacji partii — partie powstały głównie pod koniec XIX wieku
+- Spowodowała rozłam w społeczeństwie polskim — ruch scalał różne warstwy społeczne
 
 ---
 
@@ -293,10 +293,10 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
-- Wystawy — tylko jeden element
-- Biblioteki — tylko jeden element
-- Gazety — tylko jeden element
+**Analiza odpowiedzi błędnych:**
+- Poprzez organizację wystaw i przedstawień — tylko jeden element
+- Dzięki zakładaniu bibliotek, teatrów i organizacji kulturowych — tylko jeden element
+- Poprzez wydawanie gazet w języku polskim — tylko jeden element
 
 ---
 
@@ -318,10 +318,10 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281831%E2%80%931914%29
 
-**Analiza niepoprawnych odpowiedzi:**
-- Tylko zaborze rosyjskim — oba ruchy istniały we wszystkich zaborach
-- Ruch polityczny — praca organiczna unikała polityki
-- Starszy — oba ruchy rozwijały się równolegle
+**Analiza odpowiedzi błędnych:**
+- Praca organiczna działała tylko w zaborze rosyjskim — oba ruchy istniały we wszystkich zaborach
+- Praca organiczna była ruchem politycznym — praca organiczna unikała polityki
+- Trójlojalizm był starszy od pracy organicznej — oba ruchy rozwijały się równolegle
 
 ---
 

@@ -25,12 +25,12 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Kto był Naczelnym Wodzem Wojska Polskiego podczas wojny polsko-bolszewickiej?
 
-**A:** Józef Piłsudski
-**B:** Władysław Sikorski
-**C:** Józef Haller
-**D:** Tadeusz Rozwadowski
+**A:** gen. Władysław Sikorski
+**B:** gen. Józef Haller
+**C:** gen. Tadeusz Rozwadowski
+**D:** gen. Józef Piłsudski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Józef Piłsudski był Naczelnym Wodzem Wojska Polskiego podczas wojny polsko-bolszewickiej. To on opracował koncepcję kontruderzenia znad Wieprza, które doprowadziło do zwycięstwa w bitwie warszawskiej.
 
@@ -38,9 +38,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka
 
 **Analiza odpowiedzi niepoprawnych:**
-- Władysław Sikorski dowodził 5 Armią, która broniła odcinka północnego od Warszawy
-- Józef Haller był dowódcą Frontu Północnego
-- Tadeusz Rozwadowski był szefem Sztabu Generalnego i wspólnie z Piłsudskim opracował plan bitwy warszawskiej
+- gen. Władysław Sikorski dowodził 5 Armią, która broniła odcinka północnego od Warszawy
+- gen. Józef Haller był dowódcą Frontu Północnego
+- gen. Tadeusz Rozwadowski był szefem Sztabu Generalnego i wspólnie z Piłsudskim opracował plan bitwy warszawskiej
 
 ---
 
@@ -75,7 +75,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Nad którą rzeką zostały skoncentrowane wojska polskie przed kontruderzeniem na Armię Czerwoną?
 
-**A:** Nad Wisłą
+**A:** nad Wisłą
 **B:** nad Wkrą
 **C:** nad Wieprzem
 **D:** nad Bugiem
@@ -100,10 +100,10 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** W którym mieście został podpisany traktat pokojowy kończący wojnę polsko-bolszewicką?
 
-**A:** Warszawa
-**B:** Kijów
-**C:** Ryga
-**D:** Mińsk
+**A:** w Warszawie
+**B:** w Kijowie
+**C:** w Rydze
+**D:** w Mińsku
 
 **Poprawna odpowiedź:** C
 
@@ -113,9 +113,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)
 
 **Analiza odpowiedzi niepoprawnych:**
-- Warszawa była stolicą Polski, ale nie tam odbyły się rokowania
-- Kijów był miastem, które polskie wojska zajęły podczas wyprawy kijowskiej
-- Mińsk był miastem, w którym początkowo prowadzono rokowania, ale przeniesiono je do Rygi
+- w Warszawie była stolicą Polski, ale nie tam odbyły się rokowania
+- w Kijowie był miastem, które polskie wojska zajęły podczas wyprawy kijowskiej
+- w Mińsku był miastem, w którym początkowo prowadzono rokowania, ale przeniesiono je do Rygi
 
 ---
 
@@ -126,11 +126,11 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Pytanie:** Kto dowodził Frontem Zachodnim Armii Czerwonej podczas wojny polsko-bolszewickiej?
 
 **A:** Siergiej Kamieniew
-**B:** Michaił Tuchaczewski
-**C:** Siemion Budionny
-**D:** Aleksandr Jegorow
+**B:** Siemion Budionny
+**C:** Aleksandr Jegorow
+**D:** Michaił Tuchaczewski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Michaił Tuchaczewski dowodził Frontem Zachodnim Armii Czerwonej, który nacierał na Warszawę. Jego wojska zostały rozbite podczas bitwy warszawskiej w sierpniu 1920 roku.
 
@@ -175,10 +175,10 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Który polski generał był szefem Sztabu Generalnego i współautorem planu bitwy warszawskiej?
 
-**A:** Józef Haller
-**B:** Władysław Sikorski
-**C:** Tadeusz Rozwadowski
-**D:** Franciszek Latinik
+**A:** gen. Józef Haller
+**B:** gen. Władysław Sikorski
+**C:** gen. Tadeusz Rozwadowski
+**D:** gen. Franciszek Latinik
 
 **Poprawna odpowiedź:** C
 
@@ -188,9 +188,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
 **Analiza odpowiedzi niepoprawnych:**
-- Józef Haller dowodził Frontem Północnym
-- Władysław Sikorski był dowódcą 5 Armii
-- Franciszek Latinik był dowódcą 1 Armii broniącej przedmościa warszawskiego
+- gen. Józef Haller dowodził Frontem Północnym
+- gen. Władysław Sikorski był dowódcą 5 Armii
+- gen. Franciszek Latinik był dowódcą 1 Armii broniącej przedmościa warszawskiego
 
 ---
 
@@ -200,10 +200,10 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Który polski generał dowodził 5 Armią, która odegrała kluczową rolę w walkach nad Wkrą?
 
-**A:** Józef Haller
-**B:** Władysław Sikorski
-**C:** Edward Rydz-Śmigły
-**D:** Stanisław Haller
+**A:** gen. Józef Haller
+**B:** gen. Władysław Sikorski
+**C:** gen. Edward Rydz-Śmigły
+**D:** gen. Stanisław Haller
 
 **Poprawna odpowiedź:** B
 
@@ -213,9 +213,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
 **Analiza odpowiedzi niepoprawnych:**
-- Józef Haller był dowódcą Frontu Północnego
-- Edward Rydz-Śmigły dowodził Frontem Środkowym
-- Stanisław Haller nie był głównym dowódcą w tej wojnie
+- gen. Józef Haller był dowódcą Frontu Północnego
+- gen. Edward Rydz-Śmigły dowodził Frontem Środkowym
+- gen. Stanisław Haller nie był głównym dowódcą w tej wojnie
 
 ---
 
@@ -225,12 +225,12 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** W którym miesiącu 1920 roku rozpoczęła się decydująca bitwa warszawska?
 
-**A:** Lipiec
-**B:** Sierpień
-**C:** Wrzesień
-**D:** Czerwiec
+**A:** Czerwiec
+**B:** Lipiec
+**C:** Sierpień
+**D:** Wrzesień
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Bitwa warszawska rozpoczęła się 13 sierpnia 1920 roku od gwałtownego natarcia wojsk radzieckich na Warszawę. Decydujące kontruderzenie polskie znad Wieprza nastąpiło 16 sierpnia.
 
@@ -238,9 +238,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
 **Analiza odpowiedzi niepoprawnych:**
-- Lipiec to miesiąc przed bitwą
-- Wrzesień to miesiąc po bitwie
 - Czerwiec to miesiąc operacji kijowskiej
+- Lipiec to miesiąc przygotowań przed bitwą
+- Wrzesień to miesiąc po bitwie
 
 ---
 

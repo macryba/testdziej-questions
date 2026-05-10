@@ -31,12 +31,12 @@ Kluczowym wydarzeniem było przystąpienie Polski do NATO (1999) i Unii Europejs
 Oceń, w jaki sposób "wojny na szczycie" w latach 90. XX wieku wpłynęły na stabilność systemu politycznego III RP i jakość demokracji w Polsce?
 
 **Odpowiedzi:**
-A. Wzmocniły stabilność systemu politycznego poprzez wypracowanie mechanizmów kompromisu
-B. Osłabiły stabilność systemu politycznego i doprowadziły do polaryzacji sceny politycznej
-C. Nie miały istotnego wpływu na stabilność systemu politycznego
-D. Doprowadziły do jedynie czasowych napięć bez długoterminowych skutków
+A. Doprowadziły jedynie do czasowych napięć bez długoterminowych skutków dla demokracji
+B. Nie miały istotnego wpływu na stabilność systemu politycznego w Polsce
+C. Osłabiły stabilność systemu i doprowadziły do polaryzacji sceny politycznej
+D. Umożliwiły wypracowanie trwałych mechanizmów kompromisu w życiu politycznym
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 "Wojny na szczycie" — konflikty między prezydentem Wałęsą a rządami oraz między głównymi obozami politycznymi — osłabiły stabilność systemu politycznego III RP. Doprowadziły do rosnącej polaryzacji sceny politycznej, upadku rządów i przedterminowych wyborów. Zjawisko to ukształtowało wzorce zachowań politycznych, które przyczyniły się do późniejszej polaryzacji PO-PiS. Zamiast wypracować trwałe mechanizmy kompromisu, "wojny na szczycie" pogłębiły podziały i zmniejszyły zaufanie społeczne do instytucji demokratycznych.
@@ -46,9 +46,9 @@ D. Doprowadziły do jedynie czasowych napięć bez długoterminowych skutków
 - [Konflikty polityczne w III RP](https://pl.wikipedia.org/wiki/Konflikty_polityczne_w_III_RP) —Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- Wzmocniły stabilność —historycznie "wojny na szczycie" doprowadziły do upadku rządów, nie do stabilizacji
-- Nie miały wpływu —badania pokazują, że te konflikty miały istotny wpływ na późniejszą polaryzację
-- Doprowadziły tylko do czasowych napięć —skutki tych konfliktów były długoterminowe i wpłynęły na kształt polskiej demokracji
+- Tylko czasowe napięcia —skutki "wojn na szczycie" były długoterminowe i wpłynęły na kształt polskiej demokracji
+- Nie miały wpływu —badania pokazują, że te konflikty miały istotny wpływ na późniejszą polaryzację polityczną
+- Umożliwiły mechanizmy kompromisu —faktycznie "wojny na szczycie" doprowadziły do upadu rządów, nie do stabilizacji
 
 ---
 
@@ -60,9 +60,9 @@ D. Doprowadziły do jedynie czasowych napięć bez długoterminowych skutków
 Analizując przemiany polityczne III RP w latach 1993-2020, oceń, w jaki sposób integracja z NATO i UE wpłynęła na kierunek transformacji ustrojowej Polski?
 
 **Odpowiedzi:**
-A. Integracja z NATO i UE spowolniła transformację ustrojową z powodu biurokratycznych wymogów
-B. Integracja z NATO i UE przyspieszyła i ukształtowała transformację ustrojową zgodnie ze standardami zachodnimi
-C. Integracja z NATO i UE nie miała istotnego wpływu na transformację ustrojową
+A. Integracja z NATO i UE nie wpłynęła istotnie na kształt transformacji ustrojowej
+B. Integracja z NATO i UE przyspieszyła transformację zgodnie ze standardami zachodnimi
+C. Proces integracji z NATO i UE spowolnił reformy z powodu wymogów biurokratycznych
 D. Integracja z NATO i UE doprowadziła do odejścia od standardów demokratycznych
 
 **Poprawna odpowiedź:** B
@@ -75,9 +75,9 @@ Integracja z NATO (1999) i UE (2004) była kluczowym czynnikiem przyspieszający
 - [Przystąpienie Polski do Unii Europejskiej](https://pl.wikipedia.org/wiki/Przyst%C4%85pienie_Polski_do_Unii_Europejskiej) —Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- Spowolniła transformację —integracja była impulsem do przeprowadzenia reform, nie ich hamulcem
-- Nie miała wpływu —proces akcesyjny wywierał istotną presję na dostosowanie polskiego prawa
-- Odejście od standardów —integracja wymagała przyjęcia standardów demokratycznych, nie od nich odejścia
+- Nie wpłynęła znacząco —proces akcesyjny wywierał istotną presję na dostosowanie polskiego prawa do standardów unijnych
+- Spowolniła reformy —integracja była impulsem do przeprowadzenia reform, a nie ich hamulcem
+- Odejście od standardów —integracja wymagała przyjęcia standardów demokratycznych, a nie od nich odejścia
 
 ---
 
@@ -89,12 +89,12 @@ Integracja z NATO (1999) i UE (2004) była kluczowym czynnikiem przyspieszający
 Oceń, w jaki sposób przemiany polityczne po 2015 roku wpłynęły na relacje między Polską a Unią Europejską i standardy demokratyczne w Polsce?
 
 **Odpowiedzi:**
-A. Przemiany po 2015 roku wzmocniły relacje z UE i podniosły standardy demokratyczne
-B. Przemiany po 2015 roku pogłębiły konflikty z UE i wywołały debatę nad standardami demokratycznymi
-C. Przemiany po 2015 roku nie miały istotnego wpływu na relacje z UE
-D. Przemiany po 2015 roku doprowadziły do odejścia Polski od członkostwa w UE
+A. Przemiany polityczne nie miały istotnego wpływu na relacje z instytucjami europejskimi
+B. Przemiany polityczne doprowadziły do odejścia Polski od członkostwa w Unii
+C. Przemiany polityczne poprawiły relacje z UE i podniosły standardy demokratyczne
+D. Przemiany polityczne zwiększyły napięcia z UE i wywołały debatę nad standardami
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Przemiany polityczne po 2015 roku, kiedy władzę przejęło Prawo i Sprawiedliwość, doprowadziły do pogłębienia konfliktów z Unią Europejską. Reformy wymiaru sprawiedliwości, mediów publicznych i służby cywilnej wywołały krytykę KE i uruchomienie artykułu 7 przeciw Polsce. Pojawiły się zarzuty o naruszanie praworządności (rule of law). Z drugiej strony, zwolennicy zmian argumentowali, że były one konieczne do "dekomunizacji" i reformy państwa. Sprawa ta wywołała ożywioną debatę nad standardami demokratycznymi w Polsce i relacjami z UE.
@@ -105,8 +105,8 @@ Przemiany polityczne po 2015 roku, kiedy władzę przejęło Prawo i Sprawiedliw
 - [Artykuł 7 Traktatu o UE](https://pl.wikipedia.org/wiki/Artyku%C5%82_7_Traktatu_o_ue) —Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- Wzmocniły relacje — faktyczne relacje uległy pogorszeniu, co potwierdzają dokumenty UE
-- Nie miały wpływu —uruchomienie artykułu 7 dowodzi istotnego wpływu na relacje
-- Odejście od członkostwa —Polska nie wystąpiła z UE, mimo konfliktów
+- Nie miały wpływu —uruchomienie artykułu 7 wobec Polski dowodzi istotnego wpływu na relacje z UE
+- Odejście od członkostwa —Polska nie wystąpiła z Unii Europejskiej, mimo trwających konfliktów
+- Poprawiły relacje —faktyczne relacje uległy pogorszeniu, co potwierdzają dokumenty UE i procedury praworządnościowe
 
 ---

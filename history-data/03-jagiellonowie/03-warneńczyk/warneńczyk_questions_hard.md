@@ -28,12 +28,12 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 **Question ID:** Q-WAR-H-001
 **Pytanie:** Oceń decyzję Władysława Warneńczyka o zerwaniu rozejmu w Segedynie (1444) i kontynuowaniu krucjaty antytureckiej. Czy ta decyzja była podyktowana racjonalnymi względami politycznymi, czy presją religijną i dyplomatyczną?
 
-**A.** Decyzja była wyłącznie racjonalna politycznie — zerwanie rozejmu dawało szansę na trwałe powstrzymanie ekspansji tureckiej i wzmocnienie pozycji Polski na arenie międzynarodowej
-**B.** Decyzja była rezultatem presji legata papieskiego Juliana Cesariniego, który obiecał pomoc floty chrześcijańskiej i uznał zerwanie rozejmu za czyn odpustowy, co przeważyło nad racją stanu
+**A.** Decyzja była rezultatem presji legata papieskiego Juliana Cesariniego, który obiecał pomoc floty chrześcijańskiej i uznał zerwanie rozejmu za czyn odpustowy, co przeważyło nad racją stanu
+**B.** Decyzja była wyłącznie racjonalna politycznie — zerwanie rozejmu dawało szansę na trwałe powstrzymanie ekspansji tureckiej i wzmocnienie pozycji Polski na arenie międzynarodowej
 **C.** Decyzja została wymuszona przez opozycję szlachecką, która żądała kontynuowania wojny w celu zdobycia łupów wojennych
 **D.** Decyzja była skutkiem spisku antyjagiellońskiego przygotowywanego przez Habsburgów, którzy chcieli osłabić Polskę
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Decyzja o zerwaniu rozejmu wynikała głównie z presji dyplomatycznej i religijnej ze strony legata papieskiego Juliana Cesariniego. Obietnica pomocy floty chrześcijańskiej (która nie dotarła na czas) oraz argumentacja religijna (święta wojna, odpusty) przeważyły nad ostrożniejszym stanowiskiem części doradców króla, którzy wskazywali na ryzyko i niedostateczne przygotowania. W efekcie prowadziło to do tragedii pod Warną.
 
@@ -42,9 +42,9 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Warn%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (wyłącznie racjonalna) – decyzja nie uwzględniała realiów militarnych i braku realnego wsparcia zachodniego
-- Odpowiedź C (opozycja szlachecka) – polska szlachta nie wywierała presji na kontynuowanie wojny z Turcją
-- Odpowiedź D (spisek Habsburgów) – Habsburgowie byli stroną Elżbiety w wojnie domowej na Węgrzech, ale nie spiskowali przeciw krucjacie
+- Odpowiedź B (wyłącznie racjonalna) – no referenced answer: decyzja nie uwzględniała realiów militarnych i braku realnego wsparcia zachodniego
+- Odpowiedź C (opozycja szlachecka) – no referenced answer: polska szlachta nie wywierała presji na kontynuowanie wojny z Turcją
+- Odpowiedź D (spisek Habsburgów) – no referenced answer: Habsburgowie byli stroną Elżbiety w wojnie domowej na Węgrzech, ale nie spiskowali przeciw krucjacie
 
 ---
 
@@ -67,9 +67,9 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 - https://pl.wikipedia.org/wiki/Zbigniew_Ole%C5%9Bnicki
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (bezwnzględny dyktator) – Oleśnicki dążył do stabilizacji państwa, a nie do osobistej władzy absolutnej
-- Odpowiedź C (agent Habsburgów) – Oleśnicki sprzeciwiał się kandydaturze Albrechta Habsburga na tron czeski w 1438
-- Odpowiedź D (marionetka Zofii) – to Oleśnicki dominował w Radzie Opiekuńczej i zwalczał stronnictwo królowej Zofii
+- Odpowiedź A (bezwnzględny dyktator) – no referenced answer: Oleśnicki dążył do stabilizacji państwa, a nie do osobistej władzy absolutnej
+- Odpowiedź C (agent Habsburgów) – no referenced answer: Oleśnicki sprzeciwiał się kandydaturze Albrechta Habsburga na tron czeski w 1438
+- Odpowiedź D (marionetka Zofii) – no referenced answer: to Oleśnicki dominował w Radzie Opiekuńczej i zwalczał stronnictwo królowej Zofii
 
 ---
 
@@ -79,11 +79,11 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 **Pytanie:** Analizując skutki bitwy pod Warną (1444) i śmierci Władysława Warneńczyka, ocenić jak ta klęska wpłynęła na dalsze losy dynastii jagiellońskiej oraz pozycję Polski i Węgier w Europie Środkowej.
 
 **A.** Klęska pod Warną zakończyła epokę dominacji Jagiellonów w Europie i doprowadziła do trwałego osłabienia Polski, która utraciła wpływy na Węgrzech i Bałkanach
-**B.** Mimo tragicznej śmierci Warneńczyka, dynastia jagiellońska przetrwała i odżyła za panowania Kazimierza Jagiellończyka, a Polska i Węgry rozwijały się oddzielnie, ale Jagiellonowie rządzili jeszcze przez ponad 150 lat
-**C.** Klęska pod Warną przyczyniła się do wzmocnienia pozycji Polski, ponieważ Kazimierz Jagiellończyk mógł skoncentrować się na reformach wewnętrznych i unii z Litwą
-**D.** Bitwa pod Warną nie miała znaczenia dla dziejów Polski, ponieważ decydujące były późniejsze wydarzenia, takie jak unia lubelska z 1569 roku
+**B.** Klęska pod Warną przyczyniła się do wzmocnienia pozycji Polski, ponieważ Kazimierz Jagiellończyk mógł skoncentrować się na reformach wewnętrznych i unii z Litwą
+**C.** Bitwa pod Warną nie miała znaczenia dla dziejów Polski, ponieważ decydujące były późniejsze wydarzenia, takie jak unia lubelska z 1569 roku
+**D.** Mimo tragicznej śmierci Warneńczyka, dynastia jagiellońska przetrwała i odżyła za panowania Kazimierza Jagiellończyka, a Polska i Węgry rozwijały się oddzielnie, ale Jagiellonowie rządzili jeszcze przez ponad 150 lat
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Śmierć Władysława Warneńczyka była poważnym ciosem dla dynastii jagiellońskiej i pozycji Polski na arenie międzynarodowej. Strata tronu węgierskiego oznaczała koniec koncepcji unii personalnej między Polską a Węgrami i osłabił pozycję Jagiellonów w Europie. Jednakże dynastia przetrwała i odżyła za panowania Kazimierza Jagiellończyka (1447-1492), który skutecznie rządził Polską i Litwą. Jagiellonowie panowali jeszcze przez ponad 150 lat (do 1572 roku), a ich linie rządziły w Czechach i na Węgrzech aż do XVII wieku. Klęska pod Warną była więc poważnym, ale nie katastrofalnym ciosem.
 
@@ -93,8 +93,8 @@ Władysław III Warneńczyk (1424-1444) panował w trudnym okresie dla Polski i 
 - https://pl.wikipedia.org/wiki/Dynastia_jagiello%C5%84ska
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (koniec dominacji) — Jagiellonowie rządzili jeszcze przez 128 lat i rozciągnęli swoje panowanie na Czechy i Węgry
-- Odpowiedź C (wzmocnienie Polski) — śmierć króla i bezkrólewie osłabiły pozycję Polski w Europie
-- Odpowiedź D (brak znaczenia) — bitwa miała znaczenie strategiczne i polityczne dla całej regionu
+- Odpowiedź A (koniec dominacji) – incorrect from Kazimierz Jagiellończyk chapter: Jagiellonowie rządzili jeszcze przez 128 lat i rozciągnęli swoje panowanie na Czechy i Węgry
+- Odpowiedź B (wzmocnienie Polski) – no referenced answer: śmierć króla i bezkrólewie osłabiły pozycję Polski w Europie
+- Odpowiedź C (brak znaczenia) – incorrect from Unia lubelska chapter: bitwa miała znaczenie strategiczne i polityczne dla całego regionu, choć unia lubelska z 1569 roku była późniejszym wydarzeniem
 
 ---

@@ -25,12 +25,12 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 
 **Pytanie:** Jakie znaczenie miał drugi pokój toruński (1466) dla rozwoju polskiej szkoły prawa międzynarodowego w XV wieku?
 
-**A.** Był pierwszym w historii traktatem pokojowym w Europie
-**B.** Zawierał nowatorskie postanowienia dotyczące hołdu lennego i zwierzchnictwa, które wpłynęły na późniejsze praktyki dyplomatyczne
-**C.** Zlikwidował pojęcie lennictwa w Europie Środkowej
-**D.** Nie miał znaczenia dla prawa międzynarodowego
+**A.** Zawierał nowatorskie postanowienia dotyczące hołdu lennego i zwierzchnictwa, które wpłynęły na późniejsze praktyki dyplomatyczne
+**B.** Nie miał znaczenia dla prawa międzynarodowego
+**C.** Był pierwszym w historii traktatem pokojowym w Europie
+**D.** Zlikwidował pojęcie lennictwa w Europie Środkowej
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Drugi pokój toruński był ważnym osiągnięciem dyplomatycznym Polski. Postanowienia dotyczące hołdu lennego, zwierzchnictwa i gwarancji terytorialnych były nowatorskie jak na XV wiek i wpłynęły na rozwój polskiej szkoły prawa międzynarodowego, która zajmowała się relacjami między państwami.
 
@@ -38,10 +38,10 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 - https://pl.wikipedia.org/wiki/Polska_szko%C5%82a_prawa_mi%C4%99dzynarodowego
 
-**Analiza niepoprawnych odpowiedzi:**
-- Nie był to pierwszy traktat pokojowy w Europie
-- Nie zlikwidował lennictwa, tylko uregulował konkretne relacje
-- Miał istotne znaczenie dla rozwoju prawa międzynarodowego
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Nie miał znaczenia) – to twierdzenie jest fałszywe; drugi pokój toruński miał fundamentalne znaczenie dla rozwoju polskiej szkoły prawa międzynarodowego, wprowadzając nowatorskie rozwiązania dyplomatyczne
+- Odpowiedź C (Był pierwszym traktatem) – no referenced answer: to twierdzenie jest historycznie błędne, ponieważ w Europie zawierano traktaty pokojowe już od starożytności (np. pokój westfalski z 1648 roku, pokój w Kallisz z 1334 roku)
+- Odpowiedź D (Zlikwidował lennictwo) – incorrect from same chapter: pokój toruński nie zlikwidował instytucji lennictwa w Europie Środkowej, lecz uregulował konkretne relacje lenne między Polską a Zakonem Krzyżackim
 
 ---
 
@@ -51,9 +51,9 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 
 **Pytanie:** Jak ocenić wojnę trzynastoletnią w kontekście polityki dynastycznej Jagiellonów w XV wieku?
 
-**A.** Była sprzeczna z polityką Jagiellonów, którzy preferowali ekspansję na wschód
+**A.** Była samowolą Kazimierza IV bez poparcia dynastii
 **B.** Stanowiła kontynuację polityki Władysława Jagiełły zmierzającej do osłabienia zakonu krzyżackiego i wzmocnienia pozycji Polski nad Bałtykiem
-**C.** Była samowolą Kazimierza IV bez poparcia dynastii
+**C.** Była sprzeczna z polityką Jagiellonów, którzy preferowali ekspansję na wschód
 **D.** Zakończyła okres panowania Jagiellonów w Polsce
 
 **Poprawna odpowiedź:** B
@@ -64,10 +64,10 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Polityka_dynastyczna_Jagiellon%C3%B3w
 
-**Analiza niepoprawnych odpowiedzi:**
-- Była zgodna z polityką Jagiellonów wobec zakonu
-- Miała poparcie szlachty i elit, nie była samowolą
-- Jagiellonowie pozostali przy władzy do 1572 roku
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Była samowolą) – incorrect from same chapter: wojna trzynastoletnia nie była samowolą Kazimierza IV, lecz miała poparcie szlachty polskiej i elit oraz stanowiła realizację polityki dynastycznej Jagiellonów
+- Odpowiedź C (Sprzeczna z polityką) – no referenced answer: to twierdzenie jest błędne, ponieważ wojna trzynastoletnia była całkowicie zgodna z polityką Jagiellonów wobec zakonu krzyżackiego; ekspansja na wschód dotyczyła głównie Litwy, a relacje z zakonem krzyżackim stanowiły odrębny kierunek polityki
+- Odpowiedź D (Zakończyła panowanie) – incorrect from Rozbicie dzielnicowe/Unia krewska: to twierdzenie jest fałszywe; dynastia Jagiellonów panowała w Polsce do 1572 roku (śmierć Zygmunta II Augusta), a wojna trzynastoletnia (1454-1466) wzmocniła pozycję dynastii, a nie ją zakończyła
 
 ---
 
@@ -77,12 +77,12 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 
 **Pytanie:** Które czynniki strategiczne zadecydowały o zwycięstwie Polski w wojnie trzynastoletniej mimo początkowych niepowodzeń?
 
-**A.** Wyłącznie przewaga liczebna wojsk polskich
-**B.** Połączenie skutecznej blokady morskiej, zmian w dowodzeniu, poparcia Związku Pruskiego i zwycięstwa pod Świecinem
-**C.** Tylko pomoc ze strony państw europejskich
+**A.** Tylko pomoc ze strony państw europejskich
+**B.** Wyłącznie przewaga liczebna wojsk polskich
+**C.** Połączenie skutecznej blokady morskiej, zmian w dowodzeniu, poparcia Związku Pruskiego i zwycięstwa pod Świecinem
 **D.** Wyłącznie słabość zakonu krzyżackiego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Zwycięstwo Polski było wynikiem kombinacji czynników: skutecznej blokady morskiej prowadzonej przez flotę gdańską, zmian w dowodzeniu wojskami polskimi (mianowanie Piotra Dunina), poparcia Związku Pruskiego i przełomowego zwycięstwa pod Świecinem w 1462 roku.
 
@@ -90,10 +90,10 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Bitwa_pod_%C5%9Awiecinem
 
-**Analiza niepoprawnych odpowiedzi:**
-- Przewaga liczebna nie była decydująca, a nawet przeciwnie na początku wojny
-- Państwa europejskie zachowały neutralność
-- Słabość zakonu była tylko jednym z czynników, obok silnych stron Polski
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Pomoc państw) – no referenced answer: to twierdzenie jest fałszywe; państwa europejskie zachowały zasadniczo neutralność podczas wojny trzynastoletniej, a sukces Polski został osiągnięty głównie własnymi siłami we współpracy ze Związkiem Pruskim
+- Odpowiedź B (Przewaga liczebna) – incorrect from same chapter: to twierdzenie jest błędne; na początku wojny trzynastoletniej Polska nie miała przewagi liczebnej, a nawet była w gorszej sytuacji; decydujące były czynniki strategiczne i taktyczne, nie przewaga liczebna
+- Odpowiedź D (Słabość zakonu) – incorrect from same chapter: słabość zakonu krzyżackiego była tylko jednym z wielu czynników; równie ważne były silne strony Polski, takie jak skuteczna blokada morska, dobre dowodzenie i poparcie Związku Pruskiego
 
 ---
 
@@ -108,7 +108,7 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 **C.** Nie miał wpływu na relacje polsko-krzyżackie
 **D.** Zmusił Polskę do zrezygnowania z roszczeń
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Podział Prus stworzył sytuację napięcia, która trwała do 1525 roku. Polska rościła sobie prawa do całości Prus, podczas gdy zakon starał się odzyskać utracone terytoria. To doprowadziło do kolejnych wojen i ostatecznie do secularizacji Prus Zakonnych w 1525 roku.
 
@@ -116,10 +116,10 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 - https://pl.wikipedia.org/wiki/Prusy
 
-**Analiza niepoprawnych odpowiedzi:**
-- Konflikty trwały do 1525 roku
-- Podział miał fundamentalne znaczenie dla relacji
-- Polska nie zrezygnowała z roszczeń do całości Prus
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Zakończył konflikty) – incorrect from same chapter: to twierdzenie jest fałszywe; podział Prus nie zakończył konfliktów, lecz przeciwnie – stworzył trwałe napięcie, które trwało do 1525 roku i doprowadziło do kolejnych wojen
+- Odpowiedź B (Stworzył napięcie) – to jest prawidłowa odpowiedź (została przeniesiona na pozycję D w celu poprawy dystrybucji)
+- Odpowiedź C (Nie miał wpływu) – no referenced answer: to twierdzenie jest całkowicie błędne; podział Prus miał fundamentalne znaczenie dla relacji polsko-krzyżackich i determinował politykę obu stron przez kolejne dziesięciolecia
 
 ---
 
@@ -129,12 +129,12 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 
 **Pytanie:** Jak wojnę trzynastoletnią ocenia historiografia w kontekście rozwoju państwowości Polski XV wieku?
 
-**A.** Jest uważana za wydarzenie drugorzędne bez wpływu na państwowość
-**B.** Jest oceniana jako przełomowe zwycięstwo, które wzmocniło państwowość polską, gospodarkę i pozycję międzynarodową
-**C.** Jest postrzegana jako klęska Polski
-**D.** W historiografii nie ma konsensusu co do znaczenia wojny
+**A.** Jest postrzegana jako klęska Polski
+**B.** Jest uważana za wydarzenie drugorzędne bez wpływu na państwowość
+**C.** W historiografii nie ma konsensusu co do znaczenia wojny
+**D.** Jest oceniana jako przełomowe zwycięstwo, które wzmocniło państwowość polską, gospodarkę i pozycję międzynarodową
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Wojna trzynastoletnia jest powszechnie oceniana przez historyków jako przełomowe zwycięstwo Polski, które wzmocniło jej państwowość, gospodarkę (dostęp do morza i handel przez Gdańsk) oraz pozycję międzynarodową. Zdobyte terytoria stały się integralną częścią Korony.
 
@@ -142,9 +142,9 @@ Wojna trzynastoletnia (1454-1466) stanowiła przełomowy moment w dziejów Polsk
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Pa%C5%84stwowo%C5%9B%C4%87_Polski
 
-**Analiza niepoprawnych odpowiedzi:**
-- Było to wydarzenie pierwszorzędne dla państwowości
-- Było to zwycięstwo Polski, nie klęska
-- Istnieje konsensus co do pozytywnego znaczenia wojny dla Polski
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Klęska Polski) – no referenced answer: to twierdzenie jest całkowicie fałszywe; wojna trzynastoletnia zakończyła się zwycięstwem Polski, co zostało potwierdzone drugim pokojem toruńskim (1466), który przyznał Polsce Prusy Królewskie
+- Odpowiedź B (Wydarzenie drugorzędne) – no referenced answer: to twierdzenie jest błędne; wojna trzynastoletnia miała pierwszorzędne znaczenie dla państwowości polskiej, zapewniając dostęp do morza, wzmocnienie gospodarki poprzez Gdańsk i poprawę pozycji międzynarodowej
+- Odpowiedź C (Brak konsensusu) – no referenced answer: to twierdzenie jest fałszywe; w historiografii istnieje konsensus co do pozytywnego znaczenia wojny trzynastoletniej dla rozwoju państwowości Polski XV wieku
 
 ---

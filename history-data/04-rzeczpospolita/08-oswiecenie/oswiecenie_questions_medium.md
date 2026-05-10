@@ -23,12 +23,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Który tygodnik, ukazujący się w latach 1765-1777, był głównym forum propagowania idei oświeceniowych w Polsce?
 
-**A)** Monitor
-**B)** Zabawy Przyjemne i Pożyteczne
-**C)** Gazeta Warszawska
-**D)** Pamiętnik Historyczno-Polityczny
+**A)** Gazeta Warszawska
+**B)** Pamiętnik Historyczno-Polityczny
+**C)** Monitor
+**D)** Zabawy Przyjemne i Pożyteczne
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Monitor był tygodnikiem propagującym idee oświeceniowe w latach 1765-1777. Pismo zawierało artykuły o reformach, edukacji i kulturze. Było ważnym elementem rozwoju prasy w Polsce.
 
@@ -36,10 +36,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Oświecenie_w_Polsce
 - https://pl.wikipedia.org/wiki/Monitor_(czasopismo)
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Zabawy Przyjemne i Pożyteczne były pismem literackim wydawane później
-- C) Gazeta Warszawska była gazetą polityczną o innym profilu
-- D) Pamiętnik Historyczno-Polityczny był pismem historycznym
+**Analiza odpowiedzi błędnych:**
+- B) Zabawy Przyjemne i Pożyteczne – correct for: Oświecenie: pismo literackie wydawane w latach 1770-1777, propagujące idee oświeceniowe
+- C) Gazeta Warszawska – incorrect from Oświecenie: gazeta polityczna o innym profilu niż tygodniki kulturalne
+- D) Pamiętnik Historyczno-Polityczny – incorrect from Oświecenie: pismo historyczno-polityczne wydawane w latach 1782-1792
 
 ## Pytanie 2
 
@@ -47,12 +47,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Który działacz oświatowy i polityk był jednym z głównych autorów Konstytucji 3 maja?
 
-**A)** Hugo Kołłątaj
-**B)** Stanisław Staszic
-**C)** Ignacy Potocki
-**D)** Stanisław Konarski
+**A)** Stanisław Konarski
+**B)** Ignacy Potocki
+**C)** Hugo Kołłątaj
+**D)** Stanisław Staszic
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Hugo Kołłątaj był jednym z głównych autorów Konstytucji 3 maja. Był działaczem oświatowym, politykiem i reformatorem. Współpracował z królem Stanisławem Augustem przy przygotowaniu reform.
 
@@ -60,10 +60,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Hugo_Kołłątaj
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Stanisław Staszic był uczonym i poetą, ale nie był głównym autorem konstytucji
-- C) Ignacy Potocki był współautorem konstytucji, ale nie był głównym twórcą
-- D) Stanisław Konarski był reformatorem oświaty, ale zmarł przed uchwaleniem konstytucji
+**Analiza odpowiedzi błędnych:**
+- A) Stanisław Konarski – incorrect from Oświecenie: reformator oświaty, pijar, autor "O skutecznym rad sposobie", zmarł w 1773 roku
+- B) Ignacy Potocki – correct for: Oświecenie: współautor Konstytucji 3 maja, ale nie był głównym twórcą
+- D) Stanisław Staszic – correct for: Oświecenie: uczony, poeta i reformator, ale nie brał udziału w redakcji konstytucji
 
 ## Pytanie 3
 
@@ -71,12 +71,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Która szkoła wojskowa została założona w 1765 roku przez króla Stanisława Augusta Poniatowskiego?
 
-**A)** Szkoła Rycerska
+**A)** Akademia Wojskowa
 **B)** Korpus Kadetów
 **C)** Szkoła Główna
-**D)** Akademia Wojskowa
+**D)** Szkoła Rycerska
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Szkoła Rycerska została założona w 1765 roku przez króla Stanisława Augusta. Była to pierwsza nowoczesna szkoła wojskowa w Polsce. Kształciła oficerów i reformatorów państwa.
 
@@ -84,10 +84,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Szkoła_Rycerska
 - https://pl.wikipedia.org/wiki/Oświecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Korpus Kadetów był instytucją wojskową w Rosji
-- C) Szkoła Główna została utworzona później w 1816 roku
-- D) Akademia Wojskowa to nazwa nowoczesnych uczelni wojskowych
+**Analiza odpowiedzi błędnych:**
+- A) Akademia Wojskowa – no referenced answer: nazwa nowoczesnych uczelni wojskowych, nie istniała w XVIII wieku
+- B) Korpus Kadetów – incorrect from different epoch: instytucja wojskowa w Imperium Rosyjskim, nie w Polsce
+- C) Szkoła Główna – incorrect from Królestwo Polskie (1816-1831): Szkoła Główna Warszawska utworzona w 1816 roku
 
 ## Pytanie 4
 
@@ -95,12 +95,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Który sejm, obradujący w latach 1788-1792, uchwalił Konstytucję 3 maja?
 
-**A)** Sejm Wielki
-**B)** Sejm Czteroletni
-**C)** Sejm Repninowski
-**D)** Sejm Rozbiorowy
+**A)** Sejm Repninowski
+**B)** Sejm Rozbiorowy
+**C)** Sejm Czteroletni
+**D)** Sejm Wielki
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Sejm Wielki (1788-1792), zwany też Sejmem Czteroletnim, uchwalił Konstytucję 3 maja 1791 roku. Był to najważniejszy sejm w historii Rzeczypospolitej. Przeprowadził fundamentalne reformy państwa.
 
@@ -108,10 +108,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Sejm_Wielki
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Sejm Czteroletni to alternatywna nazwa Sejmu Wielkiego
-- C) Sejm Repninowski obradował wcześniej w latach 1767-1768
-- D) Sejm Rozbiorowy to nazwa sejmu zatwierdzającego rozbiory Polski
+**Analiza odpowiedzi błędnych:**
+- A) Sejm Repninowski – incorrect from Oświecenie: sejm nadzwyczajny obradujący w latach 1767-1768, zwołany pod naciskiem Rosji
+- B) Sejm Rozbiorowy – incorrect from Rozbiory: sejm zatwierdzający rozbiory Polski (Sejm Grodzieński 1793)
+- C) Sejm Czteroletni – correct for: Oświecenie: alternatywna nazwa Sejmu Wielkiego, ten sam sejm
 
 ## Pytanie 5
 
@@ -119,12 +119,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Która konfederacja, zawiązana w 1792 roku, obaliła Konstytucję 3 maja?
 
-**A)** Konfederacja targowicka
-**B)** Konfederacja barska
+**A)** Konfederacja barska
+**B)** Konfederacja dyneburska
 **C)** Konfederacja radomska
-**D)** Konfederacja dyneburska
+**D)** Konfederacja targowicka
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Konfederacja targowicka została zawiązana w 1792 roku przez magnatów przeciwnych reformom. Zwróciła się o pomoc do Rosji, co doprowadziło do obalenia Konstytucji 3 maja. To wydarzenie przyspieszyło upadek państwa.
 
@@ -132,10 +132,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Konfederacja_targowicka
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Konfederacja barska została zawiązana wcześniej w 1768 roku
-- C) Konfederacja radomska została zawiązana wcześniej w 1767 roku
-- D) Konfederacja dyneburska to alternatywna nazwa konfederacji targowickiej
+**Analiza odpowiedzi błędnych:**
+- A) Konfederacja barska – incorrect from Oświecenie (1768-1772): zawiązana w 1768 roku w obronie wiary i niepodległości
+- B) Konfederacja dyneburska – correct for: Oświecenie: alternatywna nazwa konfederacji targowickiej
+- C) Konfederacja radomska – incorrect from Oświecenie (1767): zawiązana w 1767 roku, doprowadziła do Sejmu Repninowskiego
 
 ## Pytanie 6
 
@@ -143,12 +143,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Które wydarzenie, związane z rozwojem teatru, miało miejsce w 1765 roku w Warszawie?
 
-**A)** Otwarcie pierwszego publicznego teatru
-**B)** Powstanie Teatru Narodowego
-**C)** Premiera pierwszej polskiej opery
-**D)** Budowa Operalni
+**A)** Budowa Operalni
+**B)** Otwarcie pierwszego publicznego teatru
+**C)** Powstanie Teatru Narodowego
+**D)** Premiera pierwszej polskiej opery
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** W 1765 roku otwarto pierwszy publiczny teatr w Warszawie, zwany Operalnią. Był to pierwszy teatr publiczny w Polsce. Instytucja ta przyczyniła się do rozwoju kultury teatralnej.
 
@@ -156,10 +156,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Oświecenie_w_Polsce
 - https://pl.wikipedia.org/wiki/Teatr_Narodowy_(Warszawa)
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Teatr Narodowy został założony później
-- C) Pierwsza polska opera została wystawiona w innym czasie
-- D) Operalnia to nazwa pierwszego publicznego teatru
+**Analiza odpowiedzi błędnych:**
+- A) Budowa Operalni – correct for: Oświecenie: Operalnia to nazwa pierwszego publicznego teatru, otwarte w 1765 roku
+- C) Powstanie Teatru Narodowego – correct for: Oświecenie: Teatr Narodowy został założony w 1765 roku przez Stanisława Augusta
+- D) Premiera pierwszej polskiej opery – incorrect from Oświecenie: pierwsza polska opera "Cud mniemany, czyli Krakowiacy i Górale" wystawiona w 1794 roku
 
 ## Pytanie 7
 
@@ -167,22 +167,22 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Dlaczego idee oświeceniowe dotarły do Polski później niż do Europy Zachodniej?
 
-**A)** Z powodu słabszego rozwoju mieszczaństwa
-**B)** Z powodu izolacji politycznej państwa
-**C)** Z powodu oporu Kościoła katolickiego
+**A)** Z powodu izolacji politycznej państwa
+**B)** Z powodu oporu Kościoła katolickiego
+**C)** Z powodu słabszego rozwoju mieszczaństwa
 **D)** Z powodu wojen z sąsiadami
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Ideologie oświeceniowe dotarły do Polski później ze względu na słabszy rozwój mieszczaństwa. Klasa średnia była głównym nośnikiem idei oświeceniowych w Europie. W Polsce rolę tę przejął w dużej mierze kler katolicki.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Oświecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Izolacja polityczna nie była główną przyczyną opóźnienia
-- C) Kościół katolicki wspierał oświecenie w Polsce
-- D) Wojny z sąsiadami nie bezpośrednio wpłynęły na opóźnienie idei
+**Analiza odpowiedzi błędnych:**
+- A) Z powodu izolacji politycznej państwa – incorrect from current chapter: izolacja polityczna nie była główną przyczyną opóźnienia idei oświeceniowych
+- B) Z powodu oporu Kościoła katolickiego – incorrect from current chapter: Kościół katolicki wspierał oświecenie w Polsce, wielu księży uczestniczyło w ruchu
+- D) Z powodu wojen z sąsiadami – incorrect from current chapter: wojny nie bezpośrednio wpłynęły na opóźnienie idei oświeceniowych
 
 ## Pytanie 8
 
@@ -190,22 +190,22 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Jaki był główny cel powołania Komisji Edukacji Narodowej w 1773 roku?
 
-**A)** Zreformowanie systemu edukacji w Polsce
-**B)** Założenie pierwszego uniwersytetu w Polsce
-**C)** Wydalanie podręczników szkolnych
-**D)** Kształcenie nauczycieli
+**A)** Kształcenie nauczycieli
+**B)** Wydalanie podręczników szkolnych
+**C)** Zreformowanie systemu edukacji w Polsce
+**D)** Założenie pierwszego uniwersytetu w Polsce
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Komisja Edukacji Narodowej została powołana w celu zreformowania systemu edukacji. Instytucja zajęła się organizacją szkół, przygotowaniem nauczycieli i wydawaniem podręczników. Była to pierwsza w Europie ministerstwo oświaty.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Komisja_Edukacji_Narodowej
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Pierwszy uniwersytet w Polsce został założony wcześniej
-- C) Wydawanie podręczników było jednym z wielu zadań
-- D) Kształcenie nauczycieli było częścią reformy, a nie głównym celem
+**Analiza odpowiedzi błędnych:**
+- A) Kształcenie nauczycieli – correct for: Oświecenie: było jednym z wielu zadań KEN, ale nie głównym celem
+- B) Wydalanie podręczników szkolnych – correct for: Oświecenie: było jednym z wielu zadań KEN, ale nie głównym celem
+- D) Założenie pierwszego uniwersytetu w Polsce – incorrect from different epoch: pierwszy polski uniwersytet (Akademia Krakowska) założony w 1364 roku
 
 ## Pytanie 9
 
@@ -213,12 +213,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Który reformator oświaty, pijar, był autorem "O skutecznym rad sposobie"?
 
-**A)** Stanisław Konarski
+**A)** Franciszek Bohomolec
 **B)** Hugo Kołłątaj
-**C)** Stanisław Staszic
-**D)** Franciszek Bohomolec
+**C)** Stanisław Konarski
+**D)** Stanisław Staszic
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Stanisław Konarski był pijarem i reformatorem oświaty. Napisał "O skutecznym rad sposobie" – dzieło o reformach państwa. Był jednym z najważniejszych przywódców oświecenia w Polsce.
 
@@ -226,10 +226,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Stanisław_Konarski
 - https://pl.wikipedia.org/wiki/Oświecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Hugo Kołłątaj był reformatorem późniejszego okresu
-- C) Stanisław Staszic był uczonym, nie pijarem
-- D) Franciszek Bohomolec był jezuitą, nie pijarem
+**Analiza odpowiedzi błędnych:**
+- A) Franciszek Bohomolec – incorrect from current chapter: był jezuitą, nie pijarem; komediopisarz i poeta, autor "Zabaw Przyjemnych i Pożytecznych"
+- B) Hugo Kołłątaj – correct for: Oświecenie: reformator późniejszego okresu, główny autor Konstytucji 3 maja
+- D) Stanisław Staszic – incorrect from current chapter: był uczonym i poetą, nie pijarem; należał do stanu duchownego, ale nie był zakonnikiem
 
 ## Pytanie 10
 
@@ -237,12 +237,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Który wpływ miało oświecenie na rozwój edukacji w Polsce?
 
-**A)** Wprowadzono nowoczesny system edukacji publicznej
+**A)** Zamknięto uniwersytety
 **B)** Zlikwidowano szkoły kościelne
 **C)** Ograniczono dostęp do edukacji dla chłopów
-**D)** Zamknięto uniwersytety
+**D)** Wprowadzono nowoczesny system edukacji publicznej
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Oświecenie wprowadziło nowoczesny system edukacji publicznej w Polsce. Komisja Edukacji Narodowej zreformowała szkoły i utworzyła nowy system nauczania. Edukacja stała się dostępna dla szerszych grup społecznych.
 
@@ -250,10 +250,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Komisja_Edukacji_Narodowej
 - https://pl.wikipedia.org/wiki/Oświecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Szkoły kościelne nie zostały zlikwidowane
-- C) Dostęp do edukacji został rozszerzony, a nie ograniczony
-- D) Uniwersytety zostały zreformowane, a nie zamknięte
+**Analiza odpowiedzi błędnych:**
+- A) Zamknięto uniwersytety – incorrect from current chapter: uniwersytety zostały zreformowane przez KEN, a nie zamknięte
+- B) Zlikwidowano szkoły kościelne – incorrect from current chapter: szkoły kościelne nie zostały zlikwidowane, KEN współpracowała z Kościołem
+- C) Ograniczono dostęp do edukacji dla chłopów – incorrect from current chapter: dostęp do edukacji został rozszerzony, a nie ograniczony
 
 ## Pytanie 11
 
@@ -261,22 +261,22 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Które zjawisko społeczne było charakterystyczne dla polskiego oświecenia?
 
-**A)** Duży udział kleru katolickiego w ruchu oświeceniowym
-**B)** Silny rozwój mieszczaństwa
-**C)** Rapidna industrializacja kraju
-**D)** Masowa emigracja inteligencji
+**A)** Masowa emigracja inteligencji
+**B)** Rapidna industrializacja kraju
+**C)** Silny rozwój mieszczaństwa
+**D)** Duży udział kleru katolickiego w ruchu oświeceniowym
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Polskie oświecenie charakteryzowało się dużym udziałem kleru katolickiego. Aż 40% czołowych postaci oświecenia w Polsce stanowili księża. Było to zjawisko unikalne w skali europejskiej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Oświecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Mieszczaństwo było słabo rozwinięte w Polsce
-- C) Industrializacja nie była charakterystyczna dla tego okresu
-- D) Emigracja inteligencji nie była charakterystyczna dla oświecenia
+**Analiza odpowiedzi błędnych:**
+- A) Masowa emigracja inteligencji – incorrect from current chapter: emigracja inteligencji nie była charakterystyczna dla polskiego oświecenia
+- B) Rapidna industrializacja kraju – incorrect from current chapter: industrializacja nie była charakterystyczna dla Polski w XVIII wieku
+- C) Silny rozwój mieszczaństwa – incorrect from current chapter: mieszczaństwo było słabo rozwinięte w Polsce, co opóźniło przyjęcie idei oświeceniowych
 
 ## Pytanie 12
 
@@ -284,19 +284,19 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Jakie reformy społeczne wprowadziła Konstytucja 3 maja?
 
-**A)** Ubezpieczenie chłopów i lepsze statusy dla mieszczan
-**B)** Zniesienie poddaństwa chłopów
-**C)** Przyznanie praw wyborczych kobietom
-**D)** Równouprawnienie wszystkich stanów
+**A)** Przyznanie praw wyborczych kobietom
+**B)** Równouprawnienie wszystkich stanów
+**C)** Ubezpieczenie chłopów i lepsze statusy dla mieszczan
+**D)** Zniesienie poddaństwa chłopów
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Konstytucja 3 maja wprowadziła reformy społeczne, w tym ubezpieczenie chłopów i lepsze statusy dla mieszczan. Konstytucja chroniła chłopów przed nadużyciami szlachty. Mieszczanie uzyskali dostęp do urzędów i poselstwa.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Poddaństwo chłopów nie zostało zniesione w 1791 roku
-- C) Prawa wyborcze kobiet nie zostały wprowadzone
-- D) Pełne równouprawnienie stanów nie zostało wprowadzone
+**Analiza odpowiedzi błędnych:**
+- A) Przyznanie praw wyborczych kobietom – incorrect from current chapter: prawa wyborcze kobiet nie zostały wprowadzone przez Konstytucję 3 maja
+- B) Równouprawnienie wszystkich stanów – incorrect from current chapter: pełne równouprawnienie stanów nie zostało wprowadzone, szlachta zachowała przywileje
+- D) Zniesienie poddaństwa chłopów – incorrect from current chapter: poddaństwo chłopów nie zostało zniesione w 1791 roku, nastąpiło to dopiero w 1864 roku

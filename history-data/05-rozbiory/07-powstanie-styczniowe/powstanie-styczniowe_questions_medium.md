@@ -33,18 +33,23 @@ Mimo początkowych sukcesów i zmasowanego poparcia społecznego powstanie zako�
 **Pytanie:** Jak nazywała się polityka ugody wobec Rosji reprezentowana przez hrabiego Aleksandra Wielopolskiego?
 
 **Odpowiedzi:**
-A. Praca organiczna
-B. Polityka negatywna
-C. Polityka pozytywna
+A. Polityka pozytywna
+B. Praca organiczna
+C. Polityka negatywna
 D. Realpolitik
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Polityka pozytywna, reprezentowana przez Aleksandra Wielopolskiego, zakładała ugodę z caratem i lojalność wobec władz rosyjskich w zamian za zachowanie pewnych praw i autonomii. Wielopolski został namiestnikiem Królestwa Polskiego w 1862 roku i próbował stłumić ruchy niepodległościowe, co doprowadziło do wybuchu powstania.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Aleksander_Wielopolski
 - https://pl.wikipedia.org/wiki/Polityka_pozytywna
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Praca organiczna) – Stanowisko pragmatyczne rozwijane po klęsce powstania (okres 1864-1914), skupiające się na gospodarce i oświacie, nie ugodę z caratem
+- Odpowiedź B (Polityka negatywna) – Postawa bojkotu i braku współpracy z władzami rosyjskimi, reprezentowana przez stronnictwo "białych", nie politykę ugody
+- Odpowiedź D (Realpolitik) – Termin niemiecki określający politykę realistyczną, nie używany w kontekście polskim XIX wieku
 
 ---
 
@@ -54,18 +59,23 @@ D. Realpolitik
 **Pytanie:** Jaki był główny cel proklamacji uwłaszczenia chłopów ogłoszonej przez Romualda Traugutta w grudniu 1863 roku?
 
 **Odpowiedzi:**
-A. Zyskanie poparcia chłopów dla powstania
-B. Zwiększenie wpływów podatkowych
+A. Zwiększenie wpływów podatkowych
+B. Zyskanie poparcia chłopów dla powstania
 C. Wprowadzenie kapitalizmu
 D. Zadowolenie szlachty
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Romuald Traugutt ogłosił dekret uwłaszczeniowy w grudniu 1863 roku, aby zyskać poparcie chłopów dla powstania. Dekret przewidywał przekazanie ziemi chłopom na własność bez konieczności płacenia wykupu. Decyzja ta była próbą przyciągnięcia ludności wiejskiej do walki z zaborcą, ale nie powiodła się z powodu nieufności chłopów.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Romuald_Traugutt
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Zwiększenie wpływów podatkowych) – Motywacja fiskalna nie była celem dekretu, carat chciał zyskać poparcie chłopów, a nie środki finansowe
+- Odpowiedź C (Wprowadzenie kapitalizmu) – Dekret uwłaszczeniowy dotyczył reformy agrarnej, a nie transformacji systemu gospodarczego
+- Odpowiedź D (Zadowolenie szlachty) – Szlachta sprzeciwiała się uwłaszczeniu bez odszkodowania, dekret był skierowany przeciwko jej interesom
 
 ---
 
@@ -77,16 +87,21 @@ D. Zadowolenie szlachty
 **Odpowiedzi:**
 A. Prusy
 B. Austria
-C. Francja
-D. Wielka Brytania
+C. Wielka Brytania
+D. Francja
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Francja wykazała największe poparcie dla powstania styczniowego spośród wszystkich mocarstw zachodnich. Napoleon III krytykował politykę Rosji i apelował o zachowanie autonomii Królestwa Polskiego. Jednak Francja nie udzieliła pomocy militarnej z obawy przed konfliktem z Rosją. Prusy i Austria pozostały neutralne, a Wielka Brytania zajmowała stanowisko wyczekujące.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Reakcja_mi%C4%99dzynarodowa_na_powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Prusy) – Państwo pruskie zajęło stanowisko neutralne, obawiając się konfliktu z Rosją i wsparło ją w pacyfikacji powstania
+- Odpowiedź B (Austria) – Monarchia austriacka pozostała neutralna, nie chcąc pogarszać relacji z Rosją, nie udzieliła pomocy militarnej
+- Odpowiedź D (Wielka Brytania) – Brytania zajęła stanowisko wyczekujące, nie udzieliła realnego poparcia, ograniczając się do dyplomatycznej krytyki
 
 ---
 
@@ -97,17 +112,22 @@ D. Wielka Brytania
 
 **Odpowiedzi:**
 A. Regularne bitew polowe
-B. Wojna partyzancka
-C. Oblężenia miast
+B. Oblężenia miast
+C. Wojna partyzancka
 D. Walki morskie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Powstanie styczniowe miało charakter wojny partyzanckiej. Małe, ruchliwe oddziały powstańcze (zazwyczaj od kilkudziesięciu do kilkuset osób) prowadziły działania na rozległym obszarze zaboru rosyjskiego. Stoczono około 1200 bitew i potyczek, których większość stanowiły drobne starcia z wojskami rosyjskimi. Taktyka ta miała na celu przedłużenie walki i wyczerpanie przeciwnika.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Wojna_partyzancka
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Regularne bitew polowe) – Powstańcy nie mieli sił ani środków na regularną wojnę, unikali dużych bitew z lepiej uzbrojoną armią rosyjską
+- Odpowiedź C (Oblężenia miast) – Oblężenia miast nie były główną formą walki, powstanie miało charakter wojny partyzanckiej na wsiach i w lasach
+- Odpowiedź D (Walki morskie) – Polska nie miała dostępu do morza w zaborze rosyjskim, walki morskie nie były możliwe
 
 ---
 
@@ -118,17 +138,22 @@ D. Walki morskie
 
 **Odpowiedzi:**
 A. Przywrócono autonomię
-B. Zniesiono autonomię
-C. Utworzono samorząd
-D. Wprowadzono konstytucję
+B. Utworzono samorząd
+C. Wprowadzono konstytucję
+D. Zniesiono autonomię
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** W 1867 roku carat rosyjski zniósł autonomię Królestwa Polskiego. Zmieniono nazwę kraju na "Kraj Nadwiślański" i zlikwidowano odrębny budżet, wojsko i administrację. Decyzja ta była częścią represji popowstaniowych i miała na celu ostateczne zintegrowanie ziem polskich z imperium rosyjskim.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kraj_Nadwi%C5%9Bla%C5%84ski
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Przywrócono autonomię) – Autonomię nie przywrócono, lecz zlikwidowano w ramach represji po klęsce powstania
+- Odpowiedź C (Utworzono samorząd) – Samorząd terytorialny nie został utworzony, wręcz ograniczono prawa miejskie i samorządowe
+- Odpowiedź D (Wprowadzono konstytucję) – Konstytucji nie wprowadzono, Królestwo Polskie straciło odrębność prawną i administracyjną
 
 ---
 
@@ -151,6 +176,11 @@ D. Upadek rzemiosła
 - https://pl.wikipedia.org/wiki/Uw%C5%82aszczenie_ch%C5%82op%C3%B3w_w_Kr%C3%B3lestwie_Polskim
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1831%E2%80%931914)
 
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Spadek produkcji rolnej) – Uwłaszczenie doprowadziło do wzrostu produkcji dzięki zwiększeniu motywacji chłopów do pracy na własnej ziemi
+- Odpowiedź C (Masowa emigracja) – Emigracja zarobkowa nasiliła się później, na przełomie XIX/XX wieku, nie była bezpośrednim skutkiem uwłaszczenia
+- Odpowiedź D (Upadek rzemiosła) – Rzemiosło rozwijało się wraz z urbanizacją i wzrostem popytu, nie upadło w wyniku uwłaszczenia
+
 ---
 
 ### Question 7
@@ -160,17 +190,22 @@ D. Upadek rzemiosła
 
 **Odpowiedzi:**
 A. Aleksander Wielopolski
-B. Jarosław Dąbrowski
+B. Stefan Bobrowski
 C. Zygmunt Padlewski
-D. Stefan Bobrowski
+D. Jarosław Dąbrowski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Stronnictwo "czerwonych" skupiało radykalnych działaczy niepodległościowych opowiadających się za natychmiastowym wybuchem powstania. Do liderów należeli Jarosław Dąbrowski, Zygmunt Padlewski, Stefan Bobrowski i Agaton Giller. Czerwoni reprezentowali głównie inteligencję, mieszczaństwo i chłopstwo, a ich program zakładał niepodległość, reformy agrarne i demokrację.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Czerwoni_(stronnictwo)
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Aleksander Wielopolski) – Wielopolski był przywódcą stronnictwa "białych", reprezentującego politykę ugodowej lojalności wobec Rosji
+- Odpowiedź C (Zygmunt Padlewski) – Padlewski był jednym z liderów czerwonych, ale nie głównym przywódcą stronnictwa (nieformalny lider: Jarosław Dąbrowski)
+- Odpowiedź D (Stefan Bobrowski) – Bobrowski był aktywnym działaczem czerwonych i członkiem Komitetu Centralnego Narodowego, ale nie głównym przywódcą stronnictwa
 
 ---
 
@@ -193,6 +228,11 @@ D. Konfiskata ziemi
 - https://pl.wikipedia.org/wiki/Aleksander_Wielopolski
 - https://pl.wikipedia.org/wiki/Branka_(1862)
 
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Rekrutacja do wojska pruskiego) – W Królestwie Polskim obowiązywała służba wojskowa w armii rosyjskiej, nie pruskiej
+- Odpowiedź C (Podatek ziemiański) – Branka dotyczyła przymusowego poboru do wojska, a nie podatków
+- Odpowiedź D (Konfiskata ziemi) – Branka była poborem do wojska, nie konfiskatą mienia
+
 ---
 
 ### Question 9
@@ -214,6 +254,11 @@ D. Zwiększenie swobód obywatelskich
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Rozszerzenie autonomii) – Po klęsce powstania listopadowego autonomia została ograniczona, a nie rozszerzona
+- Odpowiedź C (Przywrócenie konstytucji) – Konstytucja nie została przywrócona, lecz zniesiona w 1831 roku
+- Odpowiedź D (Zwiększenie swobód obywatelskich) – Swobody obywatelskie zostały ograniczone, a nie zwiększone (cenzura, policja polityczna)
+
 ---
 
 ### Question 10
@@ -223,17 +268,22 @@ D. Zwiększenie swobód obywatelskich
 
 **Odpowiedzi:**
 A. Mniejsza armia rosyjska
-B. Charakter wojny partyzanckiej
-C. Pomoc zachodnich mocarstw
+B. Pomoc zachodnich mocarstw
+C. Charakter wojny partyzanckiej
 D. Lepsze uzbrojenie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Powstanie styczniowe trwało dłużej (1863-1864) niż listopadowe (1830-1831) głównie dzięki zastosowaniu taktyki wojny partyzanckiej. Małe, ruchliwe oddziały unikały dużych bitew, co utrudniało Rosjanom stłumienie powstania. Ponadto powstanie miało szersze poparcie społeczne i objęło większy obszar (Królestwo Polskie oraz ziemie zabrane).
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Mniejsza armia rosyjska) – Armia rosyjska była znacznie liczniejsza i lepiej uzbrojona, nie była mniejsza od sił powstańczych
+- Odpowiedź C (Pomoc zachodnich mocarstw) – Zachodnie mocarstwa nie udzieliły pomocy militarnej, ograniczając się do dyplomatycznego wsparcia
+- Odpowiedź D (Lepsze uzbrojenie) – Powstańcy byli gorzej uzbrojeni od regularnej armii rosyjskiej, używali głównie broni zdobycznej i starszych modeli
 
 ---
 
@@ -243,18 +293,23 @@ D. Lepsze uzbrojenie
 **Pytanie:** Co działo się z polskimi miastami, które wsparły powstanie styczniowe?
 
 **Odpowiedzi:**
-A. Otrzymały autonomię
-B. Odebrano im prawa miejskie
-C. Zwiększono dotacje
-D. Wybudowano tam przemysł
+A. Odebrano im prawa miejskie
+B. Zwiększono dotacje
+C. Wybudowano tam przemysł
+D. Otrzymały autonomię
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** W latach 1869-1870 setkom polskich miast, które wsparły powstanie styczniowe, odebrano prawa miejskie. Decyzja ta miała charakter represji – miasta straciły samorząd, sądy i możliwość rozwoju gospodarczego. Wiele z nich popadło w upadek, co przyczyniło się do zahamowania urbanizacji na ziemiach polskich w zaborze rosyjskim.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Uprawnienia_miejskie
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Otrzymały autonomię) – Autonomii miejskiej nie nadano, wręcz odebrano prawa miejskie jako formę represji
+- Odpowiedź C (Zwiększono dotacje) – Dotacji nie zwiększono, miasta straciły dochody z samorządu i praw miejskich
+- Odpowiedź D (Wybudowano tam przemysł) – Przemysł nie był budowany jako nagroda, wręcz przeciwnie – miasta traciły znaczenie gospodarcze
 
 ---
 
@@ -264,18 +319,23 @@ D. Wybudowano tam przemysł
 **Pytanie:** Jaka rola przypadała Kościołowi katolickiemu podczas powstania styczniowego?
 
 **Odpowiedzi:**
-A. Był neutralny
-B. Popierał carat
-C. Wspierał powstanie duchowo i materialnie
+A. Wspierał powstanie duchowo i materialnie
+B. Był neutralny
+C. Popierał carat
 D. Przeciwstawiał się walce
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Kościół katolicki odegrał ważną rolę w powstaniu styczniowym, wspierając go duchowo i materialnie. Duchowni odprawiali msze za ojczyznę, organizowali pomoc dla rodzin powstańców i zesłańców, a niektórzy nawet brali udział w walce. Rząd Narodowy utrzymywał kontakty z papieżem Pius IX, który udzielił poparcia sprawie polskiej. Po upadku powstania carat nasilił prześladowania Kościoła.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki_a_powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Był neutralny) – Kościół nie był neutralny, aktywnie wspierał powstanie duchowo i materialnie
+- Odpowiedź B (Popierał carat) – Kościół był przeciwny caratowi i wspierał walkę o niepodległość, nie popierał władz rosyjskich
+- Odpowiedź D (Przeciwstawiał się walce) – Duchowni nie tylko nie przeciwstawiali się walce, ale wielu z nich aktywnie uczestniczyło w powstaniu
 
 ---
 
@@ -286,17 +346,22 @@ D. Przeciwstawiał się walce
 
 **Odpowiedzi:**
 A. Organizowanie nowych powstań
-B. Budowa gospodarki i oświaty
-C. Praca u rolnika
-D. Działalność wywiadowcza
+B. Działalność wywiadowcza
+C. Budowa gospodarki i oświaty
+D. Praca u rolnika
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Praca organiczna to strategia rozwoju społecznego i gospodarczego ziem polskich pod zaborami po upadku powstania styczniowego. Zakładała budowanie silnej gospodarki, oświaty, kultury i samorządu jako fundamentu odzyskania niepodległości w przyszłości. Do działaczy na tym polu należeli m.in. Bolesław Prus, Hipolit Wawelberg i Eliza Orzeszkowa.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Organizowanie nowych powstań) – Praca organiczna zakładała rezygnację z powstań zbrojnych na rzecz rozwoju gospodarczego i oświaty
+- Odpowiedź C (Praca u rolnika) – Praca organiczna nie dotyczyła fizycznej pracy rolniczej, lecz działalności społeczno-gospodarczej inteligencji i burżuazji
+- Odpowiedź D (Działalność wywiadowcza) – Praca organiczna nie była działalnością wywiadowczą, lecz legalnym budowaniem struktur społecznych i gospodarczych
 
 ---
 
@@ -307,17 +372,22 @@ D. Działalność wywiadowcza
 
 **Odpowiedzi:**
 A. Zwycięstwo pod Małogoszczem
-B. Zwycięstwo pod Horkami
-C. Obrona Warszawy
-D. Wyprawa na Moskwę
+B. Obrona Warszawy
+C. Wyprawa na Moskwę
+D. Zwycięstwo pod Horkami
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Romuald Traugutt odniósł zwycięstwo pod Horkami 17 maja 1863 roku, urządzając zasadzkę na oddział rosyjski. Było to jedno z niewielu znaczących zwycięstw polskich podczas powstania. Po udanych działaniach na Litwie Traugutt został wezwany do Warszawy, gdzie w październiku 1863 roku objął dyktaturę.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Romuald_Traugutt
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Horkami
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Zwycięstwo pod Małogoszczem) – Bitwa pod Małogoszczem (22 lutego 1863) była zwycięstwem, ale odniósł je Marian Langiewicz, nie Traugutt
+- Odpowiedź C (Obrona Warszawy) – Warszawa została obrona, ale nie było to osiągnięcie militarne Traugutta, lecz rezultat braku decydującego ataku rosyjskiego
+- Odpowiedź D (Wyprawa na Moskwę) – Żadna wyprawa na Moskwę nie miała miejsca podczas powstania styczniowego, to anachronizm z okresu wojen z XVII wieku
 
 ---
 
@@ -327,8 +397,8 @@ D. Wyprawa na Moskwę
 **Pytanie:** Dlaczego powstanie styczniowe jest uważane za ważny etap w kształtowaniu się nowoczesnego narodu polskiego?
 
 **Odpowiedzi:**
-A. Przywrócono niepodległość
-B. Zjednoczono wszystkie stany
+A. Zjednoczono wszystkie stany
+B. Przywrócono niepodległość
 C. Uwłaszczenie chłopów i pamięć o walce
 D. Ograniczono zaborów
 
@@ -340,6 +410,11 @@ D. Ograniczono zaborów
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1831%E2%80%931914)
 
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Zjednoczono wszystkie stany) – Powstanie nie zjednoczyło wszystkich stanów, szlachta i chłopi mieli odmienne interesy, co osłabiło powstanie
+- Odpowiedź B (Przywrócono niepodległość) – Niepodległość nie została przywrócona, Polska pozostała pod zaborami do 1918 roku
+- Odpowiedź D (Ograniczono zaborów) – Zaborów nie ograniczono, wręcz przeciwnie – represje popowstaniowe pogłębiły integrację z imperium rosyjskim
+
 ---
 
 ### Question 16
@@ -348,18 +423,23 @@ D. Ograniczono zaborów
 **Pytanie:** Który organ był naczelną władzą powstańczą podczas powstania styczniowego?
 
 **Odpowiedzi:**
-A. Komitet Centralny Narodowy
-B. Rząd Narodowy
+A. Rząd Narodowy
+B. Komitet Centralny Narodowy
 C. Sejm Czteroletni
 D. Rada Stanu
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Rząd Narodowy był naczelną władzą powstańczą podczas powstania styczniowego. Został utworzony w styczniu 1863 roku jako Tymczasowy Rząd Narodowy, a następnie przekształcony w stały Rząd Narodowy. Rząd sprawował władzę cywilną i wojskową nad obszarami objętymi powstaniem.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Rz%C4%85d_Narodowy_(1863)
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Komitet Centralny Narodowy) – KCN był podziemną organizacją konspiracyjną przygotowującą powstanie, nie naczelną władzą podczas walki
+- Odpowiedź C (Sejm Czteroletni) – Sejm Czteroletni istniał w latach 1788-1792, nie był związany z powstaniem styczniowym (róża 70 lat)
+- Odpowiedź D (Rada Stanu) – Rada Stanu był organem rządzącym w Księstwie Warszawskim (1807-1815), nie podczas powstania styczniowego
 
 ---
 

@@ -33,12 +33,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** W których latach Zygmunt I Stary panował jako król Polski?
 
-**A.** 1506-1548
+**A.** 1447-1492
 **B.** 1492-1506
-**C.** 1548-1572
-**D.** 1447-1492
+**C.** 1506-1548
+**D.** 1548-1572
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Zygmunt I Stary panował w latach 1506-1548, objąwszy tron po śmierci swojego brata Aleksandra Jagiellończyka.
 
@@ -46,9 +46,9 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
 **Analiza odpowiedzi niepoprawnych:**
+- Odpowiedź A (1447-1492) to lata panowania Kazimierza IV Jagiellończyka, ojca Zygmunta Starego
 - Odpowiedź B (1492-1506) to lata panowania poprzedniego króla - Aleksandra Jagiellończyka, brata Zygmunta Starego
-- Odpowiedź C (1548-1572) to lata panowania syna Zygmunta Starego — Zygmunta II Augusta
-- Odpowiedź D (1447-1492) to lata panowania Kazimierza IV Jagiellończyka, ojca Zygmunta Starego
+- Odpowiedź D (1548-1572) to lata panowania syna Zygmunta Starego — Zygmunta II Augusta
 
 ---
 
@@ -58,12 +58,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Który wydarzenie z 1525 roku zakończyło konflikt między Polską a zakonem krzyżackim?
 
-**A.** Hołd pruski złożony przez Albrechta Hohenzollerna
-**B.** Bitwa pod Grunwaldem
-**C.** Pokój toruński
-**D.** Inkorporacja Mazowsza
+**A.** Bitwa pod Grunwaldem
+**B.** Pokój toruński
+**C.** Inkorporacja Mazowsza
+**D.** Hołd pruski złożony przez Albrechta Hohenzollerna
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** W 1525 roku wielki mistrz krzyżacki Albrecht Hohenzollern złożył hołd lenny królowi polskiemu Zygmuntowi I Staremu, co zakończyło wieloletni konflikt z zakonem krzyżackim.
 
@@ -72,9 +72,9 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Wojna_polsko-krzy%C5%BCacka_%281519%E2%80%932021%29
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (bitwa pod Grunwaldem) miała miejsce w 1410 roku, ponad 100 lat przed hołdem pruskim, podczas panowania Władysława Jagiełły
-- Odpowiedź C (pokój toruński) został podpisany w 1466 roku, kończąc wojnę trzynastoletnią i tworząc Prusy Królewskie jako lenno polskie
-- Odpowiedź D (inkorporacja Mazowsza) nastąpiła w 1529 roku i dotyczyła włączenia księstwa mazowieckiego do Korony, a nie zakonu krzyżackiego
+- Odpowiedź A (bitwa pod Grunwaldem) miała miejsce w 1410 roku, ponad 100 lat przed hołdem pruskim, podczas panowania Władysława Jagiełły
+- Odpowiedź B (pokój toruński) został podpisany w 1466 roku, kończąc wojnę trzynastoletnią i tworząc Prusy Królewskie jako lenno polskie
+- Odpowiedź C (inkorporacja Mazowsza) nastąpiła w 1529 roku i dotyczyła włączenia księstwa mazowieckiego do Korony, a nie zakonu krzyżackiego
 
 ---
 
@@ -109,12 +109,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Które miasto zostało stłumione przez Zygmunta I Starego w 1526 roku po buncie przeciw władzy królewskiej?
 
-**A.** Gdańsk
-**B.** Kraków
-**C.** Wilno
+**A.** Kraków
+**B.** Wilno
+**C.** Gdańsk
 **D.** Poznań
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** W 1526 roku Zygmunt I Stary stłumił bunt luteran w Gdańsku, ściągając 14 przywódców rewolty na Długim Targu i przywracając władzę katolicką w mieście.
 
@@ -122,8 +122,8 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (Kraków) była stolicą Polski i miastem koronacyjnym, gdzie Zygmunt Stary miał swoją siedzibę na Wawelu
-- Odpowiedź C (Wilno) było stolicą Wielkiego Księstwa Litewskiego, gdzie Zygmunt został koronowany na wielkiego księcia litewskiego
+- Odpowiedź A (Kraków) był stolicą Polski i miastem koronacyjnym, gdzie Zygmunt Stary miał swoją siedzibę na Wawelu
+- Odpowiedź B (Wilno) było stolicą Wielkiego Księstwa Litewskiego, gdzie Zygmunt został koronowany na wielkiego księcia litewskiego
 - Odpowiedź D (Poznań) było ważnym miastem w Wielkopolsce, ale nie było miejscem buntu w 1526 roku
 
 ---
@@ -134,12 +134,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Co oznaczał termin "rokosz lwowski" z 1537 roku?
 
-**A.** Zbrojny protest szlachty przeciw polityce królewskiej
-**B.** Zjazd monarchów europejskich we Lwowie
+**A.** Zjazd monarchów europejskich we Lwowie
+**B.** Zbrojny protest szlachty przeciw polityce królewskiej
 **C.** Bitwa z Moskwą o Lwów
 **D.** Sejm walny we Lwowie
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Rokosz lwowski (zwany "wojną kokoszą") był zbrojnym protestem szlachty zwołanej na wyprawę wojenną, która zamiast wyruszyć na wojska, wysunęła postulaty egzekucji praw i ograniczenia roli królowej Bony Sforzy.
 
@@ -147,7 +147,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (zjazd monarchów) odnosi się do zjazdu wiedeńskiego z 1515 roku, gdzie spotkano się z władcami Habsburgów —
+- Odpowiedź A (zjazd monarchów) odnosi się do zjazdu wiedeńskiego z 1515 roku, gdzie spotkano się z władcami Habsburgów
 - Odpowiedź C (bitwa z Moskwą) jest niepoprawna, ponieważ Moskwa nie atakowała Lwowa w tym okresie
 - Odpowiedź D (sejm walny) jest błędna, ponieważ rokospistoki to zbrojny protest szlachty, a nie formalny sejm walny
 
@@ -166,7 +166,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Poprawna odpowiedź:** A
 
-**Wyjaśnienie:** Główną przyczyną wojen z Moskwą była rywalizacja o ziemie litewskie, zwłaszcza o Smoleńsk i inne strategiczne twierdze na wschodnich rubieżach Wielkiego Księstwa Litewskiego, na które dążył wielki książę moskiewski Wasyl III.
+**Wyjaśnienie:** Główną przyczyną wojen z Moskwą była rywalizacja o ziemie litewskie, zwłasza o Smoleńsk i inne strategiczne twierdze na wschodnich rubieżach Wielkiego Księstwa Litewskiego, na które dążył wielki książę moskiewski Wasyl III.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
@@ -184,12 +184,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Jakie były najważniejsze skutki hołdu pruskiego z 1525 roku dla Rzeczypospolitej?
 
-**A.** Likwidacja zagrożenia krzyżackiego i powstanie Prus Książęcych
-**B.** Wzrost wpływów Habsburgów w regionie
+**A.** Wzrost wpływów Habsburgów w regionie
+**B.** Likwidacja zagrożenia krzyżackiego i powstanie Prus Książęcych
 **C.** Utrata dostępu do Bałtyku
 **D.** Włączenie Prus do Korony polskiej
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Hołd pruski zlikwidował wieloletnie zagrożenie ze strony zakonu krzyżackiego, przekształcając go w Prusy Książęce jako lenno polskie, co zmieniło układ sił na Bałtyku i osłabiło pozycję zakonu.
 
@@ -198,7 +198,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Wojna_polsko-krzy%C5%BCacka_%281519%E2%80%932021%29
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (wzrost wpływów Habsburgów) jest niepoprawna, ponieważ hołd pruski wręcz zmniejszył wpływ Habsburgów w regionie, wzmacniając pozycję Polski
+- Odpowiedź A (wzrost wpływów Habsburgów) jest niepoprawna, ponieważ hołd pruski wręcz zmniejszył wpływ Habsburgów w regionie, wzmacniając pozycję Polski
 - Odpowiedź C (utrata dostępu do Bałtyku) jest sprzeczna z faktami - Polska zachowała dostęp do morza poprzez Gdańsk i inne miasta
 - Odpowiedź D (włączenie Prus do Korony) jest częściowo błędna - Prusy Książęce stały się lennem polskim, ale nie zostały bezpośrednio włączone do Korony
 
@@ -210,12 +210,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Dlaczego doszło do konfliktu zbrojnego między Polską a zakonem krzyżackim w latach 1519-1521?
 
-**A.** Dążenia Krzyżaków do niezależności od Polski
-**B.** Spór o granice z Mazowszem
+**A.** Spór o granice z Mazowszem
+**B.** Dążenia Krzyżaków do niezależności od Polski
 **C.** Konflikt handlowy o Gdańsk
 **D.** Sojusz krzyżacko-moskiewski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Główną przyczyną wojny były dążenia nowego wielkiego mistrza Albrechta Hohenzollerna do uniezależnienia się od Polski, co sprzeciwiało się postanowieniom pokoju toruńskiego z 1466 roku.
 
@@ -223,7 +223,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Wojna_polsko-krzy%C5%BCacka_%281519%E2%80%932021%29
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (spór o granice z Mazowszem) jest niepoprawna, ponieważ Mazowsze nie było stroną konfliktu z zakonem krzyżackim
+- Odpowiedź A (spór o granice z Mazowszem) jest niepoprawna, ponieważ Mazowsze nie było stroną konfliktu z zakonem krzyżackim
 - Odpowiedź C (konflikt handlowy o Gdańsk) odnosi się do późniejszych napięć, ale nie była główną przyczyną wojny w latach 1519-1521
 - Odpowiedź D (sojusz krzyżacko-moskiewski) istniał, ale był raczej następstwem niż główną przyczyną konfliktu
 
@@ -235,12 +235,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Jaką rolę odegrała reformacja w okresie panowania Zygmunta I Starego?
 
-**A.** Doprowadziła do buntów miejskich w Gdańsku i innych miastach
-**B.** Została pomyślnie wdrożona w całej Polsce
-**C.** Została całkowicie stłumiona przez króla
+**A.** Została pomyślnie wdrożona w całej Polsce
+**B.** Została całkowicie stłumiona przez króla
+**C.** Doprowadziła do buntów miejskich w Gdańsku i innych miastach
 **D.** Nie miała wpływu na politykę wewnętrzną
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Reformacja doprowadziła do buntów w miastach pruskich, zwłaszcza w Gdańsku w 1526 roku, gdzie mieszczanie sprzeciwili się władzy królewskiej i kościelnej, co wymusiło zdecydowaną reakcję monarchy.
 
@@ -248,8 +248,8 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (pomyślnie wdrożona) jest niepoprawna, ponieważ reformacja została częściowo stłumiona, a nie wdrożona powszechnie
-- Odpowiedź C (całkowicie stłumiona) jest zbyt daleko idąca, ponieważ idee reformacyjne przetrwały w niektórych środowiskach, mimo represji
+- Odpowiedź A (pomyślnie wdrożona) jest niepoprawna, ponieważ reformacja została częściowo stłumiona, a nie wdrożona powszechnie
+- Odpowiedź B (całkowicie stłumiona) jest zbyt daleko idąca, ponieważ idee reformacyjne przetrwały w niektórych środowiskach, mimo represji
 - Odpowiedź D (brak wpływu) jest sprzeczna z faktami - reformacja miała istotny wpływ na politykę wewnętrzną i wyznaniową
 
 ---
@@ -260,12 +260,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Co było główną przyczyną rokoszu lwowskiego w 1537 roku?
 
-**A.** Niezadowolenie szlachty z roli królowej Bony Sforzy
-**B.** Chęć obalenia monarchy
-**C.** Sprzeci wobec wojny z Moskwą
-**D.** Konflikt z Kościołem katolickim
+**A.** Chęć obalenia monarchy
+**B.** Sprzeci wobec wojny z Moskwą
+**C.** Konflikt z Kościołem katolickim
+**D.** Niezadowolenie szlachty z roli królowej Bony Sforzy
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Rokosz lwowski był wywołany niezadowoleniem szlachty z roli królowej Bony Sforzy, jej wykupu zastawionych królewszczyzn oraz domniemanymi nadużyciami magnaterii, co doprowadziło do żądań egzekucji praw.
 
@@ -273,9 +273,9 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (chęć obalenia monarchy) jest niepoprawna - szlachta nie dążyła do obalenia króla, ale do ograniczenia wpływów dworu
-- Odpowiedź C (sprzeciw wobec wojny) jest częściowo poprawna, ale nie była główną przyczyną rokospistoku
-- Odpowiedź D (konflikt z Kościołem) nie była istotnym czynnikiem rokospistoku
+- Odpowiedź A (chęć obalenia monarchy) jest niepoprawna - szlachta nie dążyła do obalenia króla, ale do ograniczenia wpływów dworu
+- Odpowiedź B (sprzeciw wobec wojny) jest częściowo poprawna, ale nie była główną przyczyną rokospistoku
+- Odpowiedź C (konflikt z Kościołem) nie był istotnym czynnikiem rokospistoku
 
 ---
 
@@ -310,12 +310,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Jakie osiągnięcia kultury renesansowej są związane z panowaniem Zygmunta I Starego?
 
-**A.** Budowa Kaplicy Zygmuntowskiej i przebudowa Wawelu
-**B.** Założenie Uniwersytetu Jagiellońskiego
+**A.** Założenie Uniwersytetu Jagiellońskiego
+**B.** Budowa Kaplicy Zygmuntowskiej i przebudowa Wawelu
 **C.** Budowa Zamku Królewskiego w Warszawie
 **D.** Powstanie Biblioteki Załuskich
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Za panowania Zygmunta I Starego przebudowano Zamek Królewski na Wawelu i wzniesiono Kaplicę Zygmuntowską (1517-1533), nazwaną "perłą toskańskiego renesansu na północ od Alp", co było ważnym osiągnięciem architektury renesansowej w Polsce.
 
@@ -324,7 +324,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Dzwon_Zygmunt
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (Uniwersytet Jagielloński) został założony w 1364 roku przez Kazimierza Wielkiego, a nie przez Zygmunta Starego
+- Odpowiedź A (Uniwersytet Jagielloński) został założony w 1364 roku przez Kazimierza Wielkiego, a nie przez Zygmunta Starego
 - Odpowiedź C (Zamek w Warszawie) został zbudowany później, za panowania Zygmunta III Wazy
 - Odpowiedź D (Biblioteka Załuskich) została założona w XVIII wieku, a nie w XVI wieku
 
@@ -361,12 +361,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Jaką politykę prowadził Zygmunt I Stary wobec Gdańska w XVI wieku?
 
-**A.** Próby uniezależnienia się od miasta i rozwoju floty kaperskiej
-**B.** Wsparcie dla autonomii gdańskiej
-**C.** Przekazanie Gdańska zakonowi krzyżackiemu
+**A.** Wsparcie dla autonomii gdańskiej
+**B.** Przekazanie Gdańska zakonowi krzyżackiemu
+**C.** Próby uniezależnienia się od miasta i rozwoju floty kaperskiej
 **D.** Zrzeczenie się praw do miasta
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Zygmunt I Stary dążył do uniezależnienia się od Gdańska poprzez rozwój floty kaperskiej, konflikty o cło ("nowe cło") i stłumienie buntu luterskiego w 1526 roku, co miało wzmocnić władzę monarchy nad tym ważnym miastem.
 
@@ -374,8 +374,8 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (wsparcie autonomii) jest sprzeczna z polityką króla - Zygmunt starał się ograniczyć autonomię Gdańska
-- Odpowiedź C (przekazanie zakonowi) jest niepoprawna - Gdańsk był już w Koronie od 1466 roku
+- Odpowiedź A (wsparcie autonomii) jest sprzeczna z polityką króla - Zygmunt starał się ograniczyć autonomię Gdańska
+- Odpowiedź B (przekazanie zakonowi) jest niepoprawna - Gdańsk był już w Koronie od 1466 roku
 - Odpowiedź D (zrzeczenie się praw) jest sprzeczna z faktami - król dążył do wzmocnienia, a nie zrzeczenia się praw
 
 ---
@@ -386,12 +386,12 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 
 **Pytanie:** Jakie były relacje Zygmunta I Starego z dynastią Habsburgów?
 
-**A.** Sojusz na zjeździe wiedeńskim, później rywalizacja o tron czeski i węgierski
-**B.** Permanentna wojna z Habsburgami
+**A.** Permanentna wojna z Habsburgami
+**B.** Sojusz na zjeździe wiedeńskim, później rywalizacja o tron czeski i węgierski
 **C.** W pełni podporządkowana polityka wobec Wiednia
 **D.** Obojętność wobec spraw habsburskich
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Zygmunt I Stary zawarł sojusz z Habsburgami na zjeździe wiedeńskim w 1515 roku, ale później doszło do rywalizacji o tron czeski i węgierski po bitwie pod Mohaczem w 1526 roku, którą przejął Ferdynand Habsburg.
 
@@ -399,7 +399,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź B (permanentna wojna) jest niepoprawna - relacje były zmienne, od sojuszu do rywalizacji
+- Odpowiedź A (permanentna wojna) jest niepoprawna - relacje były zmienne, od sojuszu do rywalizacji
 - Odpowiedź C (podporządkowanie polityki) jest niepoprawna - Polska zachowywała niezależność polityki wobec Habsburgów
 - Odpowiedź D (obojętność) jest sprzeczna z faktami - Zygmunt aktywnie angażował się w sprawy habsburskie
 

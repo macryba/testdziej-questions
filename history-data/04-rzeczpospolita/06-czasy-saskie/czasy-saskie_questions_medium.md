@@ -26,12 +26,12 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 
 **Pytanie:** Kto został wybrany na króla Polski w 1697 roku, rozpoczynając panowanie dynastii Wettinów w Rzeczypospolitej Obojga Narodów?
 
-**A.** Fryderyk August I Wettyn, elektor Saksonii
-**B.** August II Mocny, elektor Saksonii
+**A.** August II Mocny, elektor Saksonii
+**B.** Fryderyk August I Wettyn, elektor Saksonii
 **C.** Maurycy Saski, marszałek Francji
 **D.** Jan III Sobieski, król Polski
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** August II Mocny (Fryderyk August I Wettyn), elektor Saksonii, został wybrany na króla Polski w 1697 roku. Przed elekcją potajemnie przeszedł na katolicyzm, co było warunkiem koniecznym do objęcia tronu w chrześcijańskiej Rzeczypospolitej. Jego wyborowi sprzyjał cesarz Leopold I oraz Rosja, która przeciwna była kandydaturze francuskiego księcia Contiego.
 
@@ -77,11 +77,11 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 **Pytanie:** Jakie postanowienie podjął Sejm Niemy w 1717 roku, ograniczając suwerenność Rzeczypospolitej?
 
 **A.** Zwiększono armię do 48 tysięcy żołnierzy
-**B.** Ograniczono armię do 24 tysięcy żołnierzy
-**C.** Zniesiono liberum veto
-**D.** Przekazano kontrolę nad skarbem królowi
+**B.** Zniesiono liberum veto
+**C.** Przekazano kontrolę nad skarbem królowi
+**D.** Ograniczono armię do 24 tysięcy żołnierzy
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Sejm Niemy (1717) podjął decyzję o ograniczeniu armii Rzeczypospolitej do zaledwie 24 tysięcy żołnierzy. Była to dramatyczna redukcja w porównaniu z armiami sąsiednich państw —Prus i Rosja posiadały armie ponad 100 tysięcy żołnierzy. To ograniczenie, wynikające z nacisków szlachty obawiającej się absolutyzmu Wettinów, znacznie osłabiło militarną pozycję Polski.
 
@@ -102,11 +102,11 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 **Pytanie:** Który polski król z dynastii Wettinów panował w latach 1733-1763, rzadko przebywając w Rzeczypospolitej?
 
 **A.** August II Mocny
-**B.** August III Sas
-**C.** Fryderyk August I
-**D.** Stanisław Leszczyński
+**B.** Fryderyk August I
+**C.** Stanisław Leszczyński
+**D.** August III Sas
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** August III Sas panował w latach 1733-1763. W przeciwieństwie do swojego ojca Augusta II Mocnego, August III rzadko przebywał w Polsce, woląc rezydować w Dreźnie. Przez większość czasu pozostawiał rządy w ręku swojego premiera, Henryka Brühla. Za jego panowania tylko jeden sejm (1736) zakończył się sukcesem, a reszta była zrywana poprzez liberum veto.
 
@@ -176,12 +176,12 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 
 **Pytanie:** Która konfederacja zawiązana w 1715 roku sprzeciwiała się obecności wojsk saskich w Rzeczypospolitej?
 
-**A.** Konfederacja warszawska
-**B.** Konfederacja tarnogrodzka
+**A.** Konfederacja tarnogrodzka
+**B.** Konfederacja warszawska
 **C.** Konfederacja dzikowska
 **D.** Konfederacja sandomierska
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Konfederacja tarnogrodzka (1715-1717) była zbrojnym związkiem szlachty polskiej sprzeciwiającej się obecności wojsk saskich w Rzeczypospolitej oraz próbom wzmocnienia władzy królewskiej przez Augusta II Mocnego. Konfederaci domagali się wycofania wojsk saskich i usunięcia obcych wpływów. Spór zakończył się mediacją rosyjską i Sejmem Niemym w 1717 roku.
 
@@ -256,7 +256,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 **C.** Biskup krakowski
 **D.** Marszałek wielki koronny
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Henryk Brühl był "premierem-ministrem" Saksonii i Polski podczas panowania Augusta III Sasa. Jako główny doradca króla, sprawował faktyczną władzę w Rzeczypospolitej, ponieważ August III rzadko przebywał w Polsce. Brühl był znany z korupcji i niepopularnych decyzji, które przyczyniły się do dalszego osłabienia państwa. Współcześni jego nazwisko było synonimem "złotych czasów saskich" w ujemnym pojęciu.
 
@@ -351,12 +351,12 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 
 **Pytanie:** Co oznaczał termin "unia personalna" w kontekście czasów saskich?
 
-**A.** Połączenie Polski i Saksonii w jedno państwo
-**B.** Wspólny władca dla Polski i Saksonii
+**A.** Wspólny władca dla Polski i Saksonii
+**B.** Połączenie Polski i Saksonii w jedno państwo
 **C.** Włączenie Saksonii do Rzeczypospolitej
 **D.** Wspólna waluta Polska-Saksonia
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Unia personalna oznaczała, że jeden monarcha (August II Mocny lub August III Sas) był jednocześnie królem Polski i elektorem Saksonii. Oba państwa pozostały odrębnymi podmiotami z własnymi prawami, urzędami i armiami. Królowie sascy rzadko przebywali w Polsce, woląc Dreźno, co sprzyjało osłabieniu pozycji monarchy w Rzeczypospolitej.
 
@@ -377,11 +377,11 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 **Pytanie:** Które dzieło literackie, przypisywane Stanisławowi Leszczyńskiemu, głosiło potrzebę reform w Rzeczypospolitej?
 
 **A.** O skutecznym rad sposobie
-**B.** Głos wolny wolność ubezpieczający
-**C.** O状态的ie Rzeczypospolitej
-**D.** Monachomachia
+**B.** O状态的ie Rzeczypospolitej
+**C.** Monachomachia
+**D.** Głos wolny wolność ubezpieczający
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** "Głos wolny wolność ubezpieczający" (wydany ok. 1743) to traktat polityczny przypisywany Stanisławowi Leszczyńskiemu, głoszący potrzebę reform w Rzeczypospolitej. Proponował oczynszowanie chłopów, nadanie im wolności osobistej, usprawnienie pracy sejmu, ograniczenie liberum veto oraz reformę podatków. Dzieło to stanowiło ważny głos w debacie o reformy, które były przeprowadzone później przez Sejm Wielki.
 

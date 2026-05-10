@@ -28,22 +28,22 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-001
 **Pytanie:** Który car Rosji był jednocześnie pierwszym królem Królestwa Polskiego (Kongresówki) w latach 1815-1825?
 
-**A.** Mikołaj I Romanow
-**B.** Aleksander I Romanow
+**A.** Aleksander I Romanow
+**B.** Paweł I Romanow
 **C.** Aleksander II Romanow
-**D.** Paweł I Romanow
+**D.** Mikołaj I Romanow
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Aleksander I Romanow był pierwszym królem Królestwa Polskiego po jego utworzeniu w 1815 roku. Panował do swojej śmierci w 1825 roku, a następnie tron objął jego brat Mikołaj I.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kr%C3%B3lestwo_Polskie_%28kongresowe%29
 
-**Analysis of incorrect answers:**
-- A. Mikołaj I Romanow - był drugim królem Królestwa Polskiego (1825-1831), nie pierwszym
-- C. Aleksander II Romanow - panował dużo później, w latach 1855-1881
-- D. Paweł I Romanow - był carem Rosji w latach 1796-1801, zmarł przed utworzeniem Królestwa Polskiego
+**Analiza odpowiedzi błędnych:**
+- B. Paweł I Romanow – incorrect from other epoch: był carem Rosji w latach 1796-1801, zmarł przed utworzeniem Królestwa Polskiego (1815)
+- C. Aleksander II Romanow – incorrect from other epoch: panował dużo później jako car Rosji w latach 1855-1881
+- D. Mikołaj I Romanow – correct for: Powstanie listopadowe: był drugim królem Królestwa Polskiego (1825-1831) podczas powstania listopadowego
 
 ---
 
@@ -53,11 +53,11 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Pytanie:** W którym roku utworzono Królestwo Polskie (Kongresówkę) na mocy decyzji kongresu wiedeńskiego?
 
 **A.** 1807
-**B.** 1815
-**C.** 1830
-**D.** 1812
+**B.** 1812
+**C.** 1815
+**D.** 1830
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Królestwo Polskie (Kongresówka) zostało utworzone w 1815 roku na kongresie wiedeńskim po ostatecznej klęsce Napoleona. Kongres wiedeński decyzje o podziale ziem polskich zatwierdził 9 czerwca 1815 roku.
 
@@ -65,10 +65,10 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 - https://pl.wikipedia.org/wiki/Kr%C3%B3lestwo_Polskie_%28kongresowe%29
 - https://pl.wikipedia.org/wiki/Kongres_wiede%C5%84ski
 
-**Analysis of incorrect answers:**
-- A. 1807 - w tym roku utworzono Księstwo Warszawskie, nie Królestwo Polskie
-- C. 1830 - w tym roku wybuchło powstanie listopadowe
-- D. 1812 - w tym roku Napoleon wkroczył do Moskwy podczas wojny z Rosją
+**Analiza odpowiedzi błędnych:**
+- A. 1807 – incorrect from Księstwo Warszawskie: w tym roku utworzono Księstwo Warszawskie na mocy traktatu w Tylży
+- B. 1812 – incorrect from Księstwo Warszawskie: w tym roku Napoleon wkroczył do Moskwy podczas inwazji na Rosję
+- D. 1830 – correct for: Powstanie listopadowe: w tym roku wybuchło powstanie listopadowe przeciw władzy rosyjskiej
 
 ---
 
@@ -77,22 +77,22 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-003
 **Pytanie:** Jak nazywał się dokument zastępujący konstytucję Królestwa Polskiego po upadku powstania listopadowego?
 
-**A.** Konstytucja 3 maja
-**B.** Statut Organiczny
-**C.** Ustawa Rządowa
-**D.** Konstytucja Księstwa Warszawskiego
+**A.** Ustawa Rządowa
+**B.** Konstytucja 3 maja
+**C.** Konstytucja Księstwa Warszawskiego
+**D.** Statut Organiczny
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Statut Organiczny został wprowadzony przez cara Mikołaja I w 1832 roku po upadku powstania listopadowego. Zastąpił on konstytucję Królestwa Polskiego, likwidując Sejm i wojsko polskie.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konstytucja_Kr%C3%B3lestwa_Polskiego
 
-**Analysis of incorrect answers:**
-- A. Konstytucja 3 maja - uchwalona w 1791 roku dla Rzeczypospolitej Obojga Narodów
-- C. Ustawa Rządowa - potoczna nazwa Konstytucji 3 maja z 1791 roku
-- D. Konstytucja Księstwa Warszawskiego - konstytucja Księstwa Warszawskiego z 1807 roku
+**Analiza odpowiedzi błędnych:**
+- A. Ustawa Rządowa – incorrect from Oświecenie: potoczna nazwa Konstytucji 3 maja z 1791 roku uchwalonej przez Rzeczpospolitą Obojga Narodów
+- B. Konstytucja 3 maja – incorrect from Oświecenie: pierwsza nowoczesna konstytucja w Europie, uchwalona w 1791 roku dla Rzeczypospolitej Obojga Narodów
+- C. Konstytucja Księstwa Warszawskiego – incorrect from Księstwo Warszawskie: konstytucja Księstwa Warszawskiego z 1807 roku nadana przez Napoleona
 
 ---
 
@@ -102,21 +102,21 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Pytanie:** Który polski polityk był ministrem skarbu Królestwa Polskiego i promotorem rozwoju gospodarczego w latach 1815-1830?
 
 **A.** Adam Jerzy Czartoryski
-**B.** Franciszek Ksawery Drucki-Lubecki
+**B.** Stanisław Staszic
 **C.** Józef Zajączek
-**D.** Stanisław Staszic
+**D.** Franciszek Ksawery Drucki-Lubecki
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Franciszek Ksawery Drucki-Lubecki był ministrem skarbu Królestwa Polskiego w latach 1815-1830. Promował industrializację i rozwój gospodarczy, szczególnie przemysłu metalurgicznego, górniczego i włókienniczego.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Franciszek_Ksawery_Drucki-Lubecki
 
-**Analysis of incorrect answers:**
-- A. Adam Jerzy Czartoryski - był kuratorem okręgu wileńskiego i przywódcą obozu konserwatywnego
-- C. Józef Zajączek - był namiestnikiem Królestwa Polskiego w latach 1815-1826
-- D. Stanisław Staszic - był działaczem oświeceniowym, zmarł w 1826 roku
+**Analiza odpowiedzi błędnych:**
+- A. Adam Jerzy Czartoryski – incorrect from same chapter: był kuratorem okręgu wileńskiego i przywódcą obozu konserwatywnego, nie ministrem skarbu
+- B. Stanisław Staszic – incorrect from Oświecenie: był działaczem oświeceniowym i reformator, zmarł w 1826 roku
+- C. Józef Zajączek – no referenced answer: był namiestnikiem Królestwa Polskiego w latach 1815-1826, nie ministrem skarbu
 
 ---
 
@@ -125,10 +125,10 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-005
 **Pytanie:** W którym roku utworzono Uniwersytet Warszawski w Królestwie Polskim?
 
-**A.** 1815
+**A.** 1830
 **B.** 1816
 **C.** 1820
-**D.** 1830
+**D.** 1815
 
 **Prawidłowa odpowiedź:** B
 
@@ -137,10 +137,10 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Uniwersytet_Warszawski
 
-**Analysis of incorrect answers:**
-- A. 1815 - w tym roku utworzono Królestwo Polskie, ale uniwersytet powstał rok później
-- C. 1820 - w tym roku utworzono Instytut Politechniczny w Warszawie
-- D. 1830 - w tym roku wybuchło powstanie listopadowe
+**Analiza odpowiedzi błędnych:**
+- A. 1830 – incorrect from same chapter: w tym roku wybuchło powstanie listopadowe
+- C. 1820 – no referenced answer: w tym roku utworzono Instytut Politechniczny w Warszawie, a nie Uniwersytet Warszawski
+- D. 1815 – no referenced answer: w tym roku utworzono Królestwo Polskie, ale uniwersytet powstał rok później
 
 ---
 

@@ -59,10 +59,10 @@ Lech Wałęsa został wybrany na prezydenta RP w 1990 roku, pokonując w drugiej
 W którym roku Polska przystąpiła do Organizacji Traktatu Północnoatlantyckiego (NATO)?
 
 **Odpowiedzi:**
-A. 1997
-B. 1999
-C. 2001
-D. 2004
+A. Rok przyjęcia Konstytucji RP
+B. Rok wejścia do NATO wraz z Czechami i Węgrami
+C. Rok ataków terrorystycznych na USA
+D. Rok przystąpienia do Unii Europejskiej
 
 **Poprawna odpowiedź:** B
 
@@ -73,9 +73,9 @@ Polska przystąpiła do NATO 12 marca 1999 roku wraz z Czechami i Węgrami. Był
 - [Przystąpienie Polski do NATO](https://pl.wikipedia.org/wiki/Przyst%C4%85pienie_Polski_do_NATO) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- 1997 - w tym roku przyjęto Konstytucję RP, ale Polska jeszcze nie była członkiem NATO
-- 2001 - w tym roku miały place ataki terrorystyczne na USA, a Polska była już członkiem NATO
-- 2004 - w tym roku Polska przystąpiła do Unii Europejskiej, a nie do NATO
+- Rok przyjęcia Konstytucji RP — to był rok 1997, kiedy Polska przyjęła nową konstytucję, ale jeszcze nie była członkiem NATO
+- Rok ataków terrorystycznych na USA — to był rok 2001, a Polska była już członkiem NATO od dwóch lat
+- Rok przystąpienia do Unii Europejskiej — to był rok 2004, kiedy Polska dołączyła do UE, a nie do NATO
 
 ---
 
@@ -87,12 +87,12 @@ Polska przystąpiła do NATO 12 marca 1999 roku wraz z Czechami i Węgrami. Był
 Jak nazywa się najważniejszy akt prawny III Rzeczypospolitej, przyjęty w 1997 roku?
 
 **Odpowiedzi:**
-A. Konstytucja Rzeczypospolitej Polskiej
+A. Ustawa o trybunale konstytucyjnym
 B. Traktat o przyjęciu do Unii Europejskiej
-C. Ustawa o wyborach parlamentarnych
-D. Ustawa o trybunale konstytucyjnym
+C. Konstytucja Rzeczypospolitej Polskiej
+D. Ustawa o wyborach parlamentarnych
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Konstytucja Rzeczypospolitej Polskiej została przyjęta przez Zgromadzenie Narodowe 2 kwietnia 1997 roku i zatwierdzona w referendum konstytucyjnym 25 maja 1997 roku. Jest to najważniejszy akt prawny III RP, który określa ustrój Polski, prawa i obowiązki obywateli oraz relacje między władzami.

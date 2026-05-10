@@ -33,12 +33,12 @@ Najważniejszym osiągnięciem Kazimierza IV było odzyskanie Pomorza Gdańskieg
 Oceń bilans panowania Kazimierza Jagiellończyka. Jakie sprzeczności charakteryzowały jego rządy i jaki był ich długofalowy wpływ na dalsze losy Rzeczypospolitej?
 
 **Options:**
-A. Polityka wewnętrzna i zagraniczna były równie udane bez sprzeczności
-B. Sukcesy zewnętrzne (wojna, polityka dynastyczna) kontra osłabienie władzy monarchy na rzecz szlachty
+A. Sukcesy zewnętrzne (wojna, polityka dynastyczna) kontra osłabienie władzy monarchy na rzecz szlachty
+B. Polityka wewnętrzna i zagraniczna były równie udane bez sprzeczności
 C. Całkowita porażka zarówno w polityce wewnętrznej, jak i zagranicznej
 D. Brak jakichkolwiek osiągnięć politycznych
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:**
 Panowanie Kazimierza Jagiellończyka charakteryzowało się wyraźną sprzecznością między sukcesami polityki zagranicznej a niepowodzeniami polityki wewnętrznej. Zewnętrznie: odzyskanie Pomorza Gdańskiego, zwycięstwo w wojnie trzynastoletniej, ekspansja dynastyczna Jagiellonów na Czechy i Węgry podniosły prestiż Polski. Wewnętrznie jednak: konflikty z możnowładztwem (zwłaszcza kardynałem Oleśnickim), przywileje nieszawskie (1454) ograniczające władzę monarchy, wzrost roli szlachty i osłabienie mieszczaństwa rozpoczęły proces oligarchizacji i demokratyzacji szlacheckiej, który w długim okresie osłabił państwo i przyczynił się do upadku Rzeczypospolitej w XVIII wieku. Jego rządy były więc tryumfem dynastii, ale zarazem początkiem końca silnej monarchii w Polsce.
@@ -65,11 +65,11 @@ W jaki sposób statuty nieszawskie z 1454 roku i konflikty Kazimierza Jagielloń
 
 **Options:**
 A. Wzmocniły absolutyzm monarchiczny w Polsce
-B. Ograniczyły władzę królewską i rozpoczęły proces demokratyzacji szlacheckiej, prowadząc do "państwa szlacheckiego"
-C. Nie miały żadnego wpływu na system polityczny
+B. Nie miały żadnego wpływu na system polityczny
+C. Ograniczyły władzę królewską i rozpoczęły proces demokratyzacji szlacheckiej, prowadząc do "państwa szlacheckiego"
 D. Przywróciły system feudalny z czasów rozbicia dzielnicowego
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:**
 Statuty nieszawskie (1454) były przełomowym momentem w historii polskiego ustroju. Zmuszony sytuacją wojenną (potrzeba poparcia szlachty dla wojny z Zakonem), Kazimierz Jagiellończyk zgodził się ograniczyć swoją władzę: nie mógł zwołać pospolitego ruszenia, uchwalać podatków ani podejmować ważnych decyzji bez zgody sejmików ziemskich. Szlachta zyskała prawo obsadzania urzędów ziemskich, co ograniczyło wpływy magnaterii i monarchy. To był początek "państwa szlacheckiego" - unikatowego w skali europejskiej systemu, w którym szlachta posiadała rozległe prawa i przywileje kosztem władzy centralnej. W dłuższej perspektywie proces ten doprowadził do liberum veto, wolnej elekcji i ostatecznie do upadku państwa w XVIII wieku. Konflikty Kazimierza z możnowładztwem (szczególnie z kardynałem Zbigniewem Oleśnickim) pokazały niemoc monarchy wobec silnych frakcji magnackich i konieczność szukania oparcia w średniej szlachcie, co na zawsze zmieniło polski system polityczny.
@@ -79,9 +79,9 @@ Statuty nieszawskie (1454) były przełomowym momentem w historii polskiego ustr
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. Wzmocnienie absolutyzmu - był to efekt przeciwny; statuty ograniczyły władzę monarchy
-- C. Brak wpływu - statuty nieszawskie miały fundamentalne znaczenie dla dalszych dziejów Polski
-- D. Przywrócenie feudalizmu - proces ten szedł w kierunku parlamentaryzmu, a nie powrotu do rozbicia dzielnicowego
+- A. Wzmocnienie absolutyzmu - no referenced answer: był to efekt przeciwny do rzeczywistego; statuty nieszawskie ograniczyły władzę monarchy na rzecz szlachty, co było procesem odwrotnym do wzmacniania absolutyzmu
+- B. Brak wpływu - no referenced answer: statuty nieszawskie miały fundamentalne znaczenie dla dalszych dziejów Polski, zapoczątkowując proces kształtowania się "państwa szlacheckiego"
+- D. Przywrócenie feudalizmu - incorrect from Rozbicie dzielnicowe: proces ten szedł w kierunku parlamentaryzmu i demokratyzacji szlacheckiej, a nie powrotu do systemu feudalnego z czasów rozbicia dzielnicowego (XII-XIV wiek)
 
 ---
 
@@ -110,6 +110,6 @@ Polityka dynastyczna Kazimierza Jagiellończyka była jedną z najbardziej ambit
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagiello%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. Całkowita porażka - mimo ograniczeń, polityka dynastyczna uczyniła Jagiellonów potężną dynastią europejską
-- C. Natychmiastowy upadek - dynastia panowała przez kolejne 80 lat po śmierci Kazimierza
-- D. Brak polityki - małżeństwa z Elżbietą Rakuszanką i wychowanie synów do ról władców świadczą o bardzo świadomej polityce dynastycznej
+- A. Całkowita porażka - no referenced answer: mimo ograniczeń i późniejszego rozpadu imperium, polityka dynastyczna Kazimierza Jagiellończyka uczyniła Jagiellonów jedną z najpotężniejszych dynastii europejskich, panującą w Czechach, Węgrzech i Polsce
+- C. Natychmiastowy upadek - no referenced answer: dynastia Jagiellonów panowała w różnych państwach europejskich przez kolejne 80 lat po śmierci Kazimierza (do 1572 roku), co przeczy twierdzeniu o natychmiastowym upadku
+- D. Brak polityki - no referenced answer: małżeństwo z Elżbietą Rakuszanką (dynastia Habsburgów) oraz wydatne wychowanie synów (Jan Długosz, Filip Kallimach) do ról władców świadczą o bardzo świadomej i planowej polityce dynastycznej

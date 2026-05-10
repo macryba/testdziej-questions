@@ -41,12 +41,12 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 
 **Pytanie:** Kto był przywódcą spisku podchorążych, który dał sygnał do wybuchu powstania listopadowego?
 
-**A:** Piotr Wysocki
-**B:** Józef Chłopicki
-**C:** Jan Skrzynecki
-**D:** Romuald Traugutt
+**A:** Jan Skrzynecki
+**B:** Romuald Traugutt
+**C:** Piotr Wysocki
+**D:** Józef Chłopicki
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Piotr Wysocki był podporucznikiem w Szkole Podchorążych Piechoty i przywódcą spisku, który wybuchł w nocy z 29 na 30 listopada 1830 roku. To on wszedł do szkoły i wygłosił mowę mobilizującą podchorążych do walki, rozpoczynając powstanie.
 
@@ -93,11 +93,11 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 **Pytanie:** Jaki dokument zastąpił konstytucję Królestwa Polskiego po klęsce powstania listopadowego?
 
 **A:** Konstytucja Księstwa Warszawskiego
-**B:** Statut Organiczny
+**B:** Konstytucja 3 maja
 **C:** Karta Konstytycyjna
-**D:** Konstytucja 3 maja
+**D:** Statut Organiczny
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Statut Organiczny został wprowadzony w 1832 roku po klęsce powstania listopadowego. Zastąpił on konstytucję Królestwa Polskiego z 1815 roku i drastycznie ograniczył autonomię Polski, likwidując m.in. armię polską i Sejm.
 
@@ -118,12 +118,12 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 
 **Pytanie:** Gdzie uciekali polscy patrioci po klęsce powstania listopadowego?
 
-**A:** Do Francji i Wielkiej Brytanii
-**B:** Do Prus i Austrii
-**C:** Do Stanów Zjednoczonych
-**D:** Do Rosji
+**A:** Do Prus i Austrii
+**B:** Do Stanów Zjednoczonych
+**C:** Do Belgii i Szwajcarii
+**D:** Do Francji i Wielkiej Brytanii
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Po klęsce powstania listopadowego tysiące Polaków wyemigrowało do Europy Zachodniej, głównie do Francji i Wielkiej Brytanii. To zjawisko znane jest jako Wielka Emigracja. Wśród emigrantów byli liczni intelektualiści, wojskowi i politycy, którzy tam organizowali działalność niepodległościową.
 
@@ -133,8 +133,8 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Prusy i Austria były wrogie powstaniu i internowały polskich uchodźców
-- Stany Zjednoczone były zbyt daleko
-- Rosja była zaborcą, który stłumił powstanie
+- Stany Zjednoczone były zbyt daleko dla masowej emigracji
+- Belgia i Szwajcaria przyjęły mniejsze grupy emigrantów
 
 ---
 

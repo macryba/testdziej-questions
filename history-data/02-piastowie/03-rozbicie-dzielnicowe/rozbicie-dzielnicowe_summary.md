@@ -1,17 +1,18 @@
 ---
 chapter: "Rozbicie dzielnicowe I"
-tech_name: "rozbicie-dzielnicze-i"
+tech_name: "rozbicie-dzielnicowe"
 long_name: "Rozbicie dzielnicowe - początek"
 epoch: "Piastowie"
 epoch_id: 2
 chapter_id: 3
 period: "1138-1241"
-created_at: "2026-05-06T00:35:00Z"
+created_at: "2026-05-10T12:00:00Z"
 summary_type: "chapter_overview"
-easy_question_count: 5
-medium_question_count: 12
-hard_question_count: 4
+easy_question_count: 0
+medium_question_count: 37
+hard_question_count: 14
 curriculum_coverage: "limited"
+consolidation_note: "Consolidated from two duplicate folders: 03-rozbicie-dzielnicowe-i (0 easy, 20 medium, 10 hard) and 03-rozbicie-dzielnicze-i (5 easy, 12 medium, 4 hard). All easy questions moved to medium as topic not in primary school curriculum."
 ---
 
 # Rozbicie dzielnicowe I: Rozbicie dzielnicowe - początek
@@ -37,16 +38,13 @@ Mimo politycznego rozpadu, wiek XII i XIII przyniósł istotne przemiany społec
 
 ## Tematy poziom EASY (szkoła podstawowa)
 
-**Temat ograniczony w podstawie programowej.**
+**Temat nieobjęty podstawą programową szkoły podstawowej.**
 
-Ten temat jest objęty podstawą programową szkoły podstawowej (Dział VI: "Polska w okresie rozbicia dzielnicowego"), ale znajduje ograniczone odzwierciedlenie wśród 17 kluczowych postaci z Dział IV. Temat wymaga zwięzłego ujęcia bez nadmiernego szczegółowania.
+Ten temat wykracza poza zakres podstawy programowej szkoły podstawowej. Chociaż dział VI wspomina o "Polsce w okresie rozbicia dzielnicowego", to konkretne postacie z tego okresu nie znajdują się na liście kluczowych postaci z Działu IV.
 
-- **Postacie:** Bolesław III Krzywousty (testator), Władysław II Wygnaniec (pierwszy senior), Bolesław IV Kędzierzawy, Kazimierz II Sprawiedliwy
-- **Wydarzenia:** Śmierć Bolesława Krzywoustego (1138), wygnanie Władysława II (1146), śmierć Leszka Białego (1227)
-- **Miejsca:** Kraków (stolicy senioralnej), Wrocław, Gniezno, Poznań
-- **Pojęcia:** Seniorat (pryncypat), dzielnica senioralna, testamento Bolesława Krzywoustego, rozbicie dzielnicowe
+Proste pytania faktograficzne (Kto? Co? Gdzie? Kiedy?) z tego rozdziału znajdują się w pytaniach poziomu średniego (MEDIUM).
 
-**Zalecana liczba pytań EASY:** 5 (zgodnie z ograniczonym zakresem w podstawie programowej)
+**Zalecana liczba pytań EASY:** 0 (temat nie w podstawie programowej szkoły podstawowej)
 
 ## Tematy poziom MEDIUM (liceum - zakres podstawowy)
 
@@ -78,7 +76,7 @@ Ten temat jest objęty podstawą programową szkoły podstawowej (Dział VI: "Po
   - Polska w okresie rozbicia vs inne państwa europejskie (Rus, Niemcy)
   - Przed i po 1227 roku (z pryncypatem vs bez)
 
-**Zalecana liczba pytań MEDIUM:** 12 (w tym pytania faktograficzne z podstawy programowej + pytania analityczne)
+**Zalecana liczba pytań MEDIUM:** 37 (wszystkie pytania z obu folderów, w tym pytania łatwe przeniesione do średniego)
 
 ## Tematy poziom HARD (liceum - zakres rozszerzony)
 
@@ -89,7 +87,7 @@ Ten temat jest objęty podstawą programową szkoły podstawowej (Dział VI: "Po
 
 - **Ocena z perspektywy:**
   - Testament Bolesława Krzywoustego jako przyczyna rozbicie czy próba zachowania jedności?
-  - Rola Kościoła i możnowładztwa w obalaniu senioratu
+  - Rola Kościoła i możnownładztwa w obalaniu senioratu
   - Znaczenie kolonizacji na prawie niemieckim dla rozwoju społeczno-gospodarczego
 
 - **Synteza:**
@@ -109,4 +107,4 @@ Ten temat jest objęty podstawą programową szkoły podstawowej (Dział VI: "Po
   - Układ w Krzyszkowie (1157)
   - Zjazd w Łęczycy (1180)
 
-**Zalecana liczba pytań HARD:** 4
+**Zalecana liczba pytań HARD:** 14

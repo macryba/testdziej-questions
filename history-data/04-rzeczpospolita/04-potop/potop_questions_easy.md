@@ -33,22 +33,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Kto był królem Szwecji podczas najazdu na Polskę w latach 1655-1660?
 
-**A.** Karol X Gustaw
-**B.** Karol XI
-**C.** Gustaw II Adolf
+**A.** Karol XI
+**B.** Gustaw II Adolf
+**C.** Karol X Gustaw
 **D.** Jan III Sobieski
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Karol X Gustaw był królem Szwecji od 1654 do 1660 roku i to on zaplanował i poprowadził najazd na Rzeczpospolitą.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Karol XI): Był królem Szwecji później, w latach 1660-1697
-- Odp C (Gustaw II Adolf): Zmarł w 1632 roku, przed potopem szwedzkim
-- Odp D (Jan III Sobieski): Był królem Polski, nie Szwecji
+**Analiza odpowiedzi błędnych:**
+- Odp B (Karol XI): incorrect from Sobieski - był królem Szwecji później, w latach 1660-1697
+- Odp C (Gustaw II Adolf): no referenced answer - zmarł w 1632 roku, przed potopem szwedzkim
+- Odp D (Jan III Sobieski): incorrect from Sobieski - był królem Polski, nie Szwecji
 
 ---
 
@@ -58,22 +58,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Który polski król panował podczas potopu szwedzkiego?
 
-**A.** Jan II Kazimierz Waza
-**B.** Jan III Sobieski
+**A.** Jan III Sobieski
+**B.** Jan II Kazimierz Waza
 **C.** Zygmunt III Waza
 **D.** Władysław IV Waza
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Jan II Kazimierz Waza był królem Polski w latach 1648-1668, więc podczas najazdu szwedzkiego w latach 1655-1660 to on pełnił funkcję monarchy.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Jan_II_Kazimierz_Waza
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Jan III Sobieski): Został królem później, w 1674 roku
-- Odp C (Zygmunt III Waza): Zmarł w 1632 roku, przed potopem
-- Odp D (Władysław IV Waza): Zmarł w 1648 roku, przed najazdem szwedzkim
+**Analiza odpowiedzi błędnych:**
+- Odp A (Jan III Sobieski): incorrect from Sobieski - został królem później, w 1674 roku
+- Odp C (Zygmunt III Waza): no referenced answer - zmarł w 1632 roku, przed potopem
+- Odp D (Władysław IV Waza): incorrect from Wazowie - zmarł w 1648 roku, przed najazdem szwedzkim
 
 ---
 
@@ -83,22 +83,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** W którym roku rozpoczął się potop szwedzki?
 
-**A.** 1655
-**B.** 1648
+**A.** 1648
+**B.** 1655
 **C.** 1660
 **D.** 1672
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Potop szwedzki rozpoczął się w lipcu 1655 roku, gdy wojska szwedzkie wkroczyły do Rzeczypospolitej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (1648): To rok wybuchu powstania Chmielnickiego
-- Odp C (1660): To rok zakończenia wojny pokojem oliwskim
-- Odp D (1672): To rok wybuchu wojny polsko-tureckiej
+**Analiza odpowiedzi błędnych:**
+- Odp A (1648): correct for: Chmielnicki - to rok wybuchu powstania Chmielnickiego
+- Odp C (1660): context from Potop - to rok zakończenia wojny pokojem oliwskim
+- Odp D (1672): correct for: Wojny polsko-tureckie - to rok wybuchu wojny polsko-tureckiej
 
 ---
 
@@ -120,10 +120,10 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Jasnej_G%C3%B3ry
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Stefan Czarniecki): Był hetmanem polskim, dowodził wojskiem w polu
-- Odp C (Jan Kazimierz): Był królem Polski, przebywał na wygnaniu
-- Odp D (Karol Gustaw): Był królem Szwecji, dowodził wojskami oblegającymi Jasną Górę
+**Analiza odpowiedzi błędnych:**
+- Odp B (Stefan Czarniecki): context from Potop - był hetmanem polskim, dowodził wojskiem w polu
+- Odp C (Jan Kazimierz): context from Potop - był królem Polski, przebywał na wygnaniu
+- Odp D (Karol Gustaw): context from Potop - był królem Szwecji, dowodził wojskami oblegającymi Jasną Górę
 
 ---
 
@@ -133,22 +133,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Który polski hetman był znany z walk ze Szwedami podczas potopu?
 
-**A.** Stefan Czarniecki
-**B.** Jan Zamoyski
-**C.** Tadeusz Kościuszko
-**D.** Józef Piłsudski
+**A.** Jan Zamoyski
+**B.** Tadeusz Kościuszko
+**C.** Józef Piłsudski
+**D.** Stefan Czarniecki
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Stefan Czarniecki był jednym z najznakomitszych hetmanów polskich, który zasłynął z walk ze Szwedami podczas potopu szwedzkiego.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Jan Zamoyski): Żył w XVI wieku, przed potopem szwedzkim
-- Odp C (Tadeusz Kościuszko): Żył w XVIII wieku, podczas insurekcji kościuszkowskiej
-- Odp D (Józef Piłsudski): Żył w XX wieku, podczas odzyskiwania niepodległości
+**Analiza odpowiedzi błędnych:**
+- Odp A (Jan Zamoyski): no referenced answer - żył w XVI wieku, przed potopem szwedzkim
+- Odp B (Tadeusz Kościuszko): correct for: Kościuszko - żył w XVIII wieku, podczas insurekcji kościuszkowskiej
+- Odp C (Józef Piłsudski): correct for: II Rzeczpospolita - żył w XX wieku, podczas odzyskiwania niepodległości
 
 ---
 
@@ -158,22 +158,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Gdzie znajdowała się Jasna Góra, która odegrała kluczową rolę podczas potopu?
 
-**A.** W Częstochowie
-**B.** W Krakowie
-**C.** W Warszawie
+**A.** W Krakowie
+**B.** W Warszawie
+**C.** W Częstochowie
 **D.** W Gnieźnie
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Jasna Góra to sanktuarium maryjne w Częstochowie, gdzie paulini pod wodzą Augustyna Kordeckiego obronili się przed Szwedami w 1655 roku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Jasnej_G%C3%B3ry
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Krakowie): Była stolicą Polski, zajęta przez Szwedów
-- Odp C (Warszawie): Była ważnym miastem, ale nie tam znajdowała się Jasna Góra
-- Odp D (Gnieźnie): Było pierwszą stolicą Polski, ale nie tam znajdowało się sanktuarium
+**Analiza odpowiedzi błędnych:**
+- Odp A (Krakowie): context from Potop - była stolicą Polski, zajęta przez Szwedów
+- Odp B (Warszawie): context from Potop - była ważnym miastem, ale nie tam znajdowała się Jasna Góra
+- Odp D (Gnieźnie): no referenced answer - było pierwszą stolicą Polski, ale nie tam znajdowało się sanktuarium
 
 ---
 
@@ -183,22 +183,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Który traktat pokojowy zakończył potop szwedzki?
 
-**A.** Pokój oliwski
+**A.** Traktat w Westfalii
 **B.** Pokój w Lublinie
-**C.** Traktat w Westfalii
+**C.** Pokój oliwski
 **D.** Pokój w Nijmegen
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Pokój oliwski podpisany 3 maja 1660 roku zakończył wojnę polsko-szwedzką z lat 1655-1660.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Pokój w Lublinie): Dotyczył unii polsko-litewskiej w 1569 roku
-- Odp C (Traktat w Westfalii): Zakończył wojnę trzydziestoletnią w 1648 roku
-- Odp D (Pokój w Nijmegen): Został podpisany później, w latach 1678-1679
+**Analiza odpowiedzi błędnych:**
+- Odp A (Traktat w Westfalii): no referenced answer - zakończył wojnę trzydziestoletnią w 1648 roku
+- Odp B (Pokój w Lublinie): correct for: Unia lubelska - dotyczył unii polsko-litewskiej w 1569 roku
+- Odp D (Pokój w Nijmegen): no referenced answer - został podpisany później, w latach 1678-1679
 
 ---
 
@@ -208,22 +208,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Które polskie miasto skutecznie nie poddało się Szwedom podczas potopu?
 
-**A.** Gdańsk
-**B.** Kraków
+**A.** Kraków
+**B.** Gdańsk
 **C.** Warszawa
 **D.** Poznań
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Gdańsk jako jedno z niewielu miast polskich skutecznie obroniło się przed Szwedami i nie poddało się dzięki silnym murom i pomocy holenderskiej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Krakowie): Został zajęty przez Szwedów w 1655 roku
-- Odp C (Warszawie): Była wielokrotnie zajmowana przez Szwedów
-- Odp D (Poznań): Została zajęta przez wojska szwedzkie
+**Analiza odpowiedzi błędnych:**
+- Odp A (Kraków): context from Potop - został zajęty przez Szwedów w 1655 roku
+- Odp C (Warszawa): context from Potop - była wielokrotnie zajmowana przez Szwedów
+- Odp D (Poznań): context from Potop - została zajęta przez wojska szwedzkie
 
 ---
 
@@ -233,22 +233,22 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Co to jest konfederacja tyszowiecka?
 
-**A.** Związek szlachty polskiej przeciw Szwedom
-**B.** Sojusz Polski ze Szwecją
-**C.** Układ pokojowy z Rosją
+**A.** Sojusz Polski ze Szwecją
+**B.** Układ pokojowy z Rosją
+**C.** Związek szlachty polskiej przeciw Szwedom
 **D.** Unia polsko-litewska
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Konfederacja tyszowiecka zawiązana w 1655 roku była związkiem szlachty polskiej, która postanowiła walczyć ze Szwedami i obronić niepodległość kraju.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Sojusz Polski ze Szwecją): Polska walczyła ze Szwecją, nie była z nią sprzymierzona.
-- Odp C (Układ pokojowy z Rosją): Konfederacja dotyczyła walki ze Szwedami, nie Rosji
-- Odp D (Unia polsko-litewska): Została zawarta w 1569 roku, przed potopem szwedzkim
+**Analiza odpowiedzi błędnych:**
+- Odp A (Sojusz Polski ze Szwecją): no referenced answer - Polska walczyła ze Szwecją, nie była z nią sprzymierzona
+- Odp B (Układ pokojowy z Rosją): no referenced answer - konfederacja dotyczyła walki ze Szwedami, nie Rosji
+- Odp D (Unia polsko-litewska): correct for: Unia lubelska - została zawarta w 1569 roku, przed potopem szwedzkim
 
 ---
 
@@ -258,19 +258,19 @@ Wielkie bitwy pod Jarosławem (1656) i Warką (1656) pokazały, że Polacy mogą
 
 **Pytanie:** Jakie były główne skutki potopu szwedzkiego dla Polski?
 
-**A.** Ogromne straty ludności i gospodarcze
-**B.** Zdobycie nowych terytoriów
-**C.** Wzrost gospodarczy
+**A.** Zdobycie nowych terytoriów
+**B.** Wzrost gospodarczy
+**C.** Ogromne straty ludności i gospodarcze
 **D.** Zniesienie pańszczyzny
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Potop szwedzki przyniósł Polsce ogromne straty: około 40% ludności zginęło, a większość dóbr gospodarczych została zniszczona.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
-- Odp B (Zdobycie nowych terytoriów): Polska straciła terytoria, nie zyskała nowych.
-- Odp C (Wzrost gospodarczy): Gospodarka została znacznie zniszczona
-- Odp D (Zniesienie pańszczyzny): Pańszczyzna została zniesiona dużo później, w XIX wieku
+**Analiza odpowiedzi błędnych:**
+- Odp A (Zdobycie nowych terytoriów): no referenced answer - Polska straciła terytoria, nie zyskała nowych
+- Odp B (Wzrost gospodarczy): no referenced answer - gospodarka została znacznie zniszczona
+- Odp D (Zniesienie pańszczyzny): correct for: XIX wiek - pańszczyzna została zniesiona dużo później, w XIX wieku

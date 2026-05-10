@@ -37,8 +37,8 @@
       },
       "Rozbicie dzielnicowe I": {
         "easy": 0,
-        "medium": 20,
-        "hard": 10,
+        "medium": 37,
+        "hard": 14,
         "easy_completed": true,
         "medium_completed": true,
         "hard_completed": true
@@ -475,7 +475,8 @@
       }
     }
   },
-  "last_updated": "2026-05-07T22:30:00Z",
+  "last_updated": "2026-05-10T12:00:00Z",
+  "consolidation_note": "Consolidated duplicate Rozbicie dzielnicowe folders: merged 03-rozbicie-dzielnicowe-i (0 easy, 20 medium, 10 hard) and 03-rozbicie-dzielnicze-i (5 easy, 12 medium, 4 hard) into 03-rozbicie-dzielnicowe (0 easy, 37 medium, 14 hard). All easy questions moved to medium as topic not in primary school curriculum.",
   "summary": {
     "easy": 0,
     "medium": 12,

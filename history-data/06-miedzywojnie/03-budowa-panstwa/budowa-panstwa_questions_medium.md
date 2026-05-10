@@ -27,22 +27,22 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 **Question ID:** Q-MED-001
 **Type:** Pytanie faktograficzne - Wydarzenia
 
-**Pytanie:** Kiedy uchwalono Konstytucję marcową - pierwszą konstytucję odrodzonej Polski?
+**Pytanie:** Kto uchwalił Konstytucję marcową - pierwszą konstytucję odrodzonej Polski?
 
-**A)** 17 marca 1921 roku
-**B)** 11 listopada 1918 roku
-**C)** 28 kwietnia 1924 roku
-**D)** 12 maja 1926 roku
+**A)** Sejm Ustawodawczy
+**B)** Zgromadzenie Narodowe
+**C)** Rada Ministrów
+**D)** Sejm i Senat razem
 
 **Prawidłowa odpowiedź:** A
 
-**Wyjaśnienie:** Konstytucja marcowa została uchwalona 17 marca 1921 roku. Była to pierwsza polska konstytucja po odzyskaniu niepodległości, która ustaliła ustrój demokratyczno-parlamentarny z silną pozycją Sejmu i Senatu.
+**Wyjaśnienie:** Konstytucja marcowa została uchwalona 17 marca 1921 roku przez Sejm Ustawodawczy. Była to pierwsza polska konstytucja po odzyskaniu niepodległości, która ustaliła ustrój demokratyczno-parlamentarny z silną pozycją Sejmu i Senatu.
 
 **Źródła:**
 - [Konstytucja marcowa](https://pl.wikipedia.org/wiki/Konstytucja_marcowa) - Wikipedia Polska
 - [II Rzeczpospolita](https://pl.wikipedia.org/wiki/II_Rzeczpospolita) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B (11 listopada 1918) to data odzyskania niepodległości, a nie uchwalenia konstytucji. Odpowiedź C (28 kwietnia 1924) dotyczy reformy walutowej Grabskiego. Odpowiedź D (12 maja 1926) to data początku przewrotu majowego.
+**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B (Zgromadzenie Narodowe) wybierało prezydenta, a nie uchwalało konstytucję. Odpowiedź C (Rada Ministrów) przygotowywała projekt, ale nie uchwalała konstytucji. Odpowiedź D (Sejm i Senat razem) - Sejm uchwalił konstytucję samodzielnie, Senat ją tylko zatwierdził.
 
 ---
 
@@ -76,11 +76,11 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 **Pytanie:** Kto był pierwszym prezydentem Rzeczypospolitej Polskiej wybranym po uchwaleniu Konstytucji marcowej?
 
 **A)** Józef Piłsudski
-**B)** Gabriel Narutowicz
-**C)** Stanisław Wojciechowski
+**B)** Stanisław Wojciechowski
+**C)** Gabriel Narutowicz
 **D)** Wincenty Witos
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Gabriel Narutowicz został pierwszym prezydentem RP wybranym po uchwaleniu Konstytucji marcowej. Wygrał wybory 9 grudnia 1922 roku, jednak został zamordowany przez Eligiusza Niewiadomskiego pięć dni po objęciu urzędu.
 
@@ -98,12 +98,12 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 
 **Pytanie:** Kto przeprowadził reformę walutową w 1924 roku, wprowadzając złotego polskiego?
 
-**A)** Władysław Grabski
-**B)** Józef Piłsudski
-**C)** Roman Dmowski
-**D)** Ignacy Paderewski
+**A)** Józef Piłsudski
+**B)** Roman Dmowski
+**C)** Ignacy Paderewski
+**D)** Władysław Grabski
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Władysław Grabski, jako premier, przeprowadził reformę walutową w 1924 roku. Utworzono Bank Polski i wprowadzono nową walutę — złotego polskiego, co pozwoliło opanować hiperinflację i ustabilizować gospodarkę.
 
@@ -122,11 +122,11 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 **Pytanie:** Z którym państwem Polska zawarła sojusz wojskowy w 1921 roku, zapewniający bezpieczeństwo zachodniej granicy?
 
 **A)** Z Niemcami
-**B)** Z Francją
-**C)** Z ZSRR
-**D)** Z Czechosłowacją
+**B)** Z ZSRR
+**C)** Z Francją
+**D)** Z Wielką Brytanią
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Polska zawarła sojusz wojskowy z Francją 19 lutego 1921 roku. Układ ten miał na celu przeciwdziałanie spodziewanej rewizji traktatu wersalskiego przez Niemcy i zapewnić Polsce wsparcie francuskie w przypadku agresji.
 
@@ -134,7 +134,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Historia Polski (1918–1939)](https://pl.wikipedia.org/wiki/Historia_Polski_%281918%E2%80%931939%29) - Wikipedia Polska
 - [Sojusz polsko-francuski](https://pl.wikipedia.org/wiki/Sojusz_polsko-francuski) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A (Niemcy) były głównym przeciwnikiem Polski. Odpowiedź C (ZSRR) była wroga Polska po wojnie polsko-bolszewickiej. Odpowiedź D (Czechosłowacja) była w sporze granicznym z Polską.
+**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A (Niemcy) były głównym przeciwnikiem Polski. Odpowiedź B (ZSRR) była wroga Polsce po wojnie polsko-bolszewickiej. Odpowiedź D (Wielka Brytania) nie zawarła sojuszu wojskowego z Polską w tym okresie.
 
 ---
 
@@ -142,12 +142,12 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 **Question ID:** Q-MED-006
 **Type:** Pytanie faktograficzne - Wydarzenia
 
-**Pytanie:** Kiedy odbył się przewrót majowy Józefa Piłsudskiego?
+**Pytanie:** Który marszałek Polski dokonał przewrotu majowego w 1926 roku?
 
-**A)** 12-14 maja 1926
-**B)** 17-19 marca 1921
-**C)** 28-30 czerwca 1924
-**D)** 5-7 listopada 1918
+**A)** Józef Piłsudski
+**B)** Władysław Sikorski
+**C)** Edward Rydz-Śmigły
+**D)** Kazimierz Sosnkowski
 
 **Prawidłowa odpowiedź:** A
 
@@ -157,7 +157,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 - [Józef Piłsudski](https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B (17-19 marca 1921) to okres traktatu ryskiego. Odpowiedź C (28-30 czerwca 1924) dotyczy reformy walutowej. Odpowiedź D (5-7 listopada 1918) to czas odzyskiwania niepodległości.
+**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B (Władysław Sikorski) był premierem później, w latach 20. Odpowiedź C (Edward Rydz-Śmigły) został marszałkiem dopiero w 1935 roku. Odpowiedź D (Kazimierz Sosnkowski) był generałem, ale nie marszałkiem w tym okresie.
 
 ---
 
@@ -167,10 +167,10 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 
 **Pytanie:** Dlaczego w latach 1921-1926 Polska miała problem z niestabilnością rządów?
 
-**A)** Ze względu na brak doświadczeń politycznych elity
-**B)** Z powodu rozbicia partyjnego i dominacji Sejmu nad władzą wykonawczą
-**C)** Na skutek wojny domowej między partiami politycznymi
-**D)** Przez zbyt silną pozycję prezydenta w systemie politycznym
+**A)** Ze względu na brak doświadczeń elity
+**B)** Z powodu rozbicia partyjnego i sejmokracji
+**C)** Na skutek wojny domowej między partiami
+**D)** Przez zbyt silną pozycję prezydenta
 
 **Prawidłowa odpowiedź:** B
 
@@ -237,12 +237,12 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 
 **Pytanie:** Jakie wyzwania stawiała integracja trzech zaborów w latach 1921-1926?
 
-**A)** Różne systemy prawne, waluty i tradycje administracyjne
-**B)** Sprawy językowe i kulturowe tylko
-**C)** Tylko różnice ekonomiczne między regionami
-**D)** Brak wykształconej kadry do obsługi administracji
+**A)** Sprawy językowe i kulturowe tylko
+**B)** Tylko różnice ekonomiczne między regionami
+**C)** Brak wykształconej kadry
+**D)** Różne systemy prawne, waluty i tradycje administracyjne
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Integracja trzech zaborów była trudna z powodu różnych systemów prawnych (kodeksy: niemiecki, austriacki, rosyjski), walut (marka, korona, rubel), tradycji administracyjnych i infrastruktury. Każdy zabor miał inny system szkolny, sądownictwo i administrację, co wymagało ujednolicenia.
 
@@ -260,8 +260,8 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 
 **Pytanie:** Dlaczego Józef Piłsudski dokonał przewrotu majowego w 1926 roku?
 
-**A)** Aby przejąć dyktaturę wojskową na wzór bolszewicki
-**B)** Dla przywrócenia stabilności i "sanacji" życia publicznego
+**A)** Aby przejąć dyktaturę wojskową
+**B)** Dla stabilizacji i "sanacji" państwa
 **C)** Aby przywrócić monarchię w Polsce
 **D)** Na polecenie rządu francuskiego
 
@@ -284,10 +284,10 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 
 **Pytanie:** Jakie znaczenie miały mniejszości narodowe w II RP w latach 1921-1926?
 
-**A)** Stanowiły ok. 30% ludności i wpływały na politykę wewnętrzną
-**B)** Były znikome i nie miały znaczenia politycznego
-**C)** Stanowiły większość populacji w Polsce
-**D)** Zostały całkowicie zasymilowane w pierwszych latach niepodległości
+**A)** Stanowiły ok. 30% ludności
+**B)** Były znikome i nie miały znaczenia
+**C)** Stanowiły większość populacji
+**D)** Zostały całkowicie zasymilowane
 
 **Prawidłowa odpowiedź:** A
 

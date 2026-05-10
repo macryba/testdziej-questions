@@ -30,9 +30,9 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Pytanie:** Jak ocenić decyzję strategiczną Naczelnego Wodza Edwarda Rydza-Śmigłego o nieprzesunięciu części sił na wschodnią granicę przed 17 września 1939 roku?
 
 **A:** Była to błędna decyzja, gdyż brak obrony na wschodzie ułatwił agresję ZSRR
-**B:** Była to słuszna decyzja, ponieważ wszystkie siły były potrzebne do walki z Niemcami na zachodzie
-**C:** Decyzja nie miała znaczenia, ponieważ przewaga agresorów była zbyt duża
-**D:** Rydz-Śmigły nie podejmował decyzji o rozmieszczeniu wojsk
+**B:** Była to słuszna decyzja, gdyż wszystkie siły były niezbędne do walki z Niemcami
+**C:** Decyzja nie miała znaczenia, gdyż przewaga agresorów była zbyt duża
+**D:** Rydz-Śmigły nie podejmował decyzji o rozmieszczeniu wojsk na wschodzie
 
 **Prawidłowa odpowiedź:** A
 
@@ -55,10 +55,10 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **Pytanie:** Jak ocenić postawę Francji i Wielkiej Brytanii wobec agresji Niemiec na Polskę we wrześniu 1939 roku?
 
-**A:** Sojusznicy wypełnili swoje zobowiązania i udzielili Polsce realnej pomocy militarnej
-**B:** Sojusznicy ograniczyli się do wypowiedzenia wojny Niemcom („dziwna wojna") bez rzeczywistych działań zbrojnych
-**C:** Sojusznicy w ogóle nie zareagowali na agresję Niemiec
-**D:** Francja i Wielka Brytania poparły Niemcy w ich działaniach
+**A:** Sojusznicy wypełnili zobowiązania i dali Polsce realną pomoc militarną
+**B:** Sojusznicy ograniczyli się do wypowiedzenia wojny Niemcom bez działań zbrojnych
+**C:** Sojusznicy nie zareagowali na agresję Niemiec na Polskę we wrześniu
+**D:** Francja i Wielka Brytania poparły Niemcy w działaniach przeciwko Polsce
 
 **Prawidłowa odpowiedź:** B
 
@@ -83,8 +83,8 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **A:** Tak, Polska mogła wygrać samodzielnie przy lepszych decyzjach dowództwa
 **B:** Tak, Polska mogła wygrać przy pomocy sojuszników i lepszej strategii
-**C:** Nie, Polska nie miała szans na wygraną z powodu przewagi agresorów i ataku z dwóch stron
-**D:** Polska mogła wygrać tylko przy pomocy ZSRR
+**C:** Nie, Polska nie miała szans na wygraną z powodu przewagi agresorów
+**D:** Polska mogła wygrać tylko przy pomocy ZSRR przeciwko Niemcom
 
 **Prawidłowa odpowiedź:** C
 

@@ -41,6 +41,11 @@ tokens_total: 0
 - C) Edward Gierek – I sekretarz PZPR w latach 1970-1980 (po stalinizmie)
 - D) Wojciech Jaruzelski – przywódca Polski w latach 1981-1989 (po stalinizmie)
 
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Władysław Gomułka) – incorrect from Początki PRL / Październik 56: Władysław Gomułka był przywódcą Polski w latach 1956-1970, po okresie stalinizmu
+- Odpowiedź C (Edward Gierek) – incorrect from Gierek: Edward Gierek był przywódcą Polski w latach 1970-1980, w okresie tzw. "dekady gierkowskiej"
+- Odpowiedź D (Wojciech Jaruzelski) – incorrect from Stan wojenny: Wojciech Jaruzelski był przywódcą Polski w latach 1981-1989, wprowadził stan wojenny
+
 ---
 
 ## Pytanie 2
@@ -48,12 +53,12 @@ tokens_total: 0
 
 **Pytanie:** Jak nazywała się partia rządząca w Polsce w okresie stalinizmu?
 
-**A)** Polska Zjednoczona Partia Robotnicza
 **B)** Polska Partia Robotnicza
 **C)** Polska Partia Socjalistyczna
 **D)** Stronnictwo Demokratyczne
+**A)** Polska Zjednoczona Partia Robotnicza
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Polska Zjednoczona Partia Robotnicza (PZPR) została utworzona w 1948 roku przez zjednoczenie Polskiej Partii Robotniczej i Polskiej Partii Socjalistycznej. Była jedyną partią rządzącą w PRL.
 
@@ -61,10 +66,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Polska_Zjednoczona_Partia_Robotnicza
 
 **Analiza odpowiedzi:**
-- A) Polska Zjednoczona Partia Robotnicza – PRAWIDŁOWA – partia rządząca od 1948
-- B) Polska Partia Robotnicza – jedna z partii, które utworzyły PZPR
-- C) Polska Partia Socjalistyczna – jedna z partii, które utworzyły PZPR
-- D) Stronnictwo Demokratyczne – partia satelicka PZPR
+- D) Polska Zjednoczona Partia Robotnicza – PRAWIDŁOWA – partia rządząca od 1948
+- A) Polska Partia Robotnicza – jedna z partii, które utworzyły PZPR
+- B) Polska Partia Socjalistyczna – jedna z partii, które utworzyły PZPR
+- C) Stronnictwo Demokratyczne – partia satelicka PZPR
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Polska Partia Robotnicza) – no referenced answer: PPR była partią komunistyczną działającą w latach 1942-1948, została włączona do PZPR
+- Odpowiedź B (Polska Partia Socjalistyczna) – no referenced answer: PPS była partią socjalistyczną działającą przed II wojną światową, w 1948 włączona do PZPR
+- Odpowiedź C (Stronnictwo Demokratyczne) – no referenced answer: SD było partią satelicką PZPR w PRL, nie było główną partią rządzącą
 
 ---
 
@@ -73,12 +83,12 @@ tokens_total: 0
 
 **Pytanie:** Który radziecki dyktator był wzorem dla polskich komunistów w okresie stalinizmu?
 
-**A)** Józef Stalin
-**B)** Włodzimierz Lenin
-**C)** Michaił Gorbaczow
-**D)** Nikita Chruszczow
+**A)** Włodzimierz Lenin
+**B)** Michaił Gorbaczow
+**C)** Nikita Chruszczow
+**D)** Józef Stalin
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Józef Stalin był dyktatorem ZSRR, którego model rządów (stalinizm) został narzucony Polsce po II wojnie światowej. Polska musiała naśladować radziecki system polityczny, gospodarczy i kulturowy.
 
@@ -86,10 +96,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Stalinizm
 
 **Analiza odpowiedzi:**
-- A) Józef Stalin – PRAWIDŁOWA – dyktator ZSRR w latach 1924-1953
-- B) Włodzimierz Lenin – przywódca rewolucji październikowej, zmarł w 1924
-- C) Michaił Gorbaczow – lider ZSRR w latach 1985-1991 (po stalinizmie)
-- D) Nikita Chruszczow – lider ZSRR w latach 1953-1964 (po śmierci Stalina)
+- D) Józef Stalin – PRAWIDŁOWA – dyktator ZSRR w latach 1924-1953
+- A) Włodzimierz Lenin – przywódca rewolucji październikowej, zmarł w 1924
+- B) Michaił Gorbaczow – lider ZSRR w latach 1985-1991 (po stalinizmie)
+- C) Nikita Chruszczow – lider ZSRR w latach 1953-1964 (po śmierci Stalina)
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Włodzimierz Lenin) – no referenced answer: Lenin był przywódcą ZSRR w latach 1917-1924, zmarł przed powstaniem stalinizmu
+- Odpowiedź B (Michaił Gorbaczow) – no referenced answer: Gorbaczow był liderem ZSRR w latach 1985-1991, wprowadził politykę pieriestrojki
+- Odpowiedź C (Nikita Chruszczow) – incorrect from Początki PRL / Październik 56: Chruszczow był liderem ZSRR w latach 1953-1964, potępił zbrodnie stalinizmu
 
 ---
 
@@ -98,12 +113,12 @@ tokens_total: 0
 
 **Pytanie:** W którym roku rozpoczął się Plan 6-letni w Polsce?
 
-**A)** 1950
 **B)** 1945
-**C)** 1956
-**D)** 1948
+**C)** 1948
+**A)** 1950
+**D)** 1956
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Plan 6-letni rozpoczął się w 1950 roku i trwał do 1955. Był to plan gospodarczy na wzór radziecki, który promował przemysł ciężki i industrializację kraju.
 
@@ -111,10 +126,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
 **Analiza odpowiedzi:**
-- A) 1950 – PRAWIDŁOWA – rok rozpoczęcia Planu 6-letniego
-- B) 1945 – rok zakończenia II wojny światowej
-- C) 1956 – roku odwilży i powrotu Gomułki do władzy
-- D) 1948 – rok utworzenia PZPR
+- C) 1950 – PRAWIDŁOWA – rok rozpoczęcia Planu 6-letniego
+- A) 1945 – rok zakończenia II wojny światowej
+- B) 1948 – rok utworzenia PZPR
+- D) 1956 – rok odwilży i powrotu Gomułki do władzy
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (1945) – no referenced answer: 1945 to rok zakończenia II wojny światowej i powstania PRL
+- Odpowiedź B (1948) – no referenced answer: 1948 to rok utworzenia PZPR i początku okresu stalinizmu w Polsce
+- Odpowiedź D (1956) – incorrect from Październik 56: 1956 to rok odwilży, Poznańskiego Czerwca i powrotu Władysława Gomułki do władzy
 
 ---
 
@@ -123,12 +143,12 @@ tokens_total: 0
 
 **Pytanie:** Które miasto było miejscem protestów robotniczych w czerwcu 1956 roku?
 
-**A)** Poznań
-**B)** Warszawa
 **C)** Kraków
+**A)** Poznań
 **D)** Gdańsk
+**B)** Warszawa
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Poznański Czerwiec 1956 to protesty robotnicze w Poznaniu przeciwko złym warunkom pracy i brakowi towarów. Protesty zostały krwawo stłumione przez siły bezpieczeństwa, co było jednym z impulsów do zmian politycznych.
 
@@ -136,10 +156,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec
 
 **Analiza odpowiedzi:**
-- A) Poznań – PRAWIDŁOWA – miejsce protestów w czerwcu 1956
-- B) Warszawa – stolica Polski, siedziba władz
+- B) Poznań – PRAWIDŁOWA – miejsce protestów w czerwcu 1956
+- A) Warszawa – stolica Polski, siedziba władz
 - C) Kraków – miejsce procesu biskupów w 1953
 - D) Gdańsk – miejsce protestów w 1970 i 1980
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Warszawa) – no referenced answer: Warszawa to stolica Polski, miejsce siedziby władz PRL
+- Odpowiedź C (Kraków) – no referenced answer: Kraków to miejsce procesu biskupów w 1953, ale nie głównych protestów robotniczych
+- Odpowiedź D (Gdańsk) – incorrect from Grudzień 70 / Solidarność: Gdańsk to miejsce protestów robotniczych w grudniu 1970 i sierpniu 1980 (powstanie Solidarności)
 
 ---
 
@@ -148,12 +173,12 @@ tokens_total: 0
 
 **Pytanie:** Która instytucja była odpowiedzialna za represje i bezpieczeństwo wewnętrzne w okresie stalinizmu?
 
-**A)** Ministerstwo Bezpieczeństwa Publicznego
-**B)** Policja
 **C)** Wojsko Polskie
+**B)** Policja
+**A)** Ministerstwo Bezpieczeństwa Publicznego
 **D)** Straż Pożarna
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Ministerstwo Bezpieczeństwa Publicznego (MBP) było służbą bezpieczeństwa PRL w latach 1945-1954. Prowadziło masowe represje, aresztowania i procesy polityczne wobec przeciwników komunistów.
 
@@ -161,10 +186,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 
 **Analiza odpowiedzi:**
-- A) Ministerstwo Bezpieczeństwa Publicznego – PRAWIDŁOWA – służba bezpieczeństwa
-- B) Policja – formacja istniejąca przed II wojną światową
-- C) Wojsko Polskie – siły zbrojne, nieodpowiedzialne za bezpieczeństwo wewnętrzne
+- C) Ministerstwo Bezpieczeństwa Publicznego – PRAWIDŁOWA – służba bezpieczeństwa
+- A) Policja – formacja istniejąca przed II wojną światową
+- B) Wojsko Polskie – siły zbrojne, nieodpowiedzialne za bezpieczeństwo wewnętrzne
 - D) Straż Pożarna – formacja zajmująca się gaszeniem pożarów
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Policja) – no referenced answer: Policja była formacja przedwojenną, w PRL zastąpiona przez MO i MBP
+- Odpowiedź B (Wojsko Polskie) – no referenced answer: Wojsko Polskie to siły zbrojne, nie odpowiedzialne za bezpieczeństwo wewnętrzne
+- Odpowiedź D (Straż Pożarna) – no referenced answer: Straż Pożarna to formacja zajmująca się gaszeniem pożarów, nie represjami
 
 ---
 
@@ -173,12 +203,12 @@ tokens_total: 0
 
 **Pytanie:** Który prymas Polski został uwięziony przez władze komunistyczne w 1953 roku?
 
-**A)** Stefan Wyszyński
-**B)** Karol Wojtyła
 **C)** August Hlond
+**B)** Karol Wojtyła
+**A)** Stefan Wyszyński
 **D)** Józef Glemp
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Stefan Wyszyński, prymas Polski, został uwięziony przez władze komunistyczne w 1953 roku za sprzeciwianie się polityce władz wobec Kościoła. Był przetrzymywany w areszcie domowym do 1956 roku.
 
@@ -186,10 +216,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski
 
 **Analiza odpowiedzi:**
-- A) Stefan Wyszyński – PRAWIDŁOWA – prymas Polski w latach 1948-1981
-- B) Karol Wojtyła – został papieżem Janem Pawłem II w 1978 (po stalinizmie)
-- C) August Hlond – prymas Polski w latach 1926-1948 (przed stalinizmem)
+- C) Stefan Wyszyński – PRAWIDŁOWA – prymas Polski w latach 1948-1981
+- A) Karol Wojtyła – został papieżem Janem Pawłem II w 1978 (po stalinizmie)
+- B) August Hlond – prymas Polski w latach 1926-1948 (przed stalinizmem)
 - D) Józef Glemp – prymas Polski w latach 1981-2009 (po stalinizmie)
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Karol Wojtyła) – no referenced answer: Karol Wojtyła został papieżem Janem Pawłem II w 1978, był biskupem w okresie stalinizmu
+- Odpowiedź B (August Hlond) – no referenced answer: August Hlond był prymasem Polski w latach 1926-1948, zmarł przed rozpoczęciem stalinizmu
+- Odpowiedź D (Józef Glemp) – no referenced answer: Józef Glemp został prymasem Polski w 1981, po zakończeniu okresu stalinizmu
 
 ---
 
@@ -198,12 +233,12 @@ tokens_total: 0
 
 **Pytanie:** Jaki styl w sztuce został narzucony przez władze komunistyczne w okresie stalinizmu?
 
-**A)** Socrealizm
 **B)** Romantyzm
-**C)** Modernizm
+**A)** Socrealizm
 **D)** Renesans
+**C)** Modernizm
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Socrealizm był stylem w sztuce narzuconym przez władze komunistyczne. Wymagał gloryfikowania partii, robotników i Związku Radzieckiego. Wszystkie dzieła sztuki musiały zgodne być z ideologią komunistyczną.
 
@@ -211,10 +246,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
 **Analiza odpowiedzi:**
-- A) Socrealizm – PRAWIDŁOWA – styl w sztuce w okresie stalinizmu
-- B) Romantyzm – styl w sztuce z XIX wieku
+- B) Socrealizm – PRAWIDŁOWA – styl w sztuce w okresie stalinizmu
+- A) Romantyzm – styl w sztuce z XIX wieku
 - C) Modernizm – kierunek w sztuce z początku XX wieku
 - D) Renesans – styl w sztuce z XVI wieku
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Romantyzm) – no referenced answer: Romantyzm to styl w sztuce i literaturze z pierwszej połowy XIX wieku
+- Odpowiedź C (Modernizm) – no referenced answer: Modernizm to kierunek w sztuce z przełomu XIX i XX wieku
+- Odpowiedź D (Renesans) – no referenced answer: Renesans to styl w sztuce z XVI wieku, epoka odrodzenia
 
 ---
 
@@ -223,12 +263,12 @@ tokens_total: 0
 
 **Pytanie:** W którym roku Bolesław Bierut zmarł w Moskwie?
 
-**A)** 1956
+**A)** 1948
 **B)** 1950
-**C)** 1948
-**D)** 1953
+**C)** 1953
+**D)** 1956
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Bolesław Bierut zmarł 12 marca 1956 roku w Moskwie. Był na zjeździe KPZR, gdzie Nikita Chruszczow wygłosił referat demaskujący zbrodnie stalinizmu. Jego śmierć przyspieszyła proces destalinizacji w Polsce.
 
@@ -236,10 +276,15 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_Bierut
 
 **Analiza odpowiedzi:**
-- A) 1956 – PRAWIDŁOWA – rok śmierci Bieruta
+- D) 1956 – PRAWIDŁOWA – rok śmierci Bieruta
+- A) 1948 – rok utworzenia PZPR
 - B) 1950 – rok rozpoczęcia Planu 6-letniego
-- C) 1948 – rok utworzenia PZPR
-- D) 1953 – rok śmierci Józefa Stalina
+- C) 1953 – rok śmierci Józefa Stalina
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (1948) – no referenced answer: 1948 to rok utworzenia PZPR i rozpoczęcia okresu stalinizmu w Polsce
+- Odpowiedź B (1950) – no referenced answer: 1950 to rok rozpoczęcia Planu 6-letniego w Polsce
+- Odpowiedź C (1953) – no referenced answer: 1953 to rok śmierci Józefa Stalina, przywódcy ZSRR
 
 ---
 
@@ -248,12 +293,12 @@ tokens_total: 0
 
 **Pytanie:** Co było głównym celem Planu 6-letniego w Polsce?
 
-**A)** Uprzemysłowienie kraju
-**B)** Rozwój rolnictwa
-**C)** Budowa domów
 **D)** Rozwój turystyki
+**B)** Rozwój rolnictwa
+**A)** Uprzemysłowienie kraju
+**C)** Budowa domów
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Plan 6-letni (1950-1955) miał na celu szybkie uprzemysłowienie kraju. Priorytetem był przemysł ciężki, zwłaszcza stalowy i energetyczny, kosztem rolnictwa, dóbr konsumpcyjnych i potrzeb ludności.
 
@@ -261,9 +306,14 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
 **Analiza odpowiedzi:**
-- A) Przemysłowanie kraju – PRAWIDŁOWA – główny cel Planu 6-letniego
-- B) Rozwój rolnictwa – zaniedbane w okresie stalinizmu
-- C) Budowa domów – zaniedbane na rzecz przemysłu
+- C) Uprzemysłowienie kraju – PRAWIDŁOWA – główny cel Planu 6-letniego
+- A) Rozwój rolnictwa – zaniedbane w okresie stalinizmu
+- B) Budowa domów – zaniedbane na rzecz przemysłu
 - D) Rozwój turystyki – nie był priorytetem władz
+
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Rozwój rolnictwa) – no referenced answer: Rolnictwo było zaniedbane w okresie stalinizmu na rzecz przemysłu ciężkiego
+- Odpowiedź B (Budowa domów) – no referenced answer: Budownictwo mieszkaniowe było zaniedbane, większość zasobów szła na przemysł
+- Odpowiedź D (Rozwój turystyki) – no referenced answer: Turystyka nie była priorytetem władz komunistycznych w okresie stalinizmu
 
 ---

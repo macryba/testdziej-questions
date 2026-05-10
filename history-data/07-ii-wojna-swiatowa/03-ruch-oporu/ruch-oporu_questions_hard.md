@@ -31,12 +31,12 @@ PPP obejmowało zarówno struktury wojskowe (Armia Krajowa), jak i cywilne (Dele
 Dlaczego Polskie Państwo Podziemne było unikalnym zjawiskiem w skali całej okupowanej Europy?
 
 **Odpowiedzi:**
-A. Była jedyna organizacja, która posiadała własną prasę podziemną
-B. Miało strukturę państwową z zachowaną ciągłością instytucji i uznaniem na arenie międzynarodowej
+A. Miało strukturę państwową z zachowaną ciągłością instytucji i uznaniem na arenie międzynarodowej
+B. Była jedyna organizacja, która posiadała własną prasę podziemną
 C. Była jedyna organizacja, która prowadziła walkę zbrojną z Niemcami
 D. Była jedyna organizacja, która udzieliła pomocy ludności żydowskiej
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:**
 Polskie Państwo Podziemne było unikalne, ponieważ zachowało pełną strukturę państwową z pionem wojskowym (AK) i cywilnym (Delegatura Rządu), podporządkowaną legalnemu rządowi na uchodźstwie w Londynie uznawanemu przez mocarstwa zachodnie. Żaden inny ruch oporu w Europie nie posiadał tak rozwiniętych struktur państwowych z własnym sądownictwem, oświatą, administracją i prasą.
@@ -45,8 +45,8 @@ Polskie Państwo Podziemne było unikalne, ponieważ zachowało pełną struktur
 - https://pl.wikipedia.org/wiki/Polskie_Pa%C5%84stwo_Podziemne
 - https://pl.wikipedia.org/wiki/Polski_ruch_oporu_w_czasie_II_wojny_%C5%9Bwiatowej
 
-**Analiza odpowiedzi nieprawidłowych:**
-Odpowiedź A (własna prasa) nie jest unikalna - inne ruchy także miały prasę podziemną. Odpowiedź C (walka zbrojna) jest fałszywa - inne ruchy też walczyły. Odpowiedź D (pomoc Żydom) nie jest unikalna, choć skala pomocy PPP była znacząca.
+**Analiza odpowiedzi błędnych:**
+Odpowiedź B (własna prasa) nie jest unikalna - inne ruchy także miały prasę podziemną. Odpowiedź C (walka zbrojna) jest fałszywa - inne ruchy też walczyły. Odpowiedź D (pomoc Żydom) nie jest unikalna, choć skala pomocy PPP była znacząca.
 
 ---
 
@@ -59,11 +59,11 @@ Jaki był główny dylemat moralny związany z prowadzeniem walki zbrojnej przez
 
 **Odpowiedzi:**
 A. Decyzja między współpracą z Niemcami a Sowietami
-B. Wybór między walką zbrojną a represjami na ludności cywilnej
-C. Decyzja między ujawnieniem się a pozostaniem w konspiracji
+B. Decyzja między ujawnieniem się a pozostaniem w konspiracji
+C. Wybór między walką zbrojną a represjami na ludności cywilnej
 D. Wybór między akcjami dywersyjnymi a sabotażem gospodarczym
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:**
 Głównym dylematem moralnym było to, że za każdego zabitego Niemca okupanci rozstrzelali kilkudziesięciu Polaków. Dlatego w pierwszych latach okupacji AK ograniczała działania bojowe, aby nie narażać ludności cywilnej na represje. Dopiero gdy Niemcy zaczęli przegrywać na froncie wschodnim, AK nasiliła działania dywersyjne.
@@ -72,8 +72,8 @@ Głównym dylematem moralnym było to, że za każdego zabitego Niemca okupanci 
 - https://pl.wikipedia.org/wiki/Polskie_Pa%C5%84stwo_Podziemne
 - https://pl.wikipedia.org/wiki/Armia_Krajowa
 
-**Analiza odpowiedzi nieprawidłowych:**
-Odpowiedź A (współpraca z Niemcami/Sowietami) nie była realnym dylematem - PPP walczyło z oboma okupantami. Odpowiedź C (ujawnienie) nie było dylematem moralnym, lecz strategicznym. Odpowiedź D (dywersja vs sabotaż) jest zbyt specyficzna.
+**Analiza odpowiedzi błędnych:**
+Odpowiedź A (współpraca z Niemcami/Sowietami) nie była realnym dylematem - PPP walczyło z oboma okupantami. Odpowiedź B (ujawnienie) nie było dylematem moralnym, lecz strategicznym. Odpowiedź D (dywersja vs sabotaż) jest zbyt specyficzna.
 
 ---
 
@@ -99,7 +99,7 @@ Bilans PPP jest złożony. Z jednej strony zachowało ciągłość państwowośc
 - https://pl.wikipedia.org/wiki/Polskie_Pa%C5%84stwo_Podziemne
 - https://pl.wikipedia.org/wiki/%C5%BBo%C5%82nierze_wykl%C4%99ci
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 Odpowiedź A (pełny sukces) jest optymistyczna, ale ignoruje komunistyzację Polski. Odpowiedź B (klęska) jest zbyt pesymistyczna - PPP miało znaczenie moralne i historyczne. Odpowiedź D (bez znaczenia) jest całkowicie fałszywa.
 
 ---

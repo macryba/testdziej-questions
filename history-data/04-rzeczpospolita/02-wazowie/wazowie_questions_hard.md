@@ -41,12 +41,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Oceń politykę dynastyczną Zygmunta III Wazy zmierzającą do odzyskania tronu szwedzkiego. Jakie były skutki tej polityki dla Rzeczypospolitej?
 
-**A.** Polityka ta doprowadziła do wyczerpania zasobów państwa, utraty Inflant i długotrwałych wojen ze Szwecją bez osiągnięcia celu
-**B.** Polityka ta wzmocniła pozycję Rzeczypospolitej na Bałtyku i przyniosła znaczne korzyści gospodarcze
+**A.** Polityka ta wzmocniła pozycję Rzeczypospolitej na Bałtyku i przyniosła znaczne korzyści gospodarcze
+**B.** Polityka ta doprowadziła do wyczerpania zasobów państwa, utraty Inflant i długotrwałych wojen ze Szwecją bez osiągnięcia celu
 **C.** Polityka ta zakończyła się pełnym sukcesem - Zygmunt III odzyskał tron szwedzki dla swoich potomków
 **D.** Polityka ta nie miała istotnego wpływu na sytuację Rzeczypospolitej i została szybko zarzucona
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Dążenia Zygmunta III Wazy do odzyskania tronu szwedzkiego doprowadziły do serii wojen polsko-szwedzkich (1600-1629), które wyczerpały zasoby państwa i zakończyły się utratą większości Inflant na rzecz Szwecji. Król zginął w 1632 roku, nie osiągając swojego celu.
 
@@ -55,9 +55,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1572%E2%80%931697)
 
 **Analiza odpowiedzi błędnych:**
-- Rzeczpospolita straciła pozycję na Bałtyku i poniosła straty gospodarcze
-- Zygmunt III nie odzyskał tronu szwedzkiego, a jego linia wygasła w Polsce
-- Polityka ta miała poważne skutki dla Rzeczypospolitej
+- Odpowiedź A (Polityka ta wzmocniła pozycję Rzeczypospolitej na Bałtyku i przyniosła znaczne korzyści gospodarcze) – no referenced answer: Nieprawda. Rzeczpospolita straciła większość Inflant na rzecz Szwecji w rozejmie w Altmarku (1629)
+- Odpowiedź C (Polityka ta zakończyła się pełnym sukcesem - Zygmunt III odzyskał tron szwedzki dla swoich potomków) – no referenced answer: Nieprawda. Zygmunt III nigdy nie odzyskał tronu szwedzkiego, a został z niego detronizowany w 1599 roku
+- Odpowiedź D (Polityka ta nie miała istotnego wpływu na sytuację Rzeczypospolitej i została szybko zarzucona) – no referenced answer: Nieprawda. Wojny polsko-szwedzkie trwały prawie 30 lat (1600-1629) i miały poważne skutki gospodarcze i polityczne
 
 ---
 
@@ -67,9 +67,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Jakie były skutki unii brzeskiej zawartej w 1596 roku dla stosunków polsko-rosyjskich oraz dla sytuacji wewnętrznej na ziemiach ruskich Rzeczypospolitej?
 
-**A.** Unia pogłębiła podział wyznaniowy na ziemiach ruskich i stała się źródłem napięć z Rosją, która uważała to za wrogi gest
 **B.** Unia zjednoczyła wszystkich mieszkańców ziemi ruskich i poprawiła stosunki z Rosją
 **C.** Unia spowodowała natychmiastową konwersję większości prawosławnych na katolicyzm
+**A.** Unia pogłębiła podział wyznaniowy na ziemiach ruskich i stała się źródłem napięć z Rosją, która uważała to za wrogi gest
 **D.** Unia została powszechnie przyjęta i zakończyła wszystkie konflikty wyznaniowe
 
 **Poprawna odpowiedź:** A
@@ -81,9 +81,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Unia nie zjednoczyła mieszkańców, lecz pogłębiła podziały
-- Proces konwersji był powolny i nie objął większości.
-- Konflikty wyznaniowe trwały przez kolejne stulecia.
+- Odpowiedź B (Unia zjednoczyła wszystkich mieszkańców ziemi ruskich i poprawiła stosunki z Rosją) – no referenced answer: Nieprawda. Unia pogłębiła podziały wyznaniowe między unitami a prawosławnymi, a Rosja uznała ją za wrogi gest
+- Odpowiedź C (Unia spowodowała natychmiastową konwersję większości prawosławnych na katolicyzm) – no referenced answer: Nieprawda. Proces konwersji był powolny i stopniowy, trwał przez kolejne stulecia
+- Odpowiedź D (Unia została powszechnie przyjęta i zakończyła wszystkie konflikty wyznaniowe) – no referenced answer: Nieprawda. Unia spotkała się z oporem prawosławnych i wywołała długotrwałe konflikty wyznaniowe na ziemiach ruskich
 
 ---
 
@@ -93,12 +93,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Oceń z perspektywy rozwoju państwa i kultury znaczenie przeniesienia stolicy do Warszawy przez Zygmunta III Wazę. Jakie były długofalowe skutki tej decyzji?
 
-**A.** Przeniesienie stolicy ukształtowało Warszawę jako główny ośrodek polityczny i kulturowy Polski, choć Kraków zachował swoje znaczenie
+**A.** Decyzja ta nie miała większego znaczenia dla rozwoju Polski
 **B.** Przeniesienie stolicy było błędem, który osłabił państwo i doprowadził do upadku Krakowa
-**C.** Decyzja ta nie miała większego znaczenia dla rozwoju Polski
-**D.** Przeniesienie stolicy spowodowało natychmiastowy upadek Krakowa i szybki rozwój Warszawy
+**C.** Przeniesienie stolicy spowodowało natychmiastowy upadek Krakowa i szybki rozwój Warszawy
+**D.** Przeniesienie stolicy ukształtowało Warszawę jako główny ośrodek polityczny i kulturowy Polski, choć Kraków zachował swoje znaczenie
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Przeniesienie stolicy do Warszawy ukształtowało to miasto jako główny ośrodek polityczny i kulturowy Polski, co miało trwałe skutki dla rozwoju państwa. Jednak Kraków zachował swoje znaczenie jako miejsce koronacji i siedziba ważnych instytucji.
 
@@ -106,8 +106,8 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Decyzja nie była błędem, lecz ważną zmianą w polityce państwa
-- Decyzja miała duże znaczenie dla rozwoju Polski
-- Kraków nie upadł, a proces rozwoju Warszawy trwał dziesiątki lat
+- Odpowiedź A (Decyzja ta nie miała większego znaczenia dla rozwoju Polski) – no referenced answer: Nieprawda. Przeniesienie stolicy miało fundamentalne znaczenie dla rozwoju państwa i kształtowania się Warszawy jako głównego ośrodka politycznego
+- Odpowiedź B (Przeniesienie stolicy było błędem, który osłabił państwo i doprowadził do upadku Krakowa) – no referenced answer: Nieprawda. Decyzja nie była błędem - była strategicznie uzasadniona geopolitycznie i wzmocniła pozycję Polski w regionie
+- Odpowiedź C (Przeniesienie stolicy spowodowało natychmiastowy upadek Krakowa i szybki rozwój Warszawy) – no referenced answer: Nieprawda. Kraków nie upadł - zachował swoje znaczenie jako miejsce koronacji i siedziba ważnych instytucji, a proces rozwoju Warszawy trwał dziesiątki lat
 
 ---

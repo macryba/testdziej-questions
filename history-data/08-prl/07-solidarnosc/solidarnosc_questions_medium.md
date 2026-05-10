@@ -27,12 +27,12 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Dlaczego zwolnienie Anny Walentynowicz 7 sierpnia 1980 roku stało się bezpośrednią przyczyną wybuchu strajku w Stoczni Gdańskiej?
 
-**A.** Była ona najpopularniejszą działaczką związkową w stoczni
-**B.** Jej zwolnienie nastąpiło tuż przed emeryturą w naruszeniu prawa
-**C.** Zorganizowała wcześniej nielegalne strajki w stoczni
-**D.** Była członkinią Partii Komunistycznej
+**A.** Była członkinią Partii Komunistycznej
+**B.** Zorganizowała wcześniej nielegalne strajki w stoczni
+**C.** Jej zwolnienie nastąpiło tuż przed emeryturą w naruszeniu prawa
+**D.** Była ona najpopularniejszą działaczką związkową w stoczni
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Anna Walentynowicz została zwolniona na 5 miesięcy przed emeryturą za „działalność antypaństwową", co było rażącym naruszeniem praw pracowniczych. To wywołało gnaw robotników i stało się iskrą, która zapoczątkowała strajk.
 
@@ -40,9 +40,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 **Analiza niepoprawnych odpowiedzi:**
-- Była ona najpopularniejszą działaczką – prawdziwe, ale nie to było bezpośrednią przyczyną wybuchu strajku
-- Zorganizowała wcześniej nielegalne strajki – nieprawda, strajki w 1980 były pierwszymi w jej historii
 - Była członkinią Partii Komunistycznej – nieprawda, Walentynowicz była działaczką opozycji demokratycznej
+- Zorganizowała wcześniej nielegalne strajki – nieprawda, strajki w 1980 były pierwszymi w jej historii
+- Była ona najpopularniejszą działaczką – prawdziwe, ale nie to było bezpośrednią przyczyną wybuchu strajku
 
 ---
 
@@ -52,10 +52,10 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Jaki był główny postulat polityczny strajkujących robotników w sierpniu 1980 roku, oprócz żądań ekonomicznych?
 
-**A.** Wyprowadzenie wojsk radzieckich z Polski
+**A.** Uwolnienie wszystkich więźniów politycznych
 **B.** Utworzenie niezależnych związków zawodowych
-**C.** Przyłączenie Polski do NATO
-**D.** Uwolnienie wszystkich więźniów politycznych
+**C.** Wyprowadzenie wojsk radzieckich z Polski
+**D.** Przyłączenie Polski do NATO
 
 **Poprawna odpowiedź:** B
 
@@ -65,9 +65,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/21_postulat%C3%B3w_Mi%C4%99dzyzak%C5%82adowego_Komitetu_Strajkowego
 
 **Analiza niepoprawnych odpowiedzi:**
+- Uwolnienie więźniów – częściowy postulat, ale nie był głównym celem strajku
 - Wyprowadzenie wojsk radzieckich – postulat nie pojawiał się w Porozumieniach Sierpniowych
 - Przyłączenie Polski do NATO – w 1980 roku Polska była członkiem Układu Warszawskiego
-- Uwolnienie więźniów – częściowy postulat, ale nie był głównym celem strajku
 
 ---
 
@@ -78,11 +78,11 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Pytanie:** Co wydarzyło się w Bydgoszczy w marcu 1981 roku i jakie miało to znaczenie dla rozwoju sytuacji w Polsce?
 
 **A.** Zakończono pierwszy zjazd Solidarności
-**B.** Doszło do pobicia działaczy Solidarności przez milicję
+**B.** Wybuchły masowe strajki w całej Polsce
 **C.** Podpisano nowe porozumienie z rządem
-**D.** Wybuchły masowe strajki w całej Polsce
+**D.** Doszło do pobicia działaczy Solidarności przez milicję
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** W marcu 1981 roku w Bydgoszczy doszło do pobicia działaczy Solidarności, w tym Jana Rulewskiego, przez funkcjonariuszy MO podczas zebrania regionu. To wydarzenie zwiększyło napięcie między Solidarnością a władzami i zbliżyło kraj do stanu wojennego.
 
@@ -91,8 +91,8 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Analiza niepoprawnych odpowiedzi:**
 - Zakończono zjazd – I Zjazd Solidarności odbył się we wrześniu 1981 w Gdańsku
-- Podpisano porozumienie – nie podpisano nowych porozumień po Bydgoszczy
 - Wybuchły strajki – strajki były odpowiedzią na wydarzenia w Bydgoszczy, ale nie były samym wydarzeniem
+- Podpisano porozumienie – nie podpisano nowych porozumień po Bydgoszczy
 
 ---
 
@@ -128,11 +128,11 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Pytanie:** Dlaczego władze PRL zgodziły się na podpisanie Porozumień Sierpniowych i legalizację Solidarności?
 
 **A.** Obawiały się interwencji zbrojnej ZSRR
-**B.** Chciały poprawić swój wizerunek na Zachodzie
-**C.** Nie miały sił do stłumienia strajków
+**B.** Nie miały sił do stłumienia strajków
+**C.** Chciały poprawić swój wizerunek na Zachodzie
 **D.** Zostały do tego zmuszone przez stronę radziecką
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Władze PRL nie miały możliwości stłumienia ogólnokrajowych strajków, które objęły kluczowe sektory gospodarki. Strajkujący kontrolowali transport, porty i przemysł, więc rząd musiał negocjować i zgodzić się na żądania robotników.
 
@@ -152,12 +152,12 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Co było głównym celem wprowadzenia stanu wojennego 13 grudnia 1981 roku?
 
-**A.** Ochrona suwerenności Polski przed interwencją ZSRR
-**B.** Stłumienie ruchu Solidarności i przejęcie pełnej kontroli
-**C.** Przeprowadzenie reform gospodarczych
-**D.** Obrona przed atakiem z zachodu
+**A.** Obrona przed atakiem z zachodu
+**B.** Ochrona suwerenności Polski przed interwencją ZSRR
+**C.** Stłumienie ruchu Solidarności i przejęcie pełnej kontroli
+**D.** Przeprowadzenie reform gospodarczych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Głównym celem stanu wojennego było stłumienie ruchu Solidarności, delegalizacja związku i przejęcie pełnej kontroli nad społeczeństwem. Władze PRL pod wodzą gen. Jaruzelskiego obawiały się utraty władzy i dalszego radykalizowania żądań Solidarności.
 
@@ -165,9 +165,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)
 
 **Analiza niepoprawnych odpowiedzi:**
+- Obrona przed zachodem – nie było żadnego zagrożenia ze strony Zachodu
 - Ochrona przed ZSRR – to argument propagandowy, ZSRR nie planował interwencji
 - Przeprowadzenie reform – reforma były sprzeczne z cele stanu wojennego
-- Obrona przed zachodem – nie było żadnego zagrożenia ze strony Zachodu
 
 ---
 
@@ -177,9 +177,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Które wydarzenia z lat 1976-1979 przygotowały grunt pod narodziny Solidarności?
 
-**A.** Strajki robotnicze w Radomiu, Ursusie i Płocku w 1976 roku
+**A.** Strajki robotnicze w Radomiu, Ursusie i Płocku
 **B.** Powstanie KOR i innych grup opozycyjnych
-**C.** Pielgrzymka Jana Pawła II do Polski w 1979 roku
+**C.** Pielgrzymka Jana Pawła II do Polski
 **D.** Wszystkie powyższe wydarzenia przyczyniły się do narodzin Solidarności
 
 **Poprawna odpowiedź:** D
@@ -190,9 +190,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza niepoprawnych odpowiedzi:**
-- Strajki 1976 – ważny element, ale nie jedyny
+- Strajki robotnicze – ważny element, ale nie jedyny
 - Powstanie KOR – istotny czynnik, ale bez strajków robotniczych nie byłby wystarczający
-- Pielgrzymka 1979 – kluczowe wydarzenie, ale poprzedziły je inne ważne elementy
+- Pielgrzymka Jana Pawła II – kluczowe wydarzenie, ale poprzedziły je inne ważne elementy
 
 ---
 
@@ -227,12 +227,12 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Co oznaczało hasło „Solidarność jako ruch społeczny" przyjęte na I Zjeździe Delegatów w 1981 roku?
 
-**A.** Transformacja związków w partię polityczną
-**B.** Rozszerzenie celów związku poza sprawy pracownicze
-**C.** Ograniczenie działalności tylko do spraw ekonomicznych
-**D.** Zakończenie działalności związkowej
+**A.** Zakończenie działalności związkowej
+**B.** Transformacja związków w partię polityczną
+**C.** Rozszerzenie celów związku poza sprawy pracownicze
+**D.** Ograniczenie działalności tylko do spraw ekonomicznych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Hasło „Solidarność jako ruch społeczny" oznaczało, że związek nie będzie zajmował się tylko sprawami pracowniczymi, ale będzie też dążył do reform demokratycznych, praw człowieka i suwerenności narodowej. Była to idea przekształcenia się w szeroki ruch społeczny.
 
@@ -240,9 +240,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza niepoprawnych odpowiedzi:**
+- Zakończenie działalności – sprzeczne z rozwojem Solidarności
 - Transformacja w partię – nieprawda, Solidarność nie chciała być partią
 - Ograniczenie do spraw ekonomicznych – przeciwieństwo hasła „ruch społeczny"
-- Zakończenie działalności – sprzeczne z rozwojem Solidarności
 
 ---
 
@@ -252,12 +252,12 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Jaki był wpływ Solidarności na inne kraje bloku wschodniego?
 
-**A.** Solidarność nie miała żadnego wpływu na inne kraje
-**B.** Zainspirowała powstanie podobnych ruchów opozycyjnych
+**A.** Doprowadziła do natychmiastowego obalenia komunizmu w Europie
+**B.** Solidarność nie miała żadnego wpływu na inne kraje
 **C.** Spowodowała interwencję zbrojną ZSRR w Polsce
-**D.** Doprowadziła do natychmiastowego obalenia komunizmu w Europie
+**D.** Zainspirowała powstanie podobnych ruchów opozycyjnych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Solidarność zainspirowała powstanie podobnych ruchów w innych krajach bloku wschodniego, takich jak Charta 77 w Czechosłowacji, Solidarność Walcząca na Węgrzech czy ruchy oporu w NRD. Była to iskra, która pokazała, że komunizm można wyzwolić.
 
@@ -265,9 +265,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza niepoprawnych odpowiedzi:**
+- Natychmiastowe obalenie – nieprawda, upadek komunizmu nastąpił dopiero w 1989 roku
 - Nie miała wpływu – nieprawda, Solidarność miała duży wpływ na inne kraje
 - Interwencja ZSRR – nieprawda, ZSRR nie interweniował wojskowo w Polsce
-- Natychmiastowe obalenie – nieprawda, upadek komunizmu nastąpił dopiero w 1989 roku
 
 ---
 
@@ -277,12 +277,12 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Dlaczego rząd ZSRR nie zdecydował się na interwencję zbrojną w Polsce w 1980-1981 roku?
 
-**A.** ZSRR był zbyt słaby militarnie
-**B.** Obawiał się reakcji Zachodu i sankcji ekonomicznych
+**A.** Polska była zbyt ważna gospodarczo dla bloku wschodniego
+**B.** ZSRR był zbyt słaby militarnie
 **C.** Ufał, że władze PRL same rozwiążą problem
-**D.** Polska była zbyt ważna gospodarczo dla bloku wschodniego
+**D.** Obawiał się reakcji Zachodu i sankcji ekonomicznych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** ZSRR nie zdecydował się na interwencję zbrojną, ponieważ obawiał się reakcji Zachodu – w szczególności Stanów Zjednoczonych – oraz możliwych sankcji ekonomicznych. Działania zbrojne w Afganistanie od 1979 roku już izolowały ZSRR międzynarodowo.
 
@@ -290,9 +290,9 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)
 
 **Analiza niepoprawnych odpowiedzi:**
+- Zbyt ważna gospodarczo – nieprawda, gospodarka nie była głównym czynnikiem
 - Zbyt słaby – nieprawda, Armia Radziecka była bardzo silna
 - Ufał władzom PRL – częściowo prawda, ale nie to było głównym powodem
-- Zbyt ważna gospodarczo – nieprawda, gospodarka nie była głównym czynnikiem
 
 ---
 
@@ -302,12 +302,12 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 
 **Pytanie:** Jaki był stosunek Kościoła katolickiego do Solidarności w latach 1980-1981?
 
-**A.** Kościół był przeciwny ruchowi Solidarności
-**B.** Kościół popierał Solidarność i dawał jej duchowe wsparcie
-**C.** Kościół pozostał neutralny w konflikcie
-**D.** Hierarchia kościelna potępiła strajki robotnicze
+**A.** Hierarchia kościelna potępiła strajki robotnicze
+**B.** Kościół był przeciwny ruchowi Solidarności
+**C.** Kościół popierał Solidarność i dawał jej duchowe wsparcie
+**D.** Kościół pozostał neutralny w konflikcie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Kościół katolicki, pod przywództwem Prymasa Wyszyńskiego i z błogosławieństwem Jana Pawła II, udzielił Solidarności silnego wsparcia. Księża odprawiali Msze za Ojczyznę, angażowali się w ruch i pomagali działaczom, jak ks. Jerzy Popiełuszko.
 
@@ -315,6 +315,6 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza niepoprawnych odpowiedzi:**
+- Potępił strajki – nieprawda, księża wspierali strajkujących
 - Przeciwny ruchowi – nieprawda, Kościół stanął po stronie Solidarności
 - Neutralny – nieprawda, Kościół jawnie popierał Solidarność
-- Potępił strajki – nieprawda, księża wspierali strajkujących

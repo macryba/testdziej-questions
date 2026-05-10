@@ -25,10 +25,10 @@ tokens_total: 27000
 
 **Pytanie:** Które wydarzenie z 1956 roku ujawniło zbrodnie stalinowskie i przyczyniło się do procesu destalinizacji w bloku wschodnim?
 
-**A:** Śmierć Bolesława Bieruta  
-**B:** Tajny referat Nikity Chruszczowa  
-**C:** Powstanie węgierskie  
-**D:** Procesy lekarzy w Moskwie  
+**A:** Śmierć Bolesława Bieruta w 1956
+**B:** Tajny referat Chruszczowa
+**C:** Powstanie węgierskie 1956
+**D:** Procesy lekarzy w Moskwie
 
 **Poprawna odpowiedź:** B
 
@@ -50,12 +50,12 @@ tokens_total: 27000
 
 **Pytanie:** Jaki radziecki marszałek został usunięty z polskiego wojska po wydarzeniach październikowych 1956?
 
-**A:** Gieorgij Żukow  
-**B:** Konstanty Rokossowski  
-**C:** Iwan Koniew  
-**D:** Andriej Grieczko  
+**A:** Marszałek Gieorgij Żukow
+**B:** Marszałek Iwan Koniew
+**C:** Marszałek Konstanty Rokossowski
+**D:** Marszałek Andriej Grieczko
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Marszałek Konstanty Rokossowski, polski oficer radziecki sprawujący kluczowe stanowiska w ludowym Wojsku Polskim, został usunięty z polskiego wojska po październiku 1956 wraz z innymi oficerami radzieckimi.
 
@@ -76,12 +76,12 @@ tokens_total: 27000
 
 **Pytanie:** Jakie miasto zmieniło nazwę z "Stalinogród" z powrotem na pierwotną nazwę po październiku 1956?
 
-**A:** Warszawa  
-**B:** Katowice  
-**C:** Łódź  
-**D:** Wrocław  
+**A:** Katowice
+**B:** Łódź
+**C:** Warszawa
+**D:** Wrocław
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Katowice, które w latach 1953-1956 nazywały się Stalinogród, powróciły do pierwotnej nazwy po wydarzeniach październikowych jako element destalinizacji.
 
@@ -102,12 +102,12 @@ tokens_total: 27000
 
 **Pytanie:** Który tygodnik został zlikwidowany w 1957 roku jako sygnał końca odwilży październikowej?
 
-**A:** "Po prostu"  
-**B:** "Życie Warszawy"  
-**C:** "Polityka"  
-**D:** "Przegląd Kultury"  
+**A:** Tygodnik "Życie Warszawy"
+**B:** Tygodnik "Po prostu"
+**C:** Tygodnik "Polityka"
+**D:** Tygodnik "Przegląd Kultury"
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Tygodnik "Po prostu", który symbolizował odwilż październikową, został zlikwidowany w 1957 roku jako sygnał zmiany kursu politycznego i końca liberalizacji.
 
@@ -127,10 +127,10 @@ tokens_total: 27000
 
 **Pytanie:** Jaką formację milicyjną powołano w grudniu 1956 roku do zwalczania zamieszek?
 
-**A:** MO  
-**B:** ZOMO  
-**C:** SB  
-**D:** ORMO  
+**A:** MO
+**B:** ZOMO
+**C:** SB
+**D:** ORMO
 
 **Poprawna odpowiedź:** B
 
@@ -152,12 +152,12 @@ tokens_total: 27000
 
 **Pytanie:** Z której instytucji usunięto nazwisko Stalina po październiku 1956?
 
-**A:** Z nazwy Pałacu Kultury w Warszawie  
-**B:** Z nazwy portu w Gdyni  
-**C:** Z nazwy huty w Krakowie  
-**D:** Z nazwy kopalni w Katowicach  
+**A:** Z nazwy portu w Gdyni
+**B:** Z nazwy huty w Krakowie
+**C:** Z nazwy Pałacu Kultury w Warszawie
+**D:** Z nazwy kopalni w Katowicach
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Nazwisko Stalina zostało usunięte z oficjalnej nazwy Pałacu Kultury i Nauki w Warszawie po październiku 1956 roku jako element destalinizacji.
 
@@ -175,14 +175,14 @@ tokens_total: 27000
 
 **Question ID:** Q-PRL-003-107
 
-**Pytanie:** Która niemiecka stacja radiowa była wymieniana przez Chruszczowa jako źródło informacji o sytuacji w Polsce podczas kryzysu październikowego?
+**Pytanie:** Która stacja radiowa była wymieniana przez Chruszczowa jako źródło informacji o sytuacji w Polsce podczas kryzysu październikowego?
 
-**A:** Radio Wolna Europa  
-**B:** Głos Ameryki  
-**C:** Deutsche Welle  
-**D:** RFI  
+**A:** Głos Ameryki
+**B:** Radio France Internationale
+**C:** Radio Wolna Europa
+**D:** Deutsche Welle
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Chruszczow skarżył się, że o sytuacji w Polsce dowiaduje się z Głosu Ameryki, co pokazuje, że ZSRR nie miał pełnej kontroli nad informacjami o wydarzeniach w Polsce.
 
@@ -202,12 +202,12 @@ tokens_total: 27000
 
 **Pytanie:** Ile Polaków repatriowano z ZSRS do Polski po porozumieniach z listopada 1956?
 
-**A:** Około 10 tysięcy  
-**B:** Około 30 tysięcy  
-**C:** Około 50 tysięcy  
-**D:** Około 100 tysięcy  
+**A:** Około 10 tysięcy
+**B:** Około 50 tysięcy
+**C:** Około 100 tysięcy
+**D:** Około 30 tysięcy
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** W ramach porozumień polsko-radzieckich z listopada 1956 uzgodniono repatriację około 30 tysięcy Polaków z ZSRR.
 
@@ -227,12 +227,12 @@ tokens_total: 27000
 
 **Pytanie:** Kto był radzieckim przywódcą, który prowadził rozmowy z polskim Biurem Politycznym w październiku 1956?
 
-**A:** Józef Stalin  
-**B:** Leonid Breżniew  
-**C:** Nikita Chruszczow  
-**D:** Michaił Gorbaczow  
+**A:** Józef Stalin
+**B:** Leonid Breżniew
+**C:** Michaił Gorbaczow
+**D:** Nikita Chruszczow
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Nikita Chruszczow, I sekretarz KPZR, prowadził rozmowy z polskim Biurem Politycznym i Władysławem Gomułką w październiku 1956 roku.
 
@@ -253,12 +253,12 @@ tokens_total: 27000
 
 **Pytanie:** Które wydarzenie na Węgrzech odbyło się równolegle do polskiego października 1956?
 
-**A:** Praska Wiosna  
-**B:** Powstanie węgierskie  
-**C:** Rewolucja welwetowa  
-**D:** Jesień Ludów  
+**A:** Praska Wiosna 1968
+**B:** Rewolucja welwetowa 1989
+**C:** Jesień Ludów 1989
+**D:** Powstanie węgierskie 1956
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Powstanie węgierskie wybuchło 23 października 1956 roku i trwało do 10 listopada. W przeciwieństwie do Polski, zostało ono krwawo stłumione przez Armię Radziecką.
 
@@ -279,12 +279,12 @@ tokens_total: 27000
 
 **Pytanie:** Co spowodowało różnicę w radzieckiej reakcji na wydarzenia w Polsce i na Węgrzech w 1956 roku?
 
-**A:** Brak protestów w Polsce  
-**B:** Rola Chin i potencjał oporu społecznego  
-**C:** Zgodność polskich władz z Moskwą  
-**D:** Brak interwencji NATO  
+**A:** Rola Chin oraz opór społeczny w Polsce
+**B:** Pełna zgodność władz polskich z Moskwą
+**C:** Brak protestów społecznych w Polsce
+**D:** Brak interwencji ze strony NATO
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Chiny postawiły sprawę tak, że należy dogadać się z Polakami, a także informacje o mobilizacji robotników warszawskich do obrony przyszłego składu Biura Politycznego wpłynęły na decyzję Chruszczowa o rezygnacji z interwencji zbrojowej.
 
@@ -304,12 +304,12 @@ tokens_total: 27000
 
 **Pytanie:** Jaki przezwiskiem określano okres po październiku 1956 ze względu na ograniczony charakter reform?
 
-**A:** Wielka stabilizacja  
-**B:** Mała stabilizacja  
-**C:** Długa stabilizacja  
-**D:** Nowa stabilizacja  
+**A:** Wielka stabilizacja
+**B:** Długa stabilizacja
+**C:** Mała stabilizacja
+**D:** Nowa stabilizacja
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Okres po październiku 1956 określano mianem "małej stabilizacji" ze względu na ograniczony charakter reform i rychłe fiasko procesów demokratyzacyjnych.
 

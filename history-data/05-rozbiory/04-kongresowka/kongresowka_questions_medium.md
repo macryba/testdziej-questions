@@ -28,12 +28,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-006
 **Pytanie:** Kto był namiestnikiem Królestwa Polskiego w latach 1815-1826?
 
-**A.** Józef Zajączek
-**B.** Iwan Paskiewicz
-**C.** Wasilij Łanskoj
-**D.** Konstanty Pawłowicz
+**A.** Wasilij Łanskoj
+**B.** Konstanty Pawłowicz
+**C.** Józef Zajączek
+**D.** Iwan Paskiewicz
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Józef Zajączek był pierwszym namiestnikiem Królestwa Polskiego w latach 1815-1826. Był on generałem, który walczył u boku Napoleona, a później został mianowany namiestnikiem przez Aleksandra I. Po jego śmierci w 1826 roku Aleksander I nie mianował nowego namiestnika.
 
@@ -52,12 +52,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-007
 **Pytanie:** Kiedy Sejm Królestwa Polskiego dokonał detronizacji Mikołaja I jako króla Polski?
 
-**A.** 29 listopada 1830
-**B.** 25 stycznia 1831
+**A.** 25 stycznia 1831
+**B.** 29 listopada 1830
 **C.** 8 września 1831
 **D.** 26 lutego 1832
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Sejm Królestwa Polskiego dokonał detronizacji Mikołaja I 25 stycznia 1831 roku, podczas powstania listopadowego. Był to akt zerwania unii personalnej z Rosją. Decyzja ta była odpowiedzią na łamanie konstytucji przez cara.
 
@@ -76,12 +76,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-008
 **Pytanie:** Co było główną przyczyną wybuchu powstania listopadowego w 1830 roku?
 
-**A.** Brak dostępu do morza Bałtyckiego
-**B.** Nieprzestrzeganie konstytucji przez carów rosyjskich
-**C.** Konflikt gospodarczy z Prusami
-**D.** Żądania chłopów o uwłaszczenie
+**A.** Nieprzestrzeganie konstytucji przez carów rosyjskich
+**B.** Żądania chłopów o uwłaszczenie
+**C.** Brak dostępu do morza Bałtyckiego
+**D.** Konflikt gospodarczy z Prusami
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Główną przyczyną wybuchu powstania listopadowego było systematyczne łamanie konstytucji z 1815 roku przez carów rosyjskich. Carat wprowadzał cenzurę, ograniczał wolności, zawieszał obrady Sejmu i prześladował polskie organizacje patriotyczne.
 
@@ -100,12 +100,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-009
 **Pytanie:** Które wydarzenie bezpośrednio poprzedziło wybuch powstania listopadowego?
 
-**A.** Śmierć Aleksandra I
-**B.** Wybuch rewolucji we Francji
-**C.** Sprzysiężenie podchorążych w Szkole Piechoty
-**D.** Wprowadzenie cenzury prasy
+**A.** Sprzysiężenie podchorążych w Szkole Piechoty
+**B.** Wprowadzenie cenzury prasy
+**C.** Śmierć Aleksandra I
+**D.** Wybuch rewolucji we Francji
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Bezpośrednim impulsem do wybuchu powstania było sprzysiężenie podchorążych w Szkole Podchorążych Piechoty w Warszawie w nocy z 29 na 30 listopada 1830 roku. Piotr Wysocki i inni spiskowcy zaatakowali Belweder, siedzibę wielkiego księcia Konstantego.
 
@@ -124,12 +124,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-010
 **Pytanie:** Co oznaczało tzw. "rozszerzenie wewnętrzne" Królestwa Polskiego?
 
-**A.** Powiększenie terytorium kosztem Prus
-**B.** Przyłączenie ziem zabranych do Królestwa
-**C.** Rozbudowę Warszawy
-**D.** Utworzenie nowych województw
+**A.** Rozbudowę Warszawy
+**B.** Utworzenie nowych województw
+**C.** Przyłączenie ziem zabranych do Królestwa
+**D.** Powiększenie terytorium kosztem Prus
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** "Rozszerzenie wewnętrzne" oznaczało przyłączenie do Królestwa Polskiego ziem zabranych (tereny I i II rozbioru przyłączone do Rosji). Rosja zobowiązała się do tego na kongresie wiedeńskim, ale obietnica ta nigdy nie została zrealizowana, co zwiększyło niezadowolenie polskich elit.
 
@@ -148,12 +148,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-011
 **Pytanie:** Jakie były główne skutki gospodarcze Statutu Organicznego z 1832 roku?
 
-**A.** Rozwój przemysłu i handlu
-**B.** Wprowadzenie granicy celnej z Rosją
-**C.** Obniżenie podatków
-**D.** Ułatwienia w eksporcie towarów
+**A.** Obniżenie podatków
+**B.** Rozwój przemysłu i handlu
+**C.** Ułatwienia w eksporcie towarów
+**D.** Wprowadzenie granicy celnej z Rosją
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Statut Organiczny wprowadził granicę celną między Królestwem Polskim a cesarstwem rosyjskim w 1834 roku. Ponieważ Rosja była głównym rynkiem zbytu dla polskich towarów, spowodowało to załamanie gospodarcze i wycofanie kapitałów z Królestwa.
 
@@ -172,12 +172,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-012
 **Pytanie:** Kto był głównodowodzącym wojsk rosyjskich tłumiących powstanie listopadowe w 1831 roku?
 
-**A.** Iwan Dybicz
-**B.** Iwan Paskiewicz
-**C.** Konstanty Pawłowicz
-**D.** Wasilij Łanskoj
+**A.** Wasilij Łanskoj
+**B.** Iwan Dybicz
+**C.** Iwan Paskiewicz
+**D.** Konstanty Pawłowicz
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Feldmarszałek Iwan Dybicz był głównodowodzącym wojsk rosyjskich w pierwszej fazie powstania listopadowego. W lutym 1831 roku wkroczył z wojskami na terytorium Królestwa Polskiego. Po jego śmierci w maju 1831 roku dowodzenie objął Iwan Paskiewicz.
 
@@ -196,12 +196,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-013
 **Pytanie:** Jakie wydarzenie z 1825 roku wpłynęło na zmianę polityki rosyjskiej wobec Królestwa Polskiego?
 
-**A.** Wybuch powstania dekabristów
-**B.** Śmierć Aleksandra I
-**C.** Wojna rosyjsko-turecka
-**D.** Kongres wiedeński
+**A.** Kongres wiedeński
+**B.** Wojna rosyjsko-turecka
+**C.** Wybuch powstania dekabristów
+**D.** Śmierć Aleksandra I
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Śmierć Aleksandra I w 1825 roku i objęcie tronu przez Mikołaja I oznaczały zmianę polityki rosyjskiej wobec Królestwa Polskiego. Mikołaj I był bardziej autokratyczny i mniej skłonny do tolerowania autonomii polskiej niż jego brat Aleksander.
 
@@ -220,12 +220,12 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-014
 **Pytanie:** Co charakteryzowało tzw. "noc paskiewiczowską" po upadku powstania listopadowego?
 
-**A.** Rozkwit kulturalny Królestwa
-**B.** Okres terroru i represji
+**A.** Okres reform i modernizacji
+**B.** Rozkwit kulturalny Królestwa
 **C.** Czas autonomii i samorządności
-**D.** Okres reform i modernizacji
+**D.** Okres terroru i represji
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** "Noc paskiewiczowska" to okres terroru i represji po upadku powstania listopadowego, nazwany od nazwiska namiestnika Iwana Paskiewicza. Charakteryzował się konfiskatami majątków, zesłaniami na Sybir, wysoką kontrybucją (22 mln rubli) i wprowadzeniem stanu wojennego.
 
@@ -242,14 +242,14 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 ## Pytanie 10
 
 **Question ID:** Q-KONG-015
-**Pytanie:** Która polska uczelnia wyższa została utworzona w 1816 roku w Królestwie Polskim?
+**Pytanie:** Która polska uczska wyższa została utworzona w 1816 roku w Królestwie Polskim?
 
-**A.** Instytut Politechniczny
-**B.** Uniwersytet Warszawski
-**C.** Instytut Agronomiczny w Marymoncie
-**D.** Szkoła Główna Warszawska
+**A.** Szkoła Główna Warszawska
+**B.** Instytut Politechniczny
+**C.** Uniwersytet Warszawski
+**D.** Instytut Agronomiczny w Marymoncie
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Uniwersytet Warszawski (Królewski Uniwersytet Warszawski) został utworzony 19 listopada 1816 roku przez Aleksandra I. Była to pierwsza polska uczelnia wyższa po upadku Rzeczypospolitej Obojga Narodów, a językiem wykładowym był polski.
 
@@ -268,10 +268,10 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-016
 **Pytanie:** Jakim dokumentem zastąpiono konstytucję Królestwa Polskiego w 1832 roku?
 
-**A.** Kartą konstytucyjną
+**A.** Uchwałą sejmową
 **B.** Statutem Organicznym
-**C.** Uchwałą sejmową
-**D.** Aktem unijnym
+**C.** Aktem unijnym
+**D.** Kartą konstytucyjną
 
 **Prawidłowa odpowiedź:** B
 
@@ -292,10 +292,10 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Question ID:** Q-KONG-017
 **Pytanie:** Co oznaczało "zawieszenie wolności prasy" w 1819 roku?
 
-**A.** Czasowe zaprzestanie wydawania gazet
+**A.** Ograniczenie dostępu do prasy zagranicznej
 **B.** Wprowadzenie cenzury prewencyjnej
 **C.** Zakaz publikacji w języku polskim
-**D.** Ograniczenie dostępu do prasy zagranicznej
+**D.** Czasowe zaprzestanie wydawania gazet
 
 **Prawidłowa odpowiedź:** B
 

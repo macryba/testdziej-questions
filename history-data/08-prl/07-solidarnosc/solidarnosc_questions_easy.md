@@ -30,7 +30,7 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 **A.** Lech Wałęsa
 **B.** Anna Walentynowicz
 **C.** Marian Jurczyk
-**D.** Andrzej Gwiazda
+**D.** Alina Pienkowska
 
 **Poprawna odpowiedź:** A
 
@@ -42,7 +42,7 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 **Analiza niepoprawnych odpowiedzi:**
 - Anna Walentynowicz – dźwigarka w Stoczni Gdańskiej, której zwolnienie było bezpośrednią przyczyną strajku, ale nie była jego liderem
 - Marian Jurczyk – przewodził strajkom w Stoczni Szczecińskiej w sierpniu 1980
-- Andrzej Gwiazda – działacz opozycji demokratycznej, współzałożyciel Solidarności, ale nie był głównym liderem strajku
+- Alina Pienkowska – pielęgniarka i działaczka Solidarności, jedna z inicjatorek strajku, ale nie jego główna liderka
 
 ---
 
@@ -77,10 +77,10 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 
 **Pytanie:** W którym miejscu podpisano historyczne Porozumienia Sierpniowe w 1980 roku?
 
-**A.** Pałac Namiestnikowski w Warszawie
+**A.** Belwederski pałac
 **B.** Sala BHP Stoczni Gdańskiej
 **C.** Zamek Królewski w Krakowie
-**D.** Sejm RP w Warszawie
+**D.** Sejm w Warszawie
 
 **Poprawna odpowiedź:** B
 
@@ -90,9 +90,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/21_postulat%C3%B3w_Mi%C4%99dzyzak%C5%82adowego_Komitetu_Strajkowego
 
 **Analiza niepoprawnych odpowiedzi:**
-- Pałac Namiestnikowski – siedziba prezydenta Polski w okresie międzywojennym, nie był związany z Porozumieniami Sierpniowymi
+- Belwederski pałac – siedziba prezydenta Polski w okresie międzywojennym, nie był związany z Porozumieniami Sierpniowymi
 - Zamek Królewski w Krakowie – historyczna rezydencja królów polskich, nie była miejscem podpisania porozumienia
-- Sejm RP – miejsce obrad parlamentu, porozumienia podpisano w Gdańsku, a nie w Warszawie
+- Sejm w Warszawie – miejsce obrad parlamentu, porozumienia podpisano w Gdańsku, a nie w Warszawie
 
 ---
 
@@ -127,10 +127,10 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 
 **Pytanie:** Które wydarzenie bezpośrednio wywołało strajki w sierpniu 1980 roku na Wybrzeżu?
 
-**A.** Zwolnienie Anny Walentynowicz ze Stoczni Gdańskiej
-**B.** Podwyżka cen mięsa i wędlin
+**A.** Zwolnienie Anny Walentynowicz
+**B.** Podwyżka cen żywności
 **C.** Ogłoszenie stanu wojennego
-**D.** Zwycięstwo Wojciecha Jaruzelskiego w wyborach
+**D.** Wybory polskiego papieża
 
 **Poprawna odpowiedź:** A
 
@@ -140,9 +140,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 **Analiza niepoprawnych odpowiedzi:**
-- Podwyżka cen mięsa i wędlin – przyczyna strajków w grudniu 1970 roku, nie sierpnia 1980
+- Podwyżka cen żywności – przyczyna strajków w grudniu 1970 roku, nie sierpnia 1980
 - Ogłoszenie stanu wojennego – wydarzenie z 13 grudnia 1981 roku, po narodzinach Solidarności
-- Zwycięstwo Wojciecha Jaruzelskiego – Jaruzelski nie brał udziału w wyborach w 1980 roku
+- Wybory polskiego papieża – wydarzenie z października 1978 roku, wybór Karola Wojtyły na papieża
 
 ---
 
@@ -252,9 +252,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 
 **Pytanie:** Które miasto było głównym ośrodkiem narodzin Solidarności w sierpniu 1980 roku?
 
-**A.** Warszawa
-**B.** Kraków
-**C.** Gdańsk
+**A.** Szczecin
+**B.** Katowice
+**C.** Gdańsk-Westerplatte
 **D.** Wrocław
 
 **Poprawna odpowiedź:** C
@@ -265,6 +265,6 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 **Analiza niepoprawnych odpowiedzi:**
-- Warszawa – stolica Polski, ale strajki na większą skalę wybuchły na Wybrzeżu
-- Kraków – ważne miasto historyczne, ale nie było głównym ośrodkiem strajków w 1980
+- Szczecin – miasto na Wybrzeżu, gdzie również strajkowano w sierpniu 1980
+- Katowice – ważny ośrodek przemysłowy, ale nie był głównym miejscem narodzin Solidarności
 - Wrocław – miasto na Dolnym Śląsku, również strajkowało, ale nie było głównym ośrodkiem narodzin Solidarności

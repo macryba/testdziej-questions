@@ -98,12 +98,12 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 
 **Pytanie:** Jaki był główny skutek utworzenia arcybiskupstwa w Gnieźnie w 1000 roku?
 
-**A)** Zwiększenie wpływów niemieckich w Polsce
-**B)** Uzyskanie niezależności kościelnej Polski od Niemiec
+**A)** Uzyskanie niezależności kościelnej Polski od Niemiec
+**B)** Zwiększenie wpływów niemieckich w Polsce
 **C)** Rozpoczęcie wojny z Czechami
 **D)** Upadek państwa polskiego
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Utworzenie arcybiskupstwa w Gnieźnie w 1000 roku pozwoliło Polsce na uzyskanie niezależności kościelnej od Niemiec. Odtąd polski Kościół był podporządkowany bezpośrednio papieżowi, a nie niemieckim hierarchom kościelnym. To wzmocniło suwerenność państwa polskiego.
 
@@ -123,11 +123,11 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Pytanie:** Który obrządek chrześcijański przyjęła Polska w X wieku?
 
 **A)** Obrządek bizantyjski (prawosławny)
-**B)** Obrządek łaciński
-**C)** Obrządek ariański
-**D)** Obrządek koptyjski
+**B)** Obrządek ariański
+**C)** Obrządek koptyjski
+**D)** Obrządek łaciński
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Polska przyjęła obrządek łaciński, co oznaczało orientację ku kulturze zachodniej. Obrządek łaciński różnił się od obrządku bizantyjskiego (prawosławnego) i przesądził o przynależności kulturowej i politycznej Polski do zachodu Europy na stulecia.
 
@@ -266,12 +266,12 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 
 **Pytanie:** Jaki był główny skutek chrystianizacji Polski dla rozwoju kultury?
 
-**A)** Zatrzymanie rozwoju kultury
-**B)** Rozpoczęcie procesu chrystianizacji społeczeństwa i rozwój kultury chrześcijańskiej
+**A)** Rozpoczęcie procesu chrystianizacji społeczeństwa i rozwój kultury chrześcijańskiej
+**B)** Zatrzymanie rozwoju kultury
 **C)** Powrót do pogaństwa
 **D)** Izolacja kulturowa od Europy
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Chrzest Polski rozpoczął proces christianizacji społeczeństwa polskiego i rozwój kultury chrześcijańskiej. Powstały kościoły, klasztory, rozwijało się piśmiennictwo i oświata. Polska została włączona do chrześcijańskiej Europy i przyjęła jej kulturę łacińską.
 
@@ -291,11 +291,11 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Pytanie:** Decyzja Mieszka I o przyjęciu chrztu w obrządku łacińskim (a nie prawosławnym) oznaczała, że:
 
 **A)** Polska stała się częścią wpływów bizantyjskich i wschodnich
-**B)** Polska została włączona do kręgu kultury łacińskiej i zachodniej
-**C)** Różnice religijne między Polską a Czechami zwiększyły się
+**B)** Różnice religijne między Polską a Czechami zwiększyły się
+**C)** Polska została włączona do kręgu kultury łacińskiej i zachodniej
 **D)** Kościół polski był całkowicie niezależny od Rzymu
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Przyjęcie chrztu w obrządku łacińskim oznaczało włączenie Polski do kręgu kultury zachodniej, z łaciną jako językiem kościoła i nauki, oraz powiązania z papieżem i monarchami zachodniej Europy. To przesądziło o cywilizacyjnej przynależności Polski na stulecia.
 
@@ -315,11 +315,11 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Pytanie:** Po chrzcie w 966 roku relacje Polski z cesarstwem niemieckim:
 
 **A)** Uległy całkowitemu pogorszeniu, ponieważ Mieszko I nie uznał zwierzchnictwa cesarza
-**B)** Poprawiły się, ponieważ chrześcijański władca był traktowany jako równy partner
-**C)** Zostały całkowicie zerwane i Polska stała się wrogiem cesarstwa
-**D)** Nie uległy zmianie, ponieważ chrzest nie miał wpływu na politykę
+**B)** Nie uległy zmianie, ponieważ chrzest nie miał wpływu na politykę
+**C)** Poprawiły się, ponieważ chrześcijański władca był traktowany jako równy partner
+**D)** Zostały całkowicie zerwane i Polska stała się wrogiem cesarstwa
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Chrzest sprawił, że Mieszko I został uznany za chrześcijańskiego władcę i równego partnera przez cesarza i innych monarchów europejskich. To poprawiło pozycję Polski w polityce międzynarodowej — Mieszko uznawał pewne zwierzchnictwo cesarza, ale zyskał status chrześcijańskiego monarchy, co chroniło przed ekspansją.
 
@@ -340,11 +340,11 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Pytanie:** Proces chrystianizacji polskiego społeczeństwa po 966 roku:
 
 **A)** Przebiegał szybko i bez oporu, ponieważ wszyscy chętnie przyjęli nową wiarę
-**B)** Trwał przez pokolenia i napotykał na opór pogańskich tradycji i zwyczajów
-**C)** Zakończył się sukcesem już za życia Mieszka I w 992 roku
+**B)** Zakończył się sukcesem już za życia Mieszka I w 992 roku
+**C)** Trwał przez pokolenia i napotykał na opór pogańskich tradycji i zwyczajów
 **D)** Nie obejmował ludności wiejskiej, tylko mieszczan i szlachtę
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Chrystianizacja społeczeństwa była długim procesem trwającym pokolenia. Pogańskie tradycje i zwyczaje utrzymywały się długo, a nowa wiara często mieszała się ze starymi kultami. Proces ten był stopniowy i różny w różnych warstwach społeczeństwa.
 
@@ -363,12 +363,12 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 
 **Pytanie:** Chrystianizacja Polski w 966 roku doprowadziła do rozwoju w Polsce:
 
-**A)** Systemu pisma i edukacji opartej na języku łacińskim i alfabecie łacińskim
-**B)** Natychmiastowego powstania uniwersytetów i szkół wyższych we wszystkich miastach
+**A)** Natychmiastowego powstania uniwersytetów i szkół wyższych we wszystkich miastach
+**B)** Systemu pisma i edukacji opartej na języku łacińskim i alfabecie łacińskim
 **C)** Zastąpienia języka polskiego przez łacinę w życiu codziennym poddanych
 **D)** Izolacji Polski od wpływów kultury zachodniej i rozwój własnej, unikalnej cywilizacji
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Przyjęcie chrześcijaństwa oznaczało dostęp do łaciny jako języka kościoła, dokumentacji i nauki. To pozwoliło na rozwój systemu edukacji, zapisu historii Polski i kontaktów z intelektualnymi centrów Europy. Uniwersytety powstały znacznie później, w XIV wieku.
 
@@ -388,11 +388,11 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Pytanie:** Chrystianizacja Polski jest uważana za kluczowe wydarzenie dla polskiej państwowości, ponieważ:
 
 **A)** Umożliwiła Mieszkowi I podbój wszystkich sąsiednich państw i stworzenie imperium
-**B)** Dała Polsce dostęp do europejskiej dyplomacji, kultury i instytucji
-**C)** Natychmiast wprowadziła w Polsce demokrację parlamentarną na wzór zachodni
+**B)** Natychmiast wprowadziła w Polsce demokrację parlamentarną na wzór zachodni
+**C)** Dała Polsce dostęp do europejskiej dyplomacji, kultury i instytucji
 **D)** Zakończyła wszystkie konflikty zbrojne Polski z jej sąsiadami
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Chrzest dał Polsce dostęp do europejskiej dyplomacji, kultury łacińskiej, instytucji kościelnych i powiązań z innymi monarchami. To włączyło Polskę do wspólnoty europejskiej i dało narzędzia do budowy struktur państwowych zgodnie ze standardami zachodniej Europy.
 
@@ -410,11 +410,11 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Pytanie:** Które z poniższych stwierdzeń najlepiej opisuje główny skutek polityczny chrztu Mieszka I w 966 roku?
 
 **A)** Umożliwiło to zawarcie sojuszu z Rzymem przeciwko cesarzowi niemieckiemu
-**B)** Włączyło Polskę do kręgu polityczno-kulturowym Europy łacińskiej
-**C)** Pozwoliło na podbój nowych ziem na wschód od Wisły
+**B)** Pozwoliło na podbój nowych ziem na wschód od Wisły
+**C)** Włączyło Polskę do kręgu polityczno-kulturowym Europy łacińskiej
 **D)** Zabezpieczyło granice przed najazdami plemion skandynawskich
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Chrzest Mieszka I w 966 roku był kluczowym wydarzeniem, które włączyło państwo Polan do rodziny państw chrześcijańskich Europy. Dzięki przyjęciu chrześcijaństwa Mieszko zyskał status "przyjaciela cesarza" i mógł prowadzić politykę na równi z innymi władcami europejskimi. Co więcej, chrzest umożliwił zawieranie małżeństw dynastycznych z książętami chrześcijańskimi oraz otworzył drogę do przyjmowania zachodnich wzorców kulturowych, administracyjnych i prawnych. Był to krok decydujący o przynależności Polski do cywilizacji zachodniej.
 
@@ -433,11 +433,11 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Pytanie:** Jak nazywał się pierwszy biskup Polski, który ochrzcił Mieszka I w 966 roku?
 
 **A)** Biskup Wojciech
-**B)** Biskup Jordan
-**C)** Biskup Stanisław
-**D)** Biskup Prokop
+**B)** Biskup Stanisław
+**C)** Biskup Prokop
+**D)** Biskup Jordan
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Biskup Jordan był pierwszym biskupem Polski i ochrzcił Mieszka I w 966 roku. Przybył do Polski prawdopodobnie z Czech lub Niemiec. Jego imię nie jest wymienione w podstawie programowej szkoły podstawowej, stąd pytanie na poziomie MEDIUM.
 

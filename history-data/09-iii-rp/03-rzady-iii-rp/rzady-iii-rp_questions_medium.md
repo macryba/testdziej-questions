@@ -32,11 +32,11 @@ Która polityk była pierwszą kobietą-premierem w historii III RP?
 
 **Odpowiedzi:**
 A. Ewa Kopacz
-B. Hanna Suchocka
-C. Beata Szydło
-D. Aleksandra Jakubowska
+B. Beata Szydło
+C. Elżbieta Bieńkowska
+D. Hanna Suchocka
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Hanna Suchocka była pierwszą kobietą-premierem w historii III RP, sprawując urząd od 11 lipca 1992 do 26 października 1993 roku. Była również pierwszą kobietą-premierem w historii Polski (nie tylko III RP). Jej rząd upadł po wotum nieufności, co doprowadziło do przedterminowych wyborów w 1993 roku.
@@ -47,7 +47,7 @@ Hanna Suchocka była pierwszą kobietą-premierem w historii III RP, sprawując 
 **Analiza niepoprawnych odpowiedzi:**
 - Ewa Kopacz —była premierem w latach 2014-2015, jako trzecia kobieta-premier
 - Beata Szydło —była premierem w latach 2015-2017, jako czwarta kobieta-premier
-- Aleksandra Jakubowska —nie była premierem, była posłanką i wiceministrem
+- Elżbieta Bieńkowska —była wicepremier i minister, ale nigdy premierem
 
 ---
 
@@ -60,11 +60,11 @@ Który premier doprowadził do przystąpienia Polski do Unii Europejskiej w 2004
 
 **Odpowiedzi:**
 A. Jerzy Buzek
-B. Leszek Miller
-C. Marek Belka
-D. Kazimierz Marcinkiewicz
+B. Marek Belka
+C. Leszek Miller
+D. Jan Olszewski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Leszek Miller był premierem w latach 2001-2004 i to pod jego kierownictwem Polska zakończyła negocjacje akcesyjne z Unią Europejską i przystąpiła do UE 1 maja 2004 roku. Miller zrezygnował dzień po przystąpieniu Polski do UE, a jego miejsce zajął Marek Belka.
@@ -76,7 +76,7 @@ Leszek Miller był premierem w latach 2001-2004 i to pod jego kierownictwem Pols
 **Analiza niepoprawnych odpowiedzi:**
 - Jerzy Buzek —był premierem w latach 1997-2001, przygotowywał Polskę do integracji, ale nie doprowadził do niej
 - Marek Belka —został premierem w maju 2004, po przystąpieniu Polski do UE
-- Kazimierz Marcinkiewicz —był premierem w latach 2005-2006, już po akcesji
+- Jan Olszewski —był premierem w latach 1991-1992, długo przed przystąpieniem Polski do UE
 
 ---
 
@@ -117,12 +117,12 @@ Akcja Wyborcza Solidarność (AWS) wygrała wybory parlamentarne w 1997 roku, zd
 Dlaczego rząd Hanny Suchockiej upadł w 1993 roku?
 
 **Odpowiedzi:**
-A. Z powodu wotum nieufności udzielonego przez Sejm
-B. Przez rezygnację premiera
-C. Na skutek przegranych wyborów samorządowych
-D. Wskutek oskarżeń o korupcję
+A. Przez rezygnację premiera
+B. Na skutek przegranych wyborów samorządowych
+C. Wskutek oskarżeń o korupcję
+D. Z powodu wotum nieufności udzielonego przez Sejm
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Rząd Hanny Suchockiej upadł po wotum nieufności udzielonym przez Sejm 28 maja 1993 roku. Było to pierwsze w historii III RP skuteczne wotum nieufności. W konsekwencji prezydent Wałęsa rozwiązał Sejm i zarządził przedterminowe wybory, które wygrała SLD.
@@ -146,12 +146,12 @@ Rząd Hanny Suchockiej upadł po wotum nieufności udzielonym przez Sejm 28 maja
 Który premier przewodniczył rządowi, który wprowadził Polski do NATO w 1999 roku?
 
 **Odpowiedzi:**
-A. Jerzy Buzek
-B. Leszek Miller
-C. Włodzimierz Cimoszewicz
+A. Leszek Miller
+B. Włodzimierz Cimoszewicz
+C. Jerzy Buzek
 D. Józef Oleksy
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Jerzy Buzek był premierem w latach 1997-2001 i to pod jego kierownictwem Polska przystąpiła do NATO 12 marca 1999 roku. Rząd Buzka przeprowadził również szereg reform przygotowujących Polskę do integracji z Unią Europejską, w tym reformę administracyjną.
@@ -203,12 +203,12 @@ D. Podziały społeczne
 Która partia polityczna wygrała wybory parlamentarne w 2001 roku, tworząc rząd z Leszkiem Millerem jako premierem?
 
 **Odpowiedzi:**
-A. Sojusz Lewicy Demokratycznej
-B. Platforma Obywatelska
+A. Platforma Obywatelska
+B. Sojusz Lewicy Demokratycznej
 C. Prawo i Sprawiedliwość
-D. PSL
+D. Polskie Stronnictwo Ludowe
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Sojusz Lewicy Demokratycznej (SLD) wygrał wybory parlamentarne w 2001 roku, zdobywając 216 mandatów w Sejmie. SLD stworzył koalicję z PSL, a Leszek Miller został premierem. Rząd Millera doprowadził do przystąpienia Polski do Unii Europejskiej w 2004 roku.
@@ -232,12 +232,12 @@ Sojusz Lewicy Demokratycznej (SLD) wygrał wybory parlamentarne w 2001 roku, zdo
 Dlaczego rząd Leszka Millera był pod silną presją społeczno-polityczną w latach 2001-2004?
 
 **Odpowiedzi:**
-A. Z powodu rosnącego bezrobocia i reform gospodarczych
-B. Przez politykę zagraniczną wobec USA
-C. Na skutek konfliktu z Kościołem katolickim
-D. Wskutek sprzeciwu integracji z UE
+A. Przez politykę zagraniczną wobec USA
+B. Na skutek konfliktu z Kościołem katolickim
+C. Wskutek sprzeciwu integracji z UE
+D. Z powodu rosnącego bezrobocia i reform gospodarczych
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Rząd Leszka Millera był pod silną presją z powodu rosnącego bezrobocia (które osiągnęło ok. 20%), niepopularnych reform gospodarczych i sprawy Rywina. Te czynniki doprowadziły do spadku poparcia dla SLD i ostatecznie do rezygnacji Millera w 2004 roku, tuż po przystąpieniu Polski do UE.
@@ -261,12 +261,12 @@ Rząd Leszka Millera był pod silną presją z powodu rosnącego bezrobocia (kt�
 Który polityk był premierem przez najdłuższy czas w historii III RP (do 2020 roku)?
 
 **Odpowiedzi:**
-A. Donald Tusk
-B. Jarosław Kaczyński
-C. Jerzy Buzek
+A. Jarosław Kaczyński
+B. Jerzy Buzek
+C. Donald Tusk
 D. Mateusz Morawiecki
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Donald Tusk był premierem przez 7 lat (2007-2014), co czyni go najdłużej urzędującym premierem w historii III RP. Tusk kierował dwoma rządami i doprowadził do sukcesu Polski podczas kryzysu finansowego 2008-2009 oraz pełnienia prezydencji UE w 2011 roku.
@@ -290,12 +290,12 @@ Donald Tusk był premierem przez 7 lat (2007-2014), co czyni go najdłużej urz�
 Która partia wygrała wybory parlamentarne w 2007 roku, tworząc rząd z Donaldem Tuskiem jako premierem?
 
 **Odpowiedzi:**
-A. Platforma Obywatelska
-B. Prawo i Sprawiedliwość
-C. Sojusz Lewicy Demokratycznej
-D. Polskie Stronnictwo Ludowe
+A. Prawo i Sprawiedliwość
+B. Sojusz Lewicy Demokratycznej
+C. Polskie Stronnictwo Ludowe
+D. Platforma Obywatelska
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Platforma Obywatelska (PO) wygrała wybory parlamentarne w 2007 roku, zdobywając 209 mandatów w Sejmie. PO stworzyła koalicję z PSL, a Donald Tusk został premierem. Rząd Tuska kontynuował politykę proeuropejską i doprowadził Polsce przez kryzys finansowy 2008-2009.
@@ -319,12 +319,12 @@ Platforma Obywatelska (PO) wygrała wybory parlamentarne w 2007 roku, zdobywają
 Która partia polityczna wygrała wybory parlamentarne w 2015 roku, przejmując władzę po 8 latach rządów Platformy Obywatelskiej?
 
 **Odpowiedzi:**
-A. Prawo i Sprawiedliwość
-B. Platforma Obywatelska
+A. Platforma Obywatelska
+B. Prawo i Sprawiedliwość
 C. Nowoczesna
 D. Kukiz'15
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Prawo i Sprawiedliwość (PiS) wygrało wybory parlamentarne w 2015 roku, zdobywając 235 mandatów w Sejmie i umożliwiając sobie utworzenie rządu większościowego bez koalicjanta. Beata Szydło została premierem, a następnie w 2017 roku zastąpił ją Mateusz Morawiecki.

@@ -28,23 +28,23 @@ W latach 1989-1993 Polska przeszła fundamentalne przemiany, które zmieniły j�
 
 **Pytanie:** Które wydarzenie z czerwca 1989 roku jest uważane za początek transformacji ustrojowej w Polsce?
 
-**A)** Wybory do Sejmu i Senatu
-**B)** Obrady Okrągłego Stołu
-**C)** Powstanie rządu Tadeusza Mazowieckiego
-**D)** Wybory prezydenckie
+**A)** Obrady Okrągłego Stołu
+**B)** Wybory do Sejmu i Senatu
+**C)** Powstanie rządu Tadeusza
+**D)** Wybory prezydenckie w Polsce
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** 4 czerwca 1989 roku odbyły się pierwsze częściowo wolne wybory do Sejmu i Senatu. Wybory te były wynikiem porozumienia Okrągłego Stołu i pozwoliły opozycji demokratycznej na wejście do parlamentu, co rozpoczęło proces transformacji ustrojowej.
 
 **Źródła:**
 - [Wybory parlamentarne w Polsce w 1989 roku](https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Poprawna): Wybory do Sejmu i Senatu — rzeczywiste wydarzenie z czerwca 1989
-- B (Niepoprawna): Obrady Okrągłego Stołu — odbyły się wcześniej (luty-kwiecień 1989), były przygotowaniem do wyborów
-- C (Niepoprawna): Powstanie rządu Tadeusza Mazowieckiego — nastąpiło później (sierpień 1989), było skutkiem wyborów
-- D (Niepoprawna): Wybory prezydenckie — odbyły się rok później (1990)
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Obrady Okrągłego Stołu — odbyły się wcześniej (luty-kwiecień 1989), były przygotowaniem do wyborów — incorrect from Okrągły Stół (PRL)
+- B (Poprawna): Wybory do Sejmu i Senatu — rzeczywiste wydarzenie z czerwca 1989
+- C (Niepoprawna): Powstanie rządu Tadeusza — nastąpiło później (sierpień 1989), było skutkiem wyborów
+- D (Niepoprawna): Wybory prezydenckie w Polsce — odbyły się rok później (1990)
 
 ---
 
@@ -54,22 +54,22 @@ W latach 1989-1993 Polska przeszła fundamentalne przemiany, które zmieniły j�
 **Pytanie:** Kto był pierwszym niekomunistycznym premierem Polski po 1989 roku?
 
 **A)** Lech Wałęsa
-**B)** Tadeusz Mazowiecki
-**C)** Leszek Balcerowicz
-**D)** Wojciech Jaruzelski
+**B)** Wojciech Jaruzelski
+**C)** Tadeusz Mazowiecki
+**D)** Leszek Balcerowicz
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Tadeusz Mazowiecki został pierwszym niekomunistycznym premierem Polski po II wojnie światowej. Jego rząd został powołany 24 sierpnia 1989 roku i rozpoczął głębokie reformy ustrojowe oraz gospodarcze kraju.
 
 **Źródła:**
 - [Tadeusz Mazowiecki](https://pl.wikipedia.org/wiki/Tadeusz_Mazowiecki) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Lech Wałęsa — został prezydentem Polski w 1990 roku, a nie premierem
-- B (Poprawna): Tadeusz Mazowiecki — pierwszy niekomunistyczny premier (1989-1991)
-- C (Niepoprawna): Leszek Balcerowicz — był wicepremierem i ministrem finansów w rządzie Mazowieckiego
-- D (Niepoprawna): Wojciech Jaruzelski — był ostatnim komunistycznym prezydentem PRL
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Lech Wałęsa — został prezydentem Polski w 1990 roku — correct for: Rządy III RP (prezydent)
+- B (Niepoprawna): Wojciech Jaruzelski — był ostatnim komunistycznym prezydentem PRL
+- C (Poprawna): Tadeusz Mazowiecki — pierwszy niekomunistyczny premier (1989-1991)
+- D (Niepoprawna): Leszek Balcerowicz — był wicepremierem w rządzie Mazowieckiego
 
 ---
 
@@ -79,22 +79,22 @@ W latach 1989-1993 Polska przeszła fundamentalne przemiany, które zmieniły j�
 **Pytanie:** Jaką nazwę przywrócono Polsce 29 grudnia 1989 roku?
 
 **A)** Polska Rzeczpospolita Ludowa
-**B)** Rzeczpospolita Polska
+**B)** Rzeczpospolita Obojga Narodów
 **C)** III Rzeczpospolita
-**D)** Rzeczpospolita Obojga Narodów
+**D)** Rzeczpospolita Polska
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** 29 grudnia 1989 roku Sejm uchwalił ustawę o zmianie Konstytucji, przywracającą państwu nazwę Rzeczpospolita Polska oraz godło z orłem w koronie. Było to symboliczne zerwanie z systemem komunistycznym.
 
 **Źródła:**
 - [III Rzeczpospolita](https://pl.wikipedia.org/wiki/III_Rzeczpospolita) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Polska Rzeczpospolita Ludowa — nazwa obowiązująca w czasach PRL (1952-1989)
-- B (Poprawna): Rzeczpospolita Polska — nazwa przywrócona w 1989 roku
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Polska Rzeczpospolita Ludowa — nazwa z lat 1952-1989 — incorrect from Początki PRL
+- B (Niepoprawna): Rzeczpospolita Obojga Narodów — nazwa z XVI-XVIII wieku — incorrect from Rzeczpospolita Obojga Narodów (XVI-XVIII wiek)
 - C (Niepoprawna): III Rzeczpospolita — nazwa potoczna, nieoficjalna
-- D (Niepoprawna): Rzeczpospolita Obojga Narodów — nazwa państwa z XVI-XVIII wieku
+- D (Poprawna): Rzeczpospolita Polska — nazwa przywrócona w 1989 roku
 
 ---
 
@@ -104,22 +104,22 @@ W latach 1989-1993 Polska przeszła fundamentalne przemiany, które zmieniły j�
 **Pytanie:** Kto wygrał pierwsze wolne wybory prezydenckie w Polsce w 1990 roku?
 
 **A)** Tadeusz Mazowiecki
-**B)** Lech Wałęsa
+**B)** Stanisław Tymiński
 **C)** Wojciech Jaruzelski
-**D)** Stanisław Tymiński
+**D)** Lech Wałęsa
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Lech Wałęsa wygrał wybory prezydenckie w 1990 roku, stając się pierwszym demokratycznie wybranym prezydentem Polski. W drugiej turze wyborów pokonał Stanisława Tymińskiego, zdobywając ponad 74% głosów.
 
 **Źródła:**
 - [Wybory prezydenckie w Polsce w 1990 roku](https://pl.wikipedia.org/wiki/Wybory_prezydenckie_w_Polsce_w_1990_roku) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Tadeusz Mazowiecki — przegrał w pierwszej turze wyborów, zdobył 18% głosów
-- B (Poprawna): Lech Wałęsa — zwycięzca wyborów prezydenckich 1990
-- C (Niepoprawna): Wojciech Jaruzelski — nie kandydował w tych wyborach
-- D (Niepoprawna): Stanisław Tymiński — przegrał w drugiej turze z Lechem Wałęsą
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Tadeusz Mazowiecki — przegrał w I turze, 18% głosów
+- B (Niepoprawna): Stanisław Tymiński — przegrał w II turze z Wałęsą
+- C (Niepoprawna): Wojciech Jaruzelski — nie kandydował w wyborach
+- D (Poprawna): Lech Wałęsa — zwycięzca wyborów prezydenckich 1990
 
 ---
 
@@ -128,23 +128,23 @@ W latach 1989-1993 Polska przeszła fundamentalne przemiany, które zmieniły j�
 
 **Pytanie:** Jak nazywały się reformy gospodarcze wprowadzone w Polsce w 1990 roku?
 
-**A)** Plan Gierka
-**B)** Plan Balcerowicza
-**C)** Plan Mazowieckiego
+**A)** Plan Balcerowicza
+**B)** Plan Mazowieckiego
+**C)** Plan Gierka
 **D)** Plan Wałęsy
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Plan Balcerowicza to pakiet reform gospodarczych wprowadzonych w 1990 roku przez wicepremiera Leszka Balcerowicza. Reformy obejmowały liberalizację cen, prywatyzację przedsiębiorstw państwowych oraz walkę z hiperinflacją.
 
 **Źródła:**
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Plan Gierka — program modernizacji Polski z lat 70. XX wieku
-- B (Poprawna): Plan Balcerowicza — reformy gospodarcze z 1990 roku
-- C (Niepoprawna): Plan Mazowieckiego — nieoficjalna nazwa, faktycznie był to Plan Balcerowicza
-- D (Niepoprawna): Plan Wałęsy — nie istniał, Lech Wałęsa nie był autorem reform gospodarczych
+**Analiza odpowiedzi błędnych:**
+- A (Poprawna): Plan Balcerowicza — reformy gospodarcze z 1990 roku
+- B (Niepoprawna): Plan Mazowieckiego — nieoficjalna nazwa, był to Plan Balcerowicza
+- C (Niepoprawna): Plan Gierka — program z lat 70. — incorrect from Gierek (PRL)
+- D (Niepoprawna): Plan Wałęsy — nie istniał, Wałęsa nie tworzył reform
 
 ---
 

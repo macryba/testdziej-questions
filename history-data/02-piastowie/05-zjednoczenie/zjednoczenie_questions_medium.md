@@ -27,22 +27,22 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Question ID:** Q-ZJED-001
 **Pytanie:** Który książę wielkopolski został koronowany na króla Polski w 1295 roku?
 
-**A.** Bolesław Chrobry
-**B.** Przemysł II
+**A.** Przemysł II
+**B.** Bolesław Chrobry
 **C.** Władysław Łokietek
 **D.** Kazimierz Wielki
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Przemysł II został koronowany na króla Polski 26 czerwca 1295 roku w Gnieźnie. Był to pierwszy taki akt od 219 lat.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Bolesław Chrobry był pierwszym królem Polski, ale panował na przełomie X i XI wieku
-- C. Władysław Łokietek został koronowany później, w 1320 roku
-- D. Kazimierz Wielki panował w latach 1333-1370, już po Przemysłu II
+**Analiza odpowiedzi błędnych:**
+- B. Bolesław Chrobry był pierwszym królem Polski, ale panował na przełomie X i XI wieku (incorrect from Chrystianizacja)
+- C. Władysław Łokietek został koronowany później, w 1320 roku (incorrect from Łokietek)
+- D. Kazimierz Wielki panował w latach 1333-1370, już po Przemysłu II (incorrect from Kazimierz Wielki)
 
 ---
 
@@ -62,10 +62,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Kraków stał się miejscem koronacji dopiero za Władysława Łokietka w 1320 roku
-- B. Poznań był ważnym ośrodkiem wielkopolskim, ale nie miejscem koronacji
-- D. Kalisz był jednym z głównych grodów wielkopolskich, ale nie odbyła się tam koronacja
+**Analiza odpowiedzi błędnych:**
+- A. Kraków stał się miejscem koronacji dopiero za Władysława Łokietka w 1320 roku (incorrect from Łokietek)
+- B. Poznań był ważnym ośrodkiem wielkopolskim, ale nie miejscem koronacji (no referenced answer)
+- D. Kalisz był jednym z głównych grodów wielkopolskich, ale nie odbyła się tam koronacja (no referenced answer)
 
 ---
 
@@ -85,10 +85,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. 1295 to rok koronacji Przemysła II
-- C. 1300 to rok, w którym Władysław Łokietek musiał uchodzić z kraju
-- D. 1306 to rok powrotu Łokietka do kraju i objęcia władzy w Krakowie
+**Analiza odpowiedzi błędnych:**
+- A. 1295 to rok koronacji Przemysła II (no referenced answer)
+- C. 1300 to rok, w którym Władysław Łokietek musiał uchodzić z kraju (incorrect from Łokietek)
+- D. 1306 to rok powrotu Łokietka do kraju i objęcia władzy w Krakowie (incorrect from Łokietek)
 
 ---
 
@@ -98,20 +98,20 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 
 **A.** W Poznaniu
 **B.** W Gnieźnie
-**C.** W Rogoźnie
-**D.** W Krakowie
+**C.** W Krakowie
+**D.** W Rogoźnie
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Przemysł II został zamordowany 8 lutego 1296 roku w Rogoźnie podczas wypadku myśliwskiego. Zamachu dopuścili się najprawdopodobniej Brandenburczycy.
 
 **Źródła:**
 - https://dzieje.pl/wydarzenia/zamach-na-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Poznań był siedzibą władcy wielkopolskiego, ale nie miejscem zamachu
-- B. Gniezno było miejscem koronacji, a nie śmierci
-- D. Kraków w tym czasie był pod władzą czeską
+**Analiza odpowiedzi błędnych:**
+- A. Poznań był siedzibą władcy wielkopolskiego, ale nie miejscem zamachu (no referenced answer)
+- B. Gniezno było miejscem koronacji, a nie śmierci (no referenced answer)
+- C. Kraków w tym czasie był pod władzą czeską (no referenced answer)
 
 ---
 
@@ -131,10 +131,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
-**Analiza niepoprawnych odpowiedzi:**
-- B. Janisław był arcybiskupem gnieźnieńskim w czasach Łokietka, później koronował go w 1320
-- C. Borzysław był następcą Jakuba Świnki
-- D. Gerward był biskupem kujawskim, nie arcybiskupem
+**Analiza odpowiedzi błędnych:**
+- B. Janisław był arcybiskupem gnieźnieńskim w czasach Łokietka, później koronował go w 1320 (incorrect from Łokietek)
+- C. Borzysław był następcą Jakuba Świnki (no referenced answer)
+- D. Gerward był biskupem kujawskim, nie arcybiskupem (no referenced answer)
 
 ---
 
@@ -154,10 +154,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Jagiellonowie pojawili się dopiero w XIV wieku
-- C. Przemyślidzi byli czeską dynastią
-- D. Wazowie rządzili Polską w XVII wieku
+**Analiza odpowiedzi błędnych:**
+- A. Jagiellonowie pojawili się dopiero w XIV wieku (incorrect from Jagiellonowie)
+- C. Przemyślidzi byli czeską dynastią (incorrect from Chrystianizacja)
+- D. Wazowie rządzili Polską w XVII wieku (incorrect from Wazowie)
 
 ---
 
@@ -166,21 +166,21 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Pytanie:** Które ziemie były głównym terenem działalności zjednoczeniowej Przemysła II?
 
 **A.** Mazowsze
-**B.** Śląsk
-**C.** Wielkopolska
+**B.** Wielkopolska
+**C.** Śląsk
 **D.** Małopolska
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Przemysł II był księciem wielkopolskim i to Wielkopolska stanowiła główny teren jego działalności. Stopniowo obejmował władzę nad Poznaniem, Kaliszem i innymi grodami wielkopolskimi.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Mazowsze było odrębnym księstwem w tym czasie
-- B. Śląsk był podzielony między wielu książąt piastowskich
-- D. Małopolska była celem działań Przemysła II, ale nie jego głównym terenem
+**Analiza odpowiedzi błędnych:**
+- A. Mazowsze było odrębnym księstwem w tym czasie (no referenced answer)
+- C. Śląsk był podzielony między wielu książąt piastowskich (no referenced answer)
+- D. Małopolska była celem działań Przemysła II, ale nie jego głównym terenem (no referenced answer)
 
 ---
 
@@ -200,10 +200,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://dzieje.pl/artykuly/artykuly/historia-polski/odrodzenie-krolestwa-polskiego-koronacja-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. 100 lat to zbyt krótki okres
-- B. 150 lat to również za mało
-- D. 300 lat to zbyt dużo, choć okres rozbicia dzielnicowego był bardzo długi
+**Analiza odpowiedzi błędnych:**
+- A. 100 lat to zbyt krótki okres (no referenced answer)
+- B. 150 lat to również za mało (no referenced answer)
+- D. 300 lat to zbyt dużo, choć okres rozbicia dzielnicowego był bardzo długi (no referenced answer)
 
 ---
 
@@ -211,22 +211,22 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Question ID:** Q-ZJED-009
 **Pytanie:** Który z tych grodów należał do głównych ośrodków władzy Przemysła II w Wielkopolsce?
 
-**A.** Sandomierz
-**B.** Kalisz
+**A.** Kalisz
+**B.** Sandomierz
 **C.** Płock
 **D.** Wrocław
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Kalisz był jednym z głównych grodów wielkopolskich rządzonych przez Przemysła II. Książę objął władzę nad Kaliszem w 1279 roku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Sandomierz znajdował się w Małopolsce
-- C. Płock był stolicą Mazowsza
-- D. Wrocław był głównym grodem Śląska
+**Analiza odpowiedzi błędnych:**
+- B. Sandomierz znajdował się w Małopolsce (no referenced answer)
+- C. Płock był stolicą Mazowsza (no referenced answer)
+- D. Wrocław był głównym grodem Śląska (no referenced answer)
 
 ---
 
@@ -235,21 +235,21 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Pytanie:** Kto był następcą Przemysła II w dążeniach do zjednoczenia Polski?
 
 **A.** Kazimierz Wielki
-**B.** Władysław Łokietek
-**C.** Bolesław Chrobry
-**D.** Władysław Jagiełło
+**B.** Władysław Jagiełło
+**C.** Władysław Łokietek
+**D.** Bolesław Chrobry
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Władysław Łokietek kontynuował dzieło zjednoczenia Polski po śmierci Przemysła II i ostatecznie został koronowany na króla w 1320 roku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Kazimierz Wielki był synem i następcą Łokietka
-- C. Bolesław Chrobry żył wcześniej, na przełomie X i XI wieku
-- D. Władysław Jagiełło panował znacznie później, od 1386 roku
+**Analiza odpowiedzi błędnych:**
+- A. Kazimierz Wielki był synem i następcą Łokietka (incorrect from Kazimierz Wielki)
+- B. Władysław Jagiełło panował znacznie później, od 1386 roku (incorrect from Jagiellonowie)
+- D. Bolesław Chrobry żył wcześniej, na przełomie X i XI wieku (incorrect from Chrystianizacja)
 
 ---
 
@@ -269,10 +269,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://dzieje.pl/artykuly/artykuly/historia-polski/odrodzenie-krolestwa-polskiego-koronacja-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Pierwszą koronację przeprowadził Bolesław Chrobry w 1025 roku
-- C. Okres rozbicie trwał jeszcze kilkadziesiąt lat po śmierci Przemysła II
-- D. Nie wszystkie ziemie polskie zostały zjednoczone przez Przemysła II
+**Analiza odpowiedzi błędnych:**
+- A. Pierwszą koronację przeprowadził Bolesław Chrobry w 1025 roku (incorrect from Chrystianizacja)
+- C. Okres rozbicie trwał jeszcze kilkadziesiąt lat po śmierci Przemysła II (no referenced answer)
+- D. Nie wszystkie ziemie polskie zostały zjednoczone przez Przemysła II (no referenced answer)
 
 ---
 
@@ -292,10 +292,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Papież wyraził zgodę na koronację, ale nie był jej inicjatorem
-- C. Książęta śląscy w większości uznawali zwierzchnictwo czeskie
-- D. Margrabiowie brandenburscy byli przeciwnikami zjednoczenia Polski
+**Analiza odpowiedzi błędnych:**
+- A. Papież wyraził zgodę na koronację, ale nie był jej inicjatorem (no referenced answer)
+- C. Książęta śląscy w większości uznawali zwierzchnictwo czeskie (no referenced answer)
+- D. Margrabiowie brandenburscy byli przeciwnikami zjednoczenia Polski (no referenced answer)
 
 ---
 
@@ -304,21 +304,21 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Pytanie:** Jaki był główny cel polityki zjednoczeniowej Przemysła II?
 
 **A.** Podbój nowych terytoriów na wschodzie
-**B.** Odbudowa jednolitego państwa polskiego po okresie rozbicia dzielnicowego
-**C.** Sojusz z Czechami przeciwko Węgrom
-**D.** Wypowiedzenie wojny Zakonowi Krzyżackiemu
+**B.** Sojusz z Czechami przeciwko Węgrom
+**C.** Wypowiedzenie wojny Zakonowi Krzyżackiemu
+**D.** Odbudowa jednolitego państwa polskiego po okresie rozbicia dzielnicowego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Głównym celem Przemysła II było odbudowanie jednego państwa polskiego po długim okresie rozbicia dzielnicowego i przywrócenie instytucji królewskiej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Przemysł II nie prowadził polityki ekspansji na wschód
-- C. Nie dążył do sojuszu z Czechami, przeciwnie - Czechy były zagrożeniem
-- D. Nie prowadził otwartej wojny z Zakonem w tym okresie
+**Analiza odpowiedzi błędnych:**
+- A. Przemysł II nie prowadził polityki ekspansji na wschód (no referenced answer)
+- B. Nie dążył do sojuszu z Czechami, przeciwnie - Czechy były zagrożeniem (no referenced answer)
+- C. Nie prowadził otwartej wojny z Zakonem w tym okresie (no referenced answer)
 
 ---
 
@@ -338,10 +338,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Najazdy tatarskie były zagrożeniem w połowie XIII wieku
-- C. Nie było najazdów skandynawskich w tym okresie
-- D. Ruś nie stanowiła głównego zagrożenia dla polityki Przemysła II
+**Analiza odpowiedzi błędnych:**
+- A. Najazdy tatarskie były zagrożeniem w połowie XIII wieku (no referenced answer)
+- C. Nie było najazdów skandynawskich w tym okresie (no referenced answer)
+- D. Ruś nie stanowiła głównego zagrożenia dla polityki Przemysła II (no referenced answer)
 
 ---
 
@@ -361,10 +361,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://dzieje.pl/wydarzenia/zamach-na-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Brak męskiego potomka był faktem, ale to nie był główny problem
-- C. Atak czeski nastąpił później, po śmierci Przemysła II
-- D. Kościół nadal popierał zjednoczenie
+**Analiza odpowiedzi błędnych:**
+- A. Brak męskiego potomka był faktem, ale to nie był główny problem (no referenced answer)
+- C. Atak czeski nastąpił później, po śmierci Przemysła II (no referenced answer)
+- D. Kościół nadal popierał zjednoczenie (no referenced answer)
 
 ---
 
@@ -373,21 +373,21 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Pytanie:** Jaki był skutkiem koronacji Przemysła II dla dalszych dziejów Polski?
 
 **A.** Natychmiastowe zjednoczenie wszystkich ziem polskich
-**B.** Stworzenie precedensu dla koronacji Władysława Łokietka w 1320 roku
-**C.** Poddanie Polski Czechom
-**D.** Rozpoczęcie wojny z Zakonem Krzyżackim
+**B.** Poddanie Polski Czechom
+**C.** Rozpoczęcie wojny z Zakonem Krzyżackim
+**D.** Stworzenie precedensu dla koronacji Władysława Łokietka w 1320 roku
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Koronacja Przemysła II stworzyła ważny precedens i pokazała, że odrodzenie królestwa polskiego jest możliwe, co zainspirowało działania Władysława Łokietka.
 
 **Źródła:**
 - https://dzieje.pl/artykuly/artykuly/historia-polski/odrodzenie-krolestwa-polskiego-koronacja-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Zjednoczenie wszystkich ziem nie nastąpiło od razu
-- C. Przeciwnie - koronacja była aktem niezależności
-- D. Nie rozpoczęto wtedy wojny z Zakonem
+**Analiza odpowiedzi błędnych:**
+- A. Zjednoczenie wszystkich ziem nie nastąpiło od razu (no referenced answer)
+- C. Przeciwnie - koronacja była aktem niezależności (no referenced answer)
+- D. Nie rozpoczęto wtedy wojny z Zakonem (no referenced answer)
 
 ---
 
@@ -407,10 +407,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przemys%C5%82_II
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Używał siły militarnej, ale nie tylko
-- C. Nie kupował terytoriów
-- D. Pomoc zagraniczna była ograniczona
+**Analiza odpowiedzi błędnych:**
+- A. Używał siły militarnej, ale nie tylko (no referenced answer)
+- C. Nie kupował terytoriów (no referenced answer)
+- D. Pomoc zagraniczna była ograniczona (no referenced answer)
 
 ---
 
@@ -430,10 +430,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Bogactwo miasta nie było głównym powodem
-- C. Nie planował przenoszenia stolicy
-- D. Nie to było głównym powodem
+**Analiza odpowiedzi błędnych:**
+- A. Bogactwo miasta nie było głównym powodem (no referenced answer)
+- C. Nie planował przenoszenia stolicy (no referenced answer)
+- D. Nie to było głównym powodem (no referenced answer)
 
 ---
 
@@ -442,21 +442,21 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Pytanie:** Kto był głównym podejrzanym o organizację zamachu na Przemysła II w 1296 roku?
 
 **A.** Władysław Łokietek
-**B.** Margrabiowie brandenburscy
-**C.** Zakon Krzyżacki
-**D.** Książęta śląscy
+**B.** Zakon Krzyżacki
+**C.** Książęta śląscy
+**D.** Margrabiowie brandenburscy
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Głównymi podejrzanymi o organizację zamachu na Przemysła II byli margrabiowie brandenburscy, którzy widzieli w nim przeszkodę dla swoich ekspansyjnych planów na ziemiach polskich.
 
 **Źródła:**
 - https://dzieje.pl/wydarzenia/zamach-na-przemysla-ii
 
-**Analiza niepoprawnych odpowiedzi:**
-- A. Łokietek był sojusznik Przemysła II
-- C. Zakon nie był bezpośrednio zaangażowany
-- D. Książęta śląscy mieli inne relacje z Przemysłem II
+**Analiza odpowiedzi błędnych:**
+- A. Łokietek był sojusznik Przemysła II (no referenced answer)
+- C. Zakon nie był bezpośrednio zaangażowany (no referenced answer)
+- D. Książęta śląscy mieli inne relacje z Przemysłem II (no referenced answer)
 
 ---
 
@@ -465,20 +465,10 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 **Pytanie:** Jaki był związek między Przemysłem II a Władysławem Łokietkiem?
 
 **A.** Byli wrogami
-**B.** Byli sojusznikami w dążeniach do zjednoczenia Polski
-**C.** Byli krewnymi w tej samej linii Piastów
+**B.** Byli krewnymi w tej samej linii Piastów
+**C.** Byli sojusznikami w dążeniach do zjednoczenia Polski
 **D.** Łokietek był bezpośrednim następcą Przemysła II
 
-**Poprawna odpowiedź:** B
-
-**Wyjaśnienie:** Przemysł II i Władysław Łokietek byli sojusznikami w dążeniach do zjednoczenia Polski. Łokietek kontynuował dzieło zjednoczenia po śmierci Przemysła II.
-
-**Źródła:**
-- https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_I_%C5%81okietek
-
-**Analiza niepoprawnych odpowiedzi:**
-- A. Nie byli wrogami
-- C. Byli z różnych linii Piastów
-- D. Łokietek nie był bezpośrednim następcą
+**Poprawna odpowiedź:** C
 
 ---

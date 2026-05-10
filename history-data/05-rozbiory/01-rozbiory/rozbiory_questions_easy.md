@@ -55,11 +55,11 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 **Pytanie:** Które państwa uczestniczyły w pierwszym rozbiorze Polski?
 
 **A)** Rosja, Prusy, Szwecja
-**B)** Rosja, Prusy, Austria
-**C)** Rosja, Turcja, Austria
-**D)** Prusy, Austria, Francja
+**B)** Rosja, Turcja, Austria
+**C)** Prusy, Austria, Francja
+**D)** Rosja, Prusy, Austria
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 **Wyjaśnienie:** W pierwszym rozbiorze Polski w 1772 roku uczestniczyły trzy sąsiednie mocarstwa: imperium rosyjskie, Królestwo Prus i Monarchię Habsburgów (Austria). Współpracowały one ze sobą w celu podziału terytorium Polski.
 
 **Źródła:**
@@ -68,8 +68,8 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Szwecja nie uczestniczyła w rozbiorach Polski, była potęgą w XVII wieku
-- C) Turcja (Imperium Osmańskie) jako jedyne państwo nie uznało później rozbiorów Polski
-- D) Francja nie uczestniczyła w rozbiorach, była tradicionalnym sojusznikiem Polski
+- B) Turcja (Imperium Osmańskie) jako jedyne państwo nie uznało później rozbiorów Polski
+- C) Francja nie uczestniczyła w rozbiorach, była tradicionalnym sojusznikiem Polski
 
 ---
 
@@ -152,10 +152,10 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 
 **A)** Francja
 **B)** Anglia
-**C)** Imperium Osmańskie (Turcja)
-**D)** Hiszpania
+**C)** Hiszpania
+**D)** Imperium Osmańskie (Turcja)
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 **Wyjaśnienie:** Imperium Osmańskie (Turcja) jako jedyne państwo na świecie oficjalnie nie uznało rozbiorów Polski. Sułtan turecki nie dopuścił do usunięcia nazwy "Królestwo Polskie" z tytulatury dyplomatycznej.
 
 **Źródła:**
@@ -164,7 +164,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Francja potajemnie uznała rozbory, mimo tradycyjnego sojuszu z Polską
 - B) Anglia (Wielka Brytania) nie sprzeciwiła się rozbiorom
-- D) Hiszpania podobnie jak inne państwa europejskie zaakceptowała rozbory
+- C) Hiszpania podobnie jak inne państwa europejskie zaakceptowała rozbory
 
 ---
 
@@ -223,10 +223,10 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 
 **A)** Uciekł do Francji
 **B)** Zorganizował powstanie
-**C)** Abdykował
-**D)** Został zamordowany
+**C)** Został zamordowany
+**D)** Abdykował
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 **Wyjaśnienie:** Po trzecim rozbiorze Polski w 1795 roku król Stanisław August Poniatowski abdykował (zrzekł się tronu). Wyjechał wtedy do Grodna, a później do Petersburga, gdzie zmarł w 1798 roku.
 
 **Źródła:**
@@ -236,7 +236,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Król nie uciekł do Francji, tylko został pod nadzorem rosyjskim
 - B) Powstanie zorganizował Tadeusz Kościuszko, a nie król
-- D) Król nie został zamordowany, zmarł śmiercią naturalną w Petersburgu
+- C) Król nie został zamordowany, zmarł śmiercią naturalną w Petersburgu
 
 ---
 

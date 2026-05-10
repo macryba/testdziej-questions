@@ -27,7 +27,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 **A** Podjęcie decyzji o budowie nowej stoczni w Gdyni
 **B** Ogłoszenie podwyżki cen artykułów żywnościowych o 23%
 **C** Zaostrzenie cenzury prasy i zakaz wydawania niektórych gazet
-**D** Wprowadzenie nowych norm pracy w stoczniach
+**D** Wprowadzenie nowych norm pracy w stoczniach gdańskich
 
 **Poprawna odpowiedź:** B
 
@@ -49,7 +49,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **A** W Stoczni Gdańskiej im. Lenina
 **B** W Stoczni im. Komuny Paryskiej w Gdyni
-**C** W Stoczni Szczecińskiej im. Adolfa Warskiego
+**C** W Stoczni Szczecińskiej im. Warskiego
 **D** W Stoczni Gdańskiej Remontowej
 
 **Poprawna odpowiedź:** A
@@ -139,12 +139,12 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Pytanie:** Jakie budynki zostały podpalone przez protestujących w trakcie wydarzeń grudnia 1970?
 
-**A** Siedzibę MSW w Warszawie
-**B** Gmachy Komitetów Wojewódzkich PZPR w Gdańsku i Szczecinie
+**A** Siedzibę MSW w Warszawie przy ul. Rakowieckiej
+**B** Sejm Rzeczypospolitej Polskiej w Warszawie
 **C** Pałac Kultury i Nauki w Warszawie
-**D** Sejm Rzeczypospolitej Polskiej
+**D** Gmachy Komitetów Wojewódzkich PZPR w Gdańsku i Szczecinie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** W trakcie protestów podpalono gmachy Komitetów Wojewódzkich PZPR w Gdańsku (15 grudnia) oraz w Szczecinie (17 grudnia). Był to wyraz gniewu protestujących przeciwko władzy partyjnej.
 
@@ -152,8 +152,8 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Analiza odpowiedzi niepoprawnych:**
 - A: Siedziba MSW w Warszawie nie została podpalona
+- B: Sejm RP w Warszawie nie był zaatakowany przez protestujących
 - C: Pałac Kultury i Nauki nie był celem ataku w grudniu 1970
-- D: Sejm RP w Warszawie nie był zaatakowany przez protestujących
 
 ---
 
@@ -163,11 +163,11 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 **Pytanie:** Które miasta oprócz Gdańska i Gdyni były głównymi ośrodkami protestów w grudniu 1970 roku?
 
 **A** Warszawa i Kraków
-**B** Szczecin i Elbląg
+**B** Łódź i Katowice
 **C** Poznań i Wrocław
-**D** Łódź i Katowice
+**D** Szczecin i Elbląg
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Głównymi ośrodkami protestów były Gdańsk, Gdynia, Szczecin i Elbląg. Protesty objęły także Słupsk, gdzie odbyły się demonstracje, ale bez ofiar śmiertelnych. W innych miastach strajki miały mniejszą skalę.
 
@@ -175,8 +175,8 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Analiza odpowiedzi niepoprawnych:**
 - A: Warszawa i Kraków nie były głównymi ośrodkami protestów
+- B: Łódź i Katowice miały mniejsze strajki
 - C: Poznań i Wrocław doświadczyły protestów, ale nie w takiej skali
-- D: Łódź i Katowice miały mniejsze strajki
 
 ---
 
@@ -185,10 +185,10 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Pytanie:** Ile osób zostało rannych w wyniku stłumienia protestów grudnia 1970 roku?
 
-**A** Ponad 500 osób
-**B** Ponad 1000 osób
-**C** Ponad 1500 osób
-**D** Ponad 2000 osób
+**A** Ponad pięćset osób
+**B** Ponad tysiąc osób
+**C** Ponad tysiąc pięćset osób
+**D** Ponad dwa tysiące osób
 
 **Poprawna odpowiedź:** B
 
@@ -208,20 +208,20 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Pytanie:** Które siły zostały użyte do stłumienia protestów robotniczych w grudniu 1970 roku?
 
-**A** Tylko milicja
-**B** Tylko wojsko
-**C** Zarówno milicja, jak i wojsko
-**D** Tylko oddziały ZOMO
+**A** Zarówno milicję, jak i wojsko
+**B** Tylko milicję i oddziały MO
+**C** Tylko wojsko i siły wojskowe
+**D** Tylko oddziały ZOMO i MSW
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Do stłumienia protestów użyto zarówno milicji (5000 funkcjonariuszy), jak i wojska (27 tysięcy żołnierzy), w tym 550 czołgów i 700 transporterów opancerzonych. Akcję nadzorował osobiście wiceminister MON Grzegorz Korczyński.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
 **Analiza odpowiedzi niepoprawnych:**
-- A: Protesty stłumiono siłami zarówno milicji, jak i wojska
 - B: Protesty stłumiono siłami zarówno milicji, jak i wojska
+- C: Protesty stłumiono siłami zarówno milicji, jak i wojska
 - D: Protesty stłumiono siłami zarówno milicji, jak i wojska
 
 ---
@@ -255,7 +255,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 **Pytanie:** Dlaczego władze PRL zdecydowały o użyciu siły wobec protestujących robotników w grudniu 1970 roku?
 
 **A** Aby chronić mienie publiczne przed zniszczeniem
-**B** Obawiając się utraty kontroli nad sytuacją i rozprzestrzenienia się protestów
+**B** Obawiając się utraty kontroli i rozprzestrzeniania się protestów
 **C** Ponieważ protestujący mieli kontakty z wywiadem zachodnim
 **D** Aby chronić granice państwa przed agresją zewnętrzną
 

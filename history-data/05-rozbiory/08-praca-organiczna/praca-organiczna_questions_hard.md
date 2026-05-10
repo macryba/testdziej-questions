@@ -32,11 +32,11 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **Pytanie:** Porównaj skuteczność pracy organicznej w zaborze pruskim i rosyjskim w latach 1864–1914. Które czynniki decydują o większej skuteczności ruchu w Wielkopolsce?
 
 **A)** Lepsza sytuacja gospodarcza zaboru pruskiego
-**B)** Wcześniejsze uwłaszczenie chłopów, rozwój edukacji i silna reakcja na germanizację
-**C)** Mniejsza represja ze strony władz pruskich
-**D)** Większe wsparcie ze strony inteligencji polskiej
+**B)** Korzystniejsze warunki ekonomiczne i mniejsze obciążenia podatkowe
+**C)** Wcześniejsze uwłaszczenie chłopów, rozwój edukacji i silna reakcja na germanizację
+**D)** Mniejsza represja ze strony władz pruskich
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Praca organiczna była bardziej skuteczna w zaborze pruskim z trzech powodów. Po pierwsze, wcześniejsza reforma agrarna (1811–1823) uwłaszczyła chłopów, co umożliwiło współpracę szlachty i chłopstwa. Po drugie, rozwój edukacji (np. gimnazjum św. Marii Magdaleny w Poznaniu) wykształcił kolejne pokolenia działaczy. Po trzecie, polityka germanizacji (Kulturkampf, Hakata) motywowała do obrony polskości poprzez pracę u podstaw. W zaborze rosyjskim represje popowstaniowe i rusyfikacja były bardziej dotkliwe, co ograniczało możliwości działania.
 
@@ -45,9 +45,9 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281831%E2%80%931914%29
 
 **Analiza niepoprawnych odpowiedzi:**
-- Lepsza sytuacja gospodarcza — warunki były trudniejsze z powodu germanizacji
-- Mniejsza represja — Kulturkampf i Hakata były bardzo dotkliwe
-- Większe wsparcie inteligencji — inteligencja działała we wszystkich zaborach
+- Lepsza sytuacja gospodarcza — warunki były trudniejsze z powodu intensywnej germanizacji i Kulturkampfu
+- Korzystniejsze warunki ekonomiczne — obciążenia podatkowe były wyższe niż w zaborze rosyjskim
+- Mniejsza represja — Kulturkampf i Hakata były bardzo dotkliwe dla Polaków
 
 ---
 
@@ -58,11 +58,11 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 **Pytanie:** Oceń wpływ pracy organicznej na proces odrodzenia państwa polskiego w 1918 roku. W jakim stopniu ruch ten przygotował społeczne i gospodarcze podstawy niepodległości?
 
 **A)** Praca organiczna nie miała znaczącego wpływu na odrodzenie państwa
-**B)** Ruch przygotował warstwę inteligencji i burżuazji, ale nie dotyczył mas społecznych
-**C)** Praca organiczna stworzyła fundamenty społeczne, gospodarcze i kulturowe dla nowoczesnego państwa
-**D)** Wpływ ruchu był marginalny w porównaniu z działalnością polityczną
+**B)** Ruch przygotował inteligencję, lecz nie dotyczył mas społecznych
+**C)** Wpływ ruchu był marginalny w porównaniu z działalnością polityczną
+**D)** Praca organiczna stworzyła fundamenty społeczne, gospodarcze i kulturowe dla nowoczesnego państwa
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Praca organiczna odegrała kluczową rolę w przygotowaniu gruntów pod odrodzenie państwa polskiego. Przede wszystkim stworzyła nowoczesną warstwę inteligencji, burżuazji i świadomego chłopstwa, które stały się bazą dla przyszłych struktur państwowych. Po wtóre, rozwój gospodarczy (przemysł, rolnictwo, spółdzielczość) zapewnił materialne podstawy niepodległości. Po trzecie, zachowanie tożsamości narodowej poprzez edukację, kulturę i organizacje społeczne pozwoliło na przetrwanie narodu pod zaborami. Wreszcie, doświadczenia organizacyjne (kółka rolnicze, towarzystwa, spółdzielnie) zostały wykorzystane do budowy struktur II Rzeczypospolitej.
 
@@ -83,12 +83,12 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 
 **Pytanie:** August Cieszkowski w swoim dziele "Prolegomena do historiozofii" (1838) wyłożył filozoficzne podstawy pracy organicznej. Jego koncepcja "pracy u podstaw" zakładała budowanie silnego społeczeństwa "od dołu" poprzez edukację i rozwój gospodarczy. Jakie były główne różnice między tym podejściem a romantyczną koncepcją powstania narodowego?
 
-**A)** Brak różnic — oba podejścia dążyły do niepodległości
-**B)** Romantycy stawiali na zryw zbrojny, organiczniści na długofalowy rozwój
-**C)** Organiczniści odrzucali patriotyzm na rzecz pragmatyzmu
-**D)** Romantycy nie wierzyli w możliwość sukcesu
+**A)** Romantycy stawiali na zryw zbrojny, organiczniści na długofalowy rozwój
+**B)** Organiczniści odrzucali patriotyzm na rzecz pragmatyzmu
+**C)** Romantycy nie wierzyli w możliwość sukcesu
+**D)** Brak różnic — oba podejścia dążyły do niepodległości
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Główna różnica leżała w metodach i ocenie szans sukcesu. Romantycy (Mickiewicz, Słowacki) wierzyli w "zryw ludu" i natychmiastowe powstanie zbrojne, licząc na pomoc z zewnątrz i romantyczną ofiarę. Organiczniści (Cieszkowski, Koźmian) uważali, że po klęsce powstania listopadowego i styczniowego należy najpierw "pracować u podstaw": wyedukować społeczeństwo, rozbudować gospodarkę, uodpornić na presję zaborcy. Dopiero świadomi, zorganizowani obywatele mieli szanse w przyszłym zrywie. Obie strategie dążyły do niepodległości, ale różniły się w ocenie środków i czasu potrzebnych do sukcesu.
 
@@ -97,9 +97,9 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 - https://pl.wikipedia.org/wiki/Praca_u_podstaw
 
 **Analiza niepoprawnych odpowiedzi:**
-- Brak różnic — metody były fundamentalnie różne
 - Odrzucenie patriotyzmu — organiczniści byli głęboko patriotyczni
 - Brak wiary romantyków — romantycy wierzyli w sukces, licząc na cud
+- Brak różnic — metody były fundamentalnie różne
 
 ---
 

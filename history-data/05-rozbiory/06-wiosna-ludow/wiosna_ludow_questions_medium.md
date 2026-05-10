@@ -44,14 +44,14 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 
 ### Pytanie 2
 **Question ID:** Q-WIOSNA-002
-**Pytanie:** Które wydarzenie zapoczątkowało powstanie wielkopolskie w 1848 roku?
+**Pytanie:** Które wydarzenie zapoczątkowało powstanie wielkopolskie?
 
 **A:** Rewolucja marcowa w Berlinie
-**B:** Wybuch powstania węgierskiego
-**C:** Ogłoszenie Konstytucji 3 maja
-**D:** Zjazd gnieźnieński
+**B:** Wiosna Ludów we Francji
+**C:** Powstanie krakowskie
+**D:** Manifestacja patriotyczna w Wiedniu
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Rewolucja marcowa w Berlinie (marzec 1848) była bezpośrednim impulsem do wybuchu powstania wielkopolskiego. Na wieść o wydarzeniach w stolicy Prus Polacy zaczęli organizować struktury wojskowe i cywilne.
 
@@ -59,9 +59,9 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w_na_ziemiach_polskich
 
 **Analiza odpowiedzi nieprawidłowych:**
-- Powstanie węgierskie wybuchło później, we wrześniu 1848
-- Konstytucja 3 maja została uchwalona w 1791 roku
-- Zjazd gnieźnieński odbył się w roku 1000
+- Wiosna Ludów we Francji wybuchła wcześniej, w lutym 1848
+- Powstanie krakowskie miało miejsce w 1846 roku
+- Manifestacja wiedeńska nie była bezpośrednio związana z powstaniem wielkopolskim
 
 ---
 
@@ -69,12 +69,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-003
 **Pytanie:** W którym mieście utworzono Komitet Narodowy podczas powstania wielkopolskiego?
 
-**A:** Poznań
-**B:** Warszawa
+**A:** Warszawa
+**B:** Poznań
 **C:** Kraków
 **D:** Wrocław
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Komitet Narodowy został utworzony w Poznaniu 20 marca 1848 roku. Był to główny organ władzy powstania wielkopolskiego, początkowo zdominowany przez konserwatywne elity, a później przez bardziej radykalne skrzydło.
 
@@ -115,12 +115,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-005
 **Pytanie:** Który polski generał stał się bohaterem narodowym Węgier, walcząc o niepodległość tego kraju?
 
-**A:** Józef Bem
-**B:** Ludwik Mierosławski
+**A:** Ludwik Mierosławski
+**B:** Józef Bem
 **C:** Tadeusz Kościuszko
 **D:** Jan Henryk Dąbrowski
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Józef Bem stał się legendą i bohaterem narodowym Węgier (Węgrzy nazywali go "Bem apó", co oznacza "ojciec"). Dowodził wojskami węgierskimi w Siedmiogrodzie, odnosząc liczne zwycięstwa nad wojskami austriackimi w latach 1848-1849.
 
@@ -138,12 +138,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-006
 **Pytanie:** Józef Bem był dowódcą wojsk węgierskich w którym regionie?
 
-**A:** Siedmiogród
-**B:** Slawonia
-**C:** Bukowina
-**D:** Dalmacja
+**A:** Slawonia
+**B:** Bukowina
+**C:** Dalmacja
+**D:** Siedmiogród
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Józef Bem otrzymał dowództwo wojsk węgierskich w Siedmiogrodzie i Banacie. W tej krainie, leżącej na terenie dzisiejszej Rumunii, odniósł liczne zwycięstwa nad wojskami austriackimi.
 
@@ -161,12 +161,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-007
 **Pytanie:** Co było głównym celem politycznym powstania wielkopolskiego?
 
-**A:** Odzyskanie niepodległości Polski
-**B:** Ochrona praw chłopów
+**A:** Ochrona praw chłopów
+**B:** Odzyskanie niepodległości Polski
 **C:** Walka o prawa robotników
 **D:** Obrona języka polskiego w szkołach
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Głównym celem powstania wielkopolskiego było odzyskanie niepodległości Polski. Komitet Narodowy proklamował niepodległość, odmawiając bezpośredniego wcielenia części Poznańskiego do Królestwa Prus.
 
@@ -207,12 +207,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-009
 **Pytanie:** Dlaczego rząd pruski wycofał się z obietnic autonomii dla Wielkiego Księstwa Poznańskiego?
 
-**A:** Wzmocnił swoje wojska w regionie
-**B:** Obawiał się interwencji Rosji
+**A:** Obawiał się interwencji Rosji
+**B:** Wzmocnił swoje wojska w regionie
 **C:** Zabrakło funduszy na autonomię
 **D:** Naciskały inne państwa niemieckie
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Rząd pruski po wzmocnieniu wojsk pruskich w Poznańskiem przystąpił do rozbrajania polskich oddziałów i wycofał się z wcześniejszych ugodowych postanowień. Miał wówczas przewagę militarną nad Polakami.
 
@@ -230,12 +230,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-010
 **Pytanie:** Jaki był skutek powstania wielkopolskiego dla Wielkiego Księstwa Poznańskiego?
 
-**A:** Zniesienie autonomii i represje
-**B:** Rozszerzenie praw polskich
+**A:** Rozszerzenie praw polskich
+**B:** Zniesienie autonomii i represje
 **C:** Uzyskanie niepodległości
 **D:** Utrzymanie status quo
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Skutkiem powstania było zniesienie jakiejkolwiek autonomii Wielkiego Księstwa Poznańskiego, włączenie go do Związku niemieckiego oraz zastosowanie represji wobec uczestników powstania i działaczy polskich.
 
@@ -276,12 +276,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-012
 **Pytanie:** Dlaczego powstanie węgierskie upadło w 1849 roku?
 
-**A:** Interwencja wojsk rosyjskich
-**B:** Brak poparcia ludności
-**C:** Zdrada dowódców
+**A:** Brak poparcia ludności
+**B:** Zdrada dowódców
+**C:** Interwencja wojsk rosyjskich
 **D:** Brak broni i amunicji
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Powstanie węgierskie upadło po interwencji wojsk rosyjskich, które wspólnie z armią austriacką pokonały siły węgierskie. W sierpniu 1849 roku połączone wojska austriacko-rosyjskie zepchnęły korpus Bema do Banatu.
 
@@ -297,24 +297,24 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 
 ### Pytanie 13
 **Question ID:** Q-WIOSNA-013
-**Pytanie:** Kto obok Ludwika Mierosławskiego był przywódcą powstania wielkopolskiego?
+**Pytanie:** Który polityk współtworzył z Ludwiki Mierosławskim władze powstania wielkopolskiego?
 
 **A:** Walenty Stefański
-**B:** Karol Libelt
-**C:** Oba powyższe
-**D:** Żaden z powyższych
+**B:** Edward Dembowski
+**C:** Karol Libelt
+**D:** Roman Zmorski
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
-**Wyjaśnienie:** Zarówno Walenty Stefański, jak i Karol Libelt byli kluczowymi postaciami powstania wielkopolskiego. Obaj powrócili z więzienia berlińskiego (Moabit) i brali czynny udział w przygotowaniach i przebiegu powstania.
+**Wyjaśnienie:** Walenty Stefański był kluczową postacią powstania wielkopolskiego i współtworzył władze powstania razem z Mierosławskim. Powrócił z więzienia berlińskiego (Moabit) i brał czynny udział w przygotowaniach i przebiegu powstania.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w_na_ziemiach_polskich
 
 **Analiza odpowiedzi nieprawidłowych:**
-- Tylko Stefański był przywódcą
-- Tylko Libelt był przywódcą
-- Odpowiedź "oba" jest prawidłowa
+- Edward Dembowski był przywódcą powstania krakowskiego w 1846 roku
+- Karol Libelt był ważnym działaczem, ale nie był głównym dowódcą
+- Roman Zmorski był poetą, nie dowodził powstaniem
 
 ---
 
@@ -345,12 +345,12 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Question ID:** Q-WIOSNA-015
 **Pytanie:** Co otrzymywali chłopi za udział w powstaniu wielkopolskim?
 
-**A:** Obietnicę ziemi na własność
-**B:** Pieniężne wynagrodzenie
-**C:** Pańszczyznę
-**D:** Tytuł szlachecki
+**A:** Pieniężne wynagrodzenie
+**B:** Pańszczyznę
+**C:** Tytuł szlachecki
+**D:** Obietnicę ziemi na własność
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Chłopom za udział w powstaniu obiecano na własność grunty dotąd użytkowane. Bezrolni mieli otrzymać przydziały ziemi. Była to próba pozyskania chłopstwa do sprawy narodowej.
 

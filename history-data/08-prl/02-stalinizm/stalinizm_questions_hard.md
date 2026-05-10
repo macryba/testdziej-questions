@@ -23,12 +23,12 @@ tokens_total: 0
 
 **Pytanie:** Oceń zależność Polski od ZSRR w okresie stalinizmu na płaszczyźnie politycznej i gospodarczej. Które stwierdzenie najlepiej oddaje tę relację?
 
-**A)** Polska była w pełni zależna od ZSRR – Moskwa decydowała o kluczowych decyzjach politycznych i gospodarczych
-**B)** Polska zachowała pełną suwerenność pomimo bliskich relacji z ZSRR
-**C)** Polska była zależna tylko gospodarczo, ale politycznie samodzielna
-**D)** Związek radziecki jedynie wspierał Polskę w odbudowie po wojnie
+**A)** Polska zachowała pełną suwerenność mimo bliskich relacji z ZSRR
+**B)** ZSRR jedynie wspierał Polskę w odbudowie po wojnie
+**C)** Polska była zależna tylko gospodarczo, a nie politycznie
+**D)** Polska była w pełni zależna od ZSRR – Moskwa decydowała o wszystkim
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Polska w okresie stalinizmu była w pełni zależna od ZSRR. Radzieccy doradcy obecni byli we wszystkich kluczowych instytucjach, Moskwa decydowała o personalnych zmianach (w tym usunięciu Gomułki w 1948), a polityka gospodarcza (Plan 6-letni, kolektywizacja) była kopiowana z radzieckiego modelu. Bierut regularnie podróżował do Moskwy po instrukcje, a polska armia i służby bezpieczeństwa były pod ścisłą kontrolą radzieckich doradców.
 
@@ -37,10 +37,10 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
 **Analiza odpowiedzi:**
-- A) Polska była w pełni zależna od ZSRR – PRAWIDŁOWA – najlepiej oddaje relację
-- B) Polska zachowała pełną suwerenność – nieprawda, Polska była satelitą ZSRR
-- C) Polska była zależna tylko gospodarczo – zależność obejmowała również politykę, wojsko, bezpiekę
-- D)** Związek radziecki jedynie wspierał Polskę – ZSRR narzucał swoją wolę
+- A) Polska zachowała pełną suwerenność – nieprawda, Polska była satelitą ZSRR
+- B) ZSRR jedynie wspierał Polskę – nieprawda, ZSRR narzucał swoją wolę
+- C) Polska była zależna tylko gospodarczo – nieprawda, zależność obejmowała politykę, wojsko, bezpiekę
+- D) Polska była w pełni zależna od ZSRR – PRAWIDŁOWA – najlepiej oddaje relację
 
 ---
 
@@ -49,12 +49,12 @@ tokens_total: 0
 
 **Pytanie:** Jak oceniasz efektywność Planu 6-letniego (1950-1955) z perspektywy rozwoju Polski? Która ocena jest najbardziej uzasadniona?
 
-**A)** Plan osiągnął sukces w industrializacji, ale kosztem drastycznego obniżenia poziomu życia i zaniedbania rolnictwa
-**B)** Plan całkowicie się nie udał – nie wybudowano żadnych nowych zakładów
-**C)** Plan doprowadził do zrównoważonego rozwoju wszystkich sektorów gospodarki
-**D)** Plan był sukcesem i znacząco poprawił poziom życia ludności
+**A)** Plan całkowicie się nie udał – nie wybudowano nowych zakładów
+**B)** Plan doprowadził do zrównoważonego rozwoju wszystkich sektorów
+**C)** Plan był sukcesem i znacząco poprawił poziom życia ludności
+**D)** Plan sukcesywnie zindustrializował kraj, lecz obniżył poziom życia
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Plan 6-letni rzeczywiście doprowadził do szybkiego rozwoju przemysłu ciężkiego – wybudowano Huty Katowice, Lenino, Warszawskiego, rozbudowano kopalnie i zakłady zbrojeniowe. Jednak kosztem był drastyczny spadek poziomu życia (brak towarów konsumpcyjnych, problemy z żywnością), zaniedbanie rolnictwa (przymusowa kolektywizacja spotkała się z oporem) i nierównowaga gospodarcza. Inwestycje przemysłowe pochłaniały do 80% budżetu, co oznaczało niedobory w innych sektorach.
 
@@ -63,10 +63,10 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Plan_sze%C5%9Bcioletni
 
 **Analiza odpowiedzi:**
-- A) Plan osiągnął sukces w industrializacji, ale kosztem drastycznego obniżenia poziomu życia – PRAWIDŁOWA – najbardziej zrównoważona ocena
-- B)** Plan całkowicie się nie udał – nieprawda, przemysł się rozwinął
-- C) Plan doprowadził do zrównoważonego rozwoju – nieprawda, były duże dysproporcje
-- D) Plan był sukcesem i poprawił poziom życia – nieprawda, poziom życia spadł
+- A) Plan całkowicie się nie udał – nieprawda, przemysł się rozwinął
+- B) Plan doprowadził do zrównoważonego rozwoju – nieprawda, były duże dysproporcje
+- C) Plan był sukcesem i poprawił poziom życia – nieprawda, poziom życia spadł
+- D) Plan sukcesywnie zindustrializował kraj – PRAWIDŁOWA – najbardziej zrównoważona ocena
 
 ---
 
@@ -75,12 +75,12 @@ tokens_total: 0
 
 **Pytanie:** Jaką rolę odegrał Kościół katolicki w zachowaniu tożsamości narodowej Polaków w okresie stalinizmu?
 
-**A)** Był główną instytucją oporu wobec komunizmu, chroniąc polską kulturę i wartości
-**B)** W pełni współpracował z władzami komunistycznymi
+**A)** W pełni współpracował z władzami komunistycznymi
+**B)** Poparł politykę władz wobec ZSRR
 **C)** Stracił wpływ na społeczeństwo i nie odegrał znaczącej roli
-**D)** Poparł politykę władz wobec ZSRR
+**D)** Był główną instytucją oporu wobec komunizmu i chronił kulturę
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Kościół katolicki był główną instytucją oporu wobec komunizmu. Prymas Wyszyński, mimo uwięzienia (1953-1956), prowadził działalność duszpasterską i sprzeciwiał się komunistycznej polityce. Kościół chronił polską kulturę, tradycje i wartości, prowadził tajne nauczanie religii, a księża odmawiali współpracy z bezpieką. Mimo represji (aresztowania, likwidacja Caritas, proces biskupów krakowskich), Kościół zachował wpływ na społeczeństwo i stał się symbolem oporu.
 
@@ -89,9 +89,9 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki_w_Polsce
 
 **Analiza odpowiedzi:**
-- A)** Był główną instytucją oporu wobec komunizmu – PRAWIDŁOWA – najlepiej oddaje rolę Kościoła
-- B) W pełni współpracował z władzami – nieprawda, Kościół był represjonowany
+- A) W pełni współpracował z władzami – nieprawda, Kościół był represjonowany
+- B) Poparł politykę władz – nieprawda, sprzeciwiał się
 - C) Stracił wpływ na społeczeństwo – nieprawda, wpływ zachował
-- D) Poparł politykę władz – nieprawda, sprzeciwiał się
+- D) Był główną instytucją oporu wobec komunizmu – PRAWIDŁOWA – najlepiej oddaje rolę Kościoła
 
 ---

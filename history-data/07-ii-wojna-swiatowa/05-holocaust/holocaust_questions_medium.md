@@ -29,12 +29,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Która konferencja w styczniu 1942 roku formalnie ustaliła plan "ostatecznego rozwiązania kwestii żydowskiej"?
 
-**A:** Konferencja w Wannsee
-**B:** Konferencja w Monachium
+**A:** Konferencja w Monachium
+**B:** Konferencja w Wannsee
 **C:** Konferencja w Wersalu
 **D:** Konferencja w Jałcie
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** 20 stycznia 1942 roku w Wannsee koło Berlina odbyła się konferencja pod przewodnictwem Reinharda Heydricha. Uczestniczący w niej niemieccy urzędnicy formalnie ustalili plan systematycznej eksterminacji wszystkich Żydów w Europie. Decyzja ta oznaczała przejście od dyskryminacji i izolacji do masowej zagłady.
 
@@ -42,7 +42,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Konferencja_w_Wannsee
 
 **Analiza odpowiedzi błędnych:**
-- B (Monachium) – miejsce paktu monachjskiego z 1938 roku o terytoriach czechosłowackich
+- A (Monachium) – miejsce paktu monachjskiego z 1938 roku o terytoriach czechosłowackich
 - C (Wersal) – miejsce konferencji pokojowej po I wojnie światowej w 1919 roku
 - D (Jałta) – miejsce konferencji aliantów w 1945 roku pod koniec II wojny światowej
 
@@ -54,12 +54,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Który gaz był używany do mordowania w komorach gazowych w Auschwitz-Birkenau?
 
-**A:** Cyklon B
-**B:** Tlenek węgla
+**A:** Tlenek węgla
+**B:** Cyklon B
 **C:** Dwutlenek węgla
 **D:** Chlor
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Cyklon B był pestycydem zawierającym cyjanowodór. Niemcy zaczęli go używać w Auschwitz we wrześniu 1941 roku do masowego mordowania Żydów. Gaz ten powodował śmierć przez uduszenie w cierpieniach trwających kilkanaście minut.
 
@@ -67,7 +67,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- B (Tlenek węgla) – niewłaściwa nazwa chemiczna
+- A (Tlenek węgla) – niewłaściwa nazwa chemiczna
 - C (Dwutlenek węgla) – używany w innych obozach (Chełmno, Treblinka) jako gaz spalinowy
 - D (Chlor) – używany jako broń chemiczna w I wojnie światowej, nie w Holokauście
 
@@ -79,12 +79,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Ile aproximadamente polskich Żydów zginęło podczas Holokaustu?
 
-**A:** 2,7-3,3 miliona
-**B:** 1 milion
-**C:** 5 milionów
-**D:** 6 milionów
+**A:** 1 milion
+**B:** 5 milionów
+**C:** 6 milionów
+**D:** 2,7-3,3 miliona
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** W Polsce przed wojną żyło około 3,3 miliona Żydów. Podczas Holokaustu zginęło około 2,7-3,3 miliona z nich. Oznacza to, że Polska utraciła około 90% swojej żydowskiej populacji – największy odsetek wśród wszystkich krajów europejskich.
 
@@ -92,9 +92,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Zag%C5%82ada_%C5%BByd%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- B (1 milion) – zdecydowanie zbyt mało, to liczba ofiar tylko jednego dużego obozu
-- C (5 milionów) – więcej niż cała populacja Żydów w Polsce przed wojną
-- D (6 milionów) – łączna liczba ofiar Holokaustu w całej Europie, nie tylko w Polsce
+- A (1 milion) – zdecydowanie zbyt mało, to liczba ofiar tylko jednego dużego obozu
+- B (5 milionów) – więcej niż cała populacja Żydów w Polsce przed wojną
+- C (6 milionów) – łączna liczba ofiar Holokaustu w całej Europie, nie tylko w Polsce
 
 ---
 
@@ -104,12 +104,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Kto był komendantem obozu Auschwitz-Birkenau w latach 1940-1943?
 
-**A:** Rudolf Höß
-**B:** Adolf Eichmann
+**A:** Adolf Eichmann
+**B:** Rudolf Höß
 **C:** Heinrich Himmler
 **D:** Hermann Göring
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Rudolf Höß był komendantem Auschwitz od maja 1940 do listopada 1943 roku. To on zarządzał budową obozu i rozbudową systemu zagłady. Po wojnie został osądzony, skazany na śmierć i powieszony w miejscu swoich zbrodni w 1947 roku.
 
@@ -117,7 +117,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- B (Adolf Eichmann) – organizator transportów do obozów, nie komendant
+- A (Adolf Eichmann) – organizator transportów do obozów, nie komendant
 - C (Heinrich Himmler) – wyższy rangą oficer SS, nadzorca wszystkich obozów
 - D (Hermann Göring) – wysoki rangą polityk nazistowski, nie związany bezpośrednio z Auschwitz
 
@@ -129,12 +129,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Co oznaczał termin "Sonderkommando" w kontekście obozów zagłady?
 
-**A:** Więźniowie zmuszani do pracy przy komorach gazowych
-**B:** Specjalna jednostka SS do eskortowania transportów
-**C:** Niemieccy lekarze przeprowadzający eksperymenty
+**A:** Specjalna jednostka SS do eskortowania transportów
+**B:** Niemieccy lekarze przeprowadzający eksperymenty
+**C:** Więźniowie zmuszani do pracy przy komorach gazowych
 **D:** Żydowska policja w gettach
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Sonderkommando były grupami więźniów (głównie Żydów) zmuszanych do pracy przy komorach gazowych i krematoriach. Ich zadaniem było odbieranie ofiar, usuwanie ciał i ich spalanie. Sami Sonderkommando byli regularnie wymieniani i mordowani. Członkowie Sonderkommando w Auschwitz zbuntowali się w październiku 1944 roku.
 
@@ -142,8 +142,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Sonderkommando
 
 **Analiza odpowiedzi błędnych:**
-- B (Jednostka SS) – istniały jednostki SS, ale Sonderkommando złożone było z więźniów
-- C (Lekarze) – lekarze SS przeprowadzali eksperymenty, ale nie byli Sonderkommando
+- A (Jednostka SS) – istniały jednostki SS, ale Sonderkommando złożone było z więźniów
+- B (Lekarze) – lekarze SS przeprowadzali eksperymenty, ale nie byli Sonderkommando
 - D (Policja w gettach) – to była służba porządkowa w gettach, nie w obozach
 
 ---
@@ -178,12 +178,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Dlaczego Niemcy zbudowali większość obozów zagłady na ziemiach polskich?
 
-**A:** Ze względu na centralne położenie, dużą populację żydowską i infrastrukturę kolejową
-**B:** Tylko dlatego, że tam mieszkali Żydzi
+**A:** Tylko dlatego, że tam mieszkali Żydzi
+**B:** Ze względu na centralne położenie, dużą populację żydowską i infrastrukturę kolejową
 **C:** Dostęp do taniej siły roboczej
 **D:** Brak oporu społecznego
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Niemcy wybrali Polskę na miejsce obozów zagłady z kilku powodów. Centralne położenie w Europie ułatwiało transporty Żydów z całego kontynentu. Polska miała największą populację żydowską w Europie (ponad 3 miliony). Rozwinięta sieć kolejowa pozwalała na sprawną deportację. Ponadto Polski terror okupacyjny utrudniał światu dowiedzieć się o zbrodniach.
 
@@ -191,7 +191,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Zag%C5%82ada_%C5%BByd%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- B (Tylko Żydzi) – to tylko jeden z powodów, nie jedyny
+- A (Tylko Żydzi) – to tylko jeden z powodów, nie jedyny
 - C (Siła robocza) – obozy zagłady nie służyły pracy, tylko mordowaniu
 - D (Brak oporu) – fakt, ale nie główny powód lokalizacji obozów
 
@@ -203,12 +203,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Co się działo w sektorze obozowym zwanym "Kanada"?
 
-**A:** Segregowano i magazynowano mienie ofiar
-**B:** Przetrzymywano kanadyjskich jeńców wojennych
+**A:** Przetrzymywano kanadyjskich jeńców wojennych
+**B:** Segregowano i magazynowano mienie ofiar
 **C:** Leczono chorych więźniów
 **D:** Przeprowadzano selekcję więźniów
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** "Kanada" był sektorem w Auschwitz-Birkenau gdzie sortowano rzeczy odebrane ofiarom. Niemieckim więźniom nazwa wydawała się ironiczna – Kanada kojarzyła się z bogactwem. W Kanadzie pracowali więźniowie Sonderkommando, segregując ubrania, walizki, biżuterię i inne kosztowności, które następnie wysyłano do Rzeszy.
 
@@ -216,7 +216,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- B (Kanadyjscy jeńcy) – w Auschwitz nie było kanadyjskich jeńców wojennych
+- A (Kanadyjscy jeńcy) – w Auschwitz nie było kanadyjskich jeńców wojennych
 - C (Leczenie) – w obozach nie leczono, chorych zazwyczaj mordowano
 - D (Selekcja) – selekcja odbywała się na rampie, nie w Kanadzie
 
@@ -228,12 +228,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Która niemiecka jednostka specjalna była odpowiedzialna za masowe rozstrzeliwania Żydów na wschodzie przed utworzeniem obozów zagłady?
 
-**A:** Einsatzgruppen
-**B:** Gestapo
+**A:** Gestapo
+**B:** Einsatzgruppen
 **C:** SA
 **D:** Wehrmacht
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Einsatzgruppen były mobilnymi jednostkami SS policji bezpieczeństwa operującymi na froncie wschodnim po ataku Niemiec na ZSRR w czerwcu 1941 roku. Ich zadaniem było "oczyszczanie" terenów z Żydów, Romów, komunistów i innych "niepożądanych elementów". Metodą były masowe rozstrzelania, np. w Babi Jar koło Kijowa zamordowano około 100 tysięcy osób.
 
@@ -241,7 +241,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Einsatzgruppen
 
 **Analiza odpowiedzi błędnych:**
-- B (Gestapo) – tajna policja państwowa, działała głównie w Niemczech i okupowanych krajach zachodnich
+- A (Gestapo) – tajna policja państwowa, działała głównie w Niemczech i okupowanych krajach zachodnich
 - C (SA) – oddziały szturmowe NSDAP, marginalizowane po 1934 roku
 - D (Wehrmacht) – regularna armia niemiecka, Einsatzgruppen były jednostkami SS
 
@@ -253,12 +253,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Kto był dowódcą powstania w getcie warszawskim?
 
-**A:** Mordechaj Anielewicz
-**B:** Menachem Begin
-**C:** Dawid Ben-Gurion
+**A:** Menachem Begin
+**B:** Dawid Ben-Gurion
+**C:** Mordechaj Anielewicz
 **D:** Janusz Korczak
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Mordechaj Anielewicz był 24-letnim przywódcą Żydowskiej Organizacji Bojowej (ŻOB), która przygotowała i przeprowadziła powstanie w getcie warszawskim. Wybuchło 19 kwietnia 1943 roku i było największym zbrojnym zrywem Żydów podczas II wojny światowej. Anielewicz zginął wraz z większością bojowców 8 maja 1943 roku.
 
@@ -266,8 +266,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Mordechaj_Anielewicz
 
 **Analiza odpowiedzi błędnych:**
-- B (Menachem Begin) – późniejszy premier Izraela, ale nie uczestnik powstania
-- C (Dawid Ben-Gurion) – pierwszy premier Izraela, w 1943 był na Bliskim Wschodzie
+- A (Menachem Begin) – późniejszy premier Izraela, ale nie uczestnik powstania
+- B (Dawid Ben-Gurion) – pierwszy premier Izraela, w 1943 był na Bliskim Wschodzie
 - D (Janusz Korczak) – pedagog, zginął w Treblince w 1942 roku, przed powstaniem
 
 ---
@@ -278,12 +278,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Kim był Janusz Korczak w kontekście Holokaustu?
 
-**A:** Pedagog, który wraz z dziećmi zginął w Treblince
-**B:** Dowódca powstania w getcie warszawskim
-**C:** Lekarz leczący więźniów w Auschwitz
+**A:** Dowódca powstania w getcie warszawskim
+**B:** Lekarz leczący więźniów w Auschwitz
+**C:** Pedagog, który wraz z dziećmi zginął w Treblince
 **D:** Polityk negocjujący z Niemcami
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Janusz Korczak (Henryk Goldszmit) był słynnym pedagogiem. Gdy Niemcy chcieli wywieźć dzieci z jego sierocińca do obozu zagłady, zdecydował się iść z nimi. Zginął razem z dziećmi w Treblince w 1942 roku.
 
@@ -291,8 +291,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Janusz_Korczak
 
 **Analiza odpowiedzi błędnych:**
-- B (Dowódca powstania) – dowódcą był Mordechaj Anielewicz, nie Korczak
-- C (Lekarz w Auschwitz) – Korczak był pedagogiem, nie lekarzem w obozie
+- A (Dowódca powstania) – dowódcą był Mordechaj Anielewicz, nie Korczak
+- B (Lekarz w Auschwitz) – Korczak był pedagogiem, nie lekarzem w obozie
 - D (Polityk negocjujący) – Korczak nie był politykiem ani nie negocjował z Niemcami
 
 ---
@@ -303,12 +303,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Kiedy i przez kogo został wyzwolony obóz Auschwitz-Birkenau?
 
-**A:** Przez Armię Czerwoną w styczniu 1945
-**B:** Przez armię USA w kwietniu 1945
-**C:** Przez armię brytyjską w marcu 1945
+**A:** Przez armię USA w kwietniu 1945
+**B:** Przez armię brytyjską w marcu 1945
+**C:** Przez Armię Czerwoną w styczniu 1945
 **D:** Przez Wojsko Polskie w maju 1945
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Obóz Auschwitz-Birkenau został wyzwolony 27 stycznia 1945 roku przez żołnierzy 100 Lwowskiej Dywizji Strzeleckiej Armii Czerwonej. Znaleziono tam około 7,5 tysięcy więźniów, którzy przeżyli marsze śmierci – większość więźniów wywieziono wcześniej na zachód. Na miejscu zmarło około 600 osób wkrótce po wyzwoleniu.
 
@@ -316,8 +316,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- B (USA) – Amerykanie wyzwolili obozy w Niemczech (Dachau, Buchenwald), nie Auschwitz
-- C (Brytyjczycy) – wyzwolili Bergen-Belsen, nie Auschwitz
+- A (USA) – Amerykanie wyzwolili obozy w Niemczech (Dachau, Buchenwald), nie Auschwitz
+- B (Brytyjczycy) – wyzwolili Bergen-Belsen, nie Auschwitz
 - D (Wojsko Polskie) – polskie formacje walczyły na innych frontach (Monte Cassino, Arnhem)
 
 ---
@@ -328,12 +328,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Co było tzw. nocą kryształową w listopadzie 1938 roku?
 
-**A:** Pogrom Żydów w Niemczech zainicjowany przez władze nazistowskie
-**B:** Noc, gdy wybito wszystkie szyby w gettach
+**A:** Noc, gdy wybito wszystkie szyby w gettach
+**B:** Pogrom Żydów w Niemczech zainicjowany przez władze nazistowskie
 **C:** Atak na Polskę
 **D:** Noc wielkich bombardowań Londynu
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Noc kryształowa była zorganizowanym pogromem Żydów w Niemczech i Austrii w nocy z 9 na 10 listopada 1938 roku. Nazwa pochodzi od rozbitych szybów w żydowskich sklepach. Zginęło około 200 Żydów, 30 tysięcy aresztowano i wysłano do obozów koncentracyjnych. Była to zapowiedź późniejszej Zagłady.
 
@@ -341,7 +341,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Kristallnacht
 
 **Analiza odpowiedzi błędnych:**
-- B (Szyby w gettach) – getta nie istniały w Niemczech w 1938 roku
+- A (Szyby w gettach) – getta nie istniały w Niemczech w 1938 roku
 - C (Atak na Polskę) – atak nastąpił 1 września 1939 roku
 - D (Bombardowania Londynu) – to był Blitz w 1940-1941 roku
 
@@ -353,12 +353,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Jakie były główne etapy niemieckiej polityki wobec Żydów?
 
-**A:** Dyskryminacja → Izolacja → Zagłada
-**B:** Izolacja → Zagłada → Dyskryminacja
-**C:** Zagłada → Dyskryminacja → Izolacja
+**A:** Izolacja → Zagłada → Dyskryminacja
+**B:** Zagłada → Dyskryminacja → Izolacja
+**C:** Dyskryminacja → Izolacja → Zagłada
 **D:** Dyskryminacja → Zagłada → Izolacja
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Polityka Niemiec wobec Żydów była stopniowa. Najpierw wprowadzono dyskryminację prawną (ustawy norymberskie 1935). Potem izolowano Żydów w gettach i wymagano noszenia opasek z Gwiazdą Dawida. Ostatecznie, od 1941 do 1942, rozpoczęto masową zagładę w obozach śmierci. Każdy etap przygotowywał następny i ostatecznie prowadził do Holokaustu.
 
@@ -366,7 +366,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Zag%C5%82ada_%C5%BByd%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- B, C, D – niewłaściwa chronologia, izolacja poprzedzała zagładę
+- A, B, D – niewłaściwa chronologia, izolacja poprzedzała zagładę
 - Zagłada była końcowym etapem, nie początkowym
 
 ---
@@ -377,12 +377,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Jaki był los około 200-300 tysięcy polskich Żydów, którzy uciekli lub zostali wywiezieni do ZSRR w 1939-1941?
 
-**A:** Większość przeżyła wojnę
-**B:** Zginęli w obozach syberyjskich
-**C:** Walczyli w Armii Czerwonej
+**A:** Zginęli w obozach syberyjskich
+**B:** Walczyli w Armii Czerwonej
+**C:** Większość przeżyła wojnę
 **D:** Zostali repatriowani do USA
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Około 200-300 tysięcy polskich Żydów znalazło się na terenach zajętych przez ZSRR po 17 września 1939 roku. Większość z nich uniknęła Holokaustu, ponieważ Niemcy nie mieli dostępu do tych terenów do 1941 roku. Część została wywieziona w głąb ZSRR, ale przeżyła. Stanowili oni znaczną część ocalałych z 6 milionów europejskich Żydów.
 
@@ -390,8 +390,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Ewakuacja_wsieludzi
 
 **Analiza odpowiedzi błędnych:**
-- B (Obozy syberyjskie) – wielu zginęło, ale większość jednak przeżyła
-- C (Armia Czerwona) – polscy Żydzi nie masowo wstępowali do Armii Czerwonej
+- A (Obozy syberyjskie) – wielu zginęło, ale większość jednak przeżyła
+- B (Armia Czerwona) – polscy Żydzi nie masowo wstępowali do Armii Czerwonej
 - D (USA) – repatriacja do USA była bardzo trudna i rzadka
 
 ---

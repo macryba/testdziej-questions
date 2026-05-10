@@ -31,12 +31,12 @@ Proces wyzwalania Polski był nierozerwalnie związany z przejmowaniem władzy p
 W którym roku utworzono Polski Komitet Wyzwolenia Narodowego (PKWN)?
 
 **Odpowiedzi:**
-A. 1943
-B. 1944
+A. 1944
+B. 1943
 C. 1945
 D. 1946
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 PKWN został utworzony 21 lipca 1944 w Chełmie. Był to tymczasowy organ władzy polskiej utworzony przez komunistów przy wsparciu ZSRR. W styczniu 1945 przekształcono go w Rząd Tymczasowy RP.
@@ -45,7 +45,7 @@ PKWN został utworzony 21 lipca 1944 w Chełmie. Był to tymczasowy organ władz
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. 1943 - Rok przed utworzeniem PKWN
+- B. 1943 - Rok przed utworzeniem PKWN
 - C. 1945 - Rok przekształcenia PKWN w Rząd Tymczasowy
 - D. 1946 - Rok po wojnie
 
@@ -60,11 +60,11 @@ Które miasto zostało zdobyte przez polskie wojska w marcu 1945 roku podczas op
 
 **Odpowiedzi:**
 A. Gdańsk
-B. Szczecin
-C. Kołobrzeg
-D. Wrocław
+B. Kołobrzeg
+C. Wrocław
+D. Szczecin
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Bitwa o Kołobrzeg (marzec 1945) była jedną z największych bitew Ludowego Wojska Polskiego. Miasto zostało zdobyte po ciężkich walkach z niemieckim obrońcami. Kołobrzeg był strategicznie ważnym portem nad Bałtykiem.
@@ -74,8 +74,8 @@ Bitwa o Kołobrzeg (marzec 1945) była jedną z największych bitew Ludowego Woj
 
 **Analiza niepoprawnych odpowiedzi:**
 - A. Gdańsk - Zdobyty przez Armię Czerwoną w marcu 1945
-- B. Szczecin - Zdobyty przez Armię Czerwoną w kwietniu 1945
-- D. Wrocław - Oblężony przez Armię Czerwoną, kapitulował w maju 1945
+- C. Wrocław - Oblężony przez Armię Czerwoną, kapitulował w maju 1945
+- D. Szczecin - Zdobyty przez Armię Czerwoną w kwietniu 1945
 
 ---
 
@@ -88,11 +88,11 @@ Jaki był główny cel utworzenia PKWN przez komunistów polskich?
 
 **Odpowiedzi:**
 A. Odbudowa zniszczonego kraju
-B. Przejmowanie władzy w Polsce przy pomocy ZSRR
-C. Walka z niemieckim okupantem
-D. Repatriacja Polaków z ZSRR
+B. Walka z niemieckim okupantem
+C. Repatriacja Polaków z ZSRR
+D. Przejmowanie władzy w Polsce przy pomocy ZSRR
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Głównym celem utworzenia PKWN było przejęcie władzy w Polsce przy wsparciu Armii Czerwonej. PKWN był narzędziem sowietyzacji Polski — komuniści chcieli stworzyć rząd podporządkowany ZSRR przed zakończeniem wojny, co dałoby im legitymację w oczach aliantów.
@@ -101,7 +101,7 @@ Głównym celem utworzenia PKWN było przejęcie władzy w Polsce przy wsparciu 
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Odbudowa zniszczonego kraju - Cel ważny, ale nie główny (przejęcie władzy było priorytetem)
+- B. Odbudowa zniszczonego kraju - Cel ważny, ale nie główny (przejęcie władzy było priorytetem)
 - C. Walka z niemieckim okupantem - Pretekst do utworzenia PKWN, ale nie główny cel
 - D. Repatriacja Polaków z ZSRR - Działanie podejmowane później, nie cel utworzenia PKWN
 
@@ -115,12 +115,12 @@ Głównym celem utworzenia PKWN było przejęcie władzy w Polsce przy wsparciu 
 Jaką rolę odegrało Ludowe Wojsko Polskie w operacji berlińskiej?
 
 **Odpowiedzi:**
-A. Nie uczestniczyło w operacji berlińskiej
-B. Wspierało Armię Czerwoną jako samodzielna armia
-C. Tylko ochraniało tyły sowieckie
+A. Tylko ochraniało tyły sowieckie
+B. Nie uczestniczyło w operacji berlińskiej
+C. Wspierało Armię Czerwoną jako samodzielna armia
 D. Walczyło przeciwko aliantom zachodnim
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 LWP walczyło u boku Armii Czerwonej w operacji berlińskiej jako samodzielna armia. 1 Armia WP i 2 Armia WP uczestniczyły w walkach o Berlin, zdobywając m.in. braniewski kocioł. Było to podkreślenie roli Polski w zwycięstwie nad Niemcami.
@@ -130,8 +130,8 @@ LWP walczyło u boku Armii Czerwonej w operacji berlińskiej jako samodzielna ar
 - https://pl.wikipedia.org/wiki/Operacja_berli%C5%84ska
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Nie uczestniczyło w operacji berlińskiej - Nieprawda, LWP brało czynny udział
-- C. Tylko ochraniało tyły sowieckie - Nieprawda, LWP walczyło na froncie
+- A. Tylko ochraniało tyły sowieckie - Nieprawda, LWP walczyło na froncie
+- B. Nie uczestniczyło w operacji berlińskiej - Nieprawda, LWP brało czynny udział
 - D. Walczyło przeciwko aliantom zachodnim - Nieprawda, alianci byli sojusznikami
 
 ---
@@ -144,12 +144,11 @@ LWP walczyło u boku Armii Czerwonej w operacji berlińskiej jako samodzielna ar
 Dlaczego alianci zachodni zgodzili się na włączenie Polski w strefę wpływów ZSRR podczas konferencji jałtańskiej?
 
 **Odpowiedzi:**
-A. Nie zależało im na wolnej Polsce
-B. ZSRR kontrolował już terytorium Polski i nie chcieli z nim ryzykować wojny
+A. ZSRR kontrolował już terytorium Polski i nie chcieli z nim ryzykować wojny
+B. Nie zależało im na wolnej Polsce
 C. Polacy sami prosili o włączenie do ZSRR
 D. Churchill i Roosevelt nie lubili polskiego rządu na uchodźstwie
-
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Alianci zachodni zgodzili się na włączenie Polski w strefę wpływów ZSRR, ponieważ Armia Czerwona już kontrolowała terytorium Polski, a Churchill i Roosevelt nie chcieli ryzykować zerwania sojuszu ze Stalinem. Priorytetem było zwycięstwo nad Niemcami i uniknięcie dalszych ofiar.
@@ -159,8 +158,8 @@ Alianci zachodni zgodzili się na włączenie Polski w strefę wpływów ZSRR, p
 
 **Analiza niepoprawnych odpowiedzi:**
 - A. Nie zależało im na wolnej Polsce - Nieprawda, alianci deklarowali pragnienie wolnej Polski
-- C. Polacy sami prosili o włączenie do ZSRR - Nieprawda, rząd na uchodźstwie i większość Polaków byli przeciwni temu
-- D. Churchill i Roosevelt nie lubili polskiego rządu na uchodźstwie - Nieprawda, uznawali go za legalny
+- B. Polacy sami prosili o włączenie do ZSRR - Nieprawda, rząd na uchodźstwie i większość Polaków byli przeciwni temu
+- C. Churchill i Roosevelt nie lubili polskiego rządu na uchodźstwie - Nieprawda, uznawali go za legalny
 
 ---
 
@@ -172,12 +171,12 @@ Alianci zachodni zgodzili się na włączenie Polski w strefę wpływów ZSRR, p
 Jakie były główne skutki zmian granic Polski po II wojnie światowej?
 
 **Odpowiedzi:**
-A. Polska powiększyła obszar o dwie trzecie
-B. Utraciła Kresy na wschodzie, otrzymała ziemie na zachodzie
-C. Granice się nie zmieniły
+A. Granice się nie zmieniły
+B. Polska powiększyła obszar o dwie trzecie
+C. Utraciła Kresy na wschodzie, otrzymała ziemie na zachodzie
 D. Polska stała się mniejsza o połowę
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Polska utraciła Kresy Wschodnie (ponad 180 tys. km²) na rzecz ZSRR, ale otrzymała w rekompensatę byłych niemieckich ziem na zachodzie i północy (ok. 100 tys. km²). Ostatecznie obszar Polski zmniejszył się o około 20% względem stanu z 1939 roku.
@@ -186,8 +185,8 @@ Polska utraciła Kresy Wschodnie (ponad 180 tys. km²) na rzecz ZSRR, ale otrzym
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Polska powiększyła obszar o dwie trzecie - Nieprawda, obszar się zmniejszył
-- C. Granice się nie zmieniły - Nieprawda, granice przesunięto na zachód
+- A. Granice się nie zmieniły - Nieprawda, granice przesunięto na zachód
+- B. Polska powiększyła obszar o dwie trzecie - Nieprawda, obszar się zmniejszył
 - D. Polska stała się mniejsza o połowę - Nieprawda, obszar zmniejszył się o około 20%
 
 ---
@@ -204,7 +203,6 @@ A. Wszyscy Polacy z ZSRR mogli wrócić do Polski
 B. Polacy musieli opuścić Kresy, Niemcy byli wysiedlani z nowych ziem
 C. Mieszkańcy nie musieli się przeprowadzać
 D. Wszyscy Żydzi mogli wrócić do Polski
-
 **Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
@@ -215,8 +213,8 @@ Przesunięcie granic oznaczało wielkie migracje: Polacy i Żydzi z Kresów Wsch
 
 **Analiza niepoprawnych odpowiedzi:**
 - A. Wszyscy Polacy z ZSRR mogli wrócić do Polski - Część została w ZSRR, nie wszyscy chcieli wracać
-- C. Mieszkańcy nie musieli się przeprowadzać - Nieprawda, miliony ludzi zostało przesiedlonych
-- D. Wszyscy Żydzi mogli wrócić do Polski - Większość Żydów zginęła w Holokauście
+- B. Mieszkańcy nie musieli się przeprowadzać - Nieprawda, miliony ludzi zostało przesiedlonych
+- C. Wszyscy Żydzi mogli wrócić do Polski - Większość Żydów zginęła w Holokauście
 
 ---
 
@@ -228,12 +226,11 @@ Przesunięcie granic oznaczało wielkie migracje: Polacy i Żydzi z Kresów Wsch
 Kto był pierwszym przywódcą komunistycznej Polski po 1945 roku?
 
 **Odpowiedzi:**
-A. Władysław Gomułka
-B. Bolesław Bierut
+A. Bolesław Bierut
+B. Władysław Gomułka
 C. Józef Cyrankiewicz
 D. Edward Osóbka
-
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Bolesław Bierut był przywódcą komunistycznej Polski w latach 1944-1956. Pełnił funkcję przewodniczącego KRN, a następnie prezydenta i premiera PRL. Był lojalny wobec ZSRR i realizował politykę sowietyzacji kraju.
@@ -242,9 +239,9 @@ Bolesław Bierut był przywódcą komunistycznej Polski w latach 1944-1956. Peł
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_Bierut
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Władysław Gomułka - Przywódca PRL w latach 1956-1970
+- B. Władysław Gomułka - Przywódca PRL w latach 1956-1970
 - C. Józef Cyrankiewicz - Premier PRL w latach 1957-1970
-- D. Edward Osóbka - Działacz komunistyczny, ale nie główny przywódca
+- D. Edward Osóbka - Działacz komunistyczny, ale nie główny przywódca - Działacz komunistyczny, ale nie główny przywódca
 
 ---
 
@@ -257,11 +254,11 @@ W jakim celu ZSRR wspierało formowanie polskich wojsk na swoim terytorium?
 
 **Odpowiedzi:**
 A. Tylko do walki z Niemcami
-B. Jako narzędzie polityki wobec Polski i aliantów
-C. Bo polskie wojska były najlepsze
-D. ZSRR nie wspierało formowania polskich wojsk
+B. Bo polskie wojska były najlepsze
+C. ZSRR nie wspierało formowania polskich wojsk
+D. Jako narzędzie polityki wobec Polski i aliantów
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 ZSRR wspierało formowanie LWP nie tylko militarnie, ale przede wszystkim politycznie. Ludowe Wojsko Polskie było narzędziem legitymizacji komunistycznych władz w Polsce — dowodziło, że "Polska walczy u boku ZSRR". Było to również argument wobec aliantów zachodnich.
@@ -271,8 +268,8 @@ ZSRR wspierało formowanie LWP nie tylko militarnie, ale przede wszystkim polity
 
 **Analiza niepoprawnych odpowiedzi:**
 - A. Tylko do walki z Niemcami - Cel militarny był ważny, ale nie jedyny
-- C. Bo polskie wojska były najlepsze - Nieprawda, ZSRR miało silniejszą armię
-- D. ZSRR nie wspierało formowania polskich wojsk - Nieprawda, ZSRR aktywnie wspierało tworzenie LWP
+- B. Bo polskie wojska były najlepsze - Nieprawda, ZSRR miało silniejszą armię
+- C. ZSRR nie wspierało formowania polskich wojsk - Nieprawda, ZSRR aktywnie wspierało tworzenie LWP
 
 ---
 
@@ -285,11 +282,11 @@ Jak wyglądała sytuacja Armii Krajowej po wkroczeniu Armii Czerwonej?
 
 **Odpowiedzi:**
 A. AK została włączona do LWP
-B. AK była przez NKWD aresztowana i likwidowana
-C. AK kontynuowała walkę jako samodzielna siła
-D. AK rozwiązała się sama w 1944 roku
+B. AK rozwiązała się sama w 1944 roku
+C. AK była przez NKWD aresztowana i likwidowana
+D. AK kontynuowała walkę jako samodzielna siła
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Po wkroczeniu Armii Czerwonej żołnierze AK byli aresztowani przez NKWD, więzieniani i często mordowani. Komuniści uznali AK za "faszystowską organizację" i zagrożenie dla swojej władzy. Część żołnierzy AK walczyła dalej w podziemiu antykomunistycznym.
@@ -299,8 +296,8 @@ Po wkroczeniu Armii Czerwonej żołnierze AK byli aresztowani przez NKWD, więzi
 
 **Analiza niepoprawnych odpowiedzi:**
 - A. AK została włączona do LWP - Nieprawda, AK była likwidowana
-- C. AK kontynuowała walkę jako samodzielna siła - Nieprawda, AK została rozwiązana i likwidowana
-- D. AK rozwiązała się sama w 1944 roku - AK została rozwiązana w styczniu 1945
+- B. AK rozwiązała się sama w 1944 roku - AK została rozwiązana w styczniu 1945
+- D. AK kontynuowała walkę jako samodzielna siła - Nieprawda, AK została rozwiązana i likwidowana
 
 ---
 
@@ -312,12 +309,11 @@ Po wkroczeniu Armii Czerwonej żołnierze AK byli aresztowani przez NKWD, więzi
 Co oznaczało utrzymanie przez Polskę granic na Odrze i Nysie Łużyckiej w kontekście polityki międzynarodowej?
 
 **Odpowiedzi:**
-A. Polska stała się sąsiadem Danii i Holandii
-B. Polska zyskała dostęp do morza i ziemie przemysłowe
-C. Ostateczne zerwanie z Niemcami na pokolenia
-D. Polska mogła ekspandować dalej na zachód
-
-**Poprawna odpowiedź:** B
+A. Polska zyskała dostęp do morza i ziemie przemysłowe
+B. Ostateczne zerwanie z Niemcami na pokolenia
+C. Polska mogła ekspandować dalej na zachód
+D. Polska stała się sąsiadem Danii i Holandii
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Granica na Odrze i Nysie dała Polsce dostęp do morza (Szczecin, Świnoujście) oraz bogate ziemie przemysłowe (Dolny Śląsk). Była to rekompensata za utratę Kresów. Jednocześnie oznaczała ostateczne zerwanie z Niemcami i ugruntowanie polskiego państwa na zachodzie.
@@ -326,9 +322,9 @@ Granica na Odrze i Nysie dała Polsce dostęp do morza (Szczecin, Świnoujście)
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Polska stała się sąsiadem Danii i Holandii - Nieprawda, to dalekie państwa
-- C. Ostateczne zerwanie z Niemcami na pokolenia - To skutek polityczny, nie geograficzny
-- D. Polska mogła ekspandować dalej na zachód - Nieprawda, granica została ustalona na stałe
+- B. Ostateczne zerwanie z Niemcami na pokolenia - To skutek polityczny, nie geograficzny
+- C. Polska mogła ekspandować dalej na zachód - Nieprawda, granica została ustalona na stałe
+- D. Polska stała się sąsiadem Danii i Holandii - Nieprawda, to dalekie państwa sąsiadem Danii i Holandii - Nieprawda, to dalekie państwa
 
 ---
 
@@ -344,7 +340,6 @@ A. ZSRR stało się sojusznikiem Polski
 B. Polska stała się zależna od ZSRR na dziesięciolecia
 C. Stosunki były partnerskie i równe
 D. ZSRR pomogło Polsce odbudować niepodległość
-
 **Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
@@ -355,8 +350,8 @@ Proces wyzwalania Polski przez Armię Czerwoną doprowadził do trwałej zależn
 
 **Analiza niepoprawnych odpowiedzi:**
 - A. ZSRR stało się sojusznikiem Polski - Nieprawda, był to związek zależności, nie sojuszu
-- C. Stosunki były partnerskie i równe - Nieprawda, ZSRR dominowało
-- D. ZSRR pomogło Polsce odbudować niepodległość - Nieprawda, ZSRR ograniczyło suwerenność Polski
+- B. Stosunki były partnerskie i równe - Nieprawda, ZSRR dominowało
+- C. ZSRR pomogło Polsce odbudować niepodległość - Nieprawda, ZSRR ograniczyło suwerenność Polski
 
 ---
 

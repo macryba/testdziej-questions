@@ -27,21 +27,21 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Pytanie:** W którym roku urodził się Edward Gierek?
 
-**A.** 1903
-**B.** 1913
+**A.** 1913
+**B.** 1903
 **C.** 1923
 **D.** 1933
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Edward Gierek urodził się 6 stycznia 1913 roku w Porąbce (obecnie dzielnica Sosnowca) w rodzinie robotniczej.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
-- 1903 — Edward Gierek urodził się 10 lat później
-- 1923 — to rok, w którym Gierek jako dziecko wyjechał do Francji do rodziców
-- 1933 — Gierek miał wówczas 20 lat i pracował już w Belgii
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (1903) — Edward Gierek urodził się 10 lat później
+- Odpowiedź C (1923) — to rok, w którym Gierek jako dziecko wyjechał do Francji do rodziców
+- Odpowiedź D (1933) — Gierek miał wówczas 20 lat i pracował już w Belgii
 
 ---
 
@@ -50,21 +50,21 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Pytanie:** Które wydarzenie bezpośrednio doprowadziło do objęcia władzy przez Edwarda Gierka w grudniu 1970 roku?
 
-**A.** Strajki robotnicze na Wybrzeżu i ich krwawe stłumienie
-**B.** Śmierć Władysława Gomułki
+**A.** Wybory parlamentarne wygrane przez PZPR
+**B.** Strajki robotnicze na Wybrzeżu i ich krwawe stłumienie
 **C.** Interwencja wojsk Układu Warszawskiego w Czechosłowacji
-**D.** Wybory parlamentarne wygrane przez PZPR
+**D.** Śmierć Władysława Gomułki
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Edward Gierek objął stanowisko I sekretarza KC PZPR po krwawo stłumionych strajkach robotniczych na Wybrzeżu w grudniu 1970 roku. Podczas protestów w Szczecinie, Gdyni i Gdańsku zginęło co najmniej 42 osoby, co zmusiło Władysława Gomułkę do dymisji.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek, https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Śmierć Władysława Gomułki — Gomułka został odsunięty od władzy, ale nie zmarł. Żył aż do 1982 roku.
-- Interwencja wojsk Układu Warszawskiego w Czechosłowacji — to wydarzenie z 1968 roku, dwa lata przed objęciem władzy przez Gierka
-- Wybory parlamentarne — w PRL wybory były zawsze kontrolowane przez komunistów i nie decydowały o zmianach na szczycie władzy
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Wybory parlamentarne) — w PRL wybory były zawsze kontrolowane przez komunistów i nie decydowały o zmianach na szczycie władzy
+- Odpowiedź C (Interwencja wojsk Układu Warszawskiego) — to wydarzenie z 1968 roku, dwa lata przed objęciem władzy przez Gierka
+- Odpowiedź D (Śmierć Władysława Gomułki) — Gomułka został odsunięty od władzy, ale nie zmarł. Żył aż do 1982 roku
 
 ---
 
@@ -74,20 +74,20 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 **Pytanie:** Jakie hasło propagandowe było często używane podczas rządów Edwarda Gierka?
 
 **A.** "Więcej zmiennych bez maszyn i sprzętu"
-**B.** "Aby Polska rosła w siłę, a ludzie żyli dostatniej"
-**C.** "Chleb, wolność, pokój"
-**D.** "Solidarność, praca, wolność"
+**B.** "Solidarność, praca, wolność"
+**C.** "Aby Polska rosła w siłę, a ludzie żyli dostatniej"
+**D.** "Chleb, wolność, pokój"
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** "Aby Polska rosła w siłę, a ludzie żyli dostatniej" to główne hasło propagandowe rządów Gierka, obiecujące szybki rozwój gospodarczy i poprawę poziomu życia obywateli.
 
 **Źródła:** https://pl.wikipedia.org/wiki/IV_plan_pi%C4%99cioletni_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
-- "Więcej zmiennych bez maszyn i sprzętu" — to hasło z czasów stalinizmu (lata 40.)
-- "Chleb, wolność, pokój" — to hasło z czasów saskich w XVIII wieku
-- "Solidarność, praca, wolność" — to hasło związane z ruchem "Solidarność" z lat 80., a nie z rządami Gierka
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A ("Więcej zmiennych bez maszyn i sprzętu") — to hasło z czasów stalinizmu (lata 40.)
+- Odpowiedź B ("Solidarność, praca, wolność") — to hasło związane z ruchem "Solidarność" z lat 80., a nie z rządami Gierka
+- Odpowiedź D ("Chleb, wolność, pokój") — to hasło z czasów saskich w XVIII wieku
 
 ---
 
@@ -96,10 +96,10 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Pytanie:** Który samochód produkowany na licencji Fiata stał się symbolem czasów gierkowskich?
 
-**A.** Fiat 125p
+**A.** Syrena
 **B.** Fiat 126p "Maluch"
-**C.** Syrena
-**D.** Warszawa
+**C.** Warszawa
+**D.** Fiat 125p
 
 **Prawidłowa odpowiedź:** B
 
@@ -107,10 +107,10 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Źródła:** https://pl.wikipedia.org/wiki/IV_plan_pi%C4%99cioletni_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Fiat 125p — także produkowano na licencji Fiata za Gierka, ale to 126p (Maluch) stał się symbolem epoki
-- Syrena — samochód produkowany przed rządami Gierka, w latach 50. i 60.
-- Warszawa — samochód produkowany w latach 50. i 60., już przed rządami Gierka
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Syrena) — samochód produkowany przed rządami Gierka, w latach 50. i 60.
+- Odpowiedź C (Warszawa) — samochód produkowany w latach 50. i 60., już przed rządami Gierka
+- Odpowiedź D (Fiat 125p) — także produkowano na licencji Fiata za Gierka, ale to 126p (Maluch) stał się symbolem epoki
 
 ---
 
@@ -119,21 +119,21 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Pytanie:** Co było główną przyczyną sukcesu gospodarczego Polski do połowy lat 70. za rządów Gierka?
 
-**A.** Zwiększenie wydatków na edukację i naukę
-**B.** Zaciągnięcie wielkich kredytów zagranicznych na Zachodzie
-**C.** Odkrycie nowych złóż ropy naftowej na terenie Polski
-**D.** Pomoc gospodarcza ze strony ZSRR
+**A.** Odkrycie nowych złóż ropy naftowej na terenie Polski
+**B.** Zwiększenie wydatków na edukację i naukę
+**C.** Pomoc gospodarcza ze strony ZSRR
+**D.** Zaciągnięcie wielkich kredytów zagranicznych na Zachodzie
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Główną przyczyną sukcesu gospodarczego do połowy lat 70. było zaciągnięcie wielkich kredytów zagranicznych na Zachodzie. Pieniądze te pozwoliły na modernizację przemysłu, rozwój budownictwa i wzrost konsumpcji.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek, https://pl.wikipedia.org/wiki/IV_plan_pi%C4%99cioletni_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Zwiększenie wydatków na edukację i naukę — chociaż rozwijano edukację, to nie była ona główną przyczyną sukcesu gospodarczego
-- Odkrycie nowych złóż ropy naftowej — Polska nie odkryła wówczas znaczących złóż ropy naftowej
-- Pomoc gospodarcza ze strony ZSRR — ZSRR nie udzielało Polsce znaczącej pomocy gospodarczej w tym okresie
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Odkrycie nowych złóż ropy naftowej) — Polska nie odkryła wówczas znaczących złóż ropy naftowej
+- Odpowiedź B (Zwiększenie wydatków na edukację i naukę) — chociaż rozwijano edukację, to nie była ona główną przyczyną sukcesu gospodarczego
+- Odpowiedź C (Pomoc gospodarcza ze strony ZSRR) — ZSRR nie udzielało Polsce znaczącej pomocy gospodarczej w tym okresie
 
 ---
 
@@ -142,21 +142,21 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Pytanie:** Które wydarzenie z 1976 roku było bezpośrednim powodem strajków robotniczych w Radomiu i Ursusie?
 
-**A.** Podwyżka cen żywności
-**B.** Zwiększenie godzin pracy
+**A.** Zwiększenie godzin pracy
+**B.** Wprowadzenie stanu wojennego
 **C.** Zakaz działalności związków zawodowych
-**D.** Wprowadzenie stanu wojennego
+**D.** Podwyżka cen żywności
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** W czerwcu 1976 roku Komitet Centralny PZPR wprowadził podwyżki cen na większość produktów żywnościowych, co wywołało strajki w Radomiu, Ursusie i innych miejscach. Protesty zostały brutalnie stłumione.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Zwiększenie godzin pracy — nie wprowadzano takich zmian w 1976 roku
-- Zakaz działalności związków zawodowych — związki zawodowe istniały w PRL, choć były kontrolowane przez państwo
-- Wprowadzenie stanu wojennego — to wydarzenie z 1981 roku, już po rządach Gierka
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Zwiększenie godzin pracy) — nie wprowadzano takich zmian w 1976 roku
+- Odpowiedź B (Wprowadzenie stanu wojennego) — to wydarzenie z 1981 roku, już po rządach Gierka
+- Odpowiedź C (Zakaz działalności związków zawodowych) — związki zawodowe istniały w PRL, choć były kontrolowane przez państwo
 
 ---
 
@@ -165,21 +165,21 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Pytanie:** Jaki był stan zadłużenia zagranicznego Polski na końcu rządów Gierka w 1979 roku?
 
-**A.** Poniżej 1 mld USD
-**B.** Około 8 mld USD
-**C.** Ponad 23 mld USD
+**A.** Ponad 23 mld USD
+**B.** Poniżej 1 mld USD
+**C.** Około 8 mld USD
 **D.** Ponad 50 mld USD
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Zadłużenie zagraniczne Polski wzrosło z minimalnego poziomu w 1970 roku do ponad 23 mld USD w 1979 roku. Było to jedną z głównych przyczyn kryzysu gospodarczego i upadku rządów Gierka.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Poniżej 1 mld USD — taki był stan zadłużenia na początku rządów Gierka w 1970 roku
-- Około 8 mld USD — taki był stan zadłużenia w 1975 roku, w połowie rządów Gierka
-- Ponad 50 mld USD — takiego poziomu zadłużenia Polska nie osiągnęła nigdy w czasach PRL
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Poniżej 1 mld USD) — taki był stan zadłużenia na początku rządów Gierka w 1970 roku
+- Odpowiedź C (Około 8 mld USD) — taki był stan zadłużenia w 1975 roku, w połowie rządów Gierka
+- Odpowiedź D (Ponad 50 mld USD) — takiego poziomu zadłużenia Polska nie osiągnęła nigdy w czasach PRL
 
 ---
 
@@ -188,21 +188,21 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Pytanie:** Która duża inwestycja infrastrukturalna została zrealizowana w Warszawie za rządów Gierka?
 
-**A.** Zamek Królewski
-**B.** Trasa Łazienkowska i Dworzec Centralny
+**A.** Trasa Łazienkowska i Dworzec Centralny
+**B.** Zamek Królewski
 **C.** Metropolia Gniezno
 **D.** Kanał Żerański
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** W latach 70. zrealizowano wiele dużych inwestycji w Warszawie, w tym Trasę Łazienkowską i Dworzec Centralny. Były one częścią programu modernizacji infrastruktury kraju.
 
 **Źródła:** https://pl.wikipedia.org/wiki/IV_plan_pi%C4%99cioletni_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Zamek Królewski — został odbudowany za Gierka, ale nie jest to infrastruktura komunikacyjna
-- Metropolia Gniezno — to nazwa hotelu w Gnieźnie, a nie inwestycja warszawska
-- Kanał Żerański — został zbudowany przed II wojną światową, w latach 30.
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Zamek Królewski) — został odbudowany za Gierka, ale nie jest to infrastruktura komunikacyjna
+- Odpowiedź C (Metropolia Gniezno) — to nazwa hotelu w Gnieźnie, a nie inwestycja warszawska
+- Odpowiedź D (Kanał Żerański) — został zbudowany przed II wojną światową, w latach 30.
 
 ---
 
@@ -222,10 +222,10 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 
 **Źródła:** https://pl.wikipedia.org/wiki/IV_plan_pi%C4%99cioletni_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Polskie wydawnictwa ekonomiczne — taka instytucja nie istniała
-- Polska wytwórnia filmów — to był WFF (Wytwórnia Filmów Fabularnych)
-- Polskie wydawnictwa encyklopedii — to było PWN (Państwowe Wydawnictwo Naukowe)
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Polskie wydawnictwa ekonomiczne) — taka instytucja nie istniała
+- Odpowiedź B (Polska wytwórnia filmów) — to był WFF (Wytwórnia Filmów Fabularnych)
+- Odpowiedź D (Polskie wydawnictwa encyklopedii) — to było PWN (Państwowe Wydawnictwo Naukowe)
 
 ---
 
@@ -235,20 +235,20 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 **Pytanie:** Który związek zawodowy powstał w sierpniu 1980 roku i doprowadził do upadku rządów Gierka?
 
 **A.** OPZZ
-**B.** Solidarność
-**C.** PZPR
+**B.** PZPR
+**C.** Solidarność
 **D.** ZNP
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Niezależny Samorządny Związek Zawodowy "Solidarność" powstał w sierpniu 1980 roku w wyniku strajków robotniczych. Jego powstanie było bezpośrednim powodem odsunięcia Edwarda Gierka od władzy we wrześniu 1980 roku.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
-- OPZZ — Ogólnopolskie Porozumienie Związków Zawodowych powstało w 1984 roku, po stanie wojennym
-- PZPR — Polska Zjednoczona Partia Robotnicza to partia komunistyczna rządząca od 1948 roku
-- ZNP — Związek Nauczycielstwa Polskiego istniał od lat 30., a nie powstał w 1980 roku
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (OPZZ) — Ogólnopolskie Porozumienie Związków Zawodowych powstało w 1984 roku, po stanie wojennym
+- Odpowiedź B (PZPR) — Polska Zjednoczona Partia Robotnicza to partia komunistyczna rządząca od 1948 roku
+- Odpowiedź D (ZNP) — Związek Nauczycielstwa Polskiego istniał od lat 30., a nie powstał w 1980 roku
 
 ---
 
@@ -258,20 +258,20 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 **Pytanie:** Dlaczego rządy Gierka były określane jako bardziej otwarte na Kościół katolicki niż wcześniejsze rządy PRL?
 
 **A.** Gierek był praktykującym katolikiem
-**B.** Chciano zyskać poparcie społeczeństwa i poprawić relacje z Watykanem
-**C.** ZSRR naciskało na taką politykę
+**B.** ZSRR naciskało na taką politykę
+**C.** Chciano zyskać poparcie społeczeństwa i poprawić relacje z Watykanem
 **D.** Kościół kontrolował media w PRL
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Gierek zliberalizował politykę wobec Kościoła, aby zyskać poparcie społeczeństwa i poprawić relacje z Watykanem. W 1974 roku ustanowiono stałe kontakty robocze między PRL a Watykanem, a w 1977 Gierek spotkał się z prymasem Wyszyńskim.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Gierek był praktykującym katolikiem — Gierek deklarował się jako ateista
-- ZSRR naciskało na taką politykę — ZSRR był raczej przeciwny takim działaniom
-- Kościół kontrolował media w PRL — media były kontrolowane przez państwo i partię komunistyczną
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Gierek był praktykującym katolikiem) — Gierek deklarował się jako ateista
+- Odpowiedź B (ZSRR naciskało na taką politykę) — ZSRR był raczej przeciwny takim działaniom
+- Odpowiedź D (Kościół kontrolował media w PRL) — media były kontrolowane przez państwo i partię komunistyczną
 
 ---
 
@@ -281,19 +281,19 @@ Rządy Edwarda Gierka, zwane "dekadą gierkowską" (1970-1980), były próbą mo
 **Pytanie:** Kto zastąpił Edwarda Gierka na stanowisku I sekretarza KC PZPR we wrześniu 1980 roku?
 
 **A.** Wojciech Jaruzelski
-**B.** Stanisław Kania
-**C.** Mieczysław Rakowski
-**D.** Zbigniew Messner
+**B.** Mieczysław Rakowski
+**C.** Zbigniew Messner
+**D.** Stanisław Kania
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Stanisław Kania zastąpił Edwarda Gierka na stanowisku I sekretarza KC PZPR 6 września 1980 roku, po strajkach sierpniowych i powstaniu "Solidarności".
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Wojciech Jaruzelski — został premierem w 1981 roku, a nie I sekretarzem KC PZPR
-- Mieczysław Rakowski — został premierem później, w latach 80.
-- Zbigniew Messner — został premierem w latach 80., a nie I sekretarzem KC PZPR
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Wojciech Jaruzelski) — został premierem w 1981 roku, a nie I sekretarzem KC PZPR
+- Odpowiedź B (Mieczysław Rakowski) — został premierem później, w latach 80.
+- Odpowiedź C (Zbigniew Messner) — został premierem w latach 80., a nie I sekretarzem KC PZPR
 
 ---

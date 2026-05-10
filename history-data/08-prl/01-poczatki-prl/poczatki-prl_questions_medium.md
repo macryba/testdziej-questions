@@ -28,12 +28,12 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Dlaczego komuniści mogli przejąć władzę w Polsce po II wojnie światowej, mimo że byli nieliczni i nie cieszyli się szerokim poparciem społecznym?
 
-**A)** Zdobyli poparcie większości Polaków w wolnych wyborach
-**B)** Zbrojnie przejęli władzę bez pomocy z zagranicy
-**C)** Wykorzystali obecność Armii Czerwonej i wsparcie ZSRR
-**D)** Zawarli sojusz z rządem RP na uchodźstwie
+**A)** Wykorzystali obecność Armii Czerwonej i wsparcie ZSRR
+**B)** Przejęli władzę samodzielnie bez pomocy z zagranicy
+**C)** Zdobyli szerokie poparcie społeczne w demokratycznych wyborach
+**D)** Zawarli sojusz z rządem RP na uchodźstwie w Londynie
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Komuniści przejęli władzę przede wszystkim dzięki obecności Armii Czerwonej na terytorium Polski i bezpośredniemu wsparciu Józefa Stalina. NKWD i radzieccy doradcy pomagali w budowie aparatu bezpieczeństwa i fałszowaniu wyborów. Konferencje jałtańska (1945) i poczdamska (1945) uznały Tymczasowy Rząd Jedności Narodowej za legalny rząd polski, co dało komunistom legitymację międzynarodową.
 
@@ -53,10 +53,10 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Jakie były główne skutki przemian granic Polski po II wojnie światowej ustalonych na konferencjach jałtańskiej i poczdamskiej?
 
-**A)** Polska zyskała dostęp do morza i terytoria na zachodzie, ale utraciła Kresy Wschodnie
-**B)** Granice Polski pozostały bez zmiany w porównaniu z okresem przedwojennym
-**C)** Polska utraciła dostęp do morza i wszystkie terytoria na zachodzie
-**D)** Polska zyskała nowe terytoria na wschodzie, ale zachowała Kresy
+**A)** Polska zyskała dostęp do morza i ziemie na zachodzie, lecz straciła Kresy
+**B)** Granice Polski pozostały bez zmian względem okresu przedwojennego
+**C)** Polska utraciła dostęp do morza oraz wszystkie terytoria zachodnie
+**D)** Polska zyskała nowe terytoria na wschodzie i zachowała Kresy Wschodnie
 
 **Prawidłowa odpowiedź:** A
 
@@ -78,10 +78,10 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Co się stało z przywódcami Polskiego Państwa Podziemnego i delegatury Rządu RP na uchodźstwie po wjeździe Armii Czerwonej do Polski?
 
-**A)** Zostali zaproszeni do współpracy z nowymi władzami
-**B)** Zostali aresztowani przez NKWD i skazani w pokazowym procesie
-**C)** Uciekli na zachód przed Armią Czerwoną
-**D)** Zostali uznani za legalnych przedstawicieli Polski przez komunistów
+**A)** Zostali zaproszeni do ścisłej współpracy z nowymi władzami
+**B)** Zostali aresztowani przez NKWD i skazani w procesie pokazowym
+**C)** Zdołali uciec na zachód przed nadchodzącą Armią Czerwoną
+**D)** Zostali uznani przez komunistów za legalnych przedstawicieli Polski
 
 **Prawidłowa odpowiedź:** B
 
@@ -102,10 +102,10 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Dlaczego referendum z 1946 roku i wybory do Sejmu Ustawodawczego z 1947 roku zostały sfałszowane przez komunistów?
 
-**A)** Komuniści obawiali się przegranej ze środowiskiem niepodległościowym
-**B)** Polacy nie chcieli w ogóle uczestniczyć w głosowaniu
-**C)** Rząd RP na uchodźstwe zakazał udziału w wyborach
-**D)** Nie było odpowiedniej liczby komisji wyborczych
+**A)** Komuniści obawiali się porażki ze środowiskiem niepodległościowym
+**B)** Polacy nie chcieli wcale uczestniczyć w głosowaniu wyborczym
+**C)** Rząd RP na uchodźstwie oficjalnie zakazał udziału w wyborach
+**D)** Nie było wystarczającej liczby komisji wyborczych w kraju
 
 **Prawidłowa odpowiedź:** A
 
@@ -129,8 +129,8 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **A)** Władze wspierały Kościół i uznawały jego rolę w społeczeństwie
 **B)** Kościół był prześladowany, aresztowano biskupów i księży
-**C)** Kościół został całkowicie zlikwidowany
-**D)** Władze nie interesowały się działalnością Kościoła
+**C)** Kościół został całkowicie zlikwidowany przez władze państwowe
+**D)** Władze nie interesowały się działalnością Kościoła w Polsce
 
 **Prawidłowa odpowiedź:** B
 
@@ -151,10 +151,10 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Na czym polegała kolektywizacja rolnictwa w PRL i jakie były jej skutki dla chłopów?
 
-**A)** Chłopi mogli swobodnie sprzedawać swoje produkty na rynku
-**B)** Władze tworzyły państwowe gospodarstwa rolne (PGR) i zmuszały chłopów do wstępowania do spółdzielni
-**C)** Ziemia została rozdzielona między chłopów bez opłat
-**D)** Chłopi stracili ziemię na rzecz kołchozów jak w ZSRR
+**A)** Chłopi mogli swobodnie sprzedawać produkty na wolnym rynku
+**B)** Władze tworzyły PGR i zmuszały chłopów do wstępowania do spółdzielni
+**C)** Ziemia została rozdzielona między chłopów bez żadnych opłat
+**D)** Chłopi stracili ziemię na rzecz kołchozów na wzór radziecki
 
 **Prawidłowa odpowiedź:** B
 
@@ -201,8 +201,8 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **A)** Żądania demokratycznych wyborów i niezależności od ZSRR
 **B)** Złe warunki pracy, niskie płace i brak towarów konsumpcyjnych
-**C)** Protest przeciwko kolektywizacji rolnictwa
-**D)** Solidaryzacja z protestami na Węgrzech
+**C)** Protest przeciwko kolektywizacji rolnictwa w Polsce
+**D)** Solidaryzacja z robotnikami na Węgrzech w tym samym czasie
 
 **Prawidłowa odpowiedź:** B
 
@@ -223,12 +223,12 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Co oznaczało sformowanie Polskiej Zjednoczonej Partii Robotniczej (PZPR) w grudniu 1948 roku dla systemu politycznego PRL?
 
-**A)** Koniec dominacji komunistów i powstanie systemu wielopartyjnego
-**B)** Utworzenie hegemonicznej partii rządzącej i likwidację pluralizmu politycznego
+**A)** Utworzenie hegemonicznej partii rządzącej i likwidację pluralizmu
+**B)** Koniec dominacji komunistów i system wielopartyjny w Polsce
 **C)** Połączenie wszystkich partii politycznych w jedną organizację
-**D)** Przejęcie władzy przez socjalistów z PPS
+**D)** Przejęcie władzy przez socjalistów z PPS w państwie polskim
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Powstanie PZPR (z połączenia PPR i PPS) zakończyło formalnie pluralizm partyjny w Polsce. PZPR stała się hegemoniczną partią rządzącą, a pozostałe partie (ZSL, SD) były tylko satelickimi ugrupowaniami podporządkowanymi komunistom. Czystki w PPR i „lubelskiej" PPS usunęły wszystkich prawdziwych socjalistów niezaakceptowanych przez Moskwę.
 
@@ -247,10 +247,10 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Jaką rolę odegrała Armia Czerwona i NKWD w przejmowaniu władzy przez komunistów w Polsce w latach 1944-1945?
 
-**A)** Pomogły odbudować polską armię i infrastrukturę
+**A)** Pomogły odbudować polską armię i infrastrukturę kraju
 **B)** Dostarczyły żywność i pomoc dla ludności cywilnej
-**C)** Wspierały komunistów politycznie, militarnie i poprzez represje wobec opozycji
-**D)** Nie ingerowały w sprawy wewnętrzne Polski
+**C)** Wspierały komunistów i represjonowały opozycję w Polsce
+**D)** Nie ingerowały w sprawy wewnętrzne niepodległej Polski
 
 **Prawidłowa odpowiedź:** C
 
@@ -273,9 +273,9 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 **Pytanie:** Jakie były główne elementy terroru stalinowskiego w Polsce w latach 1948-1953?
 
 **A)** Tylko prześladowania byłych funkcjonariuszy okupacji niemieckiej
-**B)** Aresztowania, tortury, procesy pokazowe i egzekucje wobec „wrogów ustroju"
-**C)** Ograniczenie wolności słowa i prasy
-**D)** Wydalanie czołowych działaczy komunistycznych z partii
+**B)** Aresztowania, tortury, procesy pokazowe i egzekucje wrogów ustroju
+**C)** Ograniczenie wolności słowa oraz cenzura prasy w kraju
+**D)** Wydalanie czołowych działaczy komunistycznych z partii rządzącej
 
 **Prawidłowa odpowiedź:** B
 
@@ -297,12 +297,12 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 
 **Pytanie:** Dlaczego październik 1956 roku (dojście Władysława Gomułki do władzy) uznaje się za koniec okresu stalinizmu w Polsce?
 
-**A)** Gomułka zlikwidował PZPR i przywrócił kapitalizm
-**B)** Władze złagodziły terror, zwolniły część więźniów politycznych i ograniczyły uzależnienie od ZSRR
+**A)** Gomułka zlikwidował PZPR i przywrócił kapitalizm w kraju
+**B)** Władze złagodziły terror i zwolniły więźniów politycznych
 **C)** Polska wystąpiła z Układu Warszawskiego i RWPG
-**D)** Przywrócono konstytucję marcową z 1921 roku
+**D)** Władze ograniczyły zależność od ZSRR i zliberalizowały system
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Gomułka złagodził stalinowski terror – zwolniono część więźniów politycznych, ograniczono rolę MBP, zakończono kolonizację kadrową (zmniejszono obecność doradców radzieckich). PRL jednak pozostał państwem komunistycznym i zależnym od ZSRR. Gomułka nie przeprowadził głębszych reform ustrojowych – była to „odwilż" ograniczona, kontrolowana i odwracalna.
 

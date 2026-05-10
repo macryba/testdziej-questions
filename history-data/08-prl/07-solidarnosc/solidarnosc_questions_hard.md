@@ -28,11 +28,11 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 **Pytanie:** Oceń, w jakim stopniu Solidarność była ruchem społecznym nowego typu w porównaniu do wcześniejszych ruchów oporu w bloku wschodnim. Na czym polegała jej unikalność i dlaczego stała się modelem dla innych krajów?
 
 **A.** Solidarność była identyczna jak wcześniejsze ruchy oporu – opierała się na spontanicznych protestach
-**B.** Była pierwszym ruchem, który przekształcił się w legalną, masową organizację o strukturze ogólnokrajowej
+**B.** Jej unikalność polegała wyłącznie na skali protestów, a nie na strukturze czy celach
 **C.** Nie różniła się niczym od ruchów w Czechosłowacji czy na Węgrzech
-**D.** Jej unikalność polegała wyłącznie na skali protestów, a nie na strukturze czy celach
+**D.** Była pierwszym ruchem, który przekształcił się w legalną, masową organizację o strukturze ogólnokrajowej
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Solidarność była unikalna, ponieważ udało jej się przekształcić ze spontanicznych strajków w legalną, masową organizację ogólnokrajową z własnymi strukturami, programem i przywództwem. W przeciwieństwie do Praskiej Wiosny 1968 czy Węgierskiego Powstania 1956, Solidarność przetrwała i stała się modelem dla innych krajów, pokazując, że możliwa jest pokojowa transformacja systemu komunistycznego.
 
@@ -42,9 +42,9 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/W%C4%99gierskie_powstanie_1956
 
 **Analiza niepoprawnych odpowiedzi:**
-- Identyczna jak wcześniejsze – nieprawda, Solidarność miała unikalne cechy
-- Nie różniła się niczym – nieprawda, różniła się strukturą i skutkami
-- Tylko skala protestów – nieprawda, unikalność obejmowała strukturę, cele i metody
+- Odpowiedź A (Solidarność była identyczna jak wcześniejsze ruchy oporu) – nieprawda, incorrect from Marzec 1968: Praska Wiosna była ruchem reformatorskim wewnątrz systemu, a Solidarność stworzyła niezależne struktury
+- Odpowiedź B (Jej unikalność polegała wyłącznie na skali protestów) – nieprawda, unikalność obejmowała strukturę, cele i metody działania
+- Odpowiedź C (Nie różniła się niczym od ruchów w Czechosłowacji czy na Węgrzech) – nieprawda, incorrect from Październik 1956: Węgierskie powstanie 1956 i Praska Wiosna 1968 zostały stłumione siłą, podczas gdy Solidarność przetrwała i doprowadziła do pokojowej transformacji
 
 ---
 
@@ -54,12 +54,12 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 
 **Pytanie:** Analizując złożone relacje między Solidarnością a władzami PRL w latach 1980-1981, dlaczego rząd zgodził się na legalizację związku we wrześniu 1980, a następnie wprowadził stan wojenny w grudniu 1981? Co się zmieniło w tej relacji?
 
-**A.** Nic się nie zmieniło – rząd zawsze planował wprowadzić stan wojenny
-**B.** Legalizacja była taktyką, a rząd zobaczył w Solidarności zagrożenie dla swojego przetrwania
+**A.** Legalizacja była taktyką, a rząd zobaczył w Solidarności zagrożenie dla swojego przetrwania
+**B.** Nic się nie zmieniło – rząd zawsze planował wprowadzić stan wojenny
 **C.** Solidarność stała się zbyt radykalna i zażądała obalenia komunizmu już w 1980
 **D.** ZSRR zmusił rząd PRL do wprowadzenia stanu wojennego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** We wrześniu 1980 rząd miał ograniczone opcje – strajki paraliżowały kraj, więc zgodził się na legalizację jako rozwiązanie tymczasowe. Do 1981 roku Solidarność radykalizowała się, rozszerzała swoje cele i stawała się coraz większym zagrożeniem dla przetrwania reżimu. Rząd obawiał się też utraty kontroli nad społeczeństwem i możliwej interwencji ZSRR. Stan wojenny był próbą odzyskania pełnej kontroli.
 
@@ -68,9 +68,9 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)
 
 **Analiza niepoprawnych odpowiedzi:**
-- Nic się nie zmieniło – nieprawda, sytuacja znacznie się zmieniła od 1980 do 1981
-- Zbyt radykalna w 1980 – nieprawda, w 1980 Solidarność nie domagała się obalenia komunizmu
-- ZSRR zmusił – częściowo prawda, ale rząd PRL również sam podjął decyzję
+- Odpowiedź B (Nic się nie zmieniło – rząd zawsze planował wprowadzić stan wojenny) – nieprawda, sytuacja znacznie się zmieniła od 1980 do 1981, gdy Solidarność zyskiwała siłę
+- Odpowiedź C (Solidarność stała się zbyt radykalna i zażądała obalenia komunizmu już w 1980) – nieprawda, w 1980 roku Solidarność nie domagała się obalenia komunizmu, jedynie reform ekonomicznych i społecznych
+- Odpowiedź D (ZSRR zmusił rząd PRL do wprowadzenia stanu wojennego) – częściowo prawda (ZSRR wywierał presję), ale rząd PRL również sam podjął decyzję ze względów wewnętrznych
 
 ---
 
@@ -81,11 +81,11 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 **Pytanie:** Porównaj trzy reformy społeczne w bloku wschodnim – Praską Wiosnę 1968, Węgierskie Powstanie 1956 i Solidarność 1980-1981. Dlaczego Solidarność jako jedyna zdołała przetrwać i doprowadzić do transformacji ustrojowej?
 
 **A.** Solidarność miała wsparcie militarne NATO
-**B.** Była ruchem społecznym opartym na legalnych strukturach związkowych, nie tylko na powstaniu zbrojnym
-**C.** Inne ruchy nie miały liderów
+**B.** Inne ruchy nie miały liderów
+**C.** Była ruchem społecznym opartym na legalnych strukturach związkowych, nie tylko na powstaniu zbrojnym
 **D.** ZSRR był zbyt słaby w latach 80. na interwencję
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Solidarność różniła się od wcześniejszych ruchów tym, że opierała się na legalnych strukturach związkowych, a nie tylko na spontanicznym powstaniu zbrojnym. Dzięki temu mogła działać jawnie, budować struktury i negocjować z władzami. Praska Wiosna i Powstanie Węgierskie były szybko stłumione, ponieważ były głównie próbami wojskowymi lub politycznymi bez trwałych struktur społecznych.
 
@@ -95,9 +95,9 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/W%C4%99gierskie_powstanie_1956
 
 **Analiza niepoprawnych odpowiedzi:**
-- Wsparcie militarne NATO – nieprawda, NATO nie udzieliło Solidarności wsparcia militarnego
-- Nie miały liderów – nieprawda, Węgierskie Powstanie miało Imre Nagya, Praska Wiosna Alexandra Dubčeka
-- ZSRR zbyt słaby – nieprawda, ZSRR miał siły na interwencję, ale zrezygnował
+- Odpowiedź A (Solidarność miała wsparcie militarne NATO) – nieprawda, NATO nie udzieliło Solidarności wsparcia militarnego, jedynie wsparcie polityczne i dyplomatyczne
+- Odpowiedź B (Inne ruchy nie miały liderów) – nieprawda, incorrect from Marzec 1968: Węgierskie Powstanie 1956 miało Imre Nagya, Praska Wiosna 1968 miała Alexandra Dubčeka
+- Odpowiedź D (ZSRR był zbyt słaby w latach 80. na interwencję) – nieprawda, ZSRR miał siły na interwencję, ale zrezygnował z niej ze względu na politykę Gorbaczowa i sytuację międzynarodową
 
 ---
 
@@ -122,6 +122,6 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/Zjednoczona_Niemcy
 
 **Analiza niepoprawnych odpowiedzi:**
-- Jedyna przyczyna – nieprawda, istniały inne ważne czynniki
-- Nie miała wpływu – nieprawda, Solidarność miała bardzo duży wpływ
-- Opóźniła upadek – nieprawda, Solidarność przyspieszyła proces transformacji
+- Odpowiedź A (Solidarność była jedyną przyczyną upadku komunizmu) – nieprawda, incorrect from Transformacja ustrojowa: upadek komunizmu miał wiele przyczyn, w tym politykę Gorbaczowa, kryzys gospodarczy ZSRR i zmiany w innych krajach bloku wschodniego
+- Odpowiedź C (Nie miała żadnego wpływu na upadek komunizmu) – nieprawda, Solidarność miała bardzo duży wpływ jako pierwszy ruch, który pokazał, że pokojowa transformacja jest możliwa
+- Odpowiedź D (Opóźniła upadek komunizmu o kilka lat) – nieprawda, Solidarność przyspieszyła proces transformacji i stała się inspiracją dla innych krajów (np. Jesień Ludów 1989)

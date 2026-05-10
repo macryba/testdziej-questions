@@ -30,12 +30,12 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 
 **Pytanie:** Która instytucja państwowa została zlikwidowana w ramach reform ustrojowych wynikających z Okrągłego Stołu?
 
-**A.** Sejm PRL
-**B.** Rada Państwa
-**C.** Trybunał Konstytucyjny
-**D.** Sąd Najwyższy
+**A.** Rada Państwa
+**B.** Sejm PRL
+**C.** Sąd Najwyższy
+**D.** Trybunał Konstytucyjny
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Rada Państwa, kolegialny organ władzy państwowej w PRL, została zlikwidowana w ramach reform. Jej funkcje przejął nowo utworzony urząd Prezydenta PRL, a zwiększone kompetencje otrzymał Sejm jako naczelny organ państwa.
 
@@ -43,9 +43,9 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Sejm PRL) – Sejm nie został zlikwidowany, ale wzmocniono jego rolę jako naczelnego organu państwa
-- Odpowiedź C (Trybunał Konstytucyjny) – nie został zlikwidowany, wręcz przeciwnie, otrzymał większe kompetencje
-- Odpowiedź D (Sąd Najwyższy) – nie podlegał likwidacji w ramach reform Okrągłego Stołu
+- Odpowiedź B (Sejm PRL) – Sejm nie został zlikwidowany, ale wzmocniono jego rolę jako naczelnego organu państwa
+- Odpowiedź C (Sąd Najwyższy) – nie podlegał likwidacji w ramach reform Okrągłego Stołu
+- Odpowiedź D (Trybunał Konstytucyjny) – nie został zlikwidowany, wręcz przeciwnie, otrzymał większe kompetencje
 
 ---
 
@@ -130,12 +130,12 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 
 **Pytanie:** Ile mandatów w Sejmie było przeznaczonych dla kandydatów bezpartyjnych w wyborach kontraktowych?
 
-**A.** 100 mandatów
-**B.** 161 mandatów
-**C.** 264 mandaty
-**D.** 299 mandatów
+**A.** 161 mandatów
+**B.** 100 mandatów
+**C.** 299 mandatów
+**D.** 264 mandaty
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Zgodnie z porozumieniem Okrągłego Stołu, 161 mandatów w Sejmie (35% wszystkich miejsc) było przeznaczone dla kandydatów bezpartyjnych. O te miejsca mogli walczyć przedstawiciele opozycji solidarnościowej oraz inni kandydaci niepowiązani z partią komunistyczną.
 
@@ -143,9 +143,9 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 - https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (100 mandatów) – to liczba senatorów, nie mandatów w Sejmie
-- Odpowiedź C (264 mandaty) – to liczba mandatów w okręgach wyborczych dla strony rządowej
-- Odpowiedź D (299 mandatów) – to łączna liczba mandatów zagwarantowanych dla koalicji rządowej
+- Odpowiedź B (100 mandatów) – to liczba senatorów, nie mandatów w Sejmie
+- Odpowiedź C (299 mandatów) – to łączna liczba mandatów zagwarantowanych dla koalicji rządowej
+- Odpowiedź D (264 mandaty) – to liczba mandatów w okręgach wyborczych dla strony rządowej
 
 ---
 
@@ -156,11 +156,11 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Pytanie:** Dlaczego władze PRL zdecydowały się na rozmowy z opozycją w ramach Okrągłego Stołu?
 
 **A.** Ze względu na presję ZSRR i chęć wprowadzenia reform
-**B.** Z powodu narastającego kryzysu gospodarczego i presji Kościoła oraz Zachodu
+**B.** Ze względu na chęć przeprowadzenia demokratycznych wyborów
 **C.** Aby uniknąć interwencji militarnej państw NATO
-**D.** Ze względu na chęć przeprowadzenia demokratycznych wyborów
+**D.** Z powodu narastającego kryzysu gospodarczego i presji Kościoła oraz Zachodu
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Władze PRL zdecydowały się na rozmowy z powodu narastającego kryzysu gospodarciego, licznych protestów społecznych (strajki w 1988 roku), presji Kościoła katolickiego na rozpoczęcie dialogu z opozycją, poparcia państw zachodnich dla „Solidarności" oraz przemian wewnętrznych w ZSRR związanych z polityką pierestrojki Gorbaczowa.
 
@@ -169,8 +169,8 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (presja ZSRR) – ZSRR wspierało przemiany, ale nie wywierało presji na prowadzenie rozmów
+- Odpowiedź B (demokratyczne wybory) – władze nie zamierzały przeprowadzać w pełni demokratycznych wyborów
 - Odpowiedź C (interwencja NATO) – nie było zagrożenia interwencją NATO
-- Odpowiedź D (demokratyczne wybory) – władze nie zamierzały przeprowadzać w pełni demokratycznych wyborów
 
 ---
 
@@ -181,11 +181,11 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Pytanie:** Co było bezpośrednim skutkiem wyborów parlamentarnych z czerwca 1989 roku?
 
 **A.** Natychmiastowe pełne uwolnienie wszystkich mandatów w Sejmie
-**B.** Zdecydowane zwycięstwo opozycji solidarnościowej i powstanie pierwszego niekomunistycznego rządu
+**B.** Rozpad koalicji rządowej i przedterminowe wybory
 **C.** Utrzymanie większości komunistycznej w Sejmie i kontynuacja systemu
-**D.** Rozpad koalicji rządowej i przedterminowe wybory
+**D.** Zdecydowane zwycięstwo opozycji solidarnościowej i powstanie pierwszego niekomunistycznego rządu
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Wybory zakończyły się zdecydowanym zwycięstwem opozycji solidarnościowej. Kandydaci Komitetu Obywatelskiego zdobyli wszystkie 161 mandatów przeznaczonych dla bezpartyjnych oraz 99 na 100 miejsc w Senacie. To doprowadziło do powstania pierwszego niekomunistycznego rządu Tadeusza Mazowieckiego i rozpoczęcia transformacji ustrojowej.
 
@@ -194,8 +194,8 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (natychmiastowe uwolnienie mandatów) – nie wszystkie mandaty były wolne, 65% było zarezerwowanych
+- Odpowiedź B (przedterminowe wybory) – wybory nie były przedterminowe
 - Odpowiedź C (utrzymanie większości komunistycznej) – koalicja rządowa poniosła druzgocącą porażkę
-- Odpowiedź D (przedterminowe wybory) – wybory nie były przedterminowe
 
 ---
 
@@ -205,12 +205,12 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 
 **Pytanie:** Jakie zmiany w dostępie do mediów uzyskała opozycja w wyniku porozumienia Okrągłego Stołu?
 
-**A.** Pełną kontrolę nad wszystkimi mediami publicznymi
-**B.** Cotygodniową półgodzinną audycję w TVP i prawo do wydawania gazet
+**A.** Cotygodniową półgodzinną audycję w TVP i prawo do wydawania gazet
+**B.** Pełną kontrolę nad wszystkimi mediami publicznymi
 **C.** Tylko dostęp do radia i gazet lokalnych
 **D.** Dostęp wyłącznie do zagranicznych mediów
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Opozycja uzyskała dostęp do mediów, w tym cotygodniową półgodzinną audycję w Telewizji Polskiej oraz 23% czasu antenowego w codziennym paśmie wyborczym. Ponadto reaktywowano „Tygodnik Solidarność" i powstał nowy dziennik opozycyjny – „Gazeta Wyborcza".
 
@@ -218,7 +218,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (pełna kontrola) – opozycja nie uzyskała pełnej kontroli nad mediami publicznymi
+- Odpowiedź B (pełna kontrola) – opozycja nie uzyskała pełnej kontroli nad mediami publicznymi
 - Odpowiedź C (tylko media lokalne) – opozycja uzyskała dostęp także do mediów ogólnopolskich
 - Odpowiedź D (media zagraniczne) – dostęp do mediów zagranicznych był niezależny od porozumienia
 

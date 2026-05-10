@@ -31,10 +31,10 @@ Kluczowe operacje militarne Ludowego Wojska Polskiego obejmowały przełamanie W
 Oceń związek przyczynowo-skutkowy między ofensywą Armii Czerwonej w latach 1944-1945 a przejmowaniem władzy przez komunistów w Polsce.
 
 **Odpowiedzi:**
-A. Ofensywa sowiecka nie miała związku z przejęciem władzy przez komunistów
-B. Ofensywa umożliwiła komunistom przejęcie władzy, ale była zbiegiem okoliczności
-C. Ofensywa była zaplanowaną akcją mającą na celu instalację proradzieckiego rządu w Polsce
-D. Ofensywa opóźniła przejęcie władzy przez komunistów
+A. Ofensywa opóźniła przejęcie władzy przez komunistów
+B. Ofensywa orazcka nie miała związku z przejęciem władzy
+C. Ofensywa była zaplanowaną akcją instalacji rządu proradzieckiego
+D. Ofensywa umożliwiła władzę komunistom, lecz był to przypadek
 
 **Poprawna odpowiedź:** C
 
@@ -46,9 +46,9 @@ Ofensywa Armii Czerwonej była strategicznie powiązana z instalacją proradziec
 - https://pl.wikipedia.org/wiki/Armia_Czerwona
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Ofensywa sowiecka nie miała związku z przejęciem władzy przez komunistów - Nieprawda, związek był bezpośredni
-- B. Ofensywa umożliwiła komunistom przejęcie władzy, ale była zbiegiem okoliczności - Nieprawda, był to zaplanowany proces
-- D. Ofensywa opóźniła przejęcie władzy przez komunistów - Nieprawda, ofensywa przyspieszyła ten proces
+- A. Ofensywa opóźniła przejęcie władzy przez komunistów - Nieprawda, ofensywa przyspieszyła ten proces
+- B. Ofensywa sowiecka nie miała związku z przejęciem władzy - Nieprawda, związek był bezpośredni
+- D. Ofensywa umożliwiła władzę komunistom, lecz był to przypadek - Nieprawda, był to zaplanowany proces
 
 ---
 
@@ -60,12 +60,12 @@ Ofensywa Armii Czerwonej była strategicznie powiązana z instalacją proradziec
 Czy wydarzenia lat 1944-1945 należy interpretować jako "wyzwolenie" Polski czy "nową okupację"? Uzasadnij swoją odpowiedź.
 
 **Odpowiedzi:**
-A. Wyłącznie wyzwolenie spod okupacji niemieckiej
-B. Wyłącznie nowa okupacja sowiecka
-C. Wyzwolenie spod okupacji niemieckiej, ale jednocześnie rozpoczęcie okupacji sowieckiej
-D. Ani wyzwolenie, ani okupacja — neutralny proces
+A. Wyłącznie nowa okupacja sowiecka
+B. Wyzwolenie spod okupacji niemieckiej, lecz rozpoczęcie okupacji sowieckiej
+C. Ani wyzwolenie, ani okupacja — neutralny proces
+D. Wyłącznie wyzwolenie spod okupacji niemieckiej
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Wydarzenia lat 1944-1945 mają podwójny charakter. Z punktu widzenia militarne było to wyzwolenie spod brutalnej okupacji niemieckiej, która zagrażała fizycznemu istnieniu narodu polskiego. Jednocześnie, z politycznego punktu widzenia, oznaczało to rozpoczęcie trwałej okupacji sowieckiej — Polska utraciła suwerenność i znalazła się w bloku ZSRR na 44 lata.
@@ -75,9 +75,9 @@ Wydarzenia lat 1944-1945 mają podwójny charakter. Z punktu widzenia militarne 
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Wyłącznie wyzwolenie spod okupacji niemieckiej - Nie uwzględnia utraty suwerenności na rzecz ZSRR
-- B. Wyłącznie nowa okupacja sowiecka - Nie uwzględnia zakończenia brutalnej okupacji niemieckiej
-- D. Ani wyzwolenie, ani okupacja - Neutralny proces - Nieprawda, był to proces jednoznacznie polityczny
+- A. Wyłącznie nowa okupacja sowiecka - Nie uwzględnia zakończenia brutalnej okupacji niemieckiej
+- C. Ani wyzwolenie, ani okupacja — neutralny proces - Nieprawda, był to proces jednoznacznie polityczny
+- D. Wyłącznie wyzwolenie spod okupacji niemieckiej - Nie uwzględnia utraty suwerenności na rzecz ZSRR
 
 ---
 
@@ -89,12 +89,12 @@ Wydarzenia lat 1944-1945 mają podwójny charakter. Z punktu widzenia militarne 
 Oceń odpowiedzialność aliantów zachodnich (Wielka Brytania, USA) za "sprzedanie" Polski ZSRR podczas konferencji jałtańskiej.
 
 **Odpowiedzi:**
-A. Alianci zachodni nie ponoszą odpowiedzialności — Polska była w strefie wpływów ZSRR z militarnego powodu
-B. Alianci ponoszą pełną odpowiedzialność - świadomie zdradzili sojusznika
-C. Alianci ponoszą częściową odpowiedzialność — priorytetem było uniknięcie dalszej wojny, ale Polska została poświęcona
-D. Jedynie ZSRR ponosi odpowiedzialność za los Polski
+A. Alianci ponoszą pełną odpowiedzialność - świadomie zdradzili sojusznika
+B. Jedynie ZSRR ponosi odpowiedzialność za los Polski
+C. Alianci zachodni nie ponoszą odpowiedzialności — Polska była w strefie wpływów ZSRR
+D. Alianci ponoszą częściową odpowiedzialność — priorytetem było uniknięcie dalszej wojny
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Alianci zachodni ponoszą częściową odpowiedzialność. Churchill i Roosevelt znaleźli się w trudnej sytuacji — ZSRR kontrolował już Polskę militarnie, a priorytetem było zwycięstwo nad Niemcami i uniknięcie dalszych ofiar. Zgadzając się na żądania Stalina, poświęcili interesy Polski dla utrzymania sojuszu. Nie była to jednak świadoma zdrada, lecz realpolityczna konieczność.
@@ -103,9 +103,9 @@ Alianci zachodni ponoszą częściową odpowiedzialność. Churchill i Roosevelt
 - https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Alianci zachodni nie ponoszą odpowiedzialności - Nieprawda, podjęli decyzje sprzeczne z interesami Polski
-- B. Alianci ponoszą pełną odpowiedzialność - Niesprawiedliwe, znaleźli się pod presją wojennych okoliczności
-- D. Jedynie ZSRR ponosi odpowiedzialność za los Polski - Nieprawda, alianci również przyczynili się do tej sytuacji
+- A. Alianci ponoszą pełną odpowiedzialność - Niesprawiedliwe, znaleźli się pod presją wojennych okoliczności
+- B. Jedynie ZSRR ponosi odpowiedzialność za los Polski - Nieprawda, alianci również przyczynili się do tej sytuacji
+- C. Alianci zachodni nie ponoszą odpowiedzialności - Nieprawda, podjęli decyzje sprzeczne z interesami Polski
 
 ---
 
@@ -117,10 +117,10 @@ Alianci zachodni ponoszą częściową odpowiedzialność. Churchill i Roosevelt
 Sformułuj syntezę przekształceń Polski w latach 1944-1945 w trzech wymiarach: terytorialnym, demograficznym i ustrojowym.
 
 **Odpowiedzi:**
-A. Polska: zachowała terytorium, straciła ludność, zachowała ustrój demokratyczny
-B. Polska: utraciła Kresy, straciła 6 milionów obywateli, utraciła niepodległość na rzecz ZSRR
-C. Polska: powiększyła terytorium, zyskała ludność, zachowała ustrój demokratyczny
-D. Polska: utraciła Kresy, zyskała ziemie zachodnie, straciła 1/3 ludności, zachowała niepodległość
+A. Polska utraciła Kresy, lecz zyskała ziemie zachodnie i zachowała niepodległość
+B. Polska utraciła Kresy, straciła 6 mln obywateli, utraciła niepodległość na rzecz ZSRR
+C. Polska powiększyła terytorium, zyskała ludność i zachowała ustrój demokratyczny
+D. Polska zachowała terytorium, straciła ludność i zachowała ustrój demokratyczny
 
 **Poprawna odpowiedź:** B
 
@@ -132,9 +132,9 @@ Synteza zmian w latach 1944-1945 obejmuje trzy wymiary: 1) Terytorialny — Pols
 - https://pl.wikipedia.org/wiki/Straty_Polski_w_czasie_II_wojny_%C5%9Bwiatowej
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Polska zachowała terytorium, straciła ludność, zachowała ustrój demokratyczny — Nieprawda, terytorium się zmieniło, ustrój nie był demokratyczny
-- C. Polska powiększyła terytorium, zyskała ludność, zachowała ustrój demokratyczny — Nieprawda w każdym aspekcie
-- D. Polska utraciła Kresy, zyskała ziemie zachodnie, straciła 1/3 ludności, zachowała niepodległość — Częściowo prawda, ale niepodległość została utracona
+- A. Polska utraciła Kresy, lecz zyskała ziemie zachodnie i zachowała niepodległość - Częściowo prawda, ale niepodległość została utracona
+- C. Polska powiększyła terytorium, zyskała ludność i zachowała ustrój demokratyczny - Nieprawda w każdym aspekcie
+- D. Polska zachowała terytorium, straciła ludność i zachowała ustrój demokratyczny - Nieprawda, terytorium się zmieniło, ustrój nie był demokratyczny
 
 ---
 
@@ -146,10 +146,10 @@ Synteza zmian w latach 1944-1945 obejmuje trzy wymiary: 1) Terytorialny — Pols
 Opisz szczegółowy przebieg operacji przełamania Wału Pomorskiego i ocen jej znaczenie dla Ludowego Wojska Polskiego.
 
 **Odpowiedzi:**
-A. Operacja była bitwą graniczną o nieistotnym znaczeniu
-B. Operacja odbyła się na Bugu i była porażką LWP
-C. Operacja przełamania Wału Pomorskiego (luty 1945) była wielkim zwycięstwem LWP, które otworzyło drogę do Bałtyku i Berlina
-D. Operacja nie miała miejsca — Wał Pomorski jest mitem
+A. Operacja odbyła się na Bugu i była porażką LWP
+B. Operacja nie miała miejsca — Wał Pomorski jest mitem
+C. Operacja przełamania Wału Pomorskiego (luty 1945) była wielkim zwycięstwem LWP
+D. Operacja była bitwą graniczną o nieistotnym znaczeniu
 
 **Poprawna odpowiedź:** C
 
@@ -161,9 +161,9 @@ Operacja przełamania Wału Pomorskiego (10 lutego - 6 kwietnia 1945) była jedn
 - https://pl.wikipedia.org/wiki/Ludowe_Wojsko_Polskie
 
 **Analiza niepoprawnych odpowiedzi:**
-- A. Operacja była bitwą graniczną o nieistotnym znaczeniu - Nieprawda, miała kluczowe znaczenie militarne i polityczne
-- B. Operacja odbyła się na Bugu i była porażką LWP - Nieprawda, operacja odbyła się na Pomorzu i była zwycięstwem
-- D. Operacja nie miała miejsca — Wał Pomorski jest mitem - Nieprawda, Wał Pomorski istniał i był rzeczywiście przełamany
+- A. Operacja odbyła się na Bugu i była porażką LWP - Nieprawda, operacja odbyła się na Pomorzu i była zwycięstwem
+- B. Operacja nie miała miejsca — Wał Pomorski jest mitem - Nieprawda, Wał Pomorski istniał i został rzeczywiście przełamany
+- D. Operacja była bitwą graniczną o nieistotnym znaczeniu - Nieprawda, miała kluczowe znaczenie militarne i polityczne
 
 ---
 

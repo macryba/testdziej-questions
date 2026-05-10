@@ -41,7 +41,7 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (17 września) - to data agresji ZSRR na Polskę, nie początek wojny
 - Odpowiedź C (28 września) - to data kapitulacji Warszawy
 - Odpowiedź D (6 października) - to data zakończenia kampanii wrześniowej (bitwa pod Kockiem)
@@ -55,21 +55,21 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 **Pytanie:** Który polski major był dowódcą obrony Westerplatte we wrześniu 1939 roku?
 
 **A:** Franciszek Kleeberg
-**B:** Henryk Sucharski
-**C:** Tadeusz Kutrzeba  
-**D:** Edward Rydz-Śmigły
+**B:** Tadeusz Kutrzeba
+**C:** Edward Rydz-Śmigły
+**D:** Henryk Sucharski
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Major Henryk Sucharski był dowódcą Wojskowej Składnicy Tranzytowej na Westerplatte. Pod jego komendą polska załoga broniła się przez 7 dni niemieckimi atakami, stając się symbolem polskiego heroizmu.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obrona_Westerplatte
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Kleeberg) - generał, dowódca Samodzielnej Grupy Operacyjnej „Polesie"
-- Odpowiedź C (Kutrzeba) - generał, dowódca armii „Poznań" w bitwie nad Bzurą
-- Odpowiedź D (Rydz-Śmigły) - marszałek, Naczelny Wódz wszystkich sił zbrojnych
+- Odpowiedź B (Kutrzeba) - generał, dowódca armii „Poznań" w bitwie nad Bzurą
+- Odpowiedź C (Rydz-Śmigły) - marszałek, Naczelny Wódz wszystkich sił zbrojnych
 
 ---
 
@@ -91,7 +91,7 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_nad_Bzur%C4%85
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Westerplatte) - symboliczna, ale mała obrona (około 200 żołnierzy)
 - Odpowiedź B (Warszawa) - duża obrona, ale mniejsza niż bitwa nad Bzurą
 - Odpowiedź D (Kock) - ostatnia bitwa, ale mała w porównaniu z Bzurą
@@ -107,7 +107,7 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 **A:** Kapitulacja Westerplatte
 **B:** Agresja ZSRR na Polskę
 **C:** Początek obrony Warszawy
-**D:** Bitwa pod Kockiem
+**D:** Bitwa pod Kockiem (1939)
 
 **Prawidłowa odpowiedź:** B
 
@@ -116,7 +116,7 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Agresja_ZSRR_na_Polsk%C4%99
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (kapitulacja Westerplatte) - wydarzyła się 7 września
 - Odpowiedź C (obrona Warszawy) - rozpoczęła się 8 września
 - Odpowiedź D (bitwa pod Kockiem) - odbyła się 2-6 października
@@ -142,7 +142,7 @@ Kluczowe bitwy obejmowały: obronę Westerplatte (1-7 września), bitwę nad Bzu
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Kockiem_%281939%29
 - https://pl.wikipedia.org/wiki/Franciszek_Kleeberg
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Rydz-Śmigły) - Naczelny Wódz, nie dowodził bezpośrednio w bitwie pod Kockiem
 - Odpowiedź B (Kutrzeba) - dowodził armią „Poznań" w bitwie nad Bzurą
 - Odpowiedź D (Sucharski) - major, dowódca Westerplatte, nie SGO „Polesie"

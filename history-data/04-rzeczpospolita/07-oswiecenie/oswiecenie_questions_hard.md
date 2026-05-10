@@ -33,10 +33,10 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 
 **Pytanie:** Jaka była unikalna specyfika polskiego oświecenia w porównaniu z oświeceniem w innych krajach europejskich?
 
-**A)** Wczesne rozpoczęcie - już w latach 30. XVIII wieku
+**A)** Skupienie się na reformach religijnych a nie politycznych
 **B)** Duży udział duchowieństwa katolickiego (do 40%) w ruchu oświeceniowym
-**C)** Skupienie się na reformach religijnych a nie politycznych
-**D)** Poparcie społeczeństwa dla idei oświeceniowych
+**C)** Poparcie społeczeństwa dla idei oświeceniowych
+**D)** Wczesne rozpoczęcie - już w latach 30. XVIII wieku
 
 **Poprawna odpowiedź:** B
 
@@ -46,9 +46,9 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 - https://pl.wikipedia.org/wiki/O%C5%9Bwiecenie_w_Polsce
 
 **Analiza odpowiedzi błędnych:**
-- A) Wczesne rozpoczęcie - polskie oświecenie zaczęło się później niż we Francji czy Anglii
-- C) Reformy religijne - polskie oświecenie skupiało się na reformach państwa i edukacji
-- D) Poparcie społeczne - idee oświeceniowe były popierane głównie przez elity
+- A) Reformy religijne - no referenced answer: polskie oświecenie skupiało się na reformach państwa i edukacji, a nie religijnych
+- C) Poparcie społeczne - no referenced answer: idee oświeceniowe były popierane głównie przez elity (szlachtę i magnaterię), nie przez całe społeczeństwo
+- D) Wczesne rozpoczęcie - no referenced answer: polskie oświecenie zaczęło się później niż we Francji czy Anglii (lata 40.-50. XVIII wieku)
 
 ---
 
@@ -58,12 +58,12 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 
 **Pytanie:** W jaki sposób historia ocenia postawę Stanisława Augusta Poniatowskiego w lipcu 1792 roku, gdy przystąpił do konfederacji targowickiej?
 
-**A)** Jako czyn konieczny dla ocalenia państwa przed totalną klęską militarną
-**B)** Jako zdradę sprawy reformatorskiej i sprzeniewierzenie się Konstytucji 3 maja
+**A)** Jako zdradę sprawy reformatorskiej i sprzeniewierzenie się Konstytucji 3 maja
+**B)** Jako czyn konieczny dla ocalenia państwa przed totalną klęską militarną
 **C)** Jako posunięcie neutralne, bez wpływu na dalsze losy państwa
 **D)** Jako sprytny manewr polityczny, który umożliwił dalsze reformy
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Postawa króla Stanisława Augusta Poniatowskiego z 24 lipca 1792 roku, gdy przystąpił do konfederacji targowickiej, jest oceniana jako zdrada sprawy reformatorskiej. Król, który sam zainicjował i podpisał Konstytucję 3 maja, pod naciskiem Rosji porzucił reformatorów i przyłączył się do ich przeciwników. Decyzja ta skompromitowała króla w oczach patriotów i przyczyniła się do upadku dzieła Sejmu Czartoletniego. Tadeusz Kościuszko w liście do króla napisał: "Cała naród winien cię potępić".
 
@@ -71,9 +71,9 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 
 **Analiza odpowiedzi błędnych:**
-- A) Czyn konieczny - decyzja króla nie uratowała państwa
-- C) Posunięcie neutralne - miało decydujący wpływ na losy reform
-- D) Sprytny manewr - przyczynił się do upadku reform
+- B) Czyn konieczny - no referenced answer: decyzja króla nie uratowała państwa, co pokazuje klęska Polski i II rozbiór
+- C) Posunięcie neutralne - no referenced answer: miało decydujący, negatywny wpływ na losy reform i upadek Konstytucji 3 maja
+- D) Sprytny manewr - no referenced answer: przyczynił się do upadku reform, skompromitował króla i doprowadził do interwencji rosyjskiej
 
 ---
 
@@ -84,11 +84,11 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 **Pytanie:** Jaką rolę odegrały obce mocarstwa (Rosja, Prusy, Austria) w procesie reform oświeceniowych w Polsce?
 
 **A)** Wspierały reformy polskie, aby wzmocnić stabilność w regionie
-**B)** Dążyły do obalenia reform, aby utrzymać słabość Rzeczypospolitej
-**C)** Pozostały neutralne wobec wewnętrznych spraw polskich
-**D)** Popierały konstytucję 3 maja jako przykład postępu
+**B)** Pozostały neutralne wobec wewnętrznych spraw polskich
+**C)** Popierały konstytucję 3 maja jako przykład postępu
+**D)** Dążyły do obalenia reform, aby utrzymać słabość Rzeczypospolitej
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Obce mocarstwa, szczególnie Rosja, dążyły do obalenia reform oświeceniowych, aby utrzymać słabość Rzeczypospolitej i zachować swój protektorat nad nią. Rosja od 1768 roku była gwarantem ustroju Rzeczypospolitej i interweniowała militarnie w 1792 roku, wspierając konfederację targowicką. Prusy, mimo formalnego sojuszu z Polską, również zdradziły sprzymierzeńca i nie udzieliły pomocy. Austria przygotowywała się do II rozbioru. Reformy polskie zagrażały wpływom tych mocarstw.
 
@@ -96,9 +96,9 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1764%E2%80%931795)
 
 **Analiza odpowiedzi błędnych:**
-- A) Wspierały reformy - nieprawdziwe, były im przeciwne
-- C) Neutralne - nieprawdziwe, aktywnie przeciwdziałały reformom
-- D) Popierały konstytucję - nieprawdziwe, potępi ją jako "zarazkę demokracji"
+- A) Wspierały reformy - incorrect from Rozbiory: mocarstwa dążyły do rozbiorów Polski, nie do wspierania jej reform
+- B) Neutralne - incorrect from Rozbiory: mocarstwa aktywnie ingerowały w sprawy Polski (gwarancja ustroju od 1768)
+- C) Popierały konstytucję - incorrect from Rozbiory: potępiły Konstytucję 3 maja jako "zarazę demokracji" (np. w proklamacji targowickiej)
 
 ---
 
@@ -122,9 +122,9 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 - https://pl.wikipedia.org/wiki/O%C5%9Bwiecenie_w_Polsce
 
 **Analiza odpowiedzi błędnych:**
-- A) Wyłącznie pozytywny - nieprawdziwe, epoka zakończyła się klęską
-- B) Wyłącznie negatywny - nieprawdziwe, były wielkie osiągnięcia kulturowe
-- D) Obojętny - epoka miała wielkie znaczenie dla dalszych dziejów
+- A) Wyłącznie pozytywny - no referenced answer: nieprawdziwe, epoka zakończyła się klęską polityczną i trzema rozbiorami
+- B) Wyłącznie negatywny - no referenced answer: nieprawdziwe, były wielkie osiągnięcia kulturowe (KEN, Szkoły Główne, literatura, teatr)
+- D) Obojętny - no referenced answer: epoka miała fundamentalne znaczenie dla dalszych dziejów Polski (reformy, upadek państwa, rozbior)
 
 ---
 
@@ -135,21 +135,21 @@ Kluczowe postacie epoki - Hugo Kołłątaj, Ignacy Potocki, Stanisław Małachow
 **Pytanie:** Które z poniższych postanowień NIE zawierała Konstytucja 3 maja?
 
 **A)** Zniesienie liberum veto i konfederacji
-**B)** Przyznanie chłopom pełni praw osobistych i politycznych
-**C)** Wprowadzenie tronu dziedzicznego zamiast wolnej elekcji
-**D)** Utworzenie Straży Praw jako rady ministerialnej przy królu
+**B)** Utworzenie Straży Praw jako rady ministerialnej przy królu
+**C)** Przyznanie chłopom pełni praw osobistych i politycznych
+**D)** Wprowadzenie tronu dziedzicznego zamiast wolnej elekcji
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
-**Wyjaśnienie:** Konstytucja 3 maja NIE przyznawała chłopom pełni praw politycznych. Dokument stawiał chłopów "pod opieką prawa i rządu", co oznaczało ochronę państwa przed nadużyciami pańszczyzny, ale nie dawało chłopom praw wyborczych ani czynnego udziału w życiu politycznym. Pełna emancypacja chłopów nastąpiła dopiero w XIX wieku (po powstaniach). Natomiast Konstytucja faktycznie znosiła liberum veto i konfederacje (A), wprowadzała tron dziedziczny (C) i tworzyła Straż Praw (D).
+**Wyjaśnienie:** Konstytucja 3 maja NIE przyznawała chłopom pełni praw politycznych. Dokument stawiał chłopów "pod opieką prawa i rządu", co oznaczało ochronę państwa przed nadużyciami pańszczyzny, ale nie dawało chłopom praw wyborczych ani czynnego udziału w życiu politycznym. Pełna emancypacja chłopów nastąpiła dopiero w XIX wieku (po powstaniach). Natomiast Konstytucja faktycznie znosiła liberum veto i konfederacje (A), tworzyła Straż Praw (B) i wprowadzała tron dziedziczny (D).
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 
 **Analiza odpowiedzi błędnych:**
-- A) Zniesienie liberum veto - PRAWDA, Konstytucja to zniosła
-- C) Tron dziedziczny - PRAWDA, to wprowadzała
-- D) Straż Praw - PRAWDA, taką radę tworzyła
+- A) Zniesienie liberum veto - no referenced answer: to PRAWDA, Konstytucja 3 maja faktycznie zniosła liberum veto i konfederacje
+- B) Straż Praw - no referenced answer: to PRAWDA, Konstytucja utworzyła Straż Praw jako radę ministerialną przy królu
+- D) Tron dziedziczny - no referenced answer: to PRAWDA, Konstytucja wprowadzała tron dziedziczny zamiast wolnej elekcji
 
 ---
 

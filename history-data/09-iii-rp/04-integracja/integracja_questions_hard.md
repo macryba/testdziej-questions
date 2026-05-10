@@ -27,12 +27,12 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 
 **Pytanie:** Dlaczego Polska podjęła decyzję o jednoczesnej integracji z NATO i Unią Europejską, zamiast wybrać tylko jedną z tych organizacji?
 
-**A:** NATO oferowało lepsze gwarancje bezpieczeństwa, a UE dostęp do funduszy - Polska chciała obu korzyści
-**B:** Politycy III RP uważali, że członkostwo w obu organizacjach jest warunkiem wzajemnym i nie można przystąpić tylko do jednej
-**C:** Stany Zjednoczone naciskały na Polskę, aby przystąpiła do obu organizacji jednocześnie
-**D:** Integracja z obiema organizacjami była wymogiem Traktatu Północnoatlantyckiego
+**A:** Politycy III RP uważali, że członkostwo w obu organizacjach jest warunkiem wzajemnym
+**B:** Stany Zjednoczone naciskały na Polskę, aby przystąpiła do obu organizacji jednocześnie
+**C:** Integracja z obiema organizacjami była wymogiem Traktatu Północnoatlantyckiego
+**D:** NATO oferowało gwarancje bezpieczeństwa, a UE dostęp do funduszy - Polska chciała obu korzyści
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Polska wybrała strategię jednoczesnej integracji z NATO i UE, ponieważ obie organizacje oferowały komplementarne korzyści: NATO zapewniało gwarancje bezpieczeństwa i ochrony przed Rosją, podczas gdy UE dawała dostęp do jednolitego rynku, funduszy strukturalnych i możliwości rozwoju gospodarczego. Decyzja ta wynikała z doświadczeń historycznych Polski (potrzeba bezpieczeństwa) i aspiracji ekonomicznych (modernizacja kraju). Członkostwo w obu organizacjach nie było wymogiem wzajemnym - inne państwa wybrały różne ścieżki integracji.
 
@@ -41,9 +41,9 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Wymóg wzajemny): To nieprawda - członkostwo w NATO i UE nie było warunkiem wzajemnym, wiele państw jest członkiem tylko jednej z tych organizacji
-- C (Naciski USA): Choć USA popierały integrację Polski z NATO, nie decydowały o jednoczesnym przystąpieniu do UE
-- D (Wymóg traktatu): Traktat Północnoatlantycki nie nakłada obowiązku członkostwa w UE
+- A (Wymóg wzajemny): To nieprawda - członkostwo w NATO i UE nie było warunkiem wzajemnym, wiele państw jest członkiem tylko jednej z tych organizacji (np. Norwegia w NATO, Szwajcaria poza UE)
+- B (Naciski USA): Choć USA popierały integrację Polski z NATO, nie decydowały o jednoczesnym przystąpieniu do UE - była to samodzielna decyzja Polski
+- C (Wymóg traktatu): Traktat Północnoatlantycki nie nakłada obowiązku członkostwa w UE - to są odrębne organizacje
 
 ---
 
@@ -53,12 +53,12 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 
 **Pytanie:** Jakie były główne różnice między procesem akcesji Polski do NATO (1999) a procesem akcesji do Unii Europejskiej (2004)?
 
-**A:** Proces NATO był krótszy i mniej skomplikowany, podczas gdy proces UE wymagał harmonizacji prawa i długich negocjacji
-**B:** Proces NATO był bardziej skomplikowany i wymagał referendum, podczas gdy proces UE był prostszy
+**A:** Proces NATO był bardziej skomplikowany i wymagał referendum
+**B:** Proces NATO był krótszy i mniej skomplikowany, podczas gdy proces UE wymagał harmonizacji prawa
 **C:** Oba procesy były równie skomplikowane, ale NATO wymagało większych nakładów finansowych
 **D:** Proces UE był krótszy, ponieważ Polska spełniła już kryteria podczas integracji z NATO
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Proces akcesji do NATO był znacznie krótszy (ok. 2 lat od zaproszenia w 1997 do przystąpienia w 1999) i mniej skomplikowany, ponieważ opierał się głównie na kryteriach politycznych i wojskowych. Natomiast proces integracji z UE trwał prawie 10 lat (1994-2004), wymagał harmonizacji prawa polskiego z prawem wspólnotowym (ok. 270 ustaw), długich negocjacji w 31 rozdziałach tematycznych oraz uzyskania zgody społeczeństwa w referendum. Różnica wynika z charakteru obu organizacji - NATO to sojusz wojskowy, podczas gdy UE jest unią gospodarczą i polityczną.
 
@@ -67,9 +67,9 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 - https://pl.wikipedia.org/wiki/Akcesja_Polski_do_Unii_Europejskiej
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (NATO bardziej skomplikowane): To nieprawda - proces akcesji do NATO był prostszy i nie wymagał referendum
-- C (Równie skomplikowane): Procesy były znacznie różne pod względem złożoności i czasu trwania
-- D (UE krótszy): Proces integracji z UE trwał dłużej niż proces akcesji do NATO
+- A (NATO bardziej skomplikowane): To nieprawda - proces akcesji do NATO był prostszy i trwał ok. 2 lat, nie wymagał referendum
+- C (Równie skomplikowane): Procesy były znacznie różne pod względem złożoności - NATO (kryteria polityczne) vs UE (harmonizacja prawa, 31 rozdziałów negocjacyjnych)
+- D (UE krótszy): Proces integracji z UE trwał niemal 10 lat (1994-2004), podczas gdy NATO tylko ok. 2 lat (1997-1999)
 
 ---
 
@@ -80,8 +80,8 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 **Pytanie:** Jakie były główne koszty społecznych transformacji ustrojowej związane z integracją Polski z Unią Europejską w latach 1999-2004?
 
 **A:** Wzrost bezrobocia i emigracji zarobkowej młodych Polaków do krajów Europy Zachodniej
-**B:** Zamknięcie wielu polskich fabryk i firm przez konkurencję z zachodu Europy
-**C:** Utrata suwerenności narodowej na rzecz instytucji unijnych
+**B:** Utrata suwerenności narodowej na rzecz instytucji unijnych
+**C:** Zamknięcie wielu polskich fabryk i firm przez konkurencję z zachodu Europy
 **D:** Obniżenie poziomu życia polskiego społeczeństwa w porównaniu z latami 90.
 
 **Poprawna odpowiedź:** A
@@ -92,9 +92,9 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Zamknięcie fabryk): Choć niektóre firmy zamknięto, większość zmodernizowano, a nowe inwestycje zrekompensowały straty
-- C (Utrata suwerenności): Polska zachowała suwerenność, jedynie częściowo przekazując kompetencje instytucjom UE
-- D (Obniżenie poziomu życia): Po transformacji poziom życia w Polsce systematycznie rósł, nie spadał
+- B (Utrata suwerenności): Polska zachowała suwerenność, jedynie częściowo przekazując kompetencje instytucjom UE (ale z prawem weta w kluczowych obszarach)
+- C (Zamknięcie fabryk): Choć niektóre firmy zamknięto, większość zmodernizowano dzięki inwestycjom zachodnim i funduszom UE
+- D (Obniżenie poziomu życia): Po transformacji poziom życia w Polsce systematycznie rósł - PKB na mieszkańca wzrastał od 2000 roku
 
 ---
 
@@ -104,12 +104,12 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 
 **Pytanie:** Dlaczego integracja z NATO i UE była ważniejsza dla polskiej elity politycznej lat 90. niż szybkie rozwiązanie problemów gospodarczych kraju?
 
-**A:** Członkostwo w NATO i UE było postrzegane jako gwarancja nieodwracalności transformacji i ochrona przed powrotem komunizmu
-**B:** Politycy III RP woleli zająć się polityką zagraniczną niż problemami wewnętrznymi kraju
+**A:** Politycy III RP woleli zająć się polityką zagraniczną niż problemami wewnętrznymi kraju
+**B:** Członkostwo w NATO i UE było postrzegane jako gwarancja nieodwracalności transformacji i ochrona przed powrotem komunizmu
 **C:** Rozwiązanie problemów gospodarczych było niemożliwe bez integracji z zachodnimi strukturami
 **D:** Społeczeństwo polskie bardziej interesowało się polityką zagraniczną niż sytuacją gospodarczą
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Dla elity politycznej III RP członkostwo w NATO i UE miało fundamentalne znaczenie geopolityczne - było postrzegane jako gwarancja nieodwracalności transformacji ustrojowej po 1989 roku i ochrona przed potencjalnym wpływem Rosji. Doświadczenia historyczne (rozbiory, okupacja, ZSRR) sprawiły, że bezpieczeństwo i przynależność do zachodniej strefy cywilizacyjnej były priorytetem. Dopiero po uzyskaniu gwarancji bezpieczeństwa i zakotwiczeniu Polski w strukturach zachodnich można było skupić się na długoterminowym rozwoju gospodarczym. Koszty społeczne transformacji były postrzegane jako tymczasowe i konieczne dla osiągnięcia celów strategicznych.
 
@@ -118,9 +118,9 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 - https://pl.wikipedia.org/wiki/Narodziny_III_Rzeczypospolitej
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Polityka ponad gospodarką): Politycy III RP również zajmowali się problemami gospodarczymi, ale integracja z NATO/UE miała priorytet strategiczny
-- C (Niemożliwe bez integracji): Choć integracja pomogła rozwojowi gospodarczemu, problemy gospodarcze można było rozwiązywać również bez członkostwa w NATO/UE
-- D (Społeczeństwo): Społeczeństwo polskie było bardziej zainteresowane sytuacją gospodarczą niż polityką zagraniczną
+- A (Polityka ponad gospodarką): To nieprawda - politycy III RP intensywnie zajmowali się problemami gospodarczymi (reformy Balcerowicza, prywatyzacja)
+- C (Niemożliwe bez integracji): Choć integracja pomogła rozwojowi gospodarczemu, problemy gospodarcze można było rozwiązywać również bez członkostwa w NATO/UE (przykład: inne państwa Europy Środkowej)
+- D (Społeczeństwo): Społeczeństwo polskie było bardziej zainteresowane sytuacją gospodarczą niż polityką zagraniczną - sondaże z lat 90. pokazują, że problemy ekonomiczne były priorytetem
 
 ---
 

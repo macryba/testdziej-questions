@@ -31,7 +31,7 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **A.** Za: suwerenność ograniczona, Przeciw: utrata państwowości
 **B.** Za: zachowanie odrębności ustrojowej, Przeciw: uzależnienie od Rosji
 **C.** Za: gwarancje międzynarodowe, Przeciw: brak kontynuacji prawnej
-**D.** Wszystkie powyższe argumenty mają znaczenie
+**D.** Wszystkie powyższe argumenty mają znaczenie w debacie
 
 **Prawidłowa odpowiedź:** D
 
@@ -54,11 +54,11 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Pytanie:** Oceń z perspektywy relacji polsko-rosyjskich politykę Aleksandra I wobec Królestwa Polskiego w latach 1815-1825. Czy była to polityka liberalizmu czy pragmatyzmu?
 
 **A.** Wyłącznie liberalizm i przychylność wobec Polaków
-**B.** Czysty pragmatyzm polityczny
+**B.** Mieszanka liberalizmu i pragmatyzmu od samego początku
 **C.** Początkowo liberalizm, później pragmatyzm
-**D.** Mieszanka liberalizmu i pragmatyzmu od samego początku
+**D.** Czysty pragmatyzm polityczny bez liberalizmu
 
-**Prawidłowa odpowiedź:** D
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Polityka Aleksandra I wobec Królestwa Polskiego była mieszanką liberalizmu i pragmatyzmu od samego początku. Z jednej strony nadał liberalną konstytucję, utrzymał polskie instytucje i język urzędowy (liberalizm). Z drugiej strony, już od 1819 roku pozwalał na łamanie jej postanowień (cenzura, zawieszenie wolności zgromadzeń), co świadczy o pragmatyzmie i dążeniu do utrzymania kontroli nad Królestwem. Aleksander I balansował między potrzebą stabilizacji sytuacji na ziemiach polskich a utrzymaniem dominacji rosyjskiej.
 
@@ -68,8 +68,8 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 
 **Analysis of incorrect answers:**
 - A. Wyłącznie liberalizm i przychylność wobec Polaków - zbyt optymistyczna ocena, ignoruje łamanie konstytucji
-- B. Czysty pragmatyzm polityczny - pomija rzeczywiste liberalne elementy polityki Aleksandra I
 - C. Początkowo liberalizm, później pragmatyzm - uproszczenie, pragmatyzm był obecny od początku
+- D. Wyłącznie pragmatyzm polityczny bez elementów liberalizmu - pomija rzeczywiste liberalne elementy polityki Aleksandra I
 
 ---
 
@@ -79,7 +79,7 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 **Pytanie:** Dokonaj bilansu przemian ustrojowych Królestwa Polskiego w latach 1815-1832. Jakie były kluczowe etapy transformacji od konstytucyjnej monarchii do prowincji cesarstwa rosyjskiego?
 
 **A.** 1815-1819: pełna autonomia, 1819-1830: ograniczanie praw, 1830-1831: interregnum, 1831-1832: unia realna
-**B.** 1815-1825: autonomia pod Aleksandrem I, 1825-1830: ograniczanie praw pod Mikołajem I, 1830-1831: powstanie, 1831-1832: likwidacja autonomii
+**B.** 1815-1825: autonomia pod Aleksandrem I, 1825-1830: ograniczanie praw pod Mikołajem I, 1830-1832: likwidacja autonomii
 **C.** 1815-1830: stopniowa integracja z Rosją, 1830-1831: zerwanie unii, 1831-1832: odbudowa zależności
 **D.** 1815-1832: ciągły proces ograniczania autonomii bez wyraźnych etapów
 

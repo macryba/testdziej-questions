@@ -25,12 +25,12 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 
 **Pytanie:** Kto był wielkim mistrzem Zakonu Krzyżackiego na początku wojny trzynastoletniej w 1454 roku?
 
-**A.** Ulrich von Jungingen
-**B.** Ludwig von Erlichshausen
-**C.** Albrecht Hohenzollern
-**D.** Heinrich von Plauen
+**A.** Ludwig von Erlichshausen
+**B.** Ulrich von Jungingen
+**C.** Heinrich von Plauen
+**D.** Albrecht Hohenzollern
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Ludwig von Erlichshausen był wielkim mistrzem Zakonu Krzyżackiego w latach 1450-1467, co oznacza, że sprawował tę funkcję przez całą wojnę trzynastoletnią (1454-1466).
 
@@ -39,9 +39,9 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wielcy_mistrzowie_zakonu_krzy%C5%BCackiego
 
 **Analiza niepoprawnych odpowiedzi:**
-- Ulrich von Jungingen był wielkim mistrzem w latach 1407-1410 i zginął pod Grunwaldem
-- Albrecht Hohenzollern był wielkim mistrzem w latach 1511-1525, podczas wojny z Polską 1519-1521
-- Heinrich von Plauen był wielkim mistrzem w latach 1410-1413 po bitwie pod Grunwaldem
+- Ulrich von Jungingen był wielkim mistrzem w latach 1407-1410 i zginął pod Grunwaldem (incorrect from Grunwald)
+- Heinrich von Plauen był wielkim mistrzem w latach 1410-1413 po bitwie pod Grunwaldem (incorrect from Grunwald)
+- Albrecht Hohenzollern był wielkim mistrzem w latach 1511-1525, podczas wojny z Polską 1519-1521 (incorrect from Zygmunt Stary)
 
 ---
 
@@ -52,11 +52,11 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 **Pytanie:** Jakie miasto było głównym ośrodkiem Związku Pruskiego przed wybuchem wojny trzynastoletniej?
 
 **A.** Królewiec
-**B.** Gdańsk
-**C.** Malbork
-**D.** Toruń
+**B.** Malbork
+**C.** Toruń
+**D.** Gdańsk
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Gdańsk był największym i najważniejszym miastem Związku Pruskiego. To tam skierowano akt inkorporacji Prus do Polski, a gdańska flota odegrała kluczową rolę w wojnie.
 
@@ -65,9 +65,9 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 
 **Analiza niepoprawnych odpowiedzi:**
-- Królewiec był siedzibą wielkich mistrzów zakonu krzyżackiego
-- Malbork był główną siedzibą i twierdzą Zakonu Krzyżackiego
-- Toruń był ważnym miastem Związku, ale nie był głównym ośrodkiem
+- Królewiec był siedzibą wielkich mistrzów zakonu krzyżackiego (context from current chapter)
+- Malbork był główną siedzibą i twierdzą Zakonu Krzyżackiego (context from current chapter)
+- Toruń był ważnym miastem Związku, ale nie był głównym ośrodkiem (context from current chapter)
 
 ---
 
@@ -156,11 +156,11 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 **Pytanie:** Jaki obowiązek spadł na Zakon Krzyżacki po drugim pokoju toruńskim?
 
 **A.** Zapłacenie ogromnego kontrybucji
-**B.** Złożenie hołdu lennego królowi polskiemu
-**C.** Opuszczenie Prus
-**D.** Wstąpienie do unii polsko-litewskiej
+**B.** Wstąpienie do unii polsko-litewskiej
+**C.** Złożenie hołdu lennego królowi polskiemu
+**D.** Opuszczenie Prus
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Drugi pokój toruński nakładał na Zakon Krzyżacki obowiązek złożenia hołdu lennego królowi polskiemu oraz wspierania Polski militarnie w razie wojny. To czyniło zakon wasalem Polski.
 
@@ -169,9 +169,9 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 
 **Analiza niepoprawnych odpowiedzi:**
-- Zakon musiał zwrócić Polskie miasta i ziemie, ale nie zapłacił kontrybucji
-- Zakon pozostał w Prusach Książęcych
-- Zakon nie wstąpił do unii z Polską i Litwą
+- Zakon musiał zwrócić Polskie miasta i ziemie, ale nie zapłacił kontrybucji (context from current chapter)
+- Zakon nie wstąpił do unii z Polską i Litwą (context from current chapter)
+- Zakon pozostał w Prusach Książęcych (context from current chapter)
 
 ---
 
@@ -182,11 +182,11 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 **Pytanie:** Dlaczego miasta i szlachta pruska utworzyły Związek Pruski w 1440 roku?
 
 **A.** Chciały rozprzestrzenić chrześcijaństwo
-**B.** Oponowały przeciwko ekonomicznemu i politycznemu uciskowi ze strony Zakonu Krzyżackiego
-**C.** Dążyły do przyłączenia do Litwy
-**D.** Wspierały Zakon w walce z Polską
+**B.** Dążyły do przyłączenia do Litwy
+**C.** Wspierały Zakon w walce z Polską
+**D.** Oponowały przeciwko ekonomicznemu i politycznemu uciskowi ze strony Zakonu Krzyżackiego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Związek Pruski powstał jako sprzeciw wobec rosnącego ucisku gospodarczego i politycznego ze strony Zakonu Krzyżackiego. Miasta i szlachta pruska żądały większych praw i autonomii.
 
@@ -195,9 +195,9 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Powstanie_antykrzy%C5%BCackie_w_Prusach
 
 **Analiza niepoprawnych odpowiedzi:**
-- Obszar Prus był już schrystianizowany od czasów podboju krzyżackiego
-- Związek Pruski zwrócił się do Polski, nie do Litwy
-- Związek Pruski walczył przeciwko Zakonowi, nie go wspierał
+- Obszar Prus był już schrystianizowany od czasów podboju krzyżackiego (context from current chapter)
+- Związek Pruski zwrócił się do Polski, nie do Litwy (context from current chapter)
+- Związek Pruski walczył przeciwko Zakonowi, nie go wspierał (context from current chapter)
 
 ---
 
@@ -234,11 +234,11 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 **Pytanie:** Dlaczego początkowe lata wojny były niepomyślne dla Polski?
 
 **A.** Polska nie miała dostępu do morza
-**B.** Wojska polskie były słabiej wyposażone i dowodzone
-**C.** Poznań i inne miasta polskie nie wsparły wojny
-**D.** Zakon otrzymał pomoc ze strony cesarza i papieża
+**B.** Poznań i inne miasta polskie nie wsparły wojny
+**C.** Zakon otrzymał pomoc ze strony cesarza i papieża
+**D.** Wojska polskie były słabiej wyposażone i dowodzone
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Pierwsze lata wojny były trudne dla Polski z powodu słabego dowodzenia, problemów z zaopatrzeniem i braku przygotowania do długotrwałego konfliktu. Dopiero zmiany dowództwa i strategii przyniosły zwycięstwa.
 
@@ -247,9 +247,9 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Chojnicami
 
 **Analiza niepoprawnych odpowiedzi:**
-- Polska nie miała dostępu do morza przed wojną, ale nie to było głównym problemem
-- Polskie miasta generalnie wspierały wojnę, choć z różnym zaangażowaniem
-- Cesarstwo i papiestwo zachowały neutralność
+- Polska nie miała dostępu do morza przed wojną, ale nie to było głównym problemem (context from current chapter)
+- Polskie miasta generalnie wspierały wojnę, choć z różnym zaangażowaniem (context from current chapter)
+- Cesarstwo i papiestwo zachowały neutralność (context from current chapter)
 
 ---
 
@@ -260,11 +260,11 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 **Pytanie:** Jakie były najważniejsze skutki gospodarcze wojny trzynastoletniej dla Polski?
 
 **A.** Utrata dostępu do morza i upadek handlu
-**B.** Zdobycie dostępu do morza i rozwój handlu przez Gdańsk
-**C.** Upadek miast pruskich i migracja ludności
-**D.** Koniec rolnictwa na Pomorzu
+**B.** Upadek miast pruskich i migracja ludności
+**C.** Koniec rolnictwa na Pomorzu
+**D.** Zdobycie dostępu do morza i rozwój handlu przez Gdańsk
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Odzyskanie Pomorza Gdańskiego i dostępu do morza pozwoliło Polsce na rozwój handlu morskiego. Gdańsk stał się głównym portem polskim, co przyniosło znaczące korzyści gospodarcze.
 
@@ -273,9 +273,9 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Prusy_Kr%C3%B3lewskie
 
 **Analiza niepoprawnych odpowiedzi:**
-- Polska zyskała dostęp do morza, a go nie utraciła
-- Miasta pruskie rozwinęły się pod władzą polską
-- Rolnictwo na Pomorzu kontynuowało się bez zakłóceń
+- Polska zyskała dostęp do morza, a go nie utraciła (context from current chapter)
+- Miasta pruskie rozwinęły się pod władzą polską (context from current chapter)
+- Rolnictwo na Pomorzu kontynuowało się bez zakłóceń (context from current chapter)
 
 ---
 
@@ -312,11 +312,11 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 **Pytanie:** Jakie terytorium stworzono na mocy drugiego pokoju toruńskiego z ziemi przyłączonych do Polski?
 
 **A.** Prusy Książęce
-**B.** Prusy Królewskie
-**C.** Księstwo Pruskie
-**D.** Województwo malborskie
+**B.** Księstwo Pruskie
+**C.** Województwo malborskie
+**D.** Prusy Królewskie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Z ziem przyłączonych do Polski (Pomorze Gdańskie, ziemia chełmińska, Warmia) utworzono Prusy Królewskie, które były pod bezpośrednim zwierzchnictwem korony polskiej.
 
@@ -325,9 +325,9 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 
 **Analiza niepoprawnych odpowiedzi:**
-- Prusy Książęce pozostały pod władzą zakonu krzyżackiego
-- Księstwo Pruskie powstało później w 1525 roku
-- Województwo malborskie było częścią Prus Królewskich, ale nie całości
+- Prusy Książęce pozostały pod władzą zakonu krzyżackiego (context from current chapter)
+- Księstwo Pruskie powstało później w 1525 roku (incorrect from Zygmunt Stary)
+- Województwo malborskie było częścią Prus Królewskich, ale nie całości (context from current chapter)
 
 ---
 

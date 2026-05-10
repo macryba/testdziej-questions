@@ -41,12 +41,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Kto był pierwszym królem Polski z dynastii Wazów?
 
-**A.** Zygmunt III Waza
-**B.** Władysław IV Waza
+**A.** Władysław IV Waza
+**B.** Zygmunt III Waza
 **C.** Jan II Kazimierz Waza
 **D.** Jan III Sobieski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Zygmunt III Waza został wybrany na króla Polski w 1587 roku jako pierwszy przedstawiciel dynastii Wazów. Był wnukiem Katarzeny Jagiellonki, siostry Zygmunta II Augusta.
 
@@ -55,9 +55,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Wazowie
 
 **Analiza odpowiedzi błędnych:**
-- Władysław IV Waza był synem Zygmunta III Wazy i panował w latach 1632-1648
-- Jan II Kazimierz Waza był drugim synem Zygmunta III Wazy i panował w latach 1648-1668
-- Jan III Sobieski był królem Polski z innej dynastii, panując w latach 1674-1696
+- Władysław IV Waza był synem Zygmunta III Wazy i panował w latach 1632-1648 (incorrect from Wazowie chapter - same period)
+- Jan II Kazimierz Waza był drugim synem Zygmunta III Wazy i panował w latach 1648-1668 (incorrect from Wazowie chapter - same period)
+- Jan III Sobieski był królem Polski z innej dynastii, panując w latach 1674-1696 (incorrect from Sobieski chapter)
 
 ---
 
@@ -106,9 +106,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Bitwa pod Grunwaldem odbyła się w 1410 roku
-- Unia lubelska została zawarta w 1569 roku
-- Chrzest Polski miał miejsce w 966 roku
+- Bitwa pod Grunwaldem odbyła się w 1410 roku (incorrect from Grunwald chapter)
+- Unia lubelska została zawarta w 1569 roku (incorrect from Unia lubelska chapter)
+- Chrzest Polski miał miejsce w 966 roku (incorrect from Piastowie - Chrystianizacja chapter)
 
 ---
 
@@ -118,12 +118,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Do którego miasta Zygmunt III Waza przeniósł swoją siedzibę królewską w 1596 roku?
 
-**A.** Warszawa
-**B.** Kraków
-**C.** Gniezno
+**A.** Kraków
+**B.** Gniezno
+**C.** Warszawa
 **D.** Poznań
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** W 1596 roku Zygmunt III Waza przeniósł swoją siedzibę z Krakowa do Warszawy po pożarze Zamku Królewskiego na Wawelu. Warszawa stała się głównym miastem rezydencjonalnym monarchy.
 
@@ -131,9 +131,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Kraków był dawną stolicą Polski, miejsce koronacji
-- Gniezno było pierwszą stolicą Polski i siedzibą arcybiskupa
-- Poznań było ważnym miastem wielkopolskim, ale nie stolicą
+- Kraków był dawną stolicą Polski, miejsce koronacji (no referenced answer - historical context)
+- Gniezno było pierwszą stolicą Polski i siedzibą arcybiskupa (incorrect from Piastowie chapter)
+- Poznań było ważnym miastem wielkopolskim, ale nie stolicą (no referenced answer - historical context)
 
 ---
 
@@ -156,9 +156,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_IV_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Zygmunt III Waza panował w latach 1587-1632
-- Jan II Kazimierz Waza panował w latach 1648-1668
-- Michał Korybut Wiśniowiecki był królem Polski w latach 1669-1673
+- Zygmunt III Waza panował w latach 1587-1632 (incorrect from Wazowie chapter - same period)
+- Jan II Kazimierz Waza panował w latach 1648-1668 (incorrect from Wazowie chapter - same period)
+- Michał Korybut Wiśniowiecki był królem Polski w latach 1669-1673 (incorrect from different chapter - after Wazowie)
 
 ---
 
@@ -168,12 +168,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** W którym roku miała miejsce bitwa pod Chocimiem podczas wojny polsko-tureckiej?
 
-**A.** 1621
-**B.** 1610
+**A.** 1610
+**B.** 1621
 **C.** 1634
 **D.** 1655
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Bitwa pod Chocimiem odbyła się w 1621 roku podczas wojny polsko-tureckiej. Wojska polskie pod wodzą hetmana Chodkiewicza odparły armię turecką, co doprowadziło do zawarcia pokoju.
 
@@ -181,9 +181,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- 1610 to rok bitwy pod Kłuszynem
-- 1634 to rok pokoju w Polanowie
-- 1655 to początek potopu szwedzkiego
+- 1610 to rok bitwy pod Kłuszynem (incorrect from Wojny ze Szwecją chapter)
+- 1634 to rok pokoju w Polanowie (incorrect from Wazowie chapter - same period)
+- 1655 to początek potopu szwedzkiego (incorrect from Potop szwedzki chapter)
 
 ---
 
@@ -193,12 +193,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Kto był ostatnim królem Polski z dynastii Wazów?
 
-**A.** Jan II Kazimierz Waza
-**B.** Zygmunt III Waza
-**C.** Władysław IV Waza
-**D.** Jan III Sobieski
+**A.** Zygmunt III Waza
+**B.** Władysław IV Waza
+**C.** Jan III Sobieski
+**D.** Jan II Kazimierz Waza
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Jan II Kazimierz Waza był ostatnim królem Polski z dynastii Wazów. Panował w latach 1648-1668 i abdykował w 1668 roku, kończąc epokę panowania Wazów w Polsce.
 
@@ -207,9 +207,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Jan_II_Kazimierz_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Zygmunt III Waza był pierwszym królem z dynastii Wazów.
-- Władysław IV Waza był drugim królem z dynastii Wazów.
-- Jan III Sobieski był królem Polski, ale nie z dynastii Wazów.
+- Zygmunt III Waza był pierwszym królem z dynastii Wazów (incorrect from Wazowie chapter - same period)
+- Władysław IV Waza był drugim królem z dynastii Wazów (incorrect from Wazowie chapter - same period)
+- Jan III Sobieski był królem Polski, ale nie z dynastii Wazów (incorrect from Sobieski chapter)
 
 ---
 
@@ -219,12 +219,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Który pokój w 1634 roku zakończył wojnę polsko-rosyjską i uregulował stosunki między oboma państwami?
 
-**A.** Pokój w Polanowie
-**B.** Pokój w Altmarku
+**A.** Pokój w Altmarku
+**B.** Pokój w Polanowie
 **C.** Rozejm w Dywilinie
 **D.** Pokój w Olivie
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Pokój w Polanowie zawarty w 1634 roku zakończył wojnę polsko-rosyjską. Car Michał Romanow zrzekł się pretensji do ziem ruskich, a Władysław IV zrzekł się tytułu cara.
 
@@ -232,9 +232,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1572%E2%80%931697)
 
 **Analiza odpowiedzi błędnych:**
-- Pokój w Altmarku dotyczył wojny ze Szwecją w 1629 roku
-- Rozejm w Dywilinie kończył wojnę z Rosją w 1619 roku
-- Pokój w Olivie dotyczył wojny ze Szwecją w 1660 roku
+- Pokój w Altmarku dotyczył wojny ze Szwecją w 1629 roku (incorrect from Wojny ze Szwecją chapter)
+- Rozejm w Dywilinie kończył wojnę z Rosją w 1619 roku (incorrect from Wazowie chapter - earlier period)
+- Pokój w Olivie dotyczył wojny ze Szwecją w 1660 roku (incorrect from Wojny ze Szwecją chapter)
 
 ---
 
@@ -244,12 +244,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Dlaczego Zygmunt III Waza został wybrany na króla Polski w 1587 roku?
 
-**A.** Był wnukiem Katarzeny Jagiellonki, siostry ostatniego Jagiellona
-**B.** Był najbogatszym kandydatem do tronu polskiego
-**C.** Zaoferował największe łapówki szlachcie
+**A.** Był najbogatszym kandydatem do tronu polskiego
+**B.** Zaoferował największe łapówki szlachcie
+**C.** Był wnukiem Katarzeny Jagiellonki, siostry ostatniego Jagiellona
 **D.** Miał poparcie cesarza niemieckiego
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Zygmunt III Waza był wnukiem Katarzyny Jagiellonki, siostry Zygmunta II Augusta. Po śmierci ostatniego Jagiellona szlachta wybrała Zygmunta ze względu na jego związki z dynastią jagiellońską.
 
@@ -257,9 +257,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Kandydaci nie oferowali łapówek szlachcie podczas elekcji.
-- Zygmunt nie miał poparcia cesarza, lecz części szlachty i hierarchii kościelnej.
-- Wiek kandydata był ważniejszy niż bogactwo.
+- Był najbogatszym kandydatem do tronu polskiego (no referenced answer - incorrect assumption about election criteria)
+- Zaoferował największe łapówki szlachcie (no referenced answer - incorrect assumption about election practices)
+- Miał poparcie cesarza niemieckiego (no referenced answer - incorrect, had support from部分 szlachty and church hierarchy)
 
 ---
 
@@ -269,12 +269,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Jakie były skutki przeniesienia stolicy do Warszawy przez Zygmunta III Wazę?
 
-**A.** Warszawa stała się głównym ośrodkiem politycznym i kulturalnym
-**B.** Kraków całkowicie stracił na znaczeniu
-**C.** Warszawa od razu stała się większa od Krakowa
-**D.** Wszystkie urzędy przeniesiono natychmiast do Warszawy
+**A.** Kraków całkowicie stracił na znaczeniu
+**B.** Warszawa od razu stała się większa od Krakowa
+**C.** Wszystkie urzędy przeniesiono natychmiast do Warszawy
+**D.** Warszawa stała się głównym ośrodkiem politycznym i kulturalnym
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Przeniesienie stolicy do Warszawy spowodowało rozwój miasta jako głównego ośrodka politycznego i kulturalnego. Kraków pozostał jednak miejscem koronacji i siedzibą instytucji takich jak Skarbiec Koronny.
 
@@ -282,9 +282,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Kraków pozostał ważnym miastem i miejscem koronacji.
-- Proces rozwoju Warszawy trwał dziesiątki lat.
-- Urzędy przenoszono stopniowo, nie natychmiast.
+- Kraków całkowicie stracił na znaczeniu (no referenced answer - incorrect, Kraków remained important city and coronation site)
+- Warszawa od razu stała się większa od Krakowa (no referenced answer - incorrect, the development process took decades)
+- Wszystkie urzędy przeniesiono natychmiast do Warszawy (no referenced answer - incorrect, offices were moved gradually)
 
 ---
 
@@ -294,12 +294,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Co było główną przyczyną unii brzeskiej zawartej w 1596 roku?
 
-**A.** Chęć wzmocnienia pozycji Kościoła katolickiego i przeciwdziałanie wpływom prawosławnego patriarchatu moskiewskiego
-**B.** Konieczność pomocy prawosławnym w walce z Turkami
-**C.** Chęć zyskania poparcia Rosji dla Polski
+**A.** Konieczność pomocy prawosławnym w walce z Turkami
+**B.** Chęć zyskania poparcia Rosji dla Polski
+**C.** Chęć wzmocnienia pozycji Kościoła katolickiego i przeciwdziałanie wpływom prawosławnego patriarchatu moskiewskiego
 **D.** Wymóg prawny ze strony cara moskiewskiego
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Główną przyczyną unii brzeskiej była chęć wzmocnienia pozycji Kościoła katolickiego i przeciwdziałanie wpływom prawosławnego patriarchatu moskiewskiego na ziemiach ruskich Rzeczypospolitej.
 
@@ -308,9 +308,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Unia nie była wymierzona przeciwko Turkom
-- Celem nie było zyskanie poparcia Rosji
-- Car moskiewski nie stawiał takich wymogów
+- Konieczność pomocy prawosławnym w walce z Turkami (no referenced answer - incorrect, the union was not aimed against Turks)
+- Chęć zyskania poparcia Rosji dla Polski (no referenced answer - incorrect, the goal was not to gain Russia's support)
+- Wymóg prawny ze strony cara moskiewskiego (no referenced answer - incorrect, the Tsar of Moscow did not make such demands)
 
 ---
 
@@ -320,12 +320,12 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 
 **Pytanie:** Dlaczego Zygmunt III Waza popadł w konflikt ze Szwecją o tron szwedzki?
 
-**A.** Był królem Szwecji, ale został detronizowany za próby katolicyzacji kraju
-**B.** Zażądał od Szwecji ogromnych reparacji wojennych
-**C.** Chciał podbić Szwecję dla Polski
-**D.** Odmówił uznania niepodległości Szwecji
+**A.** Zażądał od Szwecji ogromnych reparacji wojennych
+**B.** Chciał podbić Szwecję dla Polski
+**C.** Odmówił uznania niepodległości Szwecji
+**D.** Był królem Szwecji, ale został detronizowany za próby katolicyzacji kraju
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Zygmunt III Waza był królem Szwecji, ale został zdetronizowany w 1599 roku za próby katolicyzacji kraju i konflikt z protestancką opozycją. Dążył do odzyskania tronu szwedzkiego, co doprowadziło do wojen polsko-szwedzkich.
 
@@ -333,8 +333,8 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Nie żądał reparacji wojennych od Szwecji
-- Celem nie było podbicie Szwecji dla Polski
-- Szwecja była już niepodległym królestwem
+- Zażądał od Szwecji ogromnych reparacji wojennych (no referenced answer - incorrect, he did not demand war reparations)
+- Chciał podbić Szwecję dla Polski (no referenced answer - incorrect, the goal was not to conquer Sweden for Poland)
+- Odmówił uznania niepodległości Szwecji (no referenced answer - incorrect, Sweden was already an independent kingdom)
 
 ---

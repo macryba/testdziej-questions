@@ -29,11 +29,11 @@ Plan Balcerowicza, wdrożony 1 stycznia 1990 roku, był jednym z najbardziej kon
 Który z argumentów był główną krytyką Planu Balcerowicza zgłoszoną przez ekonomistów takich jak Grzegorz Kołodko?
 
 **A:** Zbyt szybkie tempo prywatyzacji doprowadziło do wyprzedaży majątku narodowego
-**B:** Brak ochrony rynku wewnętrznego spowodował załamanie produkcji krajowej
-**C:** Utrzymanie stałego kursu dolara przez zbyt krótki okres
+**B:** Utrzymanie stałego kursu dolara przez zbyt krótki okres
+**C:** Brak ochrony rynku wewnętrznego spowodował załamanie produkcji krajowej
 **D:** Zbyt niska stopa procentowa hamująca inwestycje zagraniczne
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Główna krytyka Planu Balcerowicza, zgłaszana przez ekonomistów takich jak Grzegorz Kołodko, dotyczyła braku ochrony rynku wewnętrznego. Szybkie otwarcie rynku na import doprowadziło do zalania polskiego rynku towarami zagranicznymi, załamania produkcji krajowej i upadku wielu przedsiębiorstw państwowych.
@@ -56,10 +56,10 @@ Główna krytyka Planu Balcerowicza, zgłaszana przez ekonomistów takich jak Gr
 **Pytanie:**
 Jaki był społeczny koszt transformacji gospodarczej w latach 1990-1993, określany mianem "pauperyzacji społeczeństwa"?
 
-**A:** Zwiększenie liczby milionerów w Polsce
-**B:** Spadek stopy życiowej pracowników przedsiębiorstw państwowych i PGR-u
-**C:** Zwiększenie wydatków na służbę zdrowia
-**D:** Szybki wzrost płac realnych w sektorze prywatnym
+**A:** Zwiększenie liczby osób z wysokim majątkiem w Polsce
+**B:** Spadek stopy życiowej pracowników zakładów państwowych i PGR
+**C:** Zwiększenie wydatków na ochronę zdrowia społeczeństwa
+**D:** Szybki wzrost płac realnych w sektorze prywatnym gospodarki
 
 **Poprawna odpowiedź:** B
 
@@ -84,10 +84,10 @@ Głównym społecznym kosztem transformacji był drastyczny spadek stopy życiow
 **Pytanie:**
 Które z poniższych stwierdzeń najlepiej uzasadnia, dlaczego niektórzy ekonomiści uważali, że "terapia szokowa" była konieczna w Polsce?
 
-**A:** Pozwoliła ona uniknąć długoletniego okresu stagflacji jak w krajach Ameryki Łacińskiej
-**B:** Gwarantowała ona szybki wzrost gospodarczy bez recesji
-**C:** Zapobiegła ona całkowitemu załamaniu się systemu bankowego
-**D:** Zapewniła ona równy dostęp do reform dla wszystkich grup społecznych
+**A:** Pozwoliła uniknąć długoletniego okresu stagflacji jak w Ameryce Łacińskiej
+**B:** Gwarantowała szybki wzrost gospodarczy bez głębokiej recesji
+**C:** Zapobiegła całkowitemu załamaniu się krajowego systemu bankowego
+**D:** Zapewniła równy dostęp do korzyści reform dla wszystkich grup społecznych
 
 **Poprawna odpowiedź:** A
 
@@ -113,14 +113,14 @@ Zwolennicy terapii szokowej argumentowali, że szybkie i radykalne reformy pozwo
 Które z poniższych porównań najlepiej oddaje wpływ Planu Balcerowicza na długookresowy rozwój Polski w porównaniu do innych krajów postsocjalistycznych?
 
 **A:** Polska osiągnęła wolniejszy wzrost gospodarczy niż Czechy i Słowacja
-**B:** Polska doścignęła w 1995 roku poziom PKB z 1989 roku, szybciej niż większość krajów regionu
-**C:** Polska miała niższy wskaźnik inwestycji zagranicznych niż Węgry
-**D:** Polska osiągnęła wolniejszą integrację z UE niż kraje bałtyckie
+**B:** Polska doścignęła poziom PKB z 1989 roku w 1995, szybciej niż większość krajów
+**C:** Polska miała niższy poziom inwestycji zagranicznych niż Węgry
+**D:** Polska osiągnęła szybszą integrację z UE niż większość krajów regionu
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
-Polska, dzięki radykalnym reformom, osiągnęła w 1995 roku poziom PKB z 1989 roku. Było to szybciej niż większość krajów postsocjalistycznych, które stosowały bardziej stopniowe reformy. Radykalne działania pozwoliły Polsce szybciej wrócić na ścieżkę wzrostu i przygotować się do integracji z UE.
+Polska dzięki radykalnym reformom i stabilizacji makroekonomicznej osiągnęła szybszą integrację z UE niż większość krajów postsocjalistycznych. Polska złożyła wniosek o członkostwo w 1994 roku, otrzymała status kraju kandydującego w 1997 roku i była liderem transformacji w regionie.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
@@ -128,8 +128,8 @@ Polska, dzięki radykalnym reformom, osiągnęła w 1995 roku poziom PKB z 1989 
 
 **Analiza niepoprawnych odpowiedzi:**
 - A: Polska miała szybszy wzrost niż Czechy i Słowacja
-- C: Polska miała wyższy wskaźnik inwestycji zagranicznych
-- D: Polska szybciej zintegrowała się z UE niż kraje bałtyckie
+- B: Polska doścignęła poziom PKB z 1989 roku w 1995, szybciej niż większość krajów
+- C: Polska miała wyższy poziom inwestycji zagranicznych niż Węgry
 
 ---
 

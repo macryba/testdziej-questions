@@ -29,12 +29,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Które wydarzenie z 1943 roku było największym zbrojnym zrywem Żydów w okupowanej Europie?
 
-**A:** Powstanie w getcie warszawskim
-**B:** Powstanie warszawskie
-**C:** Powstanie wielkopolskie
-**D:** Powstanie styczniowe
+**A:** Powstanie warszawskie
+**B:** Powstanie wielkopolskie
+**C:** Powstanie styczniowe
+**D:** Powstanie w getcie warszawskim
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Powstanie w getcie warszawskim wybuchło 19 kwietnia 1943 roku. Było to zbrojne wystąpienie Żydów przeciwko Niemcom. Trwało prawie miesiąc i było największym żydowskim powstaniem podczas II wojny światowej.
 
@@ -42,9 +42,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Powstanie_w_getcie_warszawskim
 
 **Analiza odpowiedzi błędnych:**
-- B (Powstanie warszawskie) – prawdziwe wydarzenie z 1944 roku, ale była to polska akcja zbrojna
-- C (Powstanie wielkopolskie) – prawdziwe wydarzenie z 1918-1919 roku, powstanie w Wielkopolsce
-- D (Powstanie styczniowe) – prawdziwe wydarzenie z 1863-1864 roku, polskie powstanie narodowe
+- A (Powstanie warszawskie) – prawdziwe wydarzenie z 1944 roku, ale była to polska akcja zbrojna
+- B (Powstanie wielkopolskie) – prawdziwe wydarzenie z 1918-1919 roku, powstanie w Wielkopolsce
+- C (Powstanie styczniowe) – prawdziwe wydarzenie z 1863-1864 roku, polskie powstanie narodowe
 
 ---
 
@@ -54,12 +54,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Co oznaczało pojęcie "getto" podczas II wojny światowej?
 
-**A:** Zamknięta dzielnica dla ludności żydowskiej w miastach
-**B:** Specjalny obóz pracy przymusowej
+**A:** Specjalny obóz pracy przymusowej
+**B:** Zamknięta dzielnica dla ludności żydowskiej w miastach
 **C:** Podziemna organizacja konspiracyjna
 **D:** Niemiecki posterunek wojskowy
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Getta były zamkniętymi dzielnicami w miastach, gdzie Niemcy izolowali ludność żydowską. Największe było getto warszawskie z ponad 400 tysięcy ludzi. Żyło się tam w bardzo trudnych warunkach z głodem i chorobami.
 
@@ -67,7 +67,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Getta_w_okupowanej_Polsce
 
 **Analiza odpowiedzi błędnych:**
-- B (Specjalny obóz pracy przymusowej) – istniały obozy pracy, ale getto było czymś innym
+- A (Specjalny obóz pracy przymusowej) – istniały obozy pracy, ale getto było czymś innym
 - C (Podziemna organizacja konspiracyjna) – w gettach istniała konspiracja, ale getto nie było organizacją
 - D (Niemiecki posterunek wojskowy) – getto było dzielnicą mieszkalną, nie posterunkiem
 
@@ -79,12 +79,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Który obóz na ziemiach polskich był największym niemieckim obozem zagłady podczas II wojny światowej?
 
-**A:** Auschwitz-Birkenau
-**B:** Treblinka
-**C:** Majdanek
+**A:** Treblinka
+**B:** Majdanek
+**C:** Auschwitz-Birkenau
 **D:** Sobibór
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Auschwitz-Birkenau był największym obozem zagłady. Zginęło tam około 1,1 miliona osób, głównie Żydów z całej Europy. Obóz stał się symbolem Holokaustu i ludobójstwa.
 
@@ -92,8 +92,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Auschwitz-Birkenau
 
 **Analiza odpowiedzi błędnych:**
-- B (Treblinka) – prawdziwy obóz zagłady w Polsce, gdzie zginęło około 900 tysięcy osób
-- C (Majdanek) – prawdziwy obóz zagłady w Lublinie, około 80 tysięcy ofiar
+- A (Treblinka) – prawdziwy obóz zagłady w Polsce, gdzie zginęło około 900 tysięcy osób
+- B (Majdanek) – prawdziwy obóz zagłady w Lublinie, około 80 tysięcy ofiar
 - D (Sobibór) – prawdziwy obóz zagłady, około 250 tysięcy ofiar
 
 ---
@@ -104,12 +104,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Co działo się w komorach gazowych w obozach zagłady?
 
-**A:** Uśmiercano ludzi gazem trującym
-**B:** Przeprowadzano przesłuchania więźniów
+**A:** Przeprowadzano przesłuchania więźniów
+**B:** Uśmiercano ludzi gazem trującym
 **C:** Leczono chore więźniów
 **D:** Przechowywano żywność dla załogi
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** W komorach gazowych Niemcy masowo zabijali ludzi przy użyciu gazu trującego (Cyklon B lub gaz spalinowy). Była to metoda szybkiej eksterminacji tysięcy osób dziennie. Ofiary umierały w męczarniach w ciągu kilkunastu minut.
 
@@ -117,7 +117,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Komora_gazowa
 
 **Analiza odpowiedzi błędnych:**
-- B (Przeprowadzano przesłuchania) – przesłuchania były w innych miejscach obozu
+- A (Przeprowadzano przesłuchania) – przesłuchania były w innych miejscach obozu
 - C (Leczono chore) – w obozach nie leczono, chorych zazwyczaj mordowano
 - D (Przechowywano żywność) – komory gazowe służyły tylko do zabijania ludzi
 

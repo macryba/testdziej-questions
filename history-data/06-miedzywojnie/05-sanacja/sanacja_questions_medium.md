@@ -11,6 +11,8 @@ session_end: "2026-05-05T13:15:00Z"
 tokens_input: 15420
 tokens_output: 12450
 tokens_total: 27870
+reviewed_incorrect_answers: true
+reviewed_at: "2026-05-09T00:00:00Z"
 ---
 
 # Rządy sanacji (1926-1939)
@@ -23,10 +25,10 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Które wydarzenie z 1926 roku zapoczątkowało okres rządów sanacji w II Rzeczypospolitej?
 
-**A)** Wybory parlamentarne zwyciężone przez BBWR
+**A)** Wybory parlamentarne z 1928 roku
 **B)** Przewrót majowy Józefa Piłsudskiego
 **C)** Ogłoszenie noweli sierpniowej
-**D)** Śmierć Józefa Piłsudskiego
+**D)** Śmierć Gabriela Narutowicza
 
 **Prawidłowa odpowiedź:** B
 
@@ -37,9 +39,9 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Wybory parlamentarne zwyciężone przez BBWR odbyły się w 1928 roku, dwa lata po przewrocie majowym
+- A) Wybory parlamentarne z 1928 roku odbyły się dwa lata po przewrocie majowym
 - C) Nowela sierpniowa została ogłoszona w sierpniu 1926 roku, kilka miesięcy po przewrocie majowym
-- D) Śmierć Józefa Piłsudskiego nastąpiła 12 maja 1935 roku, czyli 9 lat po rozpoczęciu rządów sanacji
+- D) Śmierć Gabriela Narutowicza nastąpiła w 1922 roku, przed rozpoczęciem rządów sanacji
 
 ## Pytanie 2
 
@@ -85,8 +87,8 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Józef Piłsudski nigdy nie był prezydentem RP – odmówił objęcia tego urzędu w 1926 roku
-- C) Edward Rydz-Śmigły był marszałkiem Polski i generalnym inspektorem sił zbrojnych, ale nie prezydentem
+- A) Józef Piłsudski nigdy nie był prezydentem RP – odmówił objęcia urzędu w 1926 roku
+- C) Edward Rydz-Śmigły był marszałkiem Polski i generalnym inspektorem sił zbrojnych
 - D) Stanisław Wojciechowski był prezydentem RP przed przewrotem majowym (1922-1926)
 
 ## Pytanie 4
@@ -95,9 +97,9 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Bezpartyjny Blok Współpracy z Rządem (BBWR), utworzony w 1928 roku, był:
 
-**A)** Koalicją partii lewicowych popierających Piłsudskiego
-**B)** Organizacją polityczną sanacji mającą cechy partii, ale nienazywaną tak
-**C)** Partią opozycyjną walczącą z sanacją
+**A)** Koalicją partii lewicowych popierających sanację
+**B)** Organizacją sanacji o cechach partii, lecz nienazywaną tak oficjalnie
+**C)** Partią opozycyjną walczącą z rządem
 **D)** Związkiem zawodowym zrzeszającym robotników
 
 **Prawidłowa odpowiedź:** B
@@ -109,7 +111,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) BBWR nie był koalicją partii lewicowych, lecz organizacją sanacyjną skupiającą kandydatów o zróżnicowanych poglądach
+- A) BBWR nie był koalicją partii lewicowych, lecz organizacją sanacyjną
 - C) BBWR był organizacją rządową, nie opozycyjną
 - D) BBWR nie był związkiem zawodowym, lecz ugrupowaniem politycznym
 
@@ -119,10 +121,10 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Obóz odosobnienia w Berezie Kartuskiej, utworzony w 1934 roku, służył do:
 
-**A)** Izolacji osób podejrzanych o przestępczość pospolitą
-**B)** Przetrzymywania jeńców wojennych
-**C)** Edukacji młodzieży sanacyjnej
-**D)** Rehabilitacji żołnierzy rannych w walce
+**A)** Izolacji przeciwników politycznych sanacji
+**B)** Przetrzymywania jeńców wojennych z innych państw
+**C)** Edukacji politycznej młodzieży sanacyjnej
+**D)** Rehabilitacji żołnierzy rannych w walkach
 
 **Prawidłowa odpowiedź:** A
 
@@ -143,10 +145,10 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Konstytucja kwietniowa, uchwalona w 1935 roku, znacząco:
 
-**A)** Przywróciła demokrację parlamentarną w Polsce
-**B)** Wzmocniła władzę Sejmu kosztem prezydenta
-**C)** Wzmocniła władzę prezydenta kosztem Sejmu
-**D)** Zniesła urząd prezydenta RP
+**A)** Przywróciła demokrację parlamentarną
+**B)** Wzmocniła władzę Sejmu
+**C)** Wzmocniła władzę prezydenta
+**D)** Zniosła urząd prezydenta RP
 
 **Prawidłowa odpowiedź:** C
 
@@ -167,9 +169,9 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Proces brzeski, toczony w latach 1931-1932, dotyczył:
 
-**A)** Oskarżenia działaczy sanacji o nadużycia władzy
-**B)** Oceny przeciwników politycznych o przygotowywanie zamachu stanu
-**C)** Rozprawy przed Trybunałem Stanu z ministrem Gabrielą Czechowiczem
+**A)** Oskarżenia działaczy sanacji o nadużycia
+**B)** Oceny przeciwników politycznych o zamachu stanu
+**C)** Rozprawy przed Trybunałem Stanu
 **D)** Weryfikacji prawa wyborczego z 1928 roku
 
 **Prawidłowa odpowiedź:** B
@@ -182,7 +184,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Proces nie dotyczył działaczy sanacji, lecz ich przeciwników politycznych
-- C) Sprawa Gabriela Czechowicza dotyczyła przekroczenia budżetu i była odrębnym procesem
+- C) Sprawa Gabriela Czechowicza dotyczyła przekroczenia budżetu
 - D) Proces nie dotyczył weryfikacji prawa wyborczego
 
 ## Pytanie 8
@@ -191,10 +193,10 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Centralny Okręg Przemysłowy (COP), utworzony w 1937 roku, był:
 
-**A)** Strefą wolnego handlu na granicy z Niemcami
-**B)** Wielkim przedsięwzięciem industrializacyjnym w południowo-wschodniej Polsce
-**C)** Okręgiem militarnym do obrony granic wschodnich
-**D)** Programem rolnym mającym zwiększyć produkcję żywności
+**A)** Strefą wolnego handlu z Niemcami
+**B)** Przedsięwzięciem industrializacyjnym w Polsce
+**C)** Okręgiem militarnym do obrony granic
+**D)** Programem rolnym zwiększającym produkcję
 
 **Prawidłowa odpowiedź:** B
 
@@ -206,7 +208,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) COP nie był strefą wolnego handlu
-- C) COP nie był okręgiem militarnym, lecz przemysłowym
+- C) COP nie był okręgiem militarnym
 - D) COP nie był programem rolnym
 
 ## Pytanie 9
@@ -215,12 +217,12 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Nowela sierpniowa z 1926 roku znacząco:
 
-**A)** Znieśliła urząd prezydenta RP
-**B)** Wzmocniła władzę wykonawczą kosztem parlamentu
-**C)** Przywróciła konstytucję marcową z 1921 roku
+**A)** Wzmocniła władzę wykonawczą
+**B)** Zniosła urząd prezydenta RP
+**C)** Przywróciła konstytucję marcową
 **D)** Wprowadziła powszechne prawa wyborcze
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Nowela sierpniowa, uchwalona przez Sejm 2 sierpnia 1926 roku (legalizująca przewrót majowy), znacząco wzmocniła władzę wykonawczą kosztem parlamentu. Prezydent uzyskał prawo do wydawania rozporządzeń z mocą ustawy, rozwiązywania Sejmu przed uchwaleniem budżetu, oraz wyłącznej inicjatywy ustawodawczej. Nowela ograniczyła także kontrolę parlamentarną nad rządem. Była to pierwsza z ważnych zmian ustrojowych rządów sanacji, przygotowująca grunt pod konstytucję kwietniową z 1935 roku.
 
@@ -229,7 +231,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Nowela nie znieśliła urzędu prezydenta, lecz go wzmocniła
+- B) Nowela nie znieśliła urzędu prezydenta, lecz go wzmocniła
 - C) Nowela nie przywróciła konstytucji marcowej, lecz ją ograniczyła
 - D) Nowela nie wprowadziła powszechnych praw wyborczych
 
@@ -239,12 +241,12 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Obóz Zjednoczenia Narodowego (OZN), powołany w 1937 roku, był:
 
-**A)** Organizacją opozycyjną skupiającą przeciwników sanacji
-**B)** Następcą BBWR jako główna organizacja polityczna sanacji
-**C)** Koalicją partii prawicowych walczących z sanacją
-**D)** Związkiem mniejszości narodowych w Polsce
+**A)** Organizacją opozycyjną wobec sanacji
+**B)** Koalicją partii prawicowych
+**C)** Związkiem mniejszości narodowych
+**D)** Następcą BBWR jako organizacja polityczna
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Obóz Zjednoczenia Narodowego (OZN) został powołany w 1937 roku z inicjatywy Edwarda Rydza-Śmigłego jako następca BBWR. Był główną organizacją polityczną sanacji, skupiającą zwolenników prezydenta Mościckiego i marszałka Rydza-Śmigłego. W odróżnieniu od BBWR, OZN miał bardziej nacjonalistyczny charakter i dążył do skupienia szerokich kręgów społecznych, w tym dawnych zwolenników endecji. W jego deklaracji programowej znalazły się postulaty solidaryzmu społecznego, związku polskości z katolicyzmem oraz polityki asymilacji mniejszości narodowych.
 
@@ -254,8 +256,8 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) OZN nie był organizacją opozycyjną, lecz rządową
-- C) OZN nie był koalicją partii prawicowych, lecz organizacją sanacyjną
-- D) OZN nie był związkiem mniejszości narodowych
+- B) OZN nie był koalicją partii prawicowych
+- C) OZN nie był związkiem mniejszości narodowych
 
 ## Pytanie 11
 
@@ -263,9 +265,9 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Edward Rydz-Śmigły, marszałek Polski od 1935 roku, był:
 
-**A)** Premierem RP przez cały okres rządów sanacji
-**B)** Generalnym inspektorem sił zbrojnych i drugą osobą w państwie
-**C)** Ministrem spraw zagranicznych w latach 1935-1939
+**A)** Premierem RP w latach trzydziestych
+**B)** Generalnym inspektorem sił zbrojnych
+**C)** Ministrem spraw zagranicznych
 **D)** Przywódcą opozycji sanacyjnej
 
 **Prawidłowa odpowiedź:** B
@@ -277,9 +279,9 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Rydz-Śmigły nie był premierem – funkcję tę sprawowali inni (Sławek, Składkowski i inni)
+- A) Rydz-Śmigły nie był premierem – funkcję tę sprawowali inni
 - C) Ministrem spraw zagranicznych był Józef Beck
-- D) Rydz-Śmigły nie był przywódcą opozycji, lecz częścią obozu rządzącego
+- D) Rydz-Śmigły nie był przywódcą opozycji
 
 ## Pytanie 12
 
@@ -287,12 +289,12 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Józef Beck, minister spraw zagranicznych w latach 1932-1939, był odpowiedzialny za:
 
-**A)** Podpisanie paktu Ribbentrop-Mołotow w sierpniu 1939
-**B)** Politykę równowagi między ZSRR a Niemcami
-**C)** Wypowiedzenie sojuszu z Francją i Wielką Brytanią
-**D)** Rozpoczęcie negocjacji z Niemcami o przystąpieniu do Osły
+**A)** Politykę równowagi między ZSRR a Niemcami
+**B)** Podpisanie paktu Ribbentrop-Mołotow
+**C)** Wypowiedzenie sojuszu z zachodem
+**D)** Negocjacje z Niemcami o sojusz
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Józef Beck, bliski współpracownik Piłsudskiego, był ministrem spraw zagranicznych w latach 1932-1939 i jednym z trzech najważniejszych polityków sanacji (obok Mościckiego i Rydza-Śmigłego – tzw. triumwirat Mościcki-Rydz-Beck). Beck prowadził politykę równowagi między dwoma wrogimi sąsiadami – ZSRR i Niemcami – nie chcąc zbytnie zbliżyć się do żadnego z nich. Zażartował sojusz z Francją i Rumunią. Jego polityka zagraniczna, mimo niektórych sukcesów (pakt o nieagresji z ZSRR z 1932), nie zdołała uchronić Polski przed wybuchem II wojny światowej.
 
@@ -301,6 +303,6 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Pakt Ribbentrop-Mołotow został podpisany przez ZSRR i Niemcy bez udziału Polski
-- C) Beck nie wypowiedział sojuszu z Francją i Wielką Brytanią
+- B) Pakt Ribbentrop-Mołotow został podpisany przez ZSRR i Niemcy
+- C) Beck nie wypowiedział sojuszu z Francją i Brytanią
 - D) Polska nie negocjowała przystąpienia do Osły

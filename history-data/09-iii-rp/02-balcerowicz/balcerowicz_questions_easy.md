@@ -28,10 +28,10 @@ Plan Balcerowicza to pakiet reform gospodarczych wdrożonych w Polsce na począt
 **Pytanie:**
 Kto był głównym autorem planu reform gospodarczych wdrożonego w Polsce w 1990 roku?
 
-**A:** Tadeusz Mazowiecki
-**B:** Leszek Balcerowicz
-**C:** Wojciech Jaruzelski
-**D:** Adam Michnik
+**A:** Tadeusz Mazowiecki - premier rządu
+**B:** Leszek Balcerowicz - autor planu
+**C:** Wojciech Jaruzelski - prezydent PRL
+**D:** Adam Michnik - działacz opozycji
 
 **Poprawna odpowiedź:** B
 
@@ -42,9 +42,9 @@ Leszek Balcerowicz był wicepremierem i ministrem finansów w rządzie Tadeusza 
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
 **Analiza niepoprawnych odpowiedzi:**
-- A: Tadeusz Mazowiecki był premierem, ale nie autorem planu
-- C: Wojciech Jaruzelski był prezydentem w latach 1989-1990
-- D: Adam Michnik był działaczem opozycji demokratycznej
+- A: Tadeusz Mazowiecki - incorrect from Transformacja (był premierem rządu, ale nie autorem planu)
+- C: Wojciech Jaruzelski - incorrect from Stan wojenny (był prezydentem PRL w latach 1989-1990)
+- D: Adam Michnik - incorrect no referenced answer (był działaczem opozycji, nie autorem planu)
 
 ---
 
@@ -55,12 +55,12 @@ Leszek Balcerowicz był wicepremierem i ministrem finansów w rządzie Tadeusza 
 **Pytanie:**
 Kiedy rozpoczęto realizację Planu Balcerowicza w Polsce?
 
-**A:** 1 stycznia 1990
-**B:** 4 czerwca 1989
-**C:** 13 grudnia 1981
-**D:** 17 września 1939
+**A:** 17 września 1939
+**B:** 13 grudnia 1981
+**C:** 4 czerwca 1989
+**D:** 1 stycznia 1990
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Plan Balcerowicza rozpoczął się 1 stycznia 1990 roku. Ustawy tworzące plan zostały przyjęte przez Sejm kontraktowy w grudniu 1989 roku, a reforma weszła w życie z początkiem nowego roku.
@@ -69,9 +69,9 @@ Plan Balcerowicza rozpoczął się 1 stycznia 1990 roku. Ustawy tworzące plan z
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
 **Analiza niepoprawnych odpowiedzi:**
-- B: 4 czerwca 1989 to data częściowo wolnych wyborów
-- C: 13 grudnia 1981 to data wprowadzenia stanu wojennego
-- D: 17 września 1939 to data agresji ZSRR na Polskę
+- A: 17 września 1939 - incorrect from II wojna światowa (data agresji ZSRR na Polskę)
+- B: 13 grudnia 1981 - incorrect from Stan wojenny (data wprowadzenia stanu wojennego)
+- C: 4 czerwca 1989 - incorrect from Transformacja (data częściowo wolnych wyborów)
 
 ---
 
@@ -83,9 +83,9 @@ Plan Balcerowicza rozpoczął się 1 stycznia 1990 roku. Ustawy tworzące plan z
 Jaki był główny cel Planu Balcerowicza?
 
 **A:** Przejście od gospodarki centralnie sterowanej do rynkowej
-**B:** Wstąpienie Polski do Unii Europejskiej
-**C:** Budowa nowego stadionu narodowego w Warszawie
-**D:** Organizacja Igrzysk Olimpijskich w Polsce
+**B:** Wstąpienie Polski do Unii Europejskiej w 2004 roku
+**C:** Budowa nowego stadionu narodowego w Warszawie w 2011
+**D:** Organizacja Igrzysk Olimpijskich w Polsce przez Polskę
 
 **Poprawna odpowiedź:** A
 
@@ -96,9 +96,9 @@ Głównym celem Planu Balcerowicza było odejście od gospodarki scentralizowane
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
 **Analiza niepoprawnych odpowiedzi:**
-- B: Wstąpienie do UE nastąpiło dopiero w 2004 roku
-- C: Stadion narodowy został zbudowany w 2011 roku
-- D: Polska nigdy nie organizowała Igrzysk Olimpijskich
+- B: Wstąpienie do UE - incorrect from III RP - Polska w NATO i UE (nastąpiło dopiero w 2004 roku)
+- C: Stadion narodowy - incorrect no referenced answer (został zbudowany w 2011 roku)
+- D: Igrzyska Olimpijskie - incorrect no referenced answer (Polska nigdy nie organizowała Igrzysk)
 
 ---
 

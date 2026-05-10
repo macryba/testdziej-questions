@@ -37,7 +37,7 @@ Oceń zależność Księstwa Warszawskiego od Francji w latach 1807-1813, analiz
 **A.** Rezydenci francuscy mieli prawo weta wobec wszystkich decyzji Rady Ministrów i bezpośrednio kontrolowali armię Księstwa
 **B.** Rezydenci francuscy doradzali władzom Księstwa, ale nie mieli formalnych uprawnień do blokowania decyzji
 **C.** Rezydenci francuscy sprawowali nadzór tylko nad polityką zagraniczną Księstwa, nie ingerując w sprawy wewnętrzne
-**D.** Księstwo było całkowicie niezależne od Francji, a rezydenci pełnili jedynie funkcję dyplomatyczne
+**D.** Księstwo Warszawskie było w pełni suwerenne, a rezydenci francuscy pełnili jedynie funkcję obserwatorów dyplomatycznych
 
 **Poprawna odpowiedź:** A
 
@@ -51,7 +51,7 @@ Rezydenci francuscy sprawowali rzeczywistą władzę w Księstwie Warszawskim. C
 **Analiza odpowiedzi nieprawidłowych:**
 - **B. Rezydenci francuscy doradzali władzom Księstwa, ale nie mieli formalnych uprawnień do blokowania decyzji** – rezydenci mieli znacznie szersze uprawnienia niż doradcy, mieli prawo weta i bezpośrednią kontrolę
 - **C. Rezydenci francuscy sprawowali nadzór tylko nad polityką zagraniczną Księstwa, nie ingerując w sprawy wewnętrzne** – rezydenci kontrolowali zarówno politykę zagraniczną, jak i wewnętrzną Księstwa
-- **D. Księstwo było całkowicie niezależne od Francji, a rezydenci pełnili jedynie funkcję dyplomatyczne** – to nieprawda, Księstwo było silnie zależne od Francji, a rezydenci sprawowali rzeczywistą władzę
+- **D. Księstwo Warszawskie było w pełni suwerenne, a rezydenci francuscy pełnili jedynie funkcję obserwatorów dyplomatycznych** – to nieprawda, Księstwo było silnie zależne od Francji, a rezydenci sprawowali rzeczywistą władzę
 
 ---
 
@@ -63,11 +63,11 @@ Rezydenci francuscy sprawowali rzeczywistą władzę w Księstwie Warszawskim. C
 Oceń skuteczność reform ustrojowych Księstwa Warszawskiego (konstytucja z 1807 roku, Kodeks Napoleona, zniesienie poddaństwa chłopów), biorąc pod uwagę różnicę między deklamacjami prawnymi a rzeczywistością społeczno-gospodarczą.
 
 **A.** Reformy były skuteczne i doprowadziły do rzeczywistej modernizacji ustrojowej i społecznej
-**B.** Reformy były deklaracjami bez pokrycia, ponieważ szlachta blokowała ich realizację, a sytuacja chlopów się nie zmieniła
-**C.** Reformy były częściowo skuteczne: modernizacja ustrojowa powiodła się, ale sytuacja chlopów poprawiła się niewiele
-**D.** Reformy były całkowicie nieskuteczne i zostały odrzucone przez społeczeństwo Księstwa
+**B.** Reformy były deklaracjami bez pokrycia, gdyż szlachta skutecznie blokowała ich realizację w praktyce
+**C.** Reformy były całkowicie nieskuteczne i zostały odrzucone przez społeczeństwo Księstwa
+**D.** Reformy były częściowo skuteczne: nowoczesny ustrój powstał, lecz sytuacja chlopów niewiele się poprawiła
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Reformy Księstwa Warszawskiego miały mieszane skutki. Z jednej strony, modernizacja ustrojowa była znacząca: wprowadzono konstytucję wzorowaną na francuskiej, Kodeks Napoleona (nowoczesny kodeks cywilny), równość wobec prawa i dwuizbowy Sejm. Z drugiej strony, sytuacja chlopów poprawiła się niewiele: mimo formalnego zniesienia poddaństwa i dekretu grudniowego Łubieńskiego, chłopi musieli nadal spełniać wszystkie powinności wraz z pańszczyzną, a możliwości opuszczenia wsi były bardzo ograniczone. Szlachta i arystokracja zachowały uprzywilejowaną pozycję, szczególnie w wyborach do Sejmu. Dlatego reformy były częściowo skuteczne: nowoczesny ustrój się rozwinął, ale realne zmiany społeczne były ograniczone.
@@ -79,8 +79,8 @@ Reformy Księstwa Warszawskiego miały mieszane skutki. Z jednej strony, moderni
 
 **Analiza odpowiedzi nieprawidłowych:**
 - **A. Reformy były skuteczne i doprowadziły do rzeczywistej modernizacji ustrojowej i społecznej** – to nieprawda, modernizacja ustrojowa powiodła się, ale sytuacja chlopów poprawiła się niewiele
-- **B. Reformy były deklaracjami bez pokrycia, ponieważ szlachta blokowała ich realizację, a sytuacja chlopów się nie zmieniła** – to nieprawda, szlachta nie blokowała wszystkich reform, a nowoczesny ustrój się rozwinął
-- **D. Reformy były całkowicie nieskuteczne i zostały odrzucone przez społeczeństwo Księstwa** – to nieprawda, reformy ustrojowe były częściowo skuteczne i zostały zaakceptowane
+- **B. Reformy były deklaracjami bez pokrycia, ponieważ szlachta skutecznie blokowała ich realizację** – to nieprawda, szlachta nie blokowała wszystkich reform, a nowoczesny ustrój się rozwinął
+- **C. Reformy były całkowicie nieskuteczne i zostały odrzucone przez społeczeństwo Księstwa** – to nieprawda, reformy ustrojowe były częściowo skuteczne i zostały zaakceptowane
 
 ---
 
@@ -94,7 +94,7 @@ Oceń politykę Napoleona Bonaparte wobec sprawy polskiej w latach 1807-1815, an
 **A.** Napoleon był szczerym sojusznikiem Polski i dążył do przywrócenia pełnej niepodległości
 **B.** Napoleon wykorzystywał Polaków dla własnych celów i nie zamierzał przywracać Polski w pełnych granicach
 **C.** Napoleon był neutralny wobec sprawy polskiej i pozostawiał decyzję mocarstwom zaborczym
-**D.** Napoleon sprzeciwiał się odrodzeniu Polski i wspierał mocarstwa zaborcze
+**D.** Napoleon sprzeciwiał się odrodzeniu Polski i aktywnie wspierał politykę mocarstw zaborczych
 
 **Poprawna odpowiedź:** B
 
@@ -109,7 +109,7 @@ Napoleon Bonaparte wykorzystywał sprawę polską dla własnych celów geopolity
 **Analiza odpowiedzi nieprawidłowych:**
 - **A. Napoleon był szczerym sojusznikiem Polski i dążył do przywrócenia pełnej niepodległości** – to nieprawda, Napoleon wykorzystywał Polaków dla własnych celów i nie zamierzał przywracać pełnej niepodległości
 - **C. Napoleon był neutralny wobec sprawy polskiej i pozostawiał decyzję mocarstwom zaborczym** – to nieprawda, Napoleon aktywnie wykorzystywał sprawę polską dla własnych celów
-- **D. Napoleon sprzeciwiał się odrodzeniu Polski i wspierał mocarstwa zaborcze** – to nieprawda, Napoleon wspierał odrodzenie częściowe Polski dla własnych celów, ale nie był przeciwny sprawie polskiej
+- **D. Napoleon sprzeciwiał się odrodzeniu Polski i aktywnie wspierał politykę mocarstw zaborczych** – to nieprawda, Napoleon wspierał odrodzenie częściowe Polski dla własnych celów, ale nie był przeciwny sprawie polskiej
 
 ---
 

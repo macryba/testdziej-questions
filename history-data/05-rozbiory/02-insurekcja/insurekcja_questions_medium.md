@@ -41,10 +41,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Pierwszy rozbiór Polski miał miejsce w 1772 roku, 22 lata przed insurekcją.
-- Odp C: Konstytucja 3 maja została ogłoszona w 1791 roku, trzy lata przed insurekcją.
-- Odp D: Stanisław August Poniatowski zmarł w 1798 roku, już po upadku insurekcji.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Pierwszy rozbiór Polski) – incorrect from Rozbiory: pierwszy rozbiór miał miejsce w 1772 roku, 22 lata przed wybuchem insurekcji kościuszkowskiej
+- Odp C (Ogłoszenie Konstytucji 3 maja) – incorrect from Oświecenie: konstytucja została uchwalona w 1791 roku, trzy lata przed insurekcją
+- Odp D (Śmierć Stanisława Augusta Poniatowskiego) – incorrect from Oświecenie: ostatni król Rzeczypospolitej zmarł w 1798 roku w Petersburgu, już po upadku insurekcji
 
 ---
 
@@ -55,11 +55,11 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 **Pytanie:** Co głosił Uniwersał Połaniecki wydany przez Tadeusza Kościuszkę 7 maja 1794 roku?
 
 **A.** Nadanie ziemi chłopom walczącym w powstaniu
-**B.** Ograniczenie pańszczyzny i zapewnienie opieki rządowej chłopom
-**C.** Zniesienie poddaństwa chłopów
+**B.** Zniesienie poddaństwa chłopów
+**C.** Ograniczenie pańszczyzny i zapewnienie opieki rządowej chłopom
 **D.** Prawo głosu dla chłopów w sejmie
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Uniwersał Połaniecki regulował powinności gruntowe włościan i zapewniał dla nich skuteczną opiekę rządową, bezpieczeństwo własności i sprawiedliwość w komisjach porządkowych. Był to pierwszy krok do ograniczenia poddaństwa, choć nie znosił go całkowicie.
 
@@ -67,10 +67,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Uniwersa%C5%82_Po%C5%82aniecki
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Uniwersał nie nadawał ziemi chłopom, choć Kościuszko nadał ją konkretnym osobom (jak Bartosz Głowacki).
-- Odp C: Poddaństwo zostało zniesione dopiero w 1846 roku (zabór pruski) i 1864 roku (zabór rosyjski).
-- Odp D: Chłopi nie otrzymali prawa głosu w sejmie – to nastąpiło dopiero w XX wieku.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Nadanie ziemi chłopom walczącym w powstaniu) – no referenced answer: Uniwersał Połaniecki nie nadawał ziemi chłopom jako grupie, choć Kościuszko nadał ją konkretnym osobom za wybitne czyny (np. Wojciechowi Bartoszowi Głowackiemu)
+- Odp B (Zniesienie poddaństwa chłopów) – incorrect from Powstania: poddaństwo zostało zniesione znacznie później – w 1846 roku w zaborze pruskim i w 1864 roku w zaborze rosyjskim po powstaniu styczniowym
+- Odp D (Prawo głosu dla chłopów w sejmie) – no referenced answer: chłopi nie otrzymali prawa głosu w sejmie w czasie insurekcji – to nastąpiło dopiero w XX wieku po odzyskaniu niepodległości
 
 ---
 
@@ -93,10 +93,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Jan_Kili%C5%84ski
 - https://pl.wikipedia.org/wiki/Insurekcja_warszawska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp B: Hugo Kołłątaj był politykiem i ideologiem insurekcji, ale nie dowodził insurekcji warszawskiej.
-- Odp C: Antoni Madaliński był generałem, który odmówił redukcji wojska i ruszył na Kraków.
-- Odp D: Józef Zajączek był generałem walczącym pod Racławicami i w innych bitwach.
+**Analiza odpowiedzi błędnych:**
+- Odp B (Hugo Kołłątaj) – no referenced answer: Hugo Kołłątaj był politykiem i ideologiem insurekcji, jednym z głównych organizatorów sprzysiężenia przedpowstańczego, ale nie dowodził insurekcją warszawską
+- Odp C (Antoni Madaliński) – no referenced answer: Antoni Madaliński był generałem, który odmówił redukcji wojska i ruszył na czele swojej brygady z Ostrołęki w kierunku Krakowa, co było jednym z impulsów do wybuchu insurekcji
+- Odp D (Józef Zajączek) – no referenced answer: Józef Zajączek był generałem walczącym pod Racławicami, Szczekocinami i w innych bitwach insurekcji
 
 ---
 
@@ -119,10 +119,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Maciejowicami
 - https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Pod Racławicami Kościuszko odniósł zwycięstwo.
-- Odp B: Pod Szczekocinami Kościuszko został lekko ranny, ale nie dostał się do niewoli.
-- Odp D: Pod Pragą Kościuszki już nie było – był wtedy w niewoli.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Pod Racławicami) – no referenced answer: bitwa pod Racławicami (4 kwietnia 1794) była pierwszym zwycięstwem insurekcji, gdzie Kościuszko odniósł sukces
+- Odp B (Pod Szczekocinami) – no referenced answer: bitwa pod Szczekocinami (6 czerwca 1794) była zacięta, ale nie przyniosła zwycięstwa; Kościuszko został tam lekko ranny, ale nie dostał się do niewoli
+- Odp D (Pod Pragą) – no referenced answer: bitwa o Pragę (4 listopada 1794) zakończyła się masakrą; Kościuszko już nie brał w niej udziału – był wtedy w niewoli rosyjskiej po pojmaniu pod Maciejowicami
 
 ---
 
@@ -133,11 +133,11 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 **Pytanie:** Która instytucja była najwyższym organem władzy cywilnej w czasie insurekcji kościuszkowskiej?
 
 **A.** Rada Nieustająca
-**B.** Rada Najwyższa Narodowa
+**B.** Rada Zastępcza Tymczasowa
 **C.** Sejm Czteroletni
-**D.** Rada Zastępcza Tymczasowa
+**D.** Rada Najwyższa Narodowa
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Rada Najwyższa Narodowa została powołana 10 maja 1794 roku jako najwyższy organ władzy cywilnej w czasie insurekcji. Zastąpiła ona Radę Zastępczą Tymczasową.
 
@@ -145,10 +145,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 - https://pl.wikipedia.org/wiki/Rada_Najwy%C5%BCsza_Narodowa
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Rada Nieustająca była organem władzy przed insurekcją, podporządkowana Rosji.
-- Odp C: Sejm Czteroletni działał w latach 1788-1792, przed wybuchem insurekcji.
-- Odp D: Rada Zastępcza Tymczasowa była tymczasowym organem władzy utworzonym w Warszawie, ale nie była najwyższym organem.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Rada Nieustająca) – incorrect from Oświecenie: Rada Nieustająca była organem władzy wykonawczej w latach 1775-1789, przed insurekcją, podporządkowanym wpływom rosyjskim
+- Odp B (Rada Zastępcza Tymczasowa) – no referenced answer: Rada Zastępcza Tymczasowa była tymczasowym organem władzy utworzonym w Warszawie w czasie insurekcji, ale została zastąpiona przez Radę Najwyższą Narodową jako najwyższy organ
+- Odp C (Sejm Czteroletni) – incorrect from Oświecenie: Sejm Czteroletni (1788-1792) był wielkim sejmem, który uchwalił Konstytucję 3 maja, ale został rozwiązany przed wybuchem insurekcji
 
 ---
 
@@ -171,10 +171,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Obrona_Pragi
 - https://pl.wikipedia.org/wiki/Aleksandr_Suworow
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp B: Fiodor Denisow był rosyjskim generałem walczącym pod Racławicami i Szczekocinami.
-- Odp C: Aleksander Tormasow również walczył pod Racławicami.
-- Odp D: Iwan Fersen dowodził wojskami rosyjskimi podczas oblężenia Warszawy, ale nie atakował Pragi.
+**Analiza odpowiedzi błędnych:**
+- Odp B (Fiodor Denisow) – no referenced answer: Fiodor Denisow był rosyjskim generałem walczącym przeciwko Polakom pod Racławicami i Szczekocinami
+- Odp C (Aleksander Tormasow) – no referenced answer: Aleksander Tormasow był rosyjskim generałem, który również walczył pod Racławicami
+- Odp D (Iwan Fersen) – no referenced answer: Iwan Fersen dowodził wojskami rosyjskimi podczas oblężenia Warszawy, ale nie atakował bezpośrednio Pragi
 
 ---
 
@@ -196,10 +196,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp B: Przywrócenie Konstytucji 3 maja było ważnym celem politycznym, ale nie głównym celem militarnym.
-- Odp C: Zniesienie pańszczyzny było środkiem do pozyskania poparcia chłopów, nie głównym celem.
-- Odp D: Pomoc od Francji była pożądana, ale nie była głównym celem powstania.
+**Analiza odpowiedzi błędnych:**
+- Odp B (Przywrócenie Konstytucji 3 maja) – incorrect from Oświecenie: przywrócenie Konstytucji 3 mayo z 1791 roku było ważnym celem politycznym insurekcji, ale nie głównym celem militarnym
+- Odp C (Zniesienie pańszczyzny) – no referenced answer: zniesienie pańszczyzny było środkiem do pozyskania poparcia chłopów do powstania (realizowane przez Uniwersał Połaniecki), ale nie głównym celem
+- Odp D (Uzyskanie pomocy od Francji) – no referenced answer: pomoc od rewolucyjnej Francji była pożądana, ale nie była głównym celem powstania; Francja była zbyt zajęta wojnami w Europie
 
 ---
 
@@ -210,11 +210,11 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 **Pytanie:** Kto dowodził insurekcją wileńską, która wybuchła 23 kwietnia 1794 roku?
 
 **A.** Józef Zajączek
-**B.** Jakub Jasiński
+**B.** Antoni Madaliński
 **C.** Jan Henryk Dąbrowski
-**D.** Antoni Madaliński
+**D.** Jakub Jasiński
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Jakub Jasiński był generałem i dowódcą insurekcji wileńskiej, która wybuchła 23 kwietnia 1794 roku. Powstanie odniosło sukces i wypędziło wojska rosyjskie z Wilna.
 
@@ -222,10 +222,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_wile%C5%84ska
 - https://pl.wikipedia.org/wiki/Jakub_Jasi%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Józef Zajączek walczył głównie w Koronie, nie na Litwie.
-- Odp C: Jan Henryk Dąbrowski był generałem walczącym głównie w Wielkopolsce.
-- Odp D: Antoni Madaliński był generałem, który rozpoczął bunt wojskowy, ale nie dowodził insurekcją wileńską.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Józef Zajączek) – no referenced answer: Józef Zajączek był generałem walczącym głównie w Koronie (Polsce centralnej), nie na Litwie
+- Odp B (Antoni Madaliński) – no referenced answer: Antoni Madaliński był generałem, który rozpoczął bunt wojskowy odmawiając redukcji wojska, ale nie dowodził insurekcją wileńską
+- Odp C (Jan Henryk Dąbrowski) – no referenced answer: Jan Henryk Dąbrowski był generałem walczącym głównie w Wielkopolsce, tworząc Legiony Polskie we Włoszech
 
 ---
 
@@ -248,10 +248,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_warszawska
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Przysięga Kościuszki miała miejsce 24 marca na rynku krakowskim.
-- Odp C: Bitwa pod Maciejowicami odbyła się 10 października.
-- Odp D: Uniwersał Połaniecki został ogłoszony 7 maja.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Przysięga Kościuszki na rynku krakowskim) – no referenced answer: przysięga Tadeusza Kościuszki na rynku krakowskim miała miejsce 24 marca 1794 roku, co oznaczało oficjalny początek insurekcji
+- Odp C (Bitwa pod Maciejowicami) – no referenced answer: bitwa pod Maciejowicami odbyła się 10 października 1794 roku i zakończyła się klęską Polaków oraz pojmaniem Kościuszki
+- Odp D (Ogłoszenie Uniwersału Połanieckiego) – no referenced answer: Uniwersał Połaniecki został ogłoszony 7 maja 1794 roku i regulował powinności chłopów
 
 ---
 
@@ -262,11 +262,11 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 **Pytanie:** Jakie były bezpośrednie skutki upadku insurekcji kościuszkowskiej?
 
 **A.** Odzyskanie niepodległości Polski
-**B.** Trzeci rozbiór Polski i utrata państwowości na 123 lata
+**B.** Uzyskanie autonomii dla Królestwa Polskiego
 **C.** Przywrócenie Konstytucji 3 maja
-**D.** Uzyskanie autonomii dla Królestwa Polskiego
+**D.** Trzeci rozbiór Polski i utrata państwowości na 123 lata
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Klęska insurekcji kościuszkowskiej doprowadziła do trzeciego rozbioru Polski w 1795 roku, w wyniku którego Rzeczpospolita zniknęła z mapy Europy na 123 lata.
 
@@ -274,10 +274,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 - https://pl.wikipedia.org/wiki/III_rozbi%C3%B3r_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Polska nie odzyskała niepodległości – straciła ją na ponad wiek.
-- Odp C: Konstytucja 3 maja nie została przywrócona.
-- Odp D: Królestwo Polskie zostało utworzone dopiero w 1815 roku, po wojnach napoleońskich.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Odzyskanie niepodległości Polski) – incorrect from Rozbiory: Polska nie odzyskała niepodległości w wyniku insurekcji – przeciwnie, straciła ją całkowicie na ponad 123 lata
+- Odp B (Uzyskanie autonomii dla Królestwa Polskiego) – incorrect from Kongresówka: Królestwo Polskie (Kongresówka) zostało utworzone dopiero w 1815 roku na kongresie wiedeńskim, po wojnach napoleońskich, a nie jako skutek insurekcji
+- Odp C (Przywrócenie Konstytucji 3 maja) – incorrect from Oświecenie: Konstytucja 3 mayo z 1791 roku nie została przywrócona po upadku insurekcji
 
 ---
 
@@ -300,10 +300,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Antoni_J%C3%B3zef_Madali%C5%84ski
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp B: Józef Zajączek nie był dowódcą brygady kawalerii narodowej.
-- Odp C: Jan Henryk Dąbrowski walczył głównie na terenie Wielkopolski.
-- Odp D: Jakub Jasiński był generałem na Litwie, nie w Wielkopolsce.
+**Analiza odpowiedzi błędnych:**
+- Odp B (Józef Zajączek) – no referenced answer: Józef Zajączek nie był dowódcą brygady kawalerii narodowej, która odmówiła redukcji
+- Odp C (Jan Henryk Dąbrowski) – no referenced answer: Jan Henryk Dąbrowski walczył głównie na terenie Wielkopolski, a nie wyciągnął z Ostrołęki
+- Odp D (Jakub Jasiński) – no referenced answer: Jakub Jasiński był generałem na Litwie i dowodził insurekcją wileńską, nie działał w Wielkopolsce
 
 ---
 
@@ -326,10 +326,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 - https://pl.wikipedia.org/wiki/Tomasz_Wawrzecki
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Jan Henryk Dąbrowski był generałem walczącym w Wielkopolsce, ale nie został Naczelnikiem.
-- Odp C: Józef Zajączek był generałem walczącym w różnych bitwach, ale nie został Naczelnikiem.
-- Odp D: Antoni Madaliński był generałem, który zmarł przed upadkiem powstania.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Jan Henryk Dąbrowski) – no referenced answer: Jan Henryk Dąbrowski był generałem walczącym w Wielkopolsce, ale nie został Naczelnikiem powstania po pojmaniu Kościuszki
+- Odp C (Józef Zajączek) – no referenced answer: Józef Zajączek był generałem walczącym w różnych bitwach insurekcji, ale nie został Naczelnikiem
+- Odp D (Antoni Madaliński) – no referenced answer: Antoni Madaliński był generałem, który zmarł 17 lipca 1794 roku, przed upadkiem powstania i nominacją Wawrzeckiego
 
 ---
 
@@ -352,10 +352,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Hugo_Ko%C5%82%C5%82%C4%85j
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Stanisław Staszic był działaczem oświeceniowym, ale nie był bezpośrednio zaangażowany w sprzysiężenie.
-- Odp C: Stanisław Trembecki był poetą, nie politykiem.
-- Odp D: Franciszek Zabłocki był dramatopisarzem, nie organizatorem spisku.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Stanisław Staszic) – incorrect from Oświecenie: Stanisław Staszic był wybitnym działaczem oświeceniowym, pisarzem i politykiem, ale nie był bezpośrednio zaangażowany w organizację sprzysiężenia przedpowstańczego
+- Odp C (Stanisław Trembecki) – incorrect from Oświecenie: Stanisław Trembecki był poetą epoki oświecenia, nie politykiem ani organizatorem spisku
+- Odp D (Franciszek Zabłocki) – incorrect from Oświecenie: Franciszek Zabłocki był dramatopisarzem komediowym epoki oświecenia, nie organizatorem sprzysiężenia
 
 ---
 
@@ -378,10 +378,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/II_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Konstytucja 3 maja miała miejsce w 1791 roku, dwa lata przed drugim rozbiorem.
-- Odp C: Redukcja wojska była skutkiem drugiego rozbioru, nie jego przyczyną.
-- Odp D: Wybór Stanisława Augusta miał miejsce w 1764 roku.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Konstytucja 3 maja) – incorrect from Oświecenie: Konstytucja 3 mayo została uchwalona w 1791 roku, dwa lata przed drugim rozbiorem, i nie była dokumentem Sejmu Grodzieńskiego
+- Odp C (Redukcja wojska polskiego) – no referenced answer: redukcja wojska polskiego była skutkiem drugiego rozbioru i narzucona przez władze targowickie, nie dokumentem Sejmu Grodzieńskiego
+- Odp D (Wybór Stanisława Augusta na króla) – incorrect from Oświecenie: wybór Stanisława Augusta Poniatowskiego na króla Polski miał miejsce w 1764 roku na sejmie konwokacyjnym, 30 lat przed Sejmem Grodzieńskim
 
 ---
 
@@ -404,10 +404,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Bitwa pod Maciejowicami zakończyła się klęską Polaków i niewolą Kościuszki.
-- Odp B: Bitwa pod Szczekocinami była zacięta, ale nie przyniosła zwycięstwa.
-- Odp D: Obrona Pragi zakończyła się masakrą ludności przez wojska rosyjskie.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Bitwa pod Maciejowicami) – no referenced answer: bitwa pod Maciejowicami (10 października 1794) zakończyła się klęską Polaków i pojmaniem Kościuszki
+- Odp B (Bitwa pod Szczekocinami) – no referenced answer: bitwa pod Szczekocinami (6 czerwca 1794) była bardzo zacięta, ale nie przyniosła zwycięstwa wojskom polskim
+- Odp D (Obrona Pragi) – no referenced answer: obrona Pragi (4 listopada 1794) zakończyła się masakrą ludności cywilnej przez wojska rosyjskie pod dowództwem Suworowa
 
 ---
 
@@ -430,10 +430,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Wojciech_Bartosz_G%C5%82owacki
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Jan Kiliński był kupcem i przywódcą insurekcji warszawskiej, nie kosynierem.
-- Odp B: Józef Zajączek był generałem wojsk polskich, nie chłopem.
-- Odp D: Jakub Jasiński był generałem i dowódcą insurekcji wileńskiej, nie kosynierem.
+**Analiza odpowiedzi błędnych:**
+- Odp A (Jan Kiliński) – no referenced answer: Jan Kiliński był kupcem i jednym z przywódców insurekcji warszawskiej, nie chłopem-żołnierzem (kosynierem)
+- Odp B (Józef Zajączek) – no referenced answer: Józef Zajączek był generałem wojsk polskich, nie chłopem
+- Odp D (Jakub Jasiński) – no referenced answer: Jakub Jasiński był generałem inżynierem i dowódcą insurekcji wileńskiej, nie kosynierem
 
 ---
 

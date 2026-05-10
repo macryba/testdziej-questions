@@ -29,11 +29,11 @@ Kazimierz III Wielki (1333-1370) był ostatnim królem Polski z dynastii Piastó
 Który król Polski był ostatnim władcą z dynastii Piastów na tronie polskim?
 
 **A:** Władysław Łokietek
-**B:** Kazimierz Wielki
-**C:** Kazimierz Jagiellończyk
-**D:** Ludwik Węgierski
+**B:** Kazimierz Jagiellończyk
+**C:** Ludwik Węgierski
+**D:** Kazimierz Wielki
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:**
 Kazimierz III Wielki panował w latach 1333-1370 i był ostatnim męskim przedstawicielem dynastii Piastów na tronie polskim. Po jego śmierci tron objął jego siostrzeniec Ludwik Węgierski z dynastii Andegawenów.
@@ -42,8 +42,8 @@ Kazimierz III Wielki panował w latach 1333-1370 i był ostatnim męskim przedst
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Władysław Łokietek – ojciec Kazimierza Wielkiego, poprzedni władca z dynastii Piastów (panował 1306-1333)
-- Kazimierz Jagiellończyk – król Polski z dynastii Jagiellonów, panował w XV wieku (1447-1492)
+- Władysław Łokietek – ojciec Kazimierza Wielkiego, poprzedni władca z dynastii Piastów (panował 1306-1333) [incorrect from Władysław Łokietek chapter]
+- Kazimierz Jagiellończyk – król Polski z dynastii Jagiellonów, panował w XV wieku (1447-1492) [incorrect from Kazimierz Jagiellończyk chapter]
 - Ludwik Węgierski – siostrzeniec Kazimierza Wielkiego, pierwszy król Polski z dynastii Andegawenów po wygaśnięciu Piastów
 
 ---
@@ -109,12 +109,12 @@ Kazimierz Wielki urodził się 30 kwietnia 1310 roku w Kowalu (województwo kuja
 **Pytanie:**
 Kto był ojcem Kazimierza Wielkiego?
 
-**A:** Władysław Łokietek
-**B:** Władysław Herman
-**C:** Bolesław Krzywousty
-**D:** Mieszko I
+**A:** Władysław Herman
+**B:** Bolesław Krzywousty
+**C:** Mieszko I
+**D:** Władysław Łokietek
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:**
 Kazimierz Wielki był najmłodszym synem Władysława I Łokietka, króla Polski w latach 1306-1333, który doprowadził do zjednoczenia księstw polskich po rozbiciu dzielnicowym.
@@ -123,9 +123,9 @@ Kazimierz Wielki był najmłodszym synem Władysława I Łokietka, króla Polski
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Władysław Herman – książę polski z dynastii Piastów z przełomu XI i XII wieku
-- Bolesław Krzywousty – władca Polski z początku XII wieku, znany z ustawy sukcesyjnej
-- Mieszko I – pierwszy historyczny władca Polski, który przyjął chrzest w 966 roku
+- Władysław Herman – książę polski z dynastii Piastów z przełomu XI i XII wieku [incorrect from Rozbicie dzielnicowe I chapter]
+- Bolesław Krzywousty – władca Polski z początku XII wieku, znany z ustawy sukcesyjnej [incorrect from Rozbicie dzielnicowe I chapter]
+- Mieszko I – pierwszy historyczny władca Polski, który przyjął chrzest w 966 roku [incorrect from Chrystianizacja chapter]
 
 ---
 
@@ -137,11 +137,11 @@ Kazimierz Wielki był najmłodszym synem Władysława I Łokietka, króla Polski
 Jak nazywał się traktat pokojowy zawarty przez Kazimierza Wielkiego z Zakonem Krzyżackim w 1343 roku?
 
 **A:** Pokój toruński
-**B:** Pokój kaliski
-**C:** Pokój melneński
+**B:** Pokój melneński
+**C:** Pokój kaliski
 **D:** Pokój brasławski
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:**
 Pokój kaliski zawarty 8 lipca 1343 roku zakończył wojnę polsko-krzyżacką. Kazimierz Wielki odzyskał Kujawy i ziemię dobrzyńską, ale tymczasowo zrzekł się praw do Pomorza Gdańskiego.
@@ -150,9 +150,9 @@ Pokój kaliski zawarty 8 lipca 1343 roku zakończył wojnę polsko-krzyżacką. 
 - https://pl.wikipedia.org/wiki/Pok%C3%B3j_kaliski
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Pokój toruński – traktat z 1466 roku kończący wojnę trzynastoletnią z Zakonem Krzyżackim
-- Pokój melneński – traktat z 1422 roku między Polską a Zakonem Krzyżackim
-- Pokój brasławski – układ z Węgrami z 1354 roku (nie dotyczył Krzyżaków)
+- Pokój toruński – traktat z 1466 roku kończący wojnę trzynastoletnią z Zakonem Krzyżackim [incorrect from Wojna trzynastoletnia chapter]
+- Pokój melneński – traktat z 1422 roku między Polską a Zakonem Krzyżackim [incorrect from Wojna trzynastoletnia chapter]
+- Pokój brasławski – układ z Węgrami z 1354 roku (nie dotyczył Krzyżaków) [no referenced answer]
 
 ---
 
@@ -258,9 +258,9 @@ Statuty wiślicko-piotrkowskie wydane przez Kazimierza Wielkiego to pierwsze w P
 - https://pl.wikipedia.org/wiki/Statuty_Kazimierza_Wielkiego
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Statuty kazimierzowskie – nazwa potoczna, nie historyczna
-- Statuty krakowskie – nie istniały jako osobny zbiór praw
-- Statuty andegawenów – prawa związane z dynastią Andegawenów, która rządziła po Kazimierzu Wielkim
+- Statuty kazimierzowskie – nazwa potoczna, nie historyczna [no referenced answer]
+- Statuty krakowskie – nie istniały jako osobny zbiór praw [no referenced answer]
+- Statuty andegawenów – prawa związane z dynastią Andegawenów, która rządziła po Kazimierzu Wielkim [no referenced answer]
 
 ---
 
@@ -273,10 +273,10 @@ W którym mieście Kazimierz Wielki miał swoją główną siedzibę?
 
 **A:** W Gnieźnie
 **B:** W Poznaniu
-**C:** W Krakowie
-**D:** W Wiślicy
+**C:** W Wiślicy
+**D:** W Krakowie
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:**
 Kraków był główną siedzibą Kazimierza Wielkiego. Tutaj również zmarł 5 listopada 1370 roku i został pochowany w katedrze na Wawelu.
@@ -285,8 +285,8 @@ Kraków był główną siedzibą Kazimierza Wielkiego. Tutaj również zmarł 5 
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Gniezno – pierwsza stolica Polski i ważne centrum kościelne
-- Poznań – ważne miasto wielkopolskie, ale nie główna siedziba króla
-- Wiślica – miejsce, w którym Kazimierz wydał statuty wiślickie
+- Gniezno – pierwsza stolica Polski i ważne centrum kościelne [incorrect from Chrystianizacja chapter]
+- Poznań – ważne miasto wielkopolskie, ale nie główna siedziba króla [no referenced answer]
+- Wiślica – miejsce, w którym Kazimierz wydał statuty wiślickie [no referenced answer]
 
 ---

@@ -36,10 +36,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski
 - https://pl.wikipedia.org/wiki/O%C5%9Bwiecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Stanisław Leszczyński był królem Polski w XVIII wieku, ale nie był ostatnim królem
-- C) August III Sas był królem Polski przed Stanisławem Augustem
-- D) Jan III Sobieski był królem Polski w XVII wieku
+**Analiza odpowiedzi błędnych:**
+- B) Stanisław Leszczyński – król Polski w latach 1704-1709 i 1733-1736 (incorrect from chapter "Czasy saskie")
+- C) August III Sas – król Polski w latach 1733-1763 (incorrect from chapter "Czasy saskie")
+- D) Jan III Sobieski – król Polski w latach 1674-1696 (incorrect from chapter "Sobieski")
 
 ## Pytanie 2
 
@@ -60,10 +60,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 - https://pl.wikipedia.org/wiki/O%C5%9Bwiecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Konstytucja amerykańska została uchwalona wcześniej w 1787 roku
-- C) Konstytucja francuska została uchwalona później we wrześniu 1791 roku
-- D) Ustawa konstytucyjna 1791 to nieoficjalna nazwa Konstytucji 3 maja
+**Analiza odpowiedzi błędnych:**
+- B) Konstytucja amerykańska – uchwalona w 1787 roku (no referenced answer - different country)
+- C) Konstytucja francuska – uchwalona we wrześniu 1791 roku (no referenced answer - different country)
+- D) Ustawa konstytucyjna 1791 – nieoficjalna nazwa Konstytucji 3 maja (no referenced answer - same document)
 
 ## Pytanie 3
 
@@ -71,12 +71,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Która instytucja została utworzona w 1773 roku jako pierwsze w Europie ministerstwo oświaty?
 
-**A)** Komisja Edukacji Narodowej
-**B)** Uniwersytet Jagielloński
-**C)** Szkoła Główna
+**A)** Uniwersytet Jagielloński
+**B)** Szkoła Główna
+**C)** Komisja Edukacji Narodowej
 **D)** Towarzystwo Edukacji Narodowej
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Komisja Edukacji Narodowej została utworzona w 1773 roku jako pierwsze w Europie ministerstwo oświaty. Instytucja ta zreformowała system edukacji w Polsce. KEN zajęła się organizacją szkół, przygotowaniem nauczycieli i wydawaniem podręczników.
 
@@ -84,10 +84,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Komisja_Edukacji_Narodowej
 - https://pl.wikipedia.org/wiki/O%C5%9Bwiecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Uniwersytet Jagielloński został założony znacznie wcześniej, w 1364 roku
-- C) Szkoła Główna została utworzona później, w 1816 roku
-- D) Towarzystwo Edukacji Narodowej nie istniało jako instytucja
+**Analiza odpowiedzi błędnych:**
+- A) Uniwersytet Jagielloński – założony w 1364 roku jako Akademia Krakowska (incorrect from chapter "Kazimierz Wielki")
+- B) Szkoła Główna – utworzona w 1816 roku w Królestwie Polskim (incorrect from chapter "Kongresówka")
+- D) Towarzystwo Edukacji Narodowej – nie istniało jako instytucja (no referenced answer - fictional name)
 
 ## Pytanie 4
 
@@ -95,12 +95,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Który biskup i poeta był jedną z najważniejszych postaci Oświecenia w Polsce?
 
-**A)** Ignacy Krasicki
-**B)** Hugo Kołłątaj
+**A)** Hugo Kołłątaj
+**B)** Ignacy Krasicki
 **C)** Stanisław Staszic
 **D)** Franciszek Bohomolec
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Ignacy Krasicki był biskupem i poetą, jedną z najważniejszych postaci Oświecenia w Polsce. Był nazywany "księciem poetów polskich". Pisał bajki, satyry i poematy. Był również zaangażowany w reformy oświatowe.
 
@@ -108,10 +108,10 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/Ignacy_Krasicki
 - https://pl.wikipedia.org/wiki/O%C5%9Bwiecenie_w_Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Hugo Kołłątaj był działaczem oświatowym i politykiem, ale nie był biskupem
-- C) Stanisław Staszic był uczonym i poetą, ale nie był biskupem
-- D) Franciszek Bohomolec był dramatopisarzem i jezuitą, ale nie był biskupem
+**Analiza odpowiedzi błędnych:**
+- A) Hugo Kołłątaj – działacz oświatowy i polityk, jeden z głównych autorów Konstytucji 3 maja (no referenced answer - same chapter/epoch)
+- C) Stanisław Staszic – uczony i pisarz, działacz oświeceniowy (no referenced answer - same chapter/epoch)
+- D) Franciszek Bohomolec – dramatopisarz i jezuita, reformator teatru (no referenced answer - same chapter/epoch)
 
 ## Pytanie 5
 
@@ -119,12 +119,12 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 
 **Pytanie:** Które wydarzenie odbywało się regularnie w czwartki u króla Stanisława Augusta Poniatowskiego?
 
-**A)** Obiady czwartkowe
-**B)** Sejmy czwartkowe
+**A)** Sejmy czwartkowe
+**B)** Obiady czwartkowe
 **C)** Zebrania czwartkowe
 **D)** Spotkania czwartkowe
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Obiady czwartkowe to regularne spotkania intelektualistów, poetów i reformatorów organizowane przez króla Stanisława Augusta Poniatowskiego. Podczas tych spotkań dyskutowano o reformach, kulturze i polityce. Było to ważne forum wymiany idei oświeceniowych.
 
@@ -132,7 +132,7 @@ Okres Oświecenia w Polsce (1764-1791) to czas ważnych reform i rozwoju kultura
 - https://pl.wikipedia.org/wiki/O%C5%9Bwiecenie_w_Polsce
 - https://pl.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski
 
-**Analiza nieprawidłowych odpowiedzi:**
-- B) Sejmy czwartkowe nie istniały jako nazwa wydarzenia
-- C) Zebrania czwartkowe to nieoficjalna nazwa obiadów czwartkowych
-- D) Spotkania czwartkowe to nieoficjalna nazwa obiadów czwartkowych
+**Analiza odpowiedzi błędnych:**
+- A) Sejmy czwartkowe – nie istniały jako nazwa wydarzenia (no referenced answer - fictional term)
+- C) Zebrania czwartkowe – nieoficjalna nazwa obiadów czwartkowych (no referenced answer - same event)
+- D) Spotkania czwartkowe – nieoficjalna nazwa obiadów czwartkowych (no referenced answer - same event)

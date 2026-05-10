@@ -34,11 +34,11 @@ W którym roku Kazimierz Jagiellończyk został koronowany na króla Polski?
 
 **Options:**
 A. W 1440 roku
-B. W 1447 roku
-C. W 1454 roku
-D. W 1466 roku
+B. W 1466 roku
+C. W 1447 roku
+D. W 1454 roku
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:**
 Kazimierz Jagiellończyk został koronowany na króla Polski 25 czerwca 1447 roku w katedrze wawelskiej przez arcybiskupa gnieźnieńskiego Wincentego Kota. Objął tron po śmierci swojego brata Władysława Warneńczyka, który zginął w bitwie pod Warną w 1444 roku.
@@ -47,9 +47,9 @@ Kazimierz Jagiellończyk został koronowany na króla Polski 25 czerwca 1447 rok
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. 1440 rok - w tym roku Kazimierz został wielkim księciem litewskim, a nie królem Polski
-- C. 1454 rok - początek wojny trzynastoletniej z Zakonem Krzyżackim
-- D. 1466 rok - podpisanie pokoju toruńskiego kończącego wojnę trzynastoletnią
+- A. 1440 rok - w tym roku Kazimierz został wielkim księciem litewskim, a nie królem Polski (incorrect from Władysław Warneńczyk)
+- B. 1466 rok - podpisanie pokoju toruńskiego kończącego wojnę trzynastoletnią
+- D. 1454 rok - początek wojny trzynastoletniej z Zakonem Krzyżackim
 
 ---
 
@@ -63,10 +63,10 @@ Kazimierz Jagiellończyk został koronowany na króla Polski 25 czerwca 1447 rok
 Jak nazywała się żona Kazimierza Jagiellończyka, która urodziła mu trzynaścioro dzieci i zyskała tytuł "Matki Królów"?
 
 **Options:**
-A. Zofia Holszańska
+A. Jadwiga Jagiellonka
 B. Elżbieta Rakuszanka
-C. Jadwiga Jagiellonka
-D. Anna Mazowiecka
+C. Anna Mazowiecka
+D. Zofia Holszańska
 
 **Correct Answer:** B
 
@@ -77,9 +77,9 @@ Elżbieta Rakuszanka z dynastii Habsburgów poślubiła Kazimierza Jagiellończy
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. Zofia Holszańska - była matką Kazimierza Jagiellończyka i czwartą żoną Władysława Jagiełły
-- C. Jadwiga Jagiellonka - była córką Kazimierza Jagiellończyka i Elżbiety Rakuszanki
-- D. Anna Mazowiecka - nie jest powiązana z dynastią Jagiellonów
+- A. Jadwiga Jagiellonka - była córką Kazimierza Jagiellończyka i Elżbiety Rakuszanki
+- C. Anna Mazowiecka - nie jest powiązana z dynastią Jagiellonów
+- D. Zofia Holszańska - była matką Kazimierza Jagiellończyka i czwartą żoną Władysława Jagiełły (incorrect from Władysław Warneńczyk)
 
 ---
 
@@ -93,12 +93,12 @@ Elżbieta Rakuszanka z dynastii Habsburgów poślubiła Kazimierza Jagiellończy
 Który układ pokojowy zakończył wojnę trzynastoletnią i przyłączył Pomorze Gdańskie do Polski?
 
 **Options:**
-A. Pokój melneński
-B. Pokój toruński
-C. Pokój krakowski
-D. Pokój kaliski
+A. Pokój toruński
+B. Pokój krakowski
+C. Pokój kaliski
+D. Pokój melneński
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:**
 Pokój toruński podpisany 19 października 1466 roku zakończył wojnę trzynastoletnią (1454-1466). Na jego mocy Polska odzyskała Pomorze Gdańskie, Malbork, Elbląg oraz ziemię chełmińską jako Prusy Królewskie. Zakon Krzyżacki zachował pozostałą część Prus jako lenno polskie.
@@ -107,9 +107,9 @@ Pokój toruński podpisany 19 października 1466 roku zakończył wojnę trzynas
 - https://pl.wikipedia.org/wiki/Pok%C3%B3j_toru%C5%84ski_(1466)
 
 **Incorrect Answers Analysis:**
-- A. Pokój melneński - podpisany w 1422 roku między Polską a Zakonem Krzyżackim
-- C. Pokój krakowski - nie dotyczył stosunków z Zakonem Krzyżackim
-- D. Pokój kaliski - podpisany w 1343 roku przez Kazimierza Wielkiego z Zakonem Krzyżackim
+- B. Pokój krakowski - nie dotyczył stosunków z Zakonem Krzyżackim
+- C. Pokój kaliski - podpisany w 1343 roku przez Kazimierza Wielkiego z Zakonem Krzyżackim (incorrect from Kazimierz Wielki)
+- D. Pokój melneński - podpisany w 1422 roku między Polską a Zakonem Krzyżackim (incorrect from Władysław Jagiełło)
 
 ---
 
@@ -123,12 +123,12 @@ Pokój toruński podpisany 19 października 1466 roku zakończył wojnę trzynas
 W którym mieście zmarł Kazimierz Jagiellończyk 7 czerwca 1492 roku?
 
 **Options:**
-A. W Krakowie
+A. W Grodnie
 B. W Wilnie
-C. W Grodnie
+C. W Krakowie
 D. W Gdańsku
 
-**Correct Answer:** C
+**Correct Answer:** A
 
 **Explanation:**
 Kazimierz Jagiellończyk zmarł 7 czerwca 1492 roku w Grodnie na Litwie w wieku 64 lat. Jego ciało zostało przewiezione do Krakowa i pochowane w katedrze wawelskiej w marmurowym grobowcu dłuta Wita Stwosza.
@@ -137,8 +137,8 @@ Kazimierz Jagiellończyk zmarł 7 czerwca 1492 roku w Grodnie na Litwie w wieku 
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. Kraków - miejsce pochówku króla, a nie jego śmierci
 - B. Wilnie - główne miasto Litwy, gdzie Kazimierz rezydował jako wielki książę
+- C. Kraków - miejsce pochówku króla, a nie jego śmierci
 - D. Gdańsk - największe miasto odzyskanych Prus Królewskich
 
 ---
@@ -154,11 +154,11 @@ Jakie były główne przyczyny wybuchu wojny trzynastoletniej między Polską a 
 
 **Options:**
 A. Spór o granicę na Podolu
-B. Dążenie Prus do niepodległości od Zakonu i konflikt gospodarczy
+B. Rywalizacja o wpływy na Rusi
 C. Konflikt o sukcesję na tronie czeskim
-D. Rywalizacja o wpływy na Rusi
+D. Dążenie Prus do niepodległości od Zakonu i konflikt gospodarczy
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:**
 Wojna trzynastoletnia wybuchła w 1454 roku, gdy Związek Pruski (organizacja zrzeszająca szlachtę i mieszczaństwo Prus) zwrócił się do polskiego króla o ochronę przed Zakonem Krzyżackim. Przyczynami konfliktu były: dążenie Prus do odzyskania autonomii, wysokie cła nakładane przez Krzyżaków na polskie towary oraz próba inkorporacji Prus do Polski przez Kazimierza Jagiellończyka.
@@ -169,8 +169,8 @@ Wojna trzynastoletnia wybuchła w 1454 roku, gdy Związek Pruski (organizacja zr
 
 **Incorrect Answers Analysis:**
 - A. Spór o Podol - dotyczył stosunków polsko-litewsko-wołoskich
+- B. Rywalizacja na Rusi - dotyczyła głównie stosunków z Moskwą
 - C. Sukcesja czeska - była przedmiotem sporu w latach 60. XV wieku, po wojnie trzynastoletniej
-- D. Rywalizacja na Rusi - dotyczyła głównie stosunków z Moskwą
 
 ---
 
@@ -184,12 +184,12 @@ Wojna trzynastoletnia wybuchła w 1454 roku, gdy Związek Pruski (organizacja zr
 Jakie były najważniejsze skutki polityczne pokoju toruńskiego z 1466 roku dla Polski?
 
 **Options:**
-A. Polska zyskała dostęp do Morza Czarnego
-B. Polska odzyskała Pomorze Gdańskie i władzę nad całym biegiem Wisły
-C. Polska zhołdowała Prusy Zakonne
+A. Polska odzyskała Pomorze Gdańskie i władzę nad całym biegiem Wisły
+B. Polska zhołdowała Prusy Zakonne
+C. Polska zyskała dostęp do Morza Czarnego
 D. Polska utraciła dostęp do Bałtyku
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:**
 Pokój toruński przyznał Polsce Pomorze Gdańskie, Malbork, Elbląg, ziemię chełmińską i michałowską oraz biskupstwo warmińskie jako tzw. Prusy Królewskie. Polska odzyskała po 158 latach dostęp do Morza Bałtyckiego i panowanie nad całym biegiem Wisły, co miało kluczowe znaczenie dla rozwoju handlu i gospodarki.
@@ -198,9 +198,9 @@ Pokój toruński przyznał Polsce Pomorze Gdańskie, Malbork, Elbląg, ziemię c
 - https://pl.wikipedia.org/wiki/Pok%C3%B3j_toru%C5%84ski_(1466)
 
 **Incorrect Answers Analysis:**
-- A. Dostęp do Morza Czarnego - Polska nigdy nie miała dostępu do tego morza za Kazimierza Jagiellończyka
-- C. Prusy Zakonne - pozostały jako lenno polskie, ale nie zostały zhołdowane w całości
-- D. Utrata dostępu do Bałtyku - byłby to wróg przeciwny do skutków pokoju toruńskiego
+- B. Prusy Zakonne - pozostały jako lenno polskie, ale nie zostały zhołdowane w całości
+- C. Dostęp do Morza Czarnego - Polska nigdy nie miała dostępu do tego morza za Kazimierza Jagiellończyka
+- D. Utrata dostępu do Bałtyku - byłby to efekt przeciwny do skutków pokoju toruńskiego
 
 ---
 
@@ -214,12 +214,12 @@ Pokój toruński przyznał Polsce Pomorze Gdańskie, Malbork, Elbląg, ziemię c
 Jak statuty nieszawskie z 1454 roku wpłynęły na system polityczny Polski?
 
 **Options:**
-A. Wzmocniły władzę króla kosztem szlachty
-B. Ograniczyły władzę monarchy na rzecz szlachty i sejmików
-C. Znieśliły instytucję króla
-D. Przyznały prawa mieszczanom
+A. Znieśliły instytucję króla
+B. Przyznały prawa mieszczanom
+C. Ograniczyły władzę monarchy na rzecz szlachty i sejmików
+D. Wzmocniły władzę króla kosztem szlachty
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:**
 Statuty nieszawskie (cerekwicko-nieszawskie) z 1454 roku ograniczyły władzę królewską na rzecz szlachty. Król zobowiązał się nie zwoływać pospolitego ruszenia, nie uchwalać nowych podatków i nie podejmować innych ważnych decyzji bez zgody sejmików ziemskich. Przyznano też szlachcie prawo do obsadzania urzędów ziemskich, co osłabiło władzę monarszą i magnaterię.
@@ -228,9 +228,9 @@ Statuty nieszawskie (cerekwicko-nieszawskie) z 1454 roku ograniczyły władzę k
 - https://pl.wikipedia.org/wiki/Statuty_nieszawskie
 
 **Incorrect Answers Analysis:**
-- A. Wzmocnienie władzy króla - był to efekt przeciwny do statutów nieszawskich
-- C. Zniesienie instytucji króla - monarchia została zachowana, ale z ograniczonymi prerogatywami
-- D. Prawa mieszczan - statuty nieszawskie w rzeczywistości osłabiły pozycję mieszczaństwa
+- A. Zniesienie instytucji króla - monarchia została zachowana, ale z ograniczonymi prerogatywami
+- B. Prawa mieszczan - statuty nieszawskie w rzeczywistości osłabiły pozycję mieszczaństwa
+- D. Wzmocnienie władzy króla - był to efekt przeciwny do statutów nieszawskich
 
 ---
 
@@ -244,12 +244,12 @@ Statuty nieszawskie (cerekwicko-nieszawskie) z 1454 roku ograniczyły władzę k
 Jak polityka dynastyczna Kazimierza Jagiellończyka wpłynęła na pozycję Jagiellonów w Europie?
 
 **Options:**
-A. Dynastia utraciła znaczenie w Europie
-B. Synowie Kazimierza objęli trony Czech, Węgier i Polski
-C. Jagiellonowie utracili tron Polski
-D. Polityka dynastyczna nie przyniosła sukcesów
+A. Synowie Kazimierza objęli trony Czech, Węgier i Polski
+B. Polityka dynastyczna nie przyniosła sukcesów
+C. Dynastia utraciła znaczenie w Europie
+D. Jagiellonowie utracili tron Polski
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:**
 Dzięki polityce dynastycznej Kazimierza Jagiellończyka, jego synowie objęli najważniejsze trony w Europie Środkowej: Władysław został królem Czech i Węgier, Jan Olbracht - królem Polski, Aleksander - królem Polski, Zygmunt Stary - królem Polski. To uczyniło dynastię Jagiellonów jednym z najpotężniejszych domów panujących w Europie.
@@ -258,9 +258,9 @@ Dzięki polityce dynastycznej Kazimierza Jagiellończyka, jego synowie objęli n
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. Utrata znaczenia - był to efekt przeciwny; dynastia zyskała na znaczeniu
-- C. Utrata tronu Polski - Jagiellonowie panowali w Polsce do 1572 roku
-- D. Brak sukcesów - polityka dynastyczna Kazimierza była bardzo skuteczna
+- B. Brak sukcesów - polityka dynastyczna Kazimierza była bardzo skuteczna
+- C. Utrata znaczenia - był to efekt przeciwny; dynastia zyskała na znaczeniu
+- D. Utrata tronu Polski - Jagiellonowie panowali w Polsce do 1572 roku
 
 ---
 
@@ -274,12 +274,12 @@ Dzięki polityce dynastycznej Kazimierza Jagiellończyka, jego synowie objęli n
 Jaki typ unii polsko-litewskiej obowiązywał za panowania Kazimierza Jagiellończyka?
 
 **Options:**
-A. Unia realna
-B. Unia personalna
-C. Unia federacyjna
-D. Brak unii
+A. Unia personalna
+B. Unia federacyjna
+C. Brak unii
+D. Unia realna
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:**
 Za panowania Kazimierza Jagiellończyka (1447-1492) obowiązywała unia personalna między Polską a Litwą, co oznaczało, że oba państwa miały wspólnego władcę, ale zachowywały odrębne instytucje i armie. Unia została wznowiona w 1447 roku, gdy Kazimierz objął tron polski, zachowując jednocześnie władzę wielkiego księcia litewskiego. Po jego śmierci w 1492 roku unia uległa czasowemu zerwaniu.
@@ -288,9 +288,9 @@ Za panowania Kazimierza Jagiellończyka (1447-1492) obowiązywała unia personal
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. Unia realna - została zawarta w 1569 roku (unia lubelska)
-- C. Unia federacyjna - nie istniała w XV wieku
-- D. Brak unii - unia personalna obowiązywała w latach 1447-1492
+- B. Unia federacyjna - nie istniała w XV wieku
+- C. Brak unii - unia personalna obowiązywała w latach 1447-1492
+- D. Unia realna - została zawarta w 1569 roku (unia lubelska) (incorrect from Unia lubelska)
 
 ---
 
@@ -304,12 +304,12 @@ Za panowania Kazimierza Jagiellończyka (1447-1492) obowiązywała unia personal
 Jak odzyskanie Pomorza Gdańskiego wpłynęło na gospodarkę Polski?
 
 **Options:**
-A. Spowodowało upadek handlu
-B. Otworzyło dostęp do Bałtyku i rozwinęło handel zbożem
+A. Doprowadziło do izolacji Polski
+B. Spowodowało upadek handlu
 C. Nie miało znaczenia gospodarczego
-D. Doprowadziło do izolacji Polski
+D. Otworzyło dostęp do Bałtyku i rozwinęło handel zbożem
 
-**Correct Answer:** B
+**Correct Answer:** D
 
 **Explanation:**
 Odzyskanie Pomorza Gdańskiego dało Polsce dostęp do Morza Bałtyckiego i panowanie nad całym biegiem Wisły. Gdańsk stał się głównym portem polskiego handlu zbożem, co przyniosło znaczne dochody skarbowi i rozwinęło handel zagraniczny. Polska stała się jednym z głównych eksporterów zboża w Europie, co przyczyniło się do rozwoju miast i rolnictwa.
@@ -319,9 +319,9 @@ Odzyskanie Pomorza Gdańskiego dało Polsce dostęp do Morza Bałtyckiego i pano
 - https://pl.wikipedia.org/wiki/Pok%C3%B3j_toru%C5%84ski_(1466)
 
 **Incorrect Answers Analysis:**
-- A. Upadek handlu - był to efekt przeciwny; handel rozwinął się
+- A. Doprowadziło do izolacji Polski - Polska stała się bardziej otwarta na handel międzynarodowy
+- B. Upadek handlu - był to efekt przeciwny; handel rozwinął się
 - C. Brak znaczenia - odzyskanie dostępu do morza miało kluczowe znaczenie
-- D. Izolacja - Polska stała się bardziej otwarta na handel międzynarodowy
 
 ---
 
@@ -335,12 +335,12 @@ Odzyskanie Pomorza Gdańskiego dało Polsce dostęp do Morza Bałtyckiego i pano
 W jaki sposób panowanie Kazimierza Jagiellończyka różniło się od panowania jego brata Władysława Warneńczyka?
 
 **Options:**
-A. Kazimierz nie prowadził polityki zagranicznej
-B. Kazimierz odniósł sukcesy wojenne i dyplomatyczne, a Warneńczyk zginął w walce
+A. Kazimierz odniósł sukcesy wojenne i dyplomatyczne, a Warneńczyk zginął w walce
+B. Kazimierz nie prowadził polityki zagranicznej
 C. Warneńczyk odniósł większe sukcesy niż Kazimierz
 D. Obaj panowali w tym samym czasie
 
-**Correct Answer:** B
+**Correct Answer:** A
 
 **Explanation:**
 Władysław Warneńczyk (panował 1434-1444) zginął młodo w bitwie pod Warną w 1444 roku walcząc z Turkami, nie zdążając odnieść znaczących sukcesów politycznych. Kazimierz Jagiellończyk (panował 1447-1492) panował długo i odniósł wielkie sukcesy: zwycięstwo w wojnie trzynastoletniej, odzyskanie Pomorza Gdańskiego oraz ekspansję dynastyczną Jagiellonów w Europie Środkowej.
@@ -350,9 +350,9 @@ Władysław Warneńczyk (panował 1434-1444) zginął młodo w bitwie pod Warną
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_III_Warne%C5%84czyk
 
 **Incorrect Answers Analysis:**
-- A. Brak polityki zagranicznej - Kazimierz prowadził bardzo aktywną politykę zagraniczną
+- B. Brak polityki zagranicznej - Kazimierz prowadził bardzo aktywną politykę zagraniczną
 - C. Większe sukcesy Warneńczyka - Władysław zginął młodo i nie zdążył odnieść znaczących sukcesów
-- D. To samo czasie - Władysław panował przed Kazimierzem, nie w tym samym czasie
+- D. To samo czasie - Władysław panował przed Kazimierzem, nie w tym samym czasie (incorrect from Władysław Warneńczyk)
 
 ---
 
@@ -366,12 +366,12 @@ Władysław Warneńczyk (panował 1434-1444) zginął młodo w bitwie pod Warną
 Jak historycy oceniają panowanie Kazimierza Jagiellończyka?
 
 **Options:**
-A. Jako nieudolne rządy
-B. Jako okres sukcesów zewnętrznych i sprzeczności wewnętrznych
-C. Jako idealny okres bez konfliktów
-D. Historycy nie zajmują się tym okresem
+A. Historycy nie zajmują się tym okresem
+B. Jako nieudolne rządy
+C. Jako okres sukcesów zewnętrznych i sprzeczności wewnętrznych
+D. Jako idealny okres bez konfliktów
 
-**Correct Answer:** B
+**Correct Answer:** C
 
 **Explanation:**
 Historycy oceniają panowanie Kazimierza Jagiellończyka jako bardzo udany pod względem polityki zagranicznej (zwycięstwo w wojnie trzynastoletniej, odzyskanie Pomorza, ekspansja dynastyczna), ale skompromitowany pod względem polityki wewnętrznej (konflikty z możnowładztwem, osłabienie mieszczaństwa, wzrost roli szlachty kosztem centralizacji państwa). Jego rządy przyniosły Polsce prestiż i terytorium, ale także rozpoczęły proces demokratyzacji szlacheckiej.
@@ -381,5 +381,5 @@ Historycy oceniają panowanie Kazimierza Jagiellończyka jako bardzo udany pod w
 
 **Incorrect Answers Analysis:**
 - A. Nieudolne rządy - mimo sprzeczności wewnętrznych, Kazimierz odniósł wielkie sukcesy zewnętrzne
-- C. Idealny okres - panowanie obfitowało w konflikty wewnętrzne i sprzeczności
-- D. Brak zainteresowania - Kazimierz Jagiellończyk jest dobrze udokumentowany i często badany przez historyków
+- B. Brak zainteresowania - Kazimierz Jagiellończyk jest dobrze udokumentowany i często badany przez historyków
+- D. Idealny okres - panowanie obfitowało w konflikty wewnętrzne i sprzeczności

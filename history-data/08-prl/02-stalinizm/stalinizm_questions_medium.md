@@ -35,7 +35,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Zjednoczona_Partia_Robotnicza
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Aby stworzyć jedną partię rządzącą na wzór radziecki – PRAWIDŁOWA – cel zjednoczenia
 - B) Aby zwiększyć liczbę członków partii – skutek uboczny, niegłówny cel
 - C) Aby utworzyć koalicję rządową z partiami chłopskimi – koalicja już istniała
@@ -48,21 +48,21 @@ tokens_total: 0
 
 **Pytanie:** Jaką rolę pełniło Ministerstwo Bezpieczeństwa Publicznego (MBP) w okresie stalinizmu?
 
-**A)** Organizacja masowych represji wobec przeciwników władzy
-**B)** Ochrona granic państwowych
+**A)** Ochrona granic państwowych
+**B)** Organizacja masowych represji wobec przeciwników władzy
 **C)** Zarządzanie więzieniami kryminalnymi
 **D)** Działalność wywiadowcza za granicą
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** MBP był organem bezpieczeństwa odpowiedzialnym za masowe represje. Prowadziło inwigilację, aresztowania, tortury i procesy polityczne przeciwko żołnierzom AK, działaczom niepodległościowym, a nawet komunistom uznawanym za "wrogów wewnątrzpartyjnych".
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 
-**Analiza odpowiedzi:**
-- A) Organizacja masowych represji wobec przeciwników władzy – PRAWIDŁOWA – główna rola MBP
-- B) Ochrona granic państwowych – rolę Wojsk Ochrony Pogranicza
+**Analiza odpowiedzi błędnych:**
+- A) Ochrona granic państwowych – rolę Wojsk Ochrony Pogranicza
+- B) Organizacja masowych represji wobec przeciwników władzy – PRAWIDŁOWA – główna rola MBP
 - C) Zarządzanie więzieniami kryminalnymi – tylko część działalności
 - D) Działalność wywiadowcza za granicą – rola Departamentu VII, nie główne zadanie
 
@@ -73,23 +73,23 @@ tokens_total: 0
 
 **Pytanie:** Dlaczego władze komunistyczne próbowały przeprowadzić kolektywizację rolnictwa w Polsce?
 
-**A)** Aby kontrolować produkcję żywności i chłopów
-**B)** Aby zwiększyć zyski chłopów
-**C)** Aby zmodernizować rolnictwo
-**D)** Aby stworzyć place pracy na wsi
+**A)** Aby zwiększyć zyski chłopów
+**B)** Aby stworzyć place pracy na wsi
+**C)** Aby kontrolować produkcję żywności i chłopów
+**D)** Aby zmodernizować rolnictwo
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Kolektywizacja rolnictwa miała na celu przejęcie kontroli nad produkcją żywności i podporządkowanie chłopów władzy. Na wzór radziecki tworzono spółdzielnie produkcyjne (RSP), do których chłopi byli zmuszani do wchodzenia, co spotkało się z szerokim oporem.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kolektywizacja_w_Polsce
 
-**Analiza odpowiedzi:**
-- A) Aby kontrolować produkcję żywności i chłopów – PRAWIDŁOWA – główny cel
-- B) Aby zwiększyć zyski chłopów – skutek był przeciwny
-- C) Aby zmodernizować rolnictwo – deklarowany cel, ale nie główny motyw
-- D) Aby stworzyć place pracy na wsi – nie był to cel kolektywizacji
+**Analiza odpowiedzi błędnych:**
+- A) Aby zwiększyć zyski chłopów – skutek był przeciwny
+- B) Aby stworzyć place pracy na wsi – nie był to cel kolektywizacji
+- C) Aby kontrolować produkcję żywności i chłopów – PRAWIDŁOWA – główny cel
+- D) Aby zmodernizować rolnictwo – deklarowany cel, ale nie główny motyw
 
 ---
 
@@ -98,23 +98,23 @@ tokens_total: 0
 
 **Pytanie:** Jakie były skutki gospodarcze Planu 6-letniego (1950-1955)?
 
-**A)** Szybki rozwój przemysłu ciężkiego kosztem rolnictwa i dóbr konsumpcyjnych
-**B)** Zrównoważony rozwój przemysłu i rolnictwa
-**C)** Modernizacja rolnictwa i poprawa zaopatrzenia
-**D)** Upadek przemysłu ciężkiego i rozwój usług
+**A)** Zrównoważony rozwój przemysłu i rolnictwa
+**B)** Modernizacja rolnictwa i poprawa zaopatrzenia
+**C)** Upadek przemysłu ciężkiego i rozwój usług
+**D)** Szybki rozwój przemysłu ciężkiego kosztem rolnictwa i dóbr konsumpcyjnych
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Plan 6-letni doprowadził do szybkiego rozwoju przemysłu ciężkiego (huty, kopalnie, zakłady zbrojeniowe) kosztem zaniedbania rolnictwa, dóbr konsumpcyjnych i potrzeb ludności. Inwestycje przemysłowe pochłaniały większość budżetu, co powodowało niedobory podstawowych towarów.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
-**Analiza odpowiedzi:**
-- A) Szybki rozwój przemysłu ciężkiego kosztem rolnictwa i dóbr konsumpcyjnych – PRAWIDŁOWA – skutek Planu
-- B) Zrównoważony rozwój przemysłu i rolnictwa – skutek przeciwny
-- C) Modernizacja rolnictwa i poprawa zaopatrzenia – rolnictwo było zaniedbane
-- D) Upadek przemysłu ciężkiego i rozwój usług – skutek przeciwny
+**Analiza odpowiedzi błędnych:**
+- A) Zrównoważony rozwój przemysłu i rolnictwa – skutek przeciwny
+- B) Modernizacja rolnictwa i poprawa zaopatrzenia – rolnictwo było zaniedbane
+- C) Upadek przemysłu ciężkiego i rozwój usług – skutek przeciwny
+- D) Szybki rozwój przemysłu ciężkiego kosztem rolnictwa i dóbr konsumpcyjnych – PRAWIDŁOWA – skutek Planu
 
 ---
 
@@ -135,7 +135,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Kościół był największą siłą oporu wobec komunizmu – PRAWIDŁOWA – główna przyczyna represji
 - B) Kościół odmawiał płacenia podatków – nie była to przyczyna
 - C) Kościół wspierał Niemcy w czasie wojny – oszczerstwo, nieprawda
@@ -148,23 +148,23 @@ tokens_total: 0
 
 **Pytanie:** Co było bezpośrednią przyczyną Poznańskiego Czerwca 1956?
 
-**A)** Złe warunki pracy i brak towarów
-**B)** Żądanie niepodległości Polski
+**A)** Żądanie niepodległości Polski
+**B)** Złe warunki pracy i brak towarów
 **C)** Protesty przeciwko kolektywizacji
 **D)** Wsparcie dla węgierskiego powstania
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Bezpośrednią przyczyną Poznańskiego Czerwca były złe warunki pracy (niskie płace, wysokie normy), brak towarów i protesty robotników zakładów Hipolita Cegielskiego. Protesty rozpoczęły się od żądań ekonomicznych, ale szybko przerodziły w polityczne.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec
 
-**Analiza odpowiedzi:**
-- A) Złe warunki pracy i brak towarów – PRAWIDŁOWA – bezpośrednia przyczyna
-- B) Żądanie niepodległości Polski – późniejsze żądanie, niepoczątkowe
+**Analiza odpowiedzi błędnych:**
+- A) Żądanie niepodległości Polski – późniejsze żądanie, niepoczątkowe
+- B) Złe warunki pracy i brak towarów – PRAWIDŁOWA – bezpośrednia przyczyna
 - C) Protesty przeciwko kolektywizacji – nie była to przyczyna poznańskich protestów
-- D)** Wsparcie dla węgierskiego powstania – powstanie węgierskie było w 1956, ale później
+- D) Wsparcie dla węgierskiego powstania – powstanie węgierskie było w 1956, ale później
 
 ---
 
@@ -173,23 +173,23 @@ tokens_total: 0
 
 **Pytanie:** Jakie metody stosowało MBP wobec przeciwników politycznych?
 
-**A)** Aresztowania, tortury i procesy pokazowe
-**B)** Wygnanie z kraju
-**C)** Publiczne upokorzenie
-**D)** Grzywny finansowe
+**A)** Wygnanie z kraju
+**B)** Grzywny finansowe
+**C)** Aresztowania, tortury i procesy pokazowe
+**D)** Publiczne upokorzenie
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** MBP stosowało masowe aresztowania, tortury podczas przesłuchań, procesy pokazowe z fałszywymi zarzutami (szpiegostwo, sabotaż, terroryzm) i wyroki śmierci lub więzienia. Ofiarami byli żołnierze AK, działacze niepodległościowi, a nawet komunistyczni politycy.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 
-**Analiza odpowiedzi:**
-- A) Aresztowania, tortury i procesy pokazowe – PRAWIDŁOWA – główne metody MBP
-- B) Wygnanie z kraju – rzadka praktyka
-- C) Publiczne upokorzenie – nie była to główna metoda
-- D) Grzywny finansowe – nie stosowano wobec przeciwników politycznych
+**Analiza odpowiedzi błędnych:**
+- A) Wygnanie z kraju – rzadka praktyka
+- B) Grzywny finansowe – nie stosowano wobec przeciwników politycznych
+- C) Aresztowania, tortury i procesy pokazowe – PRAWIDŁOWA – główne metody MBP
+- D) Publiczne upokorzenie – nie była to główna metoda
 
 ---
 
@@ -198,23 +198,23 @@ tokens_total: 0
 
 **Pytanie:** Dlaczego socrealizm był narzucony w sztuce i kulturze?
 
-**A)** Aby gloryfikować partię i Związek Radziecki
-**B)** Aby rozwijać polską kulturę narodową
-**C)** Aby promować wolność twórczą
-**D)** Aby modernizować sztukę polską
+**A)** Aby rozwijać polską kulturę narodową
+**B)** Aby promować wolność twórczą
+**C)** Aby modernizować sztukę polską
+**D)** Aby gloryfikować partię i Związek Radziecki
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Socrealizm był narzucony, aby gloryfikować partię komunistyczną, robotników i Związek Radziecki. Wymagał od artystów tworzenia dzieł zgodnych z ideologią komunistyczną. Cenzura kontrolowała wszystkie publikacje, wystawy i spektakle.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Socrealizm
 
-**Analiza odpowiedzi:**
-- A) Aby gloryfikować partię i Związek Radziecki – PRAWIDŁOWA – główny cel
-- B) Aby rozwijać polską kulturę narodową – skutek przeciwny, niszczono kulturę
-- C) Aby promować wolność twórczą – wolność była likwidowana
-- D) Aby modernizować sztukę polską – deklarowany cel, ale nie główny motyw
+**Analiza odpowiedzi błędnych:**
+- A) Aby rozwijać polską kulturę narodową – skutek przeciwny, niszczono kulturę
+- B) Aby promować wolność twórczą – wolność była likwidowana
+- C) Aby modernizować sztukę polską – deklarowany cel, ale nie główny motyw
+- D) Aby gloryfikować partię i Związek Radziecki – PRAWIDŁOWA – główny cel
 
 ---
 
@@ -223,23 +223,23 @@ tokens_total: 0
 
 **Pytanie:** Jakie były skutki społeczne stalinizmu w Polsce?
 
-**A)** Terror, więzienia, strach i konformizm społeczny
-**B)** Rozwój społeczeństwa obywatelskiego
-**C)** Zwiększenie zaufania do władz
+**A)** Zwiększenie zaufania do władz
+**B)** Terror, więzienia, strach i konformizm społeczny
+**C)** Rozwój społeczeństwa obywatelskiego
 **D)** Integracja społeczeństwa
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Stalinizm przyniósł masowy terror (setki tysięcy aresztowań), więzienia, strach i konformizm społeczny. Ludzie bali się otwarcie wyrażać opinie, wielu zginęło lub zostało skazanych na więzienie. Towarzyszyło temu przymusowe "naśladowanie" radzieckiego modelu.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stalinizm
 
-**Analiza odpowiedzi:**
-- A) Terror, więzienia, strach i konformizm społeczny – PRAWIDŁOWA – skutki społeczne
-- B) Rozwój społeczeństwa obywatelskiego – skutek przeciwny
-- C) Zwiększenie zaufania do władz – skutek przeciwny
-- D)** Integracja społeczeństwa – społeczeństwo było podzielone i zastraszone
+**Analiza odpowiedzi błędnych:**
+- A) Zwiększenie zaufania do władz – skutek przeciwny
+- B) Terror, więzienia, strach i konformizm społeczny – PRAWIDŁOWA – skutki społeczne
+- C) Rozwój społeczeństwa obywatelskiego – skutek przeciwny
+- D) Integracja społeczeństwa – społeczeństwo było podzielone i zastraszone
 
 ---
 
@@ -248,23 +248,23 @@ tokens_total: 0
 
 **Pytanie:** Dlaczego Władysław Gomułka został usunięty z władzy w 1948 roku?
 
-**A)** Oponował przeciw kolektywizacji i zbytniej zależności od ZSRR
-**B)** Był zbyt lojalny wobec Stalina
-**C)** Chciał zdemokratyzować system polityczny
-**D)** Był agentem wywiadu brytyjskiego
+**A)** Był zbyt lojalny wobec Stalina
+**B)** Był agentem wywiadu brytyjskiego
+**C)** Oponował przeciw kolektywizacji i zbytniej zależności od ZSRR
+**D)** Chciał zdemokratyzować system polityczny
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Gomułka został usunięty z funkcji I sekretarza PZPR w 1948 roku, ponieważ oponował przeciw siłowej kolektywizacji rolnictwa i zbytniej zależności Polski od ZSRR. Został oskarżony o "odchylenie prawicowo-nacjonalistyczne" i aresztowany w 1951 roku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka
 
-**Analiza odpowiedzi:**
-- A) Oponował przeciw kolektywizacji i zbytniej zależności od ZSRR – PRAWIDŁOWA – przyczyna usunięcia
-- B) Był zbyt lojalny wobec Stalina – skutek przeciwny
-- C) Chciał zdemokratyzować system polityczny – nie był to powód
-- D) Był agentem wywiadu brytyjskiego – fałszywy zarzut
+**Analiza odpowiedzi błędnych:**
+- A) Był zbyt lojalny wobec Stalina – skutek przeciwny
+- B) Był agentem wywiadu brytyjskiego – fałszywy zarzut
+- C) Oponował przeciw kolektywizacji i zbytniej zależności od ZSRR – PRAWIDŁOWA – przyczyna usunięcia
+- D) Chciał zdemokratyzować system polityczny – nie był to powód
 
 ---
 
@@ -273,23 +273,23 @@ tokens_total: 0
 
 **Pytanie:** Co doprowadziło do erozji systemu stalinowskiego po śmierci Stalina w 1953 roku?
 
-**A)** Potępienie zbrodni stalinowskich przez Chruszczowa i śmierć Bieruta
-**B)** Wzrost gospodarczy Polski
-**C)** Poprawa relacji z Kościołem katolickim
-**D)** Zakończenie zimnej wojny
+**A)** Wzrost gospodarczy Polski
+**B)** Poprawa relacji z Kościołem katolickim
+**C)** Zakończenie zimnej wojny
+**D)** Potępienie zbrodni stalinowskich przez Chruszczowa i śmierć Bieruta
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Potępienie zbrodni stalinowskich przez Chruszczowa na XX Zjeździe KPZR w 1956 i śmierć Bieruta w marcu 1956 doprowadziły do erozji systemu stalinowskiego. Otworzyło to drogę do odwilży i powrotu Gomułki do władzy w październiku 1956.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stalinizm
 
-**Analiza odpowiedzi:**
-- A) Potępienie zbrodni stalinowskich przez Chruszczowa i śmierć Bieruta – PRAWIDŁOWA – przyczyna erozji
-- B) Wzrost gospodarczy Polski – nie była to przyczyna
-- C) Poprawa relacji z Kościołem katolickim – skutek, nie przyczyna
-- D) Zakończenie zimnej wojny – zimna wojna trwała dalej
+**Analiza odpowiedzi błędnych:**
+- A) Wzrost gospodarczy Polski – nie była to przyczyna
+- B) Poprawa relacji z Kościołem katolickim – skutek, nie przyczyna
+- C) Zakończenie zimnej wojny – zimna wojna trwała dalej
+- D) Potępienie zbrodni stalinowskich przez Chruszczowa i śmierć Bieruta – PRAWIDŁOWA – przyczyna erozji
 
 ---
 
@@ -298,21 +298,21 @@ tokens_total: 0
 
 **Pytanie:** Jakie były skutki kulturowe narzucenia socrealizmu?
 
-**A)** Cenzura, propaganda i zniszczenie wolności twórczej
-**B)** Rozwój sztuki nowoczesnej
-**C)** Promocja polskiej kultury za granicą
+**A)** Rozwój sztuki nowoczesnej
+**B)** Cenzura, propaganda i zniszczenie wolności twórczej
+**C)** Promocja polskiej kultury za granicę
 **D)** Integracja artystów z Zachodem
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Socrealizm przyniósł ścisłą cenzurę, propagandę i zniszczenie wolności twórczej. Artyści byli zmuszani do tworzenia dzieł gloryfikujących partię i ZSRR. Niezależna twórczość była tłumiona, a wielu artystów zostało skazanych lub wyemigrowało.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Socrealizm
 
-**Analiza odpowiedzi:**
-- A) Cenzura, propaganda i zniszczenie wolności twórczej – PRAWIDŁOWA – skutki kulturowe
-- B) Rozwój sztuki nowoczesnej – skutek przeciwny
+**Analiza odpowiedzi błędnych:**
+- A) Rozwój sztuki nowoczesnej – skutek przeciwny
+- B) Cenzura, propaganda i zniszczenie wolności twórczej – PRAWIDŁOWA – skutki kulturowe
 - C) Promocja polskiej kultury za granicą – ograniczona do propagandy
 - D) Integracja artystów z Zachodem – izolacja kulturowa
 

@@ -27,12 +27,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Jakie były główne przyczyny bierności aliantów zachodnich wobec informacji o Holokauście w latach 1942-1944?
 
-**A:** Niedowierzanie doniesieniom, priorytet militarny i obawa przed oskarżeniami o "judaizację" wojny
-**B:** Brak informacji o zbrodniach i problemy wywiadowcze
+**A:** Brak informacji o zbrodniach i problemy wywiadowcze
+**B:** Niedowierzanie doniesieniom, priorytet militarny i obawa przed oskarżeniami o "judaizację" wojny
 **C:** Sprzeciwienie się żydowskich organizacji wobec bombardowań
 **D:** Neutralność Szwajcarii uniemożliwiająca dostęp do informacji
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Alianci zachodni otrzymywali szczegółowe raporty o Holokauście (m.in. od Jana Karskiego w 1942 roku), jednak reagowali biernie. Przyczynami było: niedowierzanie skali zbrodni, priorytet zwycięstwa militarnego nad ratowaniem ofiar, biurokracja wewnętrzna i obawa przed propagandą Goebbelsa o "żydowskiej wojnie". Decyzja o niebombardowaniu Auschwitz (mimo możliwości technicznych) pozostaje kontrowersyjna.
 
@@ -41,7 +41,7 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://en.wikipedia.org/wiki/Auschwitz_bombing_debate
 
 **Analiza odpowiedzi błędnych:**
-- B (Brak informacji) – fałsz, alianci mieli szczegółowe raporty
+- A (Brak informacji) – fałsz, alianci mieli szczegółowe raporty
 - C (Sprzeciwienie Żydów) – fałsz, żydowskie organizacje apelowały o bombardowanie
 - D (Neutralność Szwajcarii) – prawda, ale nie była główną przyczyną bierności aliantów
 
@@ -53,12 +53,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Jaką rolę odegrał raport Jana Karskiego w informowaniu świata o Holokauście?
 
-**A:** Był pierwszym świadkiem koronnym z relacją o eksterminacji Żydów, który spotkał się z najwyższymi przedstawicielami aliantów
-**B:** Dostarczył dowody fotograficzne z masowych grobów
-**C:** Opracował plan ocalenia milionów Żydów z gett
+**A:** Dostarczył dowody fotograficzne z masowych grobów
+**B:** Opracował plan ocalenia milionów Żydów z gett
+**C:** Był pierwszym świadkiem koronnym z relacją o eksterminacji Żydów, który spotkał się z najwyższymi przedstawicielami aliantów
 **D:** Zorganizował międzynarodową kampanię prasową o Auschwitz
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Jan Karski (kurier AK) dwukrotnie infiltrował getto warszawskie i obóz tranzytowy w Izbicy. Jego raport z 1942 roku był pierwszą szczegółową relacją naocznego świadka o Zagładzie. Spotkał się z prezydentem USA Rooseveltem, brytyjskim ministrem Foreign Office i innymi przywódcami aliantów, jednak jego informacje nie spowodowały konkretnej akcji ratunkowej. Raport Karskiego pozostaje świadectwem możliwości działania, których alianci nie podjęli.
 
@@ -67,8 +67,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://en.wikipedia.org/wiki/Karski_Report
 
 **Analiza odpowiedzi błędnych:**
-- B (Dowody fotograficzne) – Karski nie robił zdjęć, jego raport był werbalny
-- C (Plan ocalenia) – takiego planu nie opracował, jego rolą było informowanie
+- A (Dowody fotograficzne) – Karski nie robił zdjęć, jego raport był werbalny
+- B (Plan ocalenia) – takiego planu nie opracował, jego rolą było informowanie
 - D (Kampania prasowa) – nie organizował kampanii, spotkał się z politykami
 
 ---
@@ -106,12 +106,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Co charakteryzuje debatę historiograficzną na temat liczebności ofiar Auschwitz?
 
-**A:** Badania z lat 80. i 90. XX wieku zmieniły estymację z 4 mln na 1,1 mln, co było dowodem rzetelności historycznej polskich badaczy (Franciszek Piper), ale bywa nadal wykorzystywane przez negacjonistów
-**B:** Liczba ofiar zawsze była znana i równa 1,1 mln
-**C:** Polscy historycy nigdy nie badali liczby ofiar
+**A:** Liczba ofiar zawsze była znana i równa 1,1 mln
+**B:** Polscy historycy nigdy nie badali liczby ofiar
+**C:** Badania z lat 80. i 90. XX wieku zmieniły estymację z 4 mln na 1,1 mln, co było dowodem rzetelności historycznej polskich badaczy (Franciszek Piper), ale bywa nadal wykorzystywane przez negacjonistów
 **D:** Liczba 4 mln jest nadal oficjalnie uznawana przez muzeum Auschwitz
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Początkowo (1945) sowiecka komisja oszacowała ofiary na 4 miliony. W latach 80. polski historyk Franciszek Piper (Państwowe Muzeum Auschwitz-Birkenau) przeprowadził rzetelne badania i ustalił liczbę na około 1,1 mln ofiar (1 mln Żydów, 150 tys. Polaków, 23 tys. Romów, etc.). To przykład samokrytyki i naukowej uczciwości polskiej historiografii. Jednak negacjoniści Holokaustu argumentują, że "skoro zmniejszono liczbę, to cały Holokaust jest kłamstwem" – fałszywa inferencja.
 
@@ -120,8 +120,8 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://en.wikipedia.org/wiki/Franciszek_Piper
 
 **Analiza odpowiedzi błędnych:**
-- B (Zawsze 1,1 mln) – fałsz, początkowa estymacja była inna
-- C (Nigdy nie badano) – fałsz, badania polskie są wzorcowe
+- A (Zawsze 1,1 mln) – fałsz, początkowa estymacja była inna
+- B (Nigdy nie badano) – fałsz, badania polskie są wzorcowe
 - D (4 mln oficjalnych) – fałsz, muzeum uznaje 1,1 mln
 
 ---
@@ -132,12 +132,12 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 
 **Pytanie:** Jakie są historyczne i współczesne implikacje terminologii "polskie obozy śmierci"?
 
-**A:** Termin jest fałszywy semantycznie (obozy były niemieckie, na ziemiach okupowanej Polski) i bywa wykorzystywany do rzucenia oskarżenia na Polaków za zbrodnie Niemiec, co jest formą historycznej manipulacji
-**B:** Jest to neutralny termin geograficzny powszechnie akceptowany
-**C:** Jest to historycznie poprawny termin odzwierciedlający fakty
+**A:** Jest to neutralny termin geograficzny powszechnie akceptowany
+**B:** Jest to historycznie poprawny termin odzwierciedlający fakty
+**C:** Termin jest fałszywy semantycznie (obozy były niemieckie, na ziemiach okupowanej Polski) i bywa wykorzystywany do rzucenia oskarżenia na Polaków za zbrodnie Niemiec, co jest formą historycznej manipulacji
 **D:** Używają go wyłącznie neonaziści i antypolskie organizacje
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Termin "polskie obozy śmierci" jest historycznie nieprecyzyjny i bywa wykorzystywany manipulacyjnie. Obozy były:
 - założone i zarządzane przez Niemców (III Rzesza)
@@ -151,8 +151,8 @@ Rzeczpospolita Polska rządowa na wychodźstwie protestowała przeciwko tej term
 - https://en.wikipedia.org/wiki/Auschwitz_concentration_camp
 
 **Analiza odpowiedzi błędnych:**
-- B (Neutralny) – fałsz, termin jest politycznie i historycznie zaangażowany
-- C (Poprawny) – fałsz, obozy nie były polskie
+- A (Neutralny) – fałsz, termin jest politycznie i historycznie zaangażowany
+- B (Poprawny) – fałsz, obozy nie były polskie
 - D (Tylko neonaziści) – fałsz, termin bywa używany nieświadomie również w mediach głównego nurtu
 
 ---

@@ -54,12 +54,12 @@ Oświecenie w Polsce (1764-1791) to okres intensywnych prób reformy Rzeczypospo
 
 **Pytanie:** Kto był ostatnim królem Polski i panował w czasach oświecenia?
 
-**A)** August III Sas
-**B)** Stanisław August Poniatowski
+**A)** Stanisław August Poniatowski
+**B)** August III Sas
 **C)** Stanisław Leszczyński
 **D)** Jan III Sobieski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Stanisław August Poniatowski był ostatnim królem Polski, panującym w latach 1764-1795. Był głównym inicjatorem reform oświeceniowych i mecenasa kultury.
 
@@ -67,7 +67,7 @@ Oświecenie w Polsce (1764-1791) to okres intensywnych prób reformy Rzeczypospo
 - https://pl.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski
 
 **Analiza odpowiedzi błędnych:**
-- A) August III Sas - panował w czasach saskich (1733-1763), przed Stanisławem Augustem
+- B) August III Sas - panował w czasach saskich (1733-1763), przed Stanisławem Augustem
 - C) Stanisław Leszczyński - panował w pierwszej połowie XVIII wieku (1704-1709, 1733-1736)
 - D) Jan III Sobieski - panował w drugiej połowie XVII wieku (1674-1696)
 
@@ -80,11 +80,11 @@ Oświecenie w Polsce (1764-1791) to okres intensywnych prób reformy Rzeczypospo
 **Pytanie:** Jaka instytucja edukacyjna, utworzona w 1773 roku, była pierwszym na świecie ministerstwem oświaty?
 
 **A)** Szkoła Rycerska
-**B)** Komisja Edukacji Narodowej
-**C)** Towarzystwo do Ksiąg Elementarnych
-**D)** Uniwersytet Warszawski
+**B)** Towarzystwo do Ksiąg Elementarnych
+**C)** Uniwersytet Warszawski
+**D)** Komisja Edukacji Narodowej
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Komisja Edukacji Narodowej powstała w 1773 roku i była pierwszą na świecie instytucją tego typu. Zajmowała się organizacją szkolnictwa i reformą edukacji w Rzeczypospolitej.
 
@@ -93,8 +93,8 @@ Oświecenie w Polsce (1764-1791) to okres intensywnych prób reformy Rzeczypospo
 
 **Analiza odpowiedzi błędnych:**
 - A) Szkoła Rycerska - utworzona w 1765 roku, uczelnia wojskowa dla szlachty
-- C) Towarzystwo do Ksiąg Elementarnych - utworzone w 1775 roku, zajmowało się podręcznikami
-- D) Uniwersytet Warszawski - założony w XIX wieku (1816)
+- B) Towarzystwo do Ksiąg Elementarnych - utworzone w 1775 roku, zajmowało się podręcznikami
+- C) Uniwersytet Warszawski - założony w XIX wieku (1816)
 
 ---
 
@@ -129,12 +129,12 @@ Oświecenie w Polsce (1764-1791) to okres intensywnych prób reformy Rzeczypospo
 
 **Pytanie:** Co wprowadziła Konstytucja 3 maja w miejsce wolnej elekcji królów?
 
-**A)** Elekcję wieczystą
-**B)** Tron dziedziczny
+**A)** Tron dziedziczny
+**B)** Elekcję wieczystą
 **C)** Wybory powszechne
 **D)** Unię personalną z Rosją
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Konstytucja 3 maja wprowadziła tron dziedziczny w miejsce wolnej elekcji. Miało to wzmocnić państwo i ograniczyć wpływy obcych mocarstw na wybór króla. Po śmierci Stanisława Augusta tron miał przejść na dynastię Wettynów.
 
@@ -142,7 +142,7 @@ Oświecenie w Polsce (1764-1791) to okres intensywnych prób reformy Rzeczypospo
 - https://pl.wikipedia.org/wiki/Konstytucja_3_maja
 
 **Analiza odpowiedzi błędnych:**
-- A) Elekcja wieczysta - to sprzeczne pojęcie, elekcja oznacza wybór
+- B) Elekcja wieczysta - to sprzeczne pojęcie, elekcja oznacza wybór
 - C) Wybory powszechne - wprowadzone znacznie później, w XX wieku
 - D) Unia personalna z Rosją - nieprawdziwe twierdzenie, Rosja była przeciwna Konstytucji 3 maja
 

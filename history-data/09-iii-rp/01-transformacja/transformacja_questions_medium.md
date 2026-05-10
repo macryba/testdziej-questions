@@ -31,22 +31,21 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 **Pytanie:** Która funkcja w rządzie Tadeusza Mazowieckiego była pełniona przez Leszka Balcerowicza?
 
 **A)** Minister spraw zagranicznych
-**B)** Wicepremier i minister finansów
-**C)** Minister spraw wewnętrznych
-**D)** Minister obrony narodowej
+**B)** Minister spraw wewnętrznych
+**C)** Minister obrony narodowej
+**D)** Wicepremier i minister finansów
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Leszek Balcerowicz był wicepremierem i ministrem finansów w rządzie Tadeusza Mazowieckiego. Jako główny architekt reform gospodarczych przygotował i wdrożył Plan Balcerowicza, który przekształcił polską gospodarkę z centralnie planowanej w rynkową.
 
 **Źródła:**
 - [Leszek Balcerowicz](https://pl.wikipedia.org/wiki/Leszek_Balcerowicz) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Minister spraw zagranicznych — to funkcja Krzysztofa Skubiszewskiego
-- B (Poprawna): Wicepremier i minister finansów — funkcja pełniona przez Leszka Balcerowicza
-- C (Niepoprawna): Minister spraw wewnętrznych — to funkcja Czesława Kiszczaka
-- D (Niepoprawna): Minister obrony narodowej — to funkcja Floriana Siwickiego
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Minister spraw zagranicznych — to funkcja Krzysztofa Skubiszewskiego w rządzie Mazowieckiego
+- B (Niepoprawna): Minister spraw wewnętrznych — to funkcja Czesława Kiszczaka w rządzie Mazowieckiego
+- C (Niepoprawna): Minister obrony narodowej — to funkcja Floriana Siwickiego w rządzie Mazowieckiego
 
 ---
 
@@ -56,22 +55,21 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 **Pytanie:** Które wydarzenie z 1991 roku było pierwszym w pełni wolnymi wyborami parlamentarnymi w powojennej Polsce?
 
 **A)** Wybory do Sejmu kontraktowego
-**B)** Wybory parlamentarne 1991
-**C)** Wybory samorządowe
-**D)** Wybory do Sejmu i Senatu z 1989
+**B)** Wybory do Sejmu i Senatu z 1989
+**C)** Wybory parlamentarne 1991
+**D)** Wybory samorządowe
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Wybory parlamentarne 27 października 1991 roku były pierwszymi w pełni wolnymi wyborami do parlamentu w historii Polski po II wojnie światowej. W przeciwieństwie do wyborów z 1989 roku nie obowiązywały w nich żadne ograniczenia dla kandydatów i partie.
 
 **Źródła:**
 - [Wybory parlamentarne w Polsce w 1991 roku](https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1991_roku) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Wybory do Sejmu kontraktowego — odbyły się w 1989 roku, były częściowo wolne
-- B (Poprawna): Wybory parlamentarne 1991 — pierwsze w pełni wolne wybory
-- C (Niepoprawna): Wybory samorządowe — odbyły się w 1990 roku, były to wybory do rad gmin
-- D (Niepoprawna): Wybory do Sejmu i Senatu z 1989 — były częściowo wolne, z ograniczeniami dla opozycji
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Wybory do Sejmu kontraktowego — odbyły się w 1989 roku, były częściowo wolne z ograniczeniami
+- B (Niepoprawna): Wybory do Sejmu i Senatu z 1989 — były częściowo wolne, z ograniczeniami dla opozycji
+- D (Niepoprawna): Wybory samorządowe — odbyły się w 1990 roku, były to wybory do rad gmin, nie do parlamentu
 
 ---
 
@@ -80,23 +78,22 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **Pytanie:** Która data jest związana z rozwiązaniem Polskiej Zjednoczonej Partii Robotniczej (PZPR)?
 
-**A)** 27 stycznia 1990
-**B)** 4 czerwca 1989
-**C)** 29 grudnia 1989
-**D)** 22 lipca 1990
+**A)** 4 czerwca 1989
+**B)** 27 stycznia 1990
+**C)** 22 lipca 1990
+**D)** 29 grudnia 1989
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** PZPR została rozwiązana 27 stycznia 1990 roku podczas XI Zjazdu Partii. Było to symboliczne zakończenie istnienia partii komunistycznej, która rządziła Polską od 1948 roku. Część byłych członków PZPR utworzyła później Socjaldemokrację Rzeczypospolitej Polskiej.
 
 **Źródła:**
 - [Polska Zjednoczona Partia Robotnicza](https://pl.wikipedia.org/wiki/Polska_Zjednoczona_Partia_Robotnicza) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Poprawna): 27 stycznia 1990 — data rozwiązania PZPR
-- B (Niepoprawna): 4 czerwca 1989 — data pierwszych częściowo wolnych wyborów
-- C (Niepoprawna): 29 grudnia 1989 — data zmiany nazwy państwa na Rzeczpospolita Polska
-- D (Niepoprawna): 22 lipca 1990 — historia Manifestu PKWN z 1944, niezwiązane z rozwiązaniem PZPR
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): 4 czerwca 1989 — data pierwszych częściowo wolnych wyborów do Sejmu
+- C (Niepoprawna): 22 lipca 1990 — data ogłoszenia Manifestu PKWN w 1944, niezwiązane z rozwiązaniem PZPR
+- D (Niepoprawna): 29 grudnia 1989 — data zmiany nazwy państwa na Rzeczpospolita Polska
 
 ---
 
@@ -105,12 +102,12 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **Pytanie:** Które służby zostały utworzone w 1990 roku w miejsce rozwiązanych formacji PRL?
 
-**A)** Milicja Obywatelska i Służba Bezpieczeństwa
-**B)** Policja i Urząd Ochrony Państwa
+**A)** Policja i Urząd Ochrony Państwa
+**B)** Straż Graniczna i Biuro Ochrony Rządu
 **C)** Żandarmeria Wojskowa i Agencja Bezpieczeństwa Wewnętrznego
-**D)** Straż Graniczna i Biuro Ochrony Rządu
+**D)** Milicja Obywatelska i Służba Bezpieczeństwa
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** W 1990 roku utworzono Policję (9 maja) oraz Urząd Ochrony Państwa (6 kwietnia) w miejsce Milicji Obywatelskiej i Służby Bezpieczeństwa. Była to część dekomunizacji służb mundurowych i specjalnych oraz dostosowania ich do standardów demokratycznego państwa.
 
@@ -118,11 +115,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 - [Policja](https://pl.wikipedia.org/wiki/Policja_(Polska)) — Wikipedia Polska
 - [Urząd Ochrony Państwa](https://pl.wikipedia.org/wiki/Urząd_Ochrony_Państwa) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Milicja Obywatelska i Służba Bezpieczeństwa — formacje PRL rozwiązane w 1990
-- B (Poprawna): Policja i Urząd Ochrony Państwa — nowe służby utworzone w 1990
-- C (Niepoprawna): Żandarmeria Wojskowa i ABW — utworzone później (ŻW w 1990, ABW w 2002)
-- D (Niepoprawna): Straż Graniczna i BOR — utworzone później w innej formie
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Milicja Obywatelska i Służba Bezpieczeństwa — to formacje PRL rozwiązane w 1990 roku, nie nowe służby
+- B (Niepoprawna): Straż Graniczna i BOR — Straż Graniczna utworzona w 1991, BOR funkcjonowało wcześniej w innej formie
+- C (Niepoprawna): Żandarmeria Wojskowa i ABW — ŻW utworzone w 1990, ABW dopiero w 2002 roku
 
 ---
 
@@ -131,23 +127,22 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **Pytanie:** Który bank utworzono w 1990 roku w miejsce dotychczasowych banków państwowych?
 
-**A)** Narodowy Bank Polski
-**B)** Bank Gospodarstwa Krajowego
+**A)** Bank Gospodarstwa Krajowego
+**B)** Bank Pekao
 **C)** PKO Bank Polski
-**D)** Bank Pekao
+**D)** Narodowy Bank Polski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Narodowy Bank Polski został utworzony w 1990 roku jako bank centralny niepodległej Polski. Przejął funkcje emisyjne i nadzorcze po systemie bankowym PRL. Reforma bankowa z 1990 roku przekształciła 9 oddziałów okręgowych NBP w samodzielne banki państwowe.
 
 **Źródła:**
 - [Narodowy Bank Polski](https://pl.wikipedia.org/wiki/Narodowy_Bank_Polski) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Poprawna): Narodowy Bank Polski — bank centralny utworzony w 1990
-- B (Niepoprawna): Bank Gospodarstwa Krajowego — istniał od 1924, nieutworzony w 1990
-- C (Niepoprawna): PKO Bank Polski — istniał od 1919, nieutworzony w 1990
-- D (Niepoprawna): Bank Pekao — istniał od 1929, nieutworzony w 1990
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Bank Gospodarstwa Krajowego — istniał od 1924 roku, nieutworzony w 1990
+- B (Niepoprawna): Bank Pekao — istniał od 1929 roku, nieutworzony w 1990
+- C (Niepoprawna): PKO Bank Polski — istniał od 1919 roku, nieutworzony w 1990
 
 ---
 
@@ -156,12 +151,12 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **Pytanie:** Która z przyczyn była najważniejszym czynnikiem decydującym o rozpoczęciu transformacji ustrojowej w Polsce?
 
-**A)** Wzrost zamożności społeczeństwa
-**B)** Kryzys gospodarczy PRL i wzrost oporu społecznego
-**C)** Zmiana priorytetów politycznych ZSRR
-**D)** Wpływ kapitału zagranicznego
+**A)** Kryzys gospodarczy PRL i wzrost oporu społecznego
+**B)** Zmiana priorytetów politycznych ZSRR
+**C)** Wpływ kapitału zagranicznego
+**D)** Wzrost zamożności społeczeństwa
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Najważniejszą przyczyną transformacji był głęboki kryzys gospodarczy PRL (hiperinflacja, niedobory towarów) oraz rosnący opór społeczny (Solidarność, strajki). W 1989 roku inflacja sięgnęła 39,5% w sierpniu i 54,8% w październiku. Rząd Rakowskiego nie był w stanie opanować sytuacji gospodarczej.
 
@@ -169,11 +164,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Wzrost zamożności społeczeństwa — nieprawda, społeczeństwo staczało się w biedę
-- B (Poprawna): Kryzys gospodarczy PRL i wzrost oporu społecznego — główna przyczyna transformacji
-- C (Niepoprawna): Zmiana priorytetów politycznych ZSRR — było to czynnikiem pomocniczym, a nie decydującym
-- D (Niepoprawna): Wpływ kapitału zagranicznego — nieprawda, kapitał zaczął napływać dopiero po transformacji
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Wzrost zamożności społeczeństwa — sytuacja była odwrotna, społeczeństwo staczało się w biedę
+- B (Niepoprawna): Zmiana priorytetów politycznych ZSRR — było to czynnikiem pomocniczym, a nie decydującym
+- D (Niepoprawna): Wpływ kapitału zagranicznego — kapitał zaczął napływać dopiero po rozpoczęciu transformacji
 
 ---
 
@@ -183,11 +177,11 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 **Pytanie:** Które zjawisko było najważniejszym skutkiem społecznym transformacji w latach 1989-1993?
 
 **A)** Zmniejszenie się różnic majątkowych
-**B)** Wzrost bezrobocia
-**C)** Masowa migracja zarobkowa za granicę
-**D)** Szybki wzrost poziomu życia
+**B)** Masowa migracja zarobkowa za granicę
+**C)** Szybki wzrost poziomu życia
+**D)** Wzrost bezrobocia
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Najważniejszym skutkiem społecznym transformacji był gwałtowny wzrost bezrobocia z niemal zerowego poziomu w 1989 roku do około 16,4% w 1993 roku. Było to rezultatem likwidacji nieefektywnych przedsiębiorstw państwowych oraz restrukturyzacji gospodarki. Bezrobocie stało się nowym zjawiskiem społecznym w Polsce.
 
@@ -195,11 +189,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Zmniejszenie się różnic majątkowych — nieprawda, różnice się zwiększyły
-- B (Poprawna): Wzrost bezrobocia — najważniejsze zjawisko społeczne transformacji
-- C (Niepoprawna): Masowa migracja zarobkowa — rzeczywiście występowała, ale nie była najważniejszym skutkiem
-- D (Niepoprawna): Szybki wzrost poziomu życia — nieprawda, początkowo poziom życia spadł
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Zmniejszenie się różnic majątkowych — różnice majątkowe się zwiększyły, nie zmniejszyły
+- B (Niepoprawna): Masowa migracja zarobkowa — rzeczywiście występowała, ale nie była najważniejszym skutkiem
+- C (Niepoprawna): Szybki wzrost poziomu życia — początkowo poziom życia spadł, wzrost nastąpił później
 
 ---
 
@@ -209,22 +202,21 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 **Pytanie:** Który efekt gospodarczy był głównym celem Planu Balcerowicza?
 
 **A)** Zwiększenie produkcji przemysłowej
-**B)** Ograniczenie inflacji i deficytu budżetowego
-**C)** Podniesienie płac realnych
-**D)** Zwiększenie zatrudnienia
+**B)** Podniesienie płac realnych
+**C)** Zwiększenie zatrudnienia
+**D)** Ograniczenie inflacji i deficytu budżetowego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Głównym celem Planu Balcerowicza było ograniczenie hiperinflacji (54,8% w październiku 1989) oraz deficytu budżetowego (8% PKB w 1989). Plan Balcerowicza wprowadził restrykcyjną politykę pieniężną, ograniczenie wydatków budżetowych oraz liberalizację cen w celu przywrócenia równowagi makroekonomicznej.
 
 **Źródła:**
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Niepoprawna): Zwiększenie produkcji przemysłowej — nie był to główny cel, początkowo produkcja spadła
-- B (Poprawna): Ograniczenie inflacji i deficytu budżetowego — główny cel Planu Balcerowicza
-- C (Niepoprawna): Podniesienie płac realnych — nieprawda, płace spadły w pierwszych latach transformacji
-- D (Niepoprawna): Zwiększenie zatrudnienia — nie był to cel, bezrobocie wzrosło
+- B (Niepoprawna): Podniesienie płac realnych — płace spadły w pierwszych latach transformacji
+- C (Niepoprawna): Zwiększenie zatrudnienia — nie był to cel, bezrobocie wzrosło
 
 ---
 
@@ -234,11 +226,11 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 **Pytanie:** Które zjawisko charakteryzowało rozwój pluralizmu politycznego w latach 1989-1993?
 
 **A)** Domena jednej partii politycznej
-**B)** Szybki wzrost liczby partii politycznych
-**C)** Powolny proces demokratyzacji
-**D)** Brak zainteresowania polityką społeczeństwa
+**B)** Brak zainteresowania polityką społeczeństwa
+**C)** Szybki wzrost liczby partii politycznych
+**D)** Powolny proces demokratyzacji
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Okres 1989-1993 charakteryzował się gwałtownym rozwojem pluralizmu politycznego. Powstało kilkadziesiąt partii politycznych, z których wiele było małych i krótkotrwałych. Wybory w 1991 roku przeszło do Sejmu aż 29 ugrupowań, co świadczy o wielkim zróżnicowaniu politycznym.
 
@@ -246,11 +238,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 - [Wybory parlamentarne w Polsce w 1991 roku](https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1991_roku) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Domena jednej partii politycznej — nieprawda, była to era wielopartyjna
-- B (Poprawna): Szybki wzrost liczby partii politycznych — charakterystyczne dla pluralizmu politycznego
-- C (Niepoprawna): Powolny proces demokratyzacji — nieprawda, demokratyzacja była szybka
-- D (Niepoprawna): Brak zainteresowania polityką — nieprawda, społeczeństwo było mocno zaangażowane
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Domena jednej partii politycznej — była to era wielopartyjna, nie dominacja jednej partii
+- B (Niepoprawna): Brak zainteresowania polityką — społeczeństwo było mocno zaangażowane w politykę
+- D (Niepoprawna): Powolny proces demokratyzacji — demokratyzacja była szybka w latach 1989-1993
 
 ---
 
@@ -261,8 +252,8 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **A)** Sprzedaż przedsiębiorstw tylko zagranicznym inwestorom
 **B)** Różnorodność ścieżek prywatyzacji (kapitałowa, likwidacyjna, założycielska)
-**C)** Brak zainteresowania kupnem przedsiębiorstw państwowych
-**D)** Prywatyzacja tylko małych firm
+**C)** Prywatyzacja tylko małych firm
+**D)** Brak zainteresowania kupnem przedsiębiorstw państwowych
 
 **Poprawna odpowiedź:** B
 
@@ -271,11 +262,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 **Źródła:**
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Sprzedaż tylko zagranicznym — nieprawda, sprzedawano też kapitałowi polskiemu
-- B (Poprawna): Różnorodność ścieżek prywatyzacji — główna cecha procesu prywatyzacji
-- C (Niepoprawna): Brak zainteresowania — nieprawda, było zainteresowanie, ale brak kapitału
-- D (Niepoprawna): Tylko małych firm — nieprawda, prywatyzowano także wielkie przedsiębiorstwa
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Sprzedaż tylko zagranicznym inwestorom — sprzedawano także kapitałowi polskiemu
+- B (Niepoprawna): Brak zainteresowania kupnem — było zainteresowanie, ale brak kapitału
+- C (Niepoprawna): Prywatyzacja tylko małych firm — prywatyzowano także wielkie przedsiębiorstwa
 
 ---
 
@@ -284,22 +274,21 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **Pytanie:** Które działanie było najważniejszym elementem dekomunizacji w latach 1989-1993?
 
-**A)** Rozwiązanie PZPR
-**B)** Lustracja działaczy partyjnych
-**C)** Usunięcie pomników bohaterów komunistycznych
+**A)** Lustracja działaczy partyjnych
+**B)** Usunięcie pomników bohaterów komunistycznych
+**C)** Rozwiązanie PZPR
 **D)** Przekształcenie struktur władzy
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Najważniejszym elementem dekomunizacji było rozwiązanie PZPR 27 stycznia 1990 roku. To wydarzenie symbolicznie zakończyło monopol polityczny partii komunistycznej. Inne elementy dekomunizacji, takie jak lustracja, były wprowadzane później i były bardziej stopniowe.
 
 **Źródła:**
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Poprawna): Rozwiązanie PZPR — najważniejsze wydarzenie dekomunizacji
-- B (Niepoprawna): Lustracja działaczy partyjnych — wprowadzona później, dopiero w latach 90.
-- C (Niepoprawna): Usunięcie pomników — rzeczywiście występowało, ale nie było najważniejsze
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Lustracja działaczy partyjnych — wprowadzona później, dopiero w latach 90.
+- B (Niepoprawna): Usunięcie pomników bohaterów komunistycznych — rzeczywiście występowało, ale nie było najważniejsze
 - D (Niepoprawna): Przekształcenie struktur władzy — proces szerszy niż dekomunizacja
 
 ---
@@ -309,23 +298,22 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **Pytanie:** Która organizacja międzynarodowa udzieliła Polsce znaczącej pomocy w transformacji gospodarczej?
 
-**A)** Bank Światowy
-**B)** Międzynarodowy Fundusz Walutowy
+**A)** Międzynarodowy Fundusz Walutowy
+**B)** Bank Światowy
 **C)** Organizacja Narodów Zjednoczonych
 **D)** Unia Europejska
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Międzynarodowy Fundusz Walutowy (MFW) udzielił Polsce kluczowej pomocy w transformacji gospodarczej. W 1990 roku przyznał kredyt w wysokości ponad 720 mln USD oraz pomógł w utworzeniu Funduszu Stabilizacyjnego (1 mld dolarów) na rzecz stabilizacji złotego. Pomoc MFW była warunkiem przeprowadzenia reform.
 
 **Źródła:**
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Niepoprawna): Bank Światowy — rzeczywiście pomagał, ale MFW był kluczowy
-- B (Poprawna): Międzynarodowy Fundusz Walutowy — główny dostawca pomocy
-- C (Niepoprawna): ONZ — nie odegrała kluczowej roli w transformacji
-- D (Niepoprawna): UE — pomoc przyszła później, w połowie lat 90.
+- B (Niepoprawna): Organizacja Narodów Zjednoczonych — nie odegrała kluczowej roli w transformacji
+- C (Niepoprawna): Unia Europejska — pomoc przyszła później, w połowie lat 90.
 
 ---
 
@@ -335,11 +323,11 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 **Pytanie:** W jaki sposób transformacja polska różniła się od transformacji w innych krajach bloku wschodniego?
 
 **A)** Polska przeprowadziła wolniejsze reformy
-**B)** Polska zastosowała terapię szokową (szybkie reformy)
-**C)** Polska nie otrzymała pomocy zagranicznej
+**B)** Polska nie otrzymała pomocy zagranicznej
+**C)** Polska zastosowała terapię szokową (szybkie reformy)
 **D)** Polska zachowała system jednopartyjny
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Polska wyróżniała się na tle innych krajów bloku wschodniego szybkim tempem reform (terapia szokowa). Plan Balcerowicza wprowadzono już od stycznia 1990 roku, podczas gdy inne kraje (np. Czechy, Słowacja) stosowały bardziej stopniowe podejście. Polska była pierwszym krajem, który wkroczył na drogę transformacji.
 
@@ -347,11 +335,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Wolniejsze reformy — nieprawda, Polska miała najszybsze reformy
-- B (Poprawna): Terapia szokowa — Polska wyróżniała się szybkimi reformami
-- C (Niepoprawna): Brak pomocy — nieprawda, Polska otrzymała dużą pomoc
-- D (Niepoprawna): Jednopartyjny — nieprawda, Polska wprowadziła system wielopartyjny
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Polska przeprowadziła wolniejsze reformy — Polska miała najszybsze reformy
+- B (Niepoprawna): Polska nie otrzymała pomocy zagranicznej — Polska otrzymała dużą pomoc od MFW
+- D (Niepoprawna): Polska zachowała system jednopartyjny — Polska wprowadziła system wielopartyjny
 
 ---
 
@@ -360,23 +347,22 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **Pytanie:** Które porozumienie z wierzycielami zagranicznymi pozwoliło Polsce na redukcję zadłużenia zagranicznego?
 
-**A)** Porozumienie z Klubem Paryskim w 1991
-**B)** Porozumienie z Klubem Londyńskim w 1994
-**C)** Umowa z Międzynarodowym Funduszem Walutowym
-**D)** Porozumienie z Unią Europejską
+**A)** Porozumienie z Klubem Londyńskim w 1994
+**B)** Porozumienie z Klubem Paryskim w 1991
+**C)** Porozumienie z Unią Europejską
+**D)** Umowa z Międzynarodowym Funduszem Walutowym
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Porozumienie z Klubem Paryskim w 1991 roku pozwoliło Polsce na redukcję zadłużenia zagranicznego o 20-30% oraz radykalne zmniejszenie spłaty odsetek. Było to kluczowe dla stabilizacji finansowej kraju i umożliwiło inwestycje w rozwój gospodarczy.
 
 **Źródła:**
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Poprawna): Porozumienie z Klubem Paryskim w 1991 — pozwoliło na redukcję zadłużenia
-- B (Niepoprawna): Klub Londyński w 1994 — zawarty później, dotyczył wierzycieli komercyjnych
-- C (Niepoprawna): MFW — fundusz udzielił pomocy, ale nie był wierzycielem
-- D (Niepoprawna): UE — negocjacje z UE rozpoczęły się później
+**Analiza odpowiedzi błędnych:**
+- B (Niepoprawna): Porozumienie z Klubem Londyńskim w 1994 — zawarty później, dotyczył wierzycieli komercyjnych
+- C (Niepoprawna): Umowa z Międzynarodowym Funduszem Walutowym — fundusz udzielił pomocy, ale nie był wierzycielem
+- D (Niepoprawna): Porozumienie z Unią Europejską — negocjacje z UE rozpoczęły się później
 
 ---
 
@@ -387,10 +373,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 
 **A)** Transformacja przyniosła wyłącznie pozytywne skutki
 **B)** Transformacja przyniosła wyłącznie negatywne skutki
-**C)** Transformacja przyniosła zarówno sukcesy (demokracja), jak i koszty (bezrobocie, recesja)
-**D)** Transformacja nie przyniosła żadnych zauważalnych zmian
+**C)** Transformacja nie przyniosła żadnych zauważalnych zmian
+**D)** Transformacja przyniosła zarówno sukcesy (demokracja), jak i koszty (bezrobocie, recesja)
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Bilans transformacji 1989-1993 jest mieszany. Z jednej strony przyniosła fundamentalne sukcesy: demokrację parlamentarną, gospodarkę rynkową, niezależność państwa. Z drugiej strony wiązała się z wysokimi kosztami społecznymi: wzrostem bezrobocia (do 16,4% w 1993), spadkiem produkcji przemysłowej, recesją i obniżeniem poziomu życia części społeczeństwa.
 
@@ -398,11 +384,10 @@ W 1990 roku rozwiązano PZPR, przywrócono godło państwowe z orłem w koronie 
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Tylko pozytywne — nieprawda, były także koszty społeczne
-- B (Niepoprawna): Tylko negatywne — nieprawda, transformacja przyniosła sukcesy demokratyczne
-- C (Poprawna): Zarówno sukcesy, jak i koszty — prawidłowa ocena bilansu
-- D (Niepoprawna): Brak zmian — nieprawda, zmiany były fundamentalne
+**Analiza odpowiedzi błędnych:**
+- A (Niepoprawna): Transformacja przyniosła wyłącznie pozytywne skutki — były także koszty społeczne
+- B (Niepoprawna): Transformacja przyniosła wyłącznie negatywne skutki — transformacja przyniosła sukcesy demokratyczne
+- C (Niepoprawna): Transformacja nie przyniosła żadnych zauważalnych zmian — zmiany były fundamentalne
 
 ---
 

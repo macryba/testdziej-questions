@@ -26,9 +26,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Pytanie:** Oceń kontrowersje dotyczące autorstwa planu bitwy warszawskiej. Które stwierdzenie jest najbardziej zgodne z wiedzą historyczną?
 
 **A:** Plan bitwy warszawskiej był w całości dziełem Józefa Piłsudskiego
-**B:** Plan bitwy warszawskiej został opracowany przez Tadeusza Rozwadowskiego, a zatwierdzony przez Piłsudskiego
-**C:** Plan bitwy warszawskiej był dziełem zespołu, z kluczowym wkładem Rozwadowskiego w aspektach operacyjnych i Piłsudskiego w aspektach strategicznych
-**D:** Plan bitwy warszawskiej został opracowany przez francuską misję wojskową pod wodzą generała Weyganda
+**B:** Plan bitwy warszawskiej został opracowany przez Tadeusza Rozwadowskiego
+**C:** Plan bitwy był dziełem zespołu z kluczowym wkładem Rozwadowskiego i Piłsudskiego
+**D:** Plan opracowała francuska misja wojskowa pod wodzą generała Weyganda
 
 **Poprawna odpowiedź:** C
 
@@ -38,9 +38,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
 **Analiza odpowiedzi niepoprawnych:**
-- Piłsudski nie opracował planu w całości samodzielnie
-- Rozwadowski nie był jedynym autorem
-- rola misji francuskiej była pomocnicza, Weygand nie był głównym autorem
+- Odp A (Piłsudski) – niepoprawne: Piłsudski nie opracował planu w całości samodzielnie
+- Odp B (Rozwadowski) – niepoprawne z tego rozdziału: Rozwadowski nie był jedynym autorem planu
+- Odp D (Weygand) – niepoprawne z tego rozdziału: rola misji francuskiej była pomocnicza, Weygand nie był głównym autorem
 
 ---
 
@@ -50,12 +50,12 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Jaką rolę odegrało złamanie szyfrów Armii Czerwonej przez polski radiowywiad w sukcesie bitwy warszawskiej?
 
-**A:** Było pomocne, ale nie miało decydującego znaczenia dla wyniku bitwy
-**B:** Było kluczowe, ponieważ pozwoliło poznać plany i rozkazy strony radzieckiej
-**C:** Nie odegrało istotnej roli, gdyż informacje były ogólne i niedokładne
+**A:** Było kluczowe, ponieważ pozwoliło poznać plany strony radzieckiej
+**B:** Było pomocne, ale nie miało decydującego znaczenia dla wyniku
+**C:** Nie odegrało istotnej roli, gdyż informacje były niedokładne
 **D:** Było ważne, ale polskie dowództwo zignorowało większość informacji
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Złamanie szyfrów Armii Czerwonej przez porucznika Jana Kowalewskiego we wrześniu 1919 roku miało kluczowe znaczenie. Polskie dowództwo mogło poznać plany, rozkazy, stany liczebne i ruchy wojsk radzieckich, co pozwoliło na skuteczne planowanie działań obronnych i kontruderzenia.
 
@@ -63,9 +63,9 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
 **Analiza odpowiedzi niepoprawnych:**
-- rola była kluczowa, nie tylko pomocna
-- informacje były dokładne i decydujące
-- polskie dowództwo intensywnie wykorzystywało informacje wywiadowcze
+- Odp B (pomocne) – niepoprawne z tego rozdziału: rola złamia szyfrów była kluczowa, nie tylko pomocna
+- Odp C (nieodegrało roli) – niepoprawne z tego rozdziału: informacje były dokładne i decydujące
+- Odp D (zignorowano) – niepoprawne z tego rozdziału: polskie dowództwo intensywnie wykorzystywało informacje wywiadowcze
 
 ---
 
@@ -75,10 +75,10 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Oceń wpływ traktatu ryskiego na dalsze losy polskiej polityki wschodniej i relacje z ZSRR do 1939 roku. Która interpretacja jest najbardziej poparta przez historiografię?
 
-**A:** Traktat ryski zapewnił pokojowe relacje polsko-radzieckie do 1939 roku
+**A:** Traktat ryski był sprzeczny z polskimi interesami
 **B:** Traktat ryski był tymczasowym zawieszeniem broni, które ZSRR uznała za wymuszone i zerwała go agresją 17 września 1939
-**C:** Traktat ryski był sprzeczny z polskimi interesami i powinien być negocjowany na innych warunkach
-**D:** Traktat ryski nie miał istotnego wpływu na późniejsze relacje polsko-radzieckie
+**C:** Traktat ryski nie miał istotnego wpływu na późniejsze relacje
+**D:** Traktat ryski zapewnił pokojowe relacje polsko-radzieckie do 1939 roku
 
 **Poprawna odpowiedź:** B
 
@@ -88,8 +88,8 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 - https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)
 
 **Analiza odpowiedzi niepoprawnych:**
-- relacje nie były pokojowe, ZSRR dążyło do rewizji granic
-- traktat był najlepszym możliwym rozwiązaniem w sytuacji Polski
-- traktat miał fundamentalny wpływ na relacje polsko-radzieckie
+- Odp A (sprzeczny z interesami) – niepoprawne: traktat był najlepszym możliwym rozwiązaniem w sytuacji Polski
+- Odp C (nie miał wpływu) – niepoprawne z rozdziału "Kampania wrześniowa 1939": traktat miał fundamentalny wpływ na relacje polsko-radzieckie
+- Odp D (pokojowe relacje) – niepoprawne z rozdziału "Kampania wrześniowa 1939": relacje nie były pokojowe, ZSRR dążyło do rewizji granic
 
 ---

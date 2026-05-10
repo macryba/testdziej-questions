@@ -27,10 +27,10 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Pytanie:** Analiza strategii "przyspieszonego rozwoju" Edwarda Gierka pokazuje, że główną przyczyną jej porażki było:
 
-**A.** Zbyt małe wykorzystanie kredytów zachodnich na inwestycje
-**B.** Przeinwestycja przemysłu ciężkiego kosztem przemysłu konsumpcyjnego i błędy w strukturze inwestycji
-**C.** Brak współpracy z krajami bloku wschodniego
-**D.** Zbyt szybki wzrost płac robotniczych hamujący inwestycje
+**A.** Niewystarczające wykorzystanie kredytów zagranicznych na rozwój
+**B.** Błędna struktura inwestycji: przemysł ciężki faworyzowany nad konsumpcyjnym
+**C.** Brak dostatecznej współpracy gospodarczej z państwami RWPG
+**D.** Zbyt szybki wzrost wynagrodzeń hamujący procesy inwestycyjne
 
 **Prawidłowa odpowiedź:** B
 
@@ -39,9 +39,9 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek, https://pl.wikipedia.org/wiki/Gospodarka_Polski_Ludowej
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Zbyt małe wykorzystanie kredytów zachodnich na inwestycje — problemem był nie brak inwestycji, ale ich błędna struktura
-- Brak współpracy z krajami bloku wschodniego — współpraca kontynuowana była, ale kredyty pochodziły z Zachodu
-- Zbyt szybki wzrost płac robotniczych — wzrost płac był celowy politycznie i nie był główną przyczyną porażki
+- Niewystarczające wykorzystanie kredytów zagranicznych — problemem był nie brak inwestycji, ale ich błędna struktura
+- Brak dostatecznej współpracy gospodarczej — współpraca kontynuowana była, ale kredyty pochodziły z Zachodu
+- Zbyt szybki wzrost wynagrodzeń — wzrost płac był celowy politycznie i nie był główną przyczyną porażki
 
 ---
 
@@ -50,12 +50,12 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Pytanie:** Oceniając miejsce Edwarda Gierka w historii PRL, można stwierdzić, że był on przede wszystkim:
 
-**A.** Radykalnym reformatorem, który chciał zliberalizować system komunistyczny
-**B.** Kontynuatorem systemu komunistycznego z próbą modernizacji gospodarczej, ale bez zmian ustrojowych
-**C.** Antykomunistą, który potajemnie dążył do obalenia systemu
-**D.** Politykiem zupełnie niezależnym od ZSRR, który zerwał z blokiem wschodnim
+**A.** Kontynuatorem systemu komunistycznego z modernizacją gospodarczą bez zmian ustrojowych
+**B.** Radykalnym reformatorem dążącym do zliberalizowania systemu komunistycznego
+**C.** Politykiem zupełnie niezależnym od ZSRR, który zerwał z blokiem wschodnim
+**D.** Antykomunistą, który potajemnie dążył do obalenia systemu
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Edward Gierek nie był radykalnym reformatorem ustrojowym ani antykomunistą. Był kontynuatorem systemu komunistycznego, który próbował zmodernizować gospodarczo przy zachowaniu aparatu PZPR i sojuszu z ZSRR. Jego liberalizacje były ograniczone i miały charakter czysto pragmatyczny. Deklarował lojalność wobec ZSRR (wpisanie "wieczystej przyjaźni" do konstytucji w 1976), choć w rzeczywistości Polska miała wówczas względną autonomię w polityce gospodarczej.
 
@@ -63,8 +63,8 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Radykalnym reformatorem — Gierek nie przeprowadzał reform ustrojowych, jedynie gospodarcze
-- Antykomunistą — Gierek był komunistą od 1931 roku, wierzył w system i dążył do jego modernizacji
 - Politykiem zupełnie niezależnym — deklarował lojalność wobec ZSRR, a inwazja na Afganistan w 1979 spotkała się z poparciem PRL
+- Antykomunistą — Gierek był komunistą od 1931 roku, wierzył w system i dążył do jego modernizacji
 
 ---
 
@@ -74,11 +74,11 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 **Pytanie:** Z perspektywy historycznej, upadek rządów Gierka w 1980 roku był wynikiem:
 
 **A.** Wyłącznie po spisku politycznym wewnątrz partii
-**B.** Połączenia kryzysu gospodarczego, niezadowolenia społecznego, braku reform politycznych i wzrostu niezależności społeczeństwa
-**C.** Tylko nacisków ze strony ZSRR na odsunięcie Gierka
+**B.** Tylko nacisków ze strony ZSRR na odsunięcie Gierka
+**C.** Połączenia kryzysu gospodarczego, niezadowolenia społecznego i braku reform politycznych
 **D.** Wyłącznie działalności opozycji demokratycznej (KOR, KSS KOR)
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Upadek rządów Gierka był wynikiem złożonego kryzysu. Kryzys gospodarczy (rosnące zadłużenie, braki towarów, reglamentacja od 1976), niezadowolenie społeczne (strajki 1970, 1976, 1980), brak reform politycznych (zaostrzenie po 1976, represje wobec opozycji) oraz wzrost niezależności społeczeństwa (powstanie KOR, KSS KOR, potem Solidarności) — wszystkie te czynniki połączyły się w sierpniu 1980 roku. Strajki objęły cały kraj i zmusiły władzę do ustępstw, co ostatecznie doprowadziło do dymisji Gierka we wrześniu 1980.
 
@@ -96,20 +96,20 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Pytanie:** Analiza relacji Polski z ZSRR w czasach Gierka prowadzi do wniosku, że:
 
-**A.** Polska była całkowicie podporządkowana Moskwie i nie miała żadnej autonomii
-**B.** Polska miała względną autonomię gospodarczą, ale pozostawała politycznie i militarnie zależna od ZSRR
-**C.** Polska zerwała z blokiem wschodnim i stała się państwem neutralnym
+**A.** Polska miała względną autonomię gospodarczą przy zachowaniu zależności politycznej od ZSRR
+**B.** Polska zerwała z blokiem wschodnim i stała się państwem neutralnym
+**C.** Polska była całkowicie podporządkowana Moskwie i nie miała żadnej autonomii
 **D.** Polska dominowała w bloku wschodnim i dyktowała warunki ZSRR
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** W czasach Gierka Polska miała względną autonomię gospodarczą — zaciągała kredyty na Zachodzie, prowadziła niezależną politykę rolną, otwierała się na kraje zachodnie (wizyty u prezydentów USA, Francji, Niemiec). Jednak politycznie i militarnie pozostawała w bloku wschodnim — należała do Układu Warszawskiego, RWPG, deklarowała "wieczystą przyjaźń" z ZSRR (1976), poparła inwazję na Afganistan (1979). Niepodległość była więc ograniczona i względna, co było typowe dla państw satelickich ZSRR.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Całkowicie podporządkowana — Polska miała względną autonomię, zwłaszcza gospodarczą
 - Zerwała z blokiem wschodnim — Polska pozostała w Układzie Warszawskim i RWPG
+- Całkowicie podporządkowana — Polska miała względną autonomię, zwłaszcza gospodarczą
 - Dominowała w bloku wschodnim — to ZSRR dominowało, a nie Polska
 
 ---

@@ -33,18 +33,23 @@ Mimo początkowych sukcesów i zmasowanego poparcia społecznego powstanie zako�
 **Pytanie:** Kto był dyktatorem powstania styczniowego od października 1863 roku?
 
 **Odpowiedzi:**
-A. Romuald Traugutt
-B. Zygmunt Padlewski
-C. Stefan Bobrowski
+A. Zygmunt Padlewski
+B. Stefan Bobrowski
+C. Romuald Traugutt
 D. Jarosław Dąbrowski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Romuald Traugutt został dyktatorem powstania w październiku 1863 roku po upadku Rządu Narodowego czerwonych. Prowadził działania wojskowe i próbował zreorganizować oddziały powstańcze. Został aresztowany w nocy z 10 na 11 kwietnia 1864 roku i stracony przez powieszenie 5 sierpnia 1864 roku w Warszawie.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Romuald_Traugutt
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
+
+**Analiza odpowiedzi błędnych:**
+- **Zygmunt Padlewski (A)** - Prawdziwy generał powstania styczniowego, naczelnik wojenny województwa płockiego od lutego do kwietnia 1863 roku. Został aresztowany w kwietniu 1863 i rozstrzelany 15 maja 1863 roku. Działał w tym samym czasie co Traugutt, ale na niższym stanowisku i w innym regionie (województwo płockie zamiast całego kraju).
+- **Stefan Bobrowski (B)** - Prawdziwy działacz niepodległościowy, członek stronnictwa "czerwonych", przewodniczący Tymczasowego Rządu Narodowego w 1863 roku. Zginął w pojedynku 12 kwietnia 1863 roku, zanim Traugutt został dyktatorem. Był politykiem, a nie dowódcą wojskowym.
+- **Jarosław Dąbrowski (D)** - Prawdziwy działacz niepodległościowy, sztabskapitan Armii Rosyjskiej, członek Komitetu Centralnego Narodowego. Został aresztowany w sierpniu 1862, przed wybuchem powstania, i więziony do 1864 roku. Nie był dyktatorem powstania.
 
 ---
 
@@ -54,18 +59,23 @@ D. Jarosław Dąbrowski
 **Pytanie:** Kiedy wybuchło powstanie styczniowe?
 
 **Odpowiedzi:**
-A. 29 listopada 1830 roku
-B. 22 stycznia 1863 roku
-C. 22 lipca 1862 roku
-D. 10 kwietnia 1864 roku
+A. Podczas powstania listopadowego
+B. W czasie Wiosny Ludów
+C. Po upadku Komuny Paryskiej
+D. 22 stycznia 1863 roku
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Powstanie styczniowe wybuchło w nocy z 22 na 23 stycznia 1863 roku. Tego dnia Tymczasowy Rząd Narodowy ogłosił Manifest, w którym wzywał Polaków do walki z zaborcą rosyjskim. Powstanie objęło Królestwo Polskie oraz ziemie zabrane (Litwa, Białoruś, Ukraina).
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Manifest_Tymczasowego_Rz%C4%85du_Narodowego
+
+**Analiza odpowiedzi błędnych:**
+- **Podczas powstania listopadowego (A)** - To jest pierwsze polskie powstanie narodowe, które wybuchło w nocy z 29 na 30 listopada 1830 roku, czyli 33 lata przed powstaniem styczniowym. Było to pierwsze większe polskie powstanie przeciwko Rosji po rozbiorach.
+- **W czasie Wiosny Ludów (B)** - Wiosna Ludów to seria rewolucji demokratycznych w Europie w 1848 roku, 15 lat przed powstaniem styczniowym. Choć wówczas także miały miejsce polskie wystąpienia (m.in. we Wrocławiu i Poznaniu), nie było to główne powstanie narodowe.
+- **Po upadku Komuny Paryskiej (C)** - Komuna Paryża upadła w maju 1871 roku, czyli 8 lat po wybuchu powstania styczniowego. Komuna była rewolucją robotniczą we Francji, a nie polskim powstaniem niepodległościowym.
 
 ---
 
@@ -75,18 +85,23 @@ D. 10 kwietnia 1864 roku
 **Pytanie:** Co groziło uczestnikom powstania styczniowego za udział w walkach?
 
 **Odpowiedzi:**
-A. Tylko więzienie
-B. Katorga i zesłanie na Syberię
-C. Utrata licencji zawodowej
-D. Tylko konfiskata majątku
+A. Katorga i zesłanie na Syberię
+B. Tylko więzienie
+C. Tylko konfiskata majątku
+D. Utrata licencji zawodowej
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Uczestnicy powstania styczniowego byli surowo represjonowani. Około 38 tysięcy osób skazano na katorgę lub zesłanie na Syberię. Blisko 1 tysiąc osób stracono, a wiele innych trafiło do więzień. Zesłańcy często byli zmuszani do ciężkiej pracy w kopalniach i na budowach dróg w odległych regionach Rosji.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Sybiracy
+
+**Analiza odpowiedzi błędnych:**
+- **Tylko więzienie (B)** - To jest niepełna odpowiedź, ponieważ represje wobec uczestników powstania były znacznie surowsze. Oprócz więzienia stosowano karę śmierci, konfiskatę majątku, katorgę i zesłanie na Syberię. Więzienie było najłagodniejszą karą.
+- **Tylko konfiskata majątku (C)** - To jest niepełna odpowiedź, ponieważ konfiskata majątku była jedną z wielu represji. Oprócz niej stosowano więzienie, karę śmierci, katorgę i zesłanie na Syberię.
+- **Utrata licencji zawodowej (D)** - To jest błędna odpowiedź, ponieważ w XIX wieku nie istniały "licencje zawodowe" w dzisiejszym rozumieniu. Represje były znacznie bardziej drastyczne - dotyczyły życia, wolności i majątku.
 
 ---
 
@@ -96,10 +111,10 @@ D. Tylko konfiskata majątku
 **Pytanie:** Jaką reformę ogłoszono w 1864 roku, mimo że powstanie zostało stłumione?
 
 **Odpowiedzi:**
-A. Zniesienie pańszczyzny
+A. Powszechne prawo wyborcze
 B. Uwłaszczenie chłopów
-C. Utworzenie samorządu terytorialnego
-D. Wprowadzenie powszechnego wyborstwa
+C. Zniesienie pańszczyzny
+D. Utworzenie samorządów
 
 **Poprawna odpowiedź:** B
 
@@ -108,6 +123,11 @@ D. Wprowadzenie powszechnego wyborstwa
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_styczniowe
 - https://pl.wikipedia.org/wiki/Uw%C5%82aszczenie_ch%C5%82op%C3%B3w_w_Kr%C3%B3lestwie_Polskim
+
+**Analiza odpowiedzi błędnych:**
+- **Powszechne prawo wyborcze (A)** - To jest błędna odpowiedź, ponieważ po powstaniu styczniowym ograniczono prawa polityczne Polaków. Powszechne prawo wyborcze wprowadzono w Polsce dopiero po odzyskaniu niepodległości w 1918 roku.
+- **Zniesienie pańszczyzny (C)** - To jest reformą, która nastąpiła w 1864 roku razem z uwłaszczeniem chłopów, ale jest to środek do celu, a nie cel sam w sobie. Pańszczyzna została zniesiona jako część uwłaszczenia, które jest szerszym pojęciem.
+- **Utworzenie samorządów (D)** - To jest błędna odpowiedź, ponieważ po powstaniu styczniowym zniesiono autonomię Królestwa Polskiego i ograniczono samorząd, a nie go utworzono. Dopiero po 1905 roku nastąpiła liberalizacja w tym zakresie.
 
 ---
 

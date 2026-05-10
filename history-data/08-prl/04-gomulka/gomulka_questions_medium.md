@@ -26,12 +26,12 @@ Okres rządów Władysława Gomułki jako I sekretarza KC PZPR trwał od 1956 do
 **Pytanie:**
 Kto był I sekretarzem KC PZPR w latach 1956-1970, kiedy do władzy powrócił Władysław Gomułka?
 
-**A:** Edward Gierek
-**B:** Władysław Gomułka
+**A:** Władysław Gomułka
+**B:** Edward Gierek
 **C:** Bolesław Bierut
 **D:** Edward Ochab
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Władysław Gomułka był I sekretarzem KC PZPR od października 1956 do grudnia 1970 roku. Edward Ochab pełnił tę funkcję przed Gomułką (od marca do października 1956), a Edward Gierek został I sekretarzem po dymisji Gomułki w grudniu 1970. Bolesław Bierut był I sekretarzem do swojej śmierci w 1956 roku.
@@ -54,11 +54,11 @@ Władysław Gomułka był I sekretarzem KC PZPR od października 1956 do grudnia
 W którym miesiącu 1968 roku wybuchły protesty studenckie w Warszawie, znane jako "Marzec '68"?
 
 **A:** Styczeń
-**B:** Luty
-**C:** Marzec
+**B:** Marzec
+**C:** Luty
 **D:** Kwiecień
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Protesty studenckie wybuchły w marcu 1968 roku, stąd nazwa "Marzec '68". Bezpośrednim powodem był konflikt wokół spektaklu "Dziady" w Teatrze Narodowym. Protesty trwały od 8 do 23 marca 1968 roku.
@@ -80,11 +80,11 @@ Protesty studenckie wybuchły w marcu 1968 roku, stąd nazwa "Marzec '68". Bezpo
 Które miasta na Wybrzeżu były głównymi miejscami strajków robotniczych w grudniu 1970 roku?
 
 **A:** Warszawa, Kraków, Łódź
-**B:** Gdańsk, Gdynia, Szczecin
-**C:** Poznań, Wrocław, Katowice
-**D:** Lublin, Białystok, Olsztyn
+**B:** Poznań, Wrocław, Katowice
+**C:** Lublin, Białystok, Olsztyn
+**D:** Gdańsk, Gdynia, Szczecin
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Strajki robotnicze w grudniu 1970 roku wybuchły głównie w miastach nadbałtyckich: Gdańsku, Gdyni i Szczecinie. To właśnie tam stoczono najkrwawsze walki z milicją i wojskiem. W innych miastach Polski również były protesty, ale mniejsze.
@@ -107,11 +107,11 @@ Strajki robotnicze w grudniu 1970 roku wybuchły głównie w miastach nadbałtyc
 Jaki spektakl w Teatrze Narodowym w Warszawie stał się bezpośrednią przyczyną wybuchu protestów w marcu 1968 roku?
 
 **A:** "Wesele" Stanisława Wyspiańskiego
-**B:** "Dziady" Adama Mickiewicza
-**C:** "Balladyna" Juliusza Słowackiego
+**B:** "Balladyna" Juliusza Słowackiego
+**C:** "Dziady" Adama Mickiewicza
 **D:** "Nie-Boska Komedia" Zygmunta Krasińskiego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Spektakl "Dziady" Adama Mickiewicza w reżyserii Kazimierza Dejmka wywołał konflikt z władzami. Antyrosyjska wymowa przedstawienia i entuzjastyczna reakcja widowni doprowadziły do zawieszenia sztuki, co stało się iskrą zapalną protestów studenckich.
@@ -156,10 +156,10 @@ Józef Cyrankiewicz był premierem PRL w latach 1954-1970, czyli przez cały okr
 **Pytanie:**
 Dlaczego początki rządów Gomułki (1956-1957) nazywano "odwilżą gomułkowską"?
 
-**A:** Ponieważ Gomułka zwolnił wszystkich więźniów politycznych i zniósł cenzurę
-**B:** Gomułka wprowadził parcjalne liberalizacje po okresie stalinizmu
-**C:** Gomułka całkowicie zerwał z ZSRR i wprowadził gospodarkę rynkową
-**D:** Władze faktycznie oddały władzę społeczeństwu
+**A:** Ponieważ Gomułka zwolnił więźniów i zniósł cenzurę
+**B:** Gomułka wprowadził liberalizacje po stalinizmie
+**C:** Gomułka zerwał z ZSRR i wprowadził gospodarkę rynkową
+**D:** Władze oddały władzę społeczeństwu
 
 **Poprawna odpowiedź:** B
 
@@ -207,11 +207,11 @@ Decyzja o podwyżce cen wynikała z poważnych problemów gospodarczych PRL. Gos
 Co doprowadziło do masowej emigracji osób pochodzenia żydowskiego z Polski po Marcu 1968?
 
 **A:** Ekonomiczna sytuacja w kraju
-**B:** Kampania antysemicka i prześladowania
-**C:** Chęć życia w Izraelu
+**B:** Chęć życia w Izraelu
+**C:** Kampania antysemicka i prześladowania
 **D:** Naturalna emigracja zarobkowa
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Bezpośrednim powodem emigracji była kampania antysemicka, którą władze PRL rozpętały po Marcu 1968. Osoby pochodzenia żydowskiego były zwalniane z pracy, usuwane z uczelni, inwigilowane przez SB. Wiele osób zostało zmuszonych do wyjazdu, mimo że formalnie emigracja była "dobrowolna".
@@ -232,11 +232,11 @@ Bezpośrednim powodem emigracji była kampania antysemicka, którą władze PRL 
 Dlaczego reżim Gomułki zaczął ograniczać swobody obywatelskie po początkowej "odwilży"?
 
 **A:** Gomułka bał się utraty władzy
-**B:** Naciski ze strony ZSRR i chęć pełnej kontroli
-**C:** Protesty społeczne wymusiły zaostrzenie kursu
+**B:** Protesty społeczne wymusiły zaostrzenie kursu
+**C:** Naciski ze strony ZSRR i chęć pełnej kontroli
 **D:** Wpływ agentów zachodnich
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Reżim zaczął się cofać z reform z kilku powodów: ZSRR nie zgadzało się na głębsze liberalizacje ("Praska Wiosna" w 1968 była dla nich ostrzeżeniem), a Gomułka i aparat partyjny chcieli zachować pełną kontrolę nad społeczeństwem. Procesy demokratyczne w Czechosłowacji pokazały, że liberalizacja może wymknąć się spod kontroli.
@@ -256,12 +256,12 @@ Reżim zaczął się cofać z reform z kilku powodów: ZSRR nie zgadzało się n
 **Pytanie:**
 Jaki był skutek Marcowych wydarzeń dla relacji władz PRL z Kościołem katolickim?
 
-**A:** Władze całkowicie zakazały działalności Kościoła
-**B:** Kościół potępił protesty studenckie
-**C:** Kościół zachował wstrzemięźliwość, nie wspierając ani władz, ani protestów
+**A:** Kościół zachował wstrzemięźliwość
+**B:** Władze całkowicie zakazały działalności Kościoła
+**C:** Kościół potępił protesty studenckie
 **D:** Doszło do otwartego konfliktu
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Kościół katolicki zachował daleko idącą wstrzemięźliwość podczas Marca '68. Episkopat nie poparł władz, ale też nie stanął otwarcie po stronie studentów. Prymas Wyszyński uważał, że Kościół nie powinien brać udziału w walce wewnętrznej w partii. Dystans ten pozwolił Kościołowi zachować pozycję negocjatora w późniejszych latach.
@@ -282,11 +282,11 @@ Kościół katolicki zachował daleko idącą wstrzemięźliwość podczas Marca
 Co łączyło "Puławian" i "Natolińczyków" - dwie frakcje w PZPR w czasach Gomułki?
 
 **A:** Obie grupy dążyły do demokratyzacji systemu
-**B:** Były to frakcje rywalizujące o władzę i wpływy
+**B:** Były to organizacje młodzieżowe
 **C:** Obie grupy sprzeciwiały się Gomułce
-**D:** Były to organizacje młodzieżowe
+**D:** Były to frakcje rywalizujące o władzę i wpływy
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 "Puławianie" i "Natolińczycy" to nieformalne frakcje wewnątrz PZPR. "Puławianie" (często pochodzenia żydowskiego) byli bardziej liberalni, podczas gdy "Natolińczycy" reprezentowali twardogłówne stanowisko. Rywalizacja między nimi wpływała na politykę wewnętrzną i zaostrzała się po Marcu 1968.
@@ -307,11 +307,11 @@ Co łączyło "Puławian" i "Natolińczyków" - dwie frakcje w PZPR w czasach Go
 Dlaczego Gomułka musiał odejść z funkcji I sekretarza KC PZPR w grudniu 1970?
 
 **A:** Z powodu choroby i podeszłego wieku
-**B:** Po krwawym stłumieniu strajków na Wybrzeżu
-**C:** Na żądanie Moskwy
-**D:** Przez utratę poparcia we własnej partii
+**B:** Na żądanie Moskwy
+**C:** Przez utratę poparcia we własnej partii
+**D:** Po krwawym stłumieniu strajków na Wybrzeżu
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Gomułka musiał odejść po krwawym stłumieniu strajków na Wybrzeżu. Pacyfikacja protestów w Gdańsku, Gdyni i Szczecinie, w których zginęło dziesiątki robotników, sprawiła, że Gomułka stracił resztkę wiarygodności. Przywódcy ZSRR i polska elita partyjna uznali, że Gomułka nie może już rządzić.

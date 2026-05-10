@@ -26,26 +26,26 @@ Wyzwolenie ziem polskich w latach 1944-1945 odbywało się w kontekście ofensyw
 **Question ID:** Q-IIWS-WYZ-001
 
 **Pytanie:**
-Która data oznacza zakończenie II wojny światowej w Europie?
+Które wydarzenie zakończyło II wojnę światową w Europie?
 
 **Odpowiedzi:**
-A. 8 maja 1945
-B. 9 listopada 1918
-C. 1 września 1939
-D. 17 września 1939
+A. Kapitulacja Niemiec
+B. Agresja ZSRR na Polskę
+C. Atak Niemiec na Polskę
+D. Zakończenie I wojny światowej
 
 **Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
-8 maja 1945 Niemcy podpisały akt kapitulacji, co zakończyło II wojnę światową w Europie. Inne daty to: 9 listopada 1918 - zakończenie I wojny światowej, 1 września 1939 - początek II wojny światowej (atak Niemiec na Polskę), 17 września 1939 - agresja ZSRR na Polskę.
+Kapitulacja Niemiec 8 maja 1945 zakończyła II wojnę światową w Europie. Inne wydarzenia to: agresja ZSRR na Polskę (17 września 1939), atak Niemiec na Polskę (1 września 1939) - to były początki wojny, a zakończenie I wojny światowej (9 listopada 1918) to inne wydarzenie historyczne.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/II_wojna_%C5%9Bwiatowa
 
 **Analiza niepoprawnych odpowiedzi:**
-- B. 9 listopada 1918 - Data zakończenia I wojny światowej (nie II)
-- C. 1 września 1939 - Data rozpoczęcia II wojny światowej (nie zakończenia)
-- D. 17 września 1939 - Data agresji ZSRR na Polskę (nie zakończenia wojny)
+- B. Agresja ZSRR na Polskę - Wydarzenie z 17 września 1939 roku (początek wojny, nie zakończenie)
+- C. Atak Niemiec na Polskę - Wydarzenie z 1 września 1939 roku (początek wojny, nie zakończenie)
+- D. Zakończenie I wojny światowej - Wydarzenie z 9 listopada 1918 roku (inna wojna)
 
 ---
 
@@ -58,11 +58,11 @@ Kto nie należał do przywódców Wielkiej Trójki podczas II wojny światowej?
 
 **Odpowiedzi:**
 A. Winston Churchill
-B. Charles de Gaulle
-C. Franklin D. Roosevelt
-D. Józef Stalin
+B. Franklin D. Roosevelt
+C. Józef Stalin
+D. Charles de Gaulle
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Charles de Gaulle nie był członkiem Wielkiej Trójki. Wielka Trójka to: Winston Churchill (premier Wielkiej Brytanii), Franklin D. Roosevelt (prezydent USA) i Józef Stalin (przywódca ZSRR). De Gaulle był liderem Wolnych Francuzów, ale nie uczestniczył w konferencjach Wielkiej Trójki.
@@ -72,8 +72,8 @@ Charles de Gaulle nie był członkiem Wielkiej Trójki. Wielka Trójka to: Winst
 
 **Analiza niepoprawnych odpowiedzi:**
 - A. Winston Churchill - Premier Wielkiej Brytanii, członek Wielkiej Trójki
-- C. Franklin D. Roosevelt - Prezydent USA, członek Wielkiej Trójki
-- D. Józef Stalin - Przywódca ZSRR, członek Wielkiej Trójki
+- B. Franklin D. Roosevelt - Prezydent USA, członek Wielkiej Trójki
+- C. Józef Stalin - Przywódca ZSRR, członek Wielkiej Trójki
 
 ---
 
@@ -113,12 +113,12 @@ Linia Curzona stała się wschodnią granicą Polski po II wojnie światowej na 
 W których miastach odbywały się konferencje Wielkiej Trójki podczas II wojny światowej?
 
 **Odpowiedzi:**
-A. Teheran, Jałta, Poczdam
-B. Londyn, Paryż, Waszyngton
+A. Londyn, Paryż, Waszyngton
+B. Teheran, Jałta, Poczdam
 C. Moskwa, Berlin, Rzym
 D. Wiedeń, Praga, Budapeszt
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Konferencje Wielkiej Trójki odbywały się w Teheranie (1943), Jałcie (1945) i Poczdamie (1945). Podczas tych spotkań Churchill, Roosevelt i Stalin podejmowali decyzje o podziale Europy i przyszłych granicach Polski.
@@ -129,7 +129,7 @@ Konferencje Wielkiej Trójki odbywały się w Teheranie (1943), Jałcie (1945) i
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B. Londyn, Paryż, Waszyngton - Stolice państw alianckich, ale nie miejsca konferencji Wielkiej Trójki
+- A. Londyn, Paryż, Waszyngton - Stolice państw alianckich, ale nie miejsca konferencji Wielkiej Trójki
 - C. Moskwa, Berlin, Rzym - Moskwa to stolica ZSRR, Berlin i Rzym to stolice państw Osi
 - D. Wiedeń, Praga, Budapeszt - Miasta europejskie, gdzie nie odbywały się konferencje Wielkiej Trójki
 
@@ -143,12 +143,12 @@ Konferencje Wielkiej Trójki odbywały się w Teheranie (1943), Jałcie (1945) i
 Jaką rzekę ustanowiono jako zachodnią granicę Polski po II wojnie światowej?
 
 **Odpowiedzi:**
-A. Odrę i Nysę Łużycką
-B. Wisłę i Bug
+A. Wisłę i Bug
+B. Odrę i Nysę Łużycką
 C. Ren i Łabę
 D. Dunaj i Dniestr
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Po II wojnie światowej zachodnią granicę Polski ustalono na linii rzek Odra i Nysa Łużycka na mocy decyzji konferencji poczdamskiej. Polska utraciła ziemie na wschodzie (Kresy) na rzecz ZSRR, ale otrzymała rekompensatę w postaci byłych niemieckich ziem na zachodzie.
@@ -157,7 +157,7 @@ Po II wojnie światowej zachodnią granicę Polski ustalono na linii rzek Odra i
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B. Wisłę i Bug - Wisła to główna rzeka w Polsce, Bug to wschodnia granica międzywojennej
+- A. Wisłę i Bug - Wisła to główna rzeka w Polsce, Bug to wschodnia granica międzywojennej
 - C. Ren i Łabę - Rzeki w Niemczech (Ren płynie przez zachodnie Niemcy, Łaba przez Czechy i Niemcy)
 - D. Dunaj i Dniestr - Dunaj przepływa przez Europę Środkową i Bałkany, Dniestr przez Ukrainę i Mołdawię
 

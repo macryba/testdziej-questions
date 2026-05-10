@@ -28,10 +28,10 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły decydujący okres w historii
 
 **Pytanie:** Oceń, w jakim stopniu klęska pod Cecorą (1620) oraz zwycięstwo pod Chocimiem (1621) wpłynęły na zmianę taktyki wojennej Rzeczypospolitej w walce z Imperium Osmańskim?
 
-**A.** Po klęsce Polska zrezygnowała z ofensywy i przeszła na taktykę defensywną do końca XVII wieku
-**B.** Rzeczpospolita nauczyła się unikać bitew polowych i polegać na twierdzach
+**A.** Polska zaczęła polegać głównie na pomocy zewnętrznej zamiast na własnych siłach
+**B.** Po klęsce Polska zrezygnowała z ofensywy i przeszła na taktykę defensywną do końca XVII wieku
 **C.** Doświadczenia z tych bitew nie wpłynęły na taktykę, powielano błędy w następnych wojnach
-**D.** Polska zaczęła polegać głównie na pomocy zewnętrznej zamiast na własnych siłach
+**D.** Rzeczpospolita nauczyła się unikać bitew polowych i polegać na twierdzach
 
 **Poprawna odpowiedź:** C
 
@@ -41,10 +41,10 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły decydujący okres w historii
 - https://pl.wikipedia.org/wiki/Wojna_polsko-turecka_(1620%E2%80%931621)
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-tureckie
 
-**Incorrect answers analysis:**
-- A. Rezygnacja z ofensywy — nie jest to prawdą, Sobieski prowadził działania ofensywne w 1673 roku
-- B. Unikanie bitew polowych — Polska nadal staczała bitwy, nie ograniczała się do obrony twierdz
-- D. Poleganie na pomocy zewnętrznej — pomoc Habsburgów była ograniczona, Polska polegała głównie na sobie
+**Analiza odpowiedzi błędnych:**
+- **A.** (Polska zaczęła polegać głównie na pomocy zewnętrznej) – kontekst z obecnego rozdziału: pomoc Habsburgów była ograniczona, Polska polegała głównie na własnych siłach i hetmanach
+- **B.** (Polska zrezygnowała z ofensywy) – kontekst z obecnego rozdziału: nie jest to prawdą, Sobieski prowadził działania ofensywne w 1673 roku pod Chocimiem
+- **D.** (Unikanie bitew polowych) – kontekst z obecnego rozdziału: Polska nadal staczała bitwy polowe, nie ograniczała się tylko do obrony twierdz
 
 ---
 
@@ -55,10 +55,10 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły decydujący okres w historii
 
 **A.** Z powodu zniszczeń wojennych na głównych terytoriach Polski
 **B.** Długotrwałe kampanie wyczerpały zasoby i uniemożliwiły modernizację państwa
-**C.** Ponieważ Polska musiała płacić wysokie kontrybucje sojusznikom
-**D.** Z powodu utraty handlu ze Wschodem na rzecz Turcji
+**C.** Z powodu utraty handlu ze Wschodem na rzecz Turcji
+**D.** Ponieważ Polska musiała płacić wysokie kontrybucje sojusznikom
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Koszty prawie 80-letnich zmagań zbrojnych były ogromne. Każda kampania wymagała zgromadzenia armii, zaopatrzenia, finansowania. Wyczerpanie skarbu, zniszczenia na kresach, straty ludnościowe i konieczność utrzymywania wojska uniemożliwiły inwestycje w rozwój gospodarczy, reformy ustrojowe czy modernizację militarną. Dodatkowo wojny te odbywały się w czasie innych konfliktów (powstanie Chmielnickiego, potop szwedzki), co potęgowało kryzys.
 
@@ -66,10 +66,10 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły decydujący okres w historii
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-tureckie
 - https://pl.wikipedia.org/wiki/Wojna_polsko-turecka_(1672%E2%80%931676)
 
-**Incorrect answers analysis:**
-- A. Zniszczenia na głównych terytoriach — główne zniszczenia były na kresach, nie w centrum Polski
-- C. Kontrybucje sojusznikom — Polska nie płaciła znaczących kontrybucji, to sojusznicy wspierali ją
-- D. Utrata handlu ze Wschodem — handel był ważny, ale nie był decydującym czynnikiem upadku
+**Analiza odpowiedzi błędnych:**
+- **B.** (Długotrwałe kampanie wyczerpały zasoby) – kontekst z obecnego rozdziału: to jest prawdziwa przyczyna osłabienia, ale pytanie dotyczy skutków ekonomicznych, a nie przyczyn militarnych
+- **C.** (Utrata handlu ze Wschodem) – kontekst z obecnego rozdziału: handel był ważny, ale nie był decydującym czynnikiem upadku po wojnach z Turcją
+- **D.** (Kontrybucje sojusznikom) – kontekst z obecnego rozdziału: Polska nie płaciła znaczących kontrybucji, to sojusznicy wspierali ją finansowo
 
 ---
 
@@ -79,11 +79,11 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły decydujący okres w historii
 **Pytanie:** Jaką rolę odegrały Kozacy zaporoscy w wojnach polsko-tureckich i jak ich obecność wpłynęła na relacje polsko-tureckie?
 
 **A.** Kozacy byli sprzymierzeńcem Rzeczypospolitej we wszystkich wojnach z Turcją
-**B.** Działalność Kozaków przeciwko Turcji była jednym z powodów wybuchu wojny
+**B.** Turcja płaciła Kozakom za ataki na Polskę
 **C.** Kozacy pozostali neutralni przez cały okres konfliktu polsko-tureckiego
-**D.** Turcja płaciła Kozakom za ataki na Polskę
+**D.** Działalność Kozaków przeciwko Turcji była jednym z powodów wybuchu wojny
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Kozacy zaporoscy odgrywali skomplikowaną rolę. Z jednej strony, ataki na terytoria tureckie (spalenie Warny, najazdy na wybrzeże czarnomorskie) denerwowały sułtana i były jednym z powodów wojny. Z drugiej strony, Rzeczpospolita nie mogła kontrolować Kozaków, co Turcja traktowała jako złamanie traktatów. W wojnach Kozacy walczyli po stronie polskiej (Chocim 1621, 1673), ale ich działania przeciwko Turkom w czasie pokoju destabilizowały relacje dyplomatyczne.
 
@@ -91,9 +91,9 @@ Wojny polsko-tureckie w latach 1620-1699 stanowiły decydujący okres w historii
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-tureckie
 - https://pl.wikipedia.org/wiki/Wojna_polsko-turecka_(1620%E2%80%931621)
 
-**Incorrect answers analysis:**
-- A. Sprzymierzeńcy w wszystkich wojnach — nie jest to prawdą, Kozacy działali samodzielnie i nie zawsze po stronie polskiej
-- C. Neutralność — Kozacy nie byli neutralni, prowadzili agresywną politykę wobec Turcji
-- D. Płatności tureckie — nie ma dowodów na systemowe płacenie przez Turcję Kozakom za ataki na Polskę
+**Analiza odpowiedzi błędnych:**
+- **A.** (Kozacy byli sprzymierzeńcem we wszystkich wojnach) – kontekst z obecnego rozdziału: nie jest to prawdą, Kozacy działali samodzielnie i nie zawsze po stronie polskiej, np. podczas powstania Chmielnickiego
+- **B.** (Turcja płaciła Kozakom) – kontekst z obecnego rozdziału: nie ma dowodów na systemowe płacenie przez Turcję Kozakom za ataki na Polskę
+- **C.** (Kozacy pozostali neutralni) – kontekst z obecnego rozdziału: Kozacy nie byli neutralni, prowadzili agresywną politykę wobec Turcji, atakując terytoria tureckie
 
 ---

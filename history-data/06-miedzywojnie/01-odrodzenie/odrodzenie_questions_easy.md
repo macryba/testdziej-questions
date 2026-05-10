@@ -238,8 +238,8 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 **Pytanie:** Który dokument z 1919 roku zakończył formalnie stan wojny między Polską a Niemcami?
 
 **A)** Dekret o władzy reprezentacyjnej
-**B)** Traktat wersalski
-**C)** Mała konstytucja
+**B)** Traktat wersalski z 1919 roku
+**C)** Mała konstytucja z 1919 roku
 **D)** Dekret o reformie rolnej
 
 **Poprawna odpowiedź:** B
@@ -251,8 +251,8 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A (Dekret o władzy reprezentacyjnej): Był wewnętrznym dokumentem polskim ustalającym władzę Piłsudskiego jako Naczelnika Państwa w listopadzie 1918 roku.
-- Odpowiedź C (Mała konstytucja): Była ustawą z 20 lutego 1919 roku regulującą ustrój Polski, ale nie kończyła stanu wojny z Niemcami.
+- Odpowiedź A (Dekret o władzy reprezentacyjnej): Był wewnętrznym dokumentem polskim ustalającym władzę Piłsudskiego jako Naczelnika Państwa w listopadzie 1918 roku, ale nie kończył stanu wojny.
+- Odpowiedź C (Mała konstytucja z 1919 roku): Była ustawą z 20 lutego 1919 roku regulującą ustrój Polski, ale nie kończyła stanu wojny z Niemcami.
 - Odpowiedź D (Dekret o reformie rolnej): Był wewnętrznym dokumentem polskim dotyczącym reform agrarnych, nie związany z relacjami polsko-niemieckimi.
 
 ---
@@ -292,7 +292,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 **A)** Ustanowił monarchię w Polsce
 **B)** Uczynił Piłsudskiego dyktatorem
 **C)** Ustanowił ustrój republikański
-**D)** Zniósł parlament
+**D)** Zniósł Sejm Ustawodawczy
 
 **Poprawna odpowiedź:** C
 
@@ -303,9 +303,9 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Dekret ustanawiał republikę, nie monarchię.
-- Odpowiedź B: Piłsudski nie był dyktatorem w tym czasie.
-- Odpowiedź D: Dekret przygotowywał wybory do Sejmu Ustawodawczego.
+- Odpowiedź A (Ustanowił monarchię w Polsce): Dekret ustanawiał republikę, a nie monarchię.
+- Odpowiedź B (Uczynił Piłsudskiego dyktatorem): Piłsudski nie był dyktatorem w tym czasie, lecz Naczelnikiem Państwa.
+- Odpowiedź D (Zniósł Sejm Ustawodawczy): Dekret przygotowywał wybory do Sejmu Ustawodawczego, a nie jego zniesienie.
 
 ---
 

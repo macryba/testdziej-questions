@@ -30,8 +30,8 @@ Wojny polsko-tureckie toczące się w XVII wieku między Rzecząpospolitą a Imp
 
 **A.** Jan III Sobieski
 **B.** Jan Kazimierz Waza
-**C.** Michał Korybut Wiśniowiecki
-**D.** Jan II Kazimierz
+**C.** Michał Wiśniowiecki
+**D.** Władysław IV Waza
 
 **Poprawna odpowiedź:** A
 
@@ -40,9 +40,9 @@ Wojny polsko-tureckie toczące się w XVII wieku między Rzecząpospolitą a Imp
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stosunki_polsko-tureckie
 
-**Incorrect answers analysis:**
-- B. Jan Kazimierz Waza — król Polski w połowie XVII wieku, abdykował w 1668 roku, zmarł przed odsieczą wiedeńską
-- C. Michał Korybut Wiśniowiecki — król Polski w latach 1669-1673, zmarł przed bitwą wiedeńską
-- D. Jan II Kazimierz — to samo co Jan Kazimierz Waza, alternatywne imię
+**Analiza odpowiedzi błędnych:**
+- B. Jan Kazimierz Waza — król Polski w latach 1648-1668, abdykował przed odsieczą wiedeńską (incorrect from Wazowie)
+- C. Michał Wiśniowiecki — król Polski w latach 1669-1673, zmarł przed bitwą wiedeńską (incorrect from Wazowie)
+- D. Władysław IV Waza — król Polski w latach 1632-1648, ojciec Jana II Kazimierza, zmarł przed odsieczą wiedeńską (incorrect from Wazowie)
 
 ---

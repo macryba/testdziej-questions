@@ -26,12 +26,12 @@ Stan wojenny w Polsce (1981-1983) był jednym z najtrudniejszych okresów w powo
 **Pytanie:**
 Kto był głównym przywódcą Polski podczas wprowadzenia stanu wojennego w 1981 roku?
 
-**A:** Wojciech Jaruzelski
+**A:** Stanisław Kania
 **B:** Edward Gierek
-**C:** Edward Gierak
-**D:** Stanisław Kania
+**C:** Wojciech Jaruzelski
+**D:** Bolesław Bierut
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Wojciech Jaruzelski jako generał i przewodniczący Wojskowej Rady Ocalenia Narodowego (WRON) wprowadził stan wojenny 13 grudnia 1981 roku.
@@ -41,9 +41,9 @@ Wojciech Jaruzelski jako generał i przewodniczący Wojskowej Rady Ocalenia Naro
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
+- A (Stanisław Kania) – I sekretarz KC PZPR w latach 1980-1981, został zastąpiony przez Jaruzelskiego przed wprowadzeniem stanu wojennego
 - B (Edward Gierek) – I sekretarz KC PZPR w latach 1970-1980, nie sprawował władzy w czasie stanu wojennego
-- C (Edward Gierak) – Błędna nazwisko, nie istnieje taka postać w historii PRL
-- D (Stanisław Kania) – I sekretarz KC PZPR w latach 1980-1981, został zastąpiony przez Jaruzelskiego przed wprowadzeniem stanu wojennego
+- D (Bolesław Bierut) – Prezydent Polski w latach 1947-1952, zmarł w 1956 roku, nie żył w czasie stanu wojennego
 
 ---
 
@@ -54,12 +54,12 @@ Wojciech Jaruzelski jako generał i przewodniczący Wojskowej Rady Ocalenia Naro
 **Pytanie:**
 Kiedy wprowadzono stan wojenny w Polsce?
 
-**A:** 13 grudnia 1981
-**B:** 13 sierpnia 1980
-**C:** 1 maja 1982
-**D:** 17 września 1981
+**A:** 17 września 1981
+**B:** 1 maja 1982
+**C:** 13 sierpnia 1980
+**D:** 13 grudnia 1981
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Stan wojenny został wprowadzony nocą z 12 na 13 grudnia 1981 roku przez Wojskową Radę Ocalenia Narodowego.
@@ -68,9 +68,9 @@ Stan wojenny został wprowadzony nocą z 12 na 13 grudnia 1981 roku przez Wojsko
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (13 sierpnia 1980) – Data podpisania porozumień sierpniowych w Szczecinie
-- C (1 maja 1980) – Święto Pracy, niezwiązane ze stanem wojennym
-- D (17 września 1981) – Rocznica agresji ZSRR na Polskę w 1939 roku
+- A (17 września 1981) – Rocznica agresji ZSRR na Polskę w 1939 roku, niezwiązana ze stanem wojennym
+- B (1 maja 1982) – Święto Pracy, niezwiązane z datą wprowadzenia stanu wojennego
+- C (13 sierpnia 1980) – Data podpisania porozumień sierpniowych w Szczecinie
 
 ---
 
@@ -81,12 +81,12 @@ Stan wojenny został wprowadzony nocą z 12 na 13 grudnia 1981 roku przez Wojsko
 **Pytanie:**
 Jaki niekonstytucyjny organ przejął władzę w Polsce podczas stanu wojennego?
 
-**A:** Wojskowa Rada Ocalenia Narodowego
-**B:** Rada Ministrów
-**C:** Sejm PRL
+**A:** Rada Ministrów
+**B:** Sejm PRL
+**C:** Wojskowa Rada Ocalenia Narodowego
 **D:** Rada Państwa
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Wojskowa Rada Ocalenia Narodowego (WRON) była tymczasowym, niekonstytucyjnym organem władzy stworzonym do sprawowania rządów podczas stanu wojennego.
@@ -95,8 +95,8 @@ Wojskowa Rada Ocalenia Narodowego (WRON) była tymczasowym, niekonstytucyjnym or
 - [Wojskowa Rada Ocalenia Narodowego](https://pl.wikipedia.org/wiki/Wojskowa_Rada_Ocalenia_Narodowego) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Rada Ministrów) – Konstytucyjny organ władzy wykonawczej, nie WRON
-- C (Sejm PRL) – Parlament, nie sprawował władzy podczas stanu wojennego
+- A (Rada Ministrów) – Konstytucyjny organ władzy wykonawczej, nie WRON
+- B (Sejm PRL) – Parlament, nie sprawował władzy podczas stanu wojennego
 - D (Rada Państwa) – Formalnie zatwierdziła stan wojenny, ale nie sprawowała rzeczywistej władzy
 
 ---
@@ -108,12 +108,12 @@ Wojskowa Rada Ocalenia Narodowego (WRON) była tymczasowym, niekonstytucyjnym or
 **Pytanie:**
 Co się stało z większością działaczy "Solidarności" po wprowadzeniu stanu wojennego?
 
-**A:** Zostali internowani
-**B:** Uciekli za granicę
-**C:** Zostali aresztowani i skazani na więzienie
-**D:** Dostali awanse w pracy
+**A:** Zostali aresztowani przez milicję
+**B:** Dostali awanse w pracy
+**C:** Zostali internowani
+**D:** Uciekli za granicę
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Podczas stanu wojennego internowano około 10 000 działaczy "Solidarności" i opozycji, co oznaczało tymczasowe pozbawienie wolności bez procesu sądowego.
@@ -122,9 +122,9 @@ Podczas stanu wojennego internowano około 10 000 działaczy "Solidarności" i o
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Uciekli za granicę) – Część działaczy wyemigrowała, ale nie większość
-- C (Zostali aresztowani i skazani na więzienie) – Internowanie to nie to samo co aresztowanie i skazanie
-- D (Dostali awanse w pracy) – Działacze Solidarności były represjonowani, a nie nagradzani
+- A (Zostali aresztowani przez milicję) – Internowanie to nie to samo co aresztowanie, odbywało się bez procesu sądowego
+- B (Dostali awanse w pracy) – Działacze Solidarności byli represjonowani, a nie nagradzani
+- D (Uciekli za granicę) – Część działaczy wyemigrowała, ale nie większość
 
 ---
 
@@ -135,12 +135,12 @@ Podczas stanu wojennego internowano około 10 000 działaczy "Solidarności" i o
 **Pytanie:**
 Ile osób zostało internowanych podczas stanu wojennego?
 
-**A:** Ponad 10 000
-**B:** Ponad 100 000
-**C:** Ponad 1 000
-**D:** Ponad 50 000
+**A:** Ponad 50 tysięcy
+**B:** Ponad 100 tysięcy
+**C:** Ponad 10 tysięcy
+**D:** Ponad tysiąc
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Podczas stanu wojennego internowano łącznie 10 131 osób związanych z "Solidarnością" i opozycją demokratyczną.
@@ -149,6 +149,6 @@ Podczas stanu wojennego internowano łącznie 10 131 osób związanych z "Solida
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- B (Ponad 100 000) – Zbyt duża liczba, przeszacowana
-- C (Ponad 1 000) – Zbyt mała liczba, niedoszacowana
-- D (Ponad 50 000) – Liczba nie odpowiada rzeczywistym danym statystycznym
+- A (Ponad 50 tysięcy) – Liczba przeszacowana, nie odpowiada rzeczywistym danym statystycznym
+- B (Ponad 100 tysięcy) – Zbyt duża liczba, znacznie przeszacowana
+- D (Ponad tysiąc) – Zbyt mała liczba, niedoszacowana

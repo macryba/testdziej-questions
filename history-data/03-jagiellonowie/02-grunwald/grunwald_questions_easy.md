@@ -42,10 +42,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (1386): W tym roku odbył się chrzest Litwy i zawarcie unii krewskiej między Polską a Litwą
-- Odpowiedź C (1444): W tym roku zginął Władysław Warneńczyk w bitwie pod Warna
-- Odpowiedź D (1466): W tym roku podpisano II pokój toruński kończący wojnę trzynastoletnią
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (1386) – incorrect from Unia Krewska: W tym roku odbył się chrzest Litwy i zawarcie unii krewskiej między Polską a Litwą
+- Odpowiedź C (1444) – incorrect from Warneńczyk: W tym roku zginął Władysław Warneńczyk w bitwie pod Warna
+- Odpowiedź D (1466) – incorrect from Wojna trzynastoletnia: W tym roku podpisano II pokój toruński kończący wojnę trzynastoletnią
 
 ---
 
@@ -56,10 +56,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 
 **A.** Hermann von Salza
 **B.** Konrad von Jungingen
-**C.** Ulrich von Jungingen
-**D.** Henryk von Plauen
+**C.** Henryk von Plauen
+**D.** Ulrich von Jungingen
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Ulrich von Jungingen był wielkim mistrzem zakonu krzyżackiego w latach 1407-1410. Zginął podczas bitwy pod Grunwaldem 15 lipca 1410 roku, gdy wojska polsko-litewskie rozgromiły armię krzyżacką.
 
@@ -67,10 +67,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/Ulrich_von_Jungingen
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Hermann von Salza): Był wielkim mistrzem w latach 1210-1239, żył w XIII wieku
-- Odpowiedź B (Konrad von Jungingen): Był wielkim mistrzem w latach 1405-1407, poprzednikiem Ulricha
-- Odpowiedź D (Henryk von Plauen): Był komtorem Święcia, który obronił Malbork po bitwie grunwaldzkiej
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Hermann von Salza) – incorrect from no referenced answer: Był wielkim mistrzem zakonu krzyżackiego w latach 1210-1239, żył w XIII wieku, ponad 170 lat przed bitwą grunwaldzką
+- Odpowiedź B (Konrad von Jungingen) – no referenced answer: Był wielkim mistrzem zakonu krzyżackiego w latach 1405-1407, bezpośredni poprzednik Ulricha von Jungingena
+- Odpowiedź C (Henryk von Plauen) – no referenced answer: Był komtorem Święcia, który obronił Malbork po bitwie grunwaldzkiej i został Wielkim Mistrzem w 1410 roku
 
 ---
 
@@ -80,21 +80,21 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 **Pytanie:** Jaką pieśń śpiewano przed bitwą pod Grunwaldem dla podniesienia morale wojsk?
 
 **A.** Rotę
-**B.** Bogurodzicę
-**C.** Mazurka Dąbrowskiego
-**D.** Gaude Mater Polonia
+**B.** Mazurka Dąbrowskiego
+**C.** Gaude Mater Polonia
+**D.** Bogurodzicę
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Przed bitwą pod Grunwaldem wojska polskie odśpiewały pieśń "Bogurodzica". Była to pieśń religijna śpiewana w ważnych momentach historycznych Polski, która podnosiła morale żołnierzy przed walką.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Rotę): Hymn Polski napisany w 1908 roku
-- Odpowiedź C (Mazurka Dąbrowskiego): Hymn Polski napisany w 1797 roku
-- Odpowiedź D (Gaude Mater Polonia): Pieśń z XIII wieku, ale nie była śpiewana przed Grunwaldem
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Rotę) – no referenced answer: Hymn Polski napisany w 1908 roku przez Marię Konopnicką, ponad 500 lat po bitwie grunwaldzkiej
+- Odpowiedź B (Mazurka Dąbrowskiego) – no referenced answer: Hymn Polski napisany w 1797 roku przez Józefa Wybickiego, okres rozbiorów
+- Odpowiedź C (Gaude Mater Polonia) – no referenced answer: Pieśń z XIII wieku autorstwa Wincentego z Kielc, ale nie była śpiewana przed bitwą pod Grunwaldem
 
 ---
 
@@ -104,11 +104,11 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 **Pytanie:** Który polski król dowodził wojskami polskimi w bitwie pod Grunwaldem?
 
 **A.** Kazimierz Wielki
-**B.** Władysław Łokietek
-**C.** Władysław II Jagiełło
-**D.** Jan III Sobieski
+**B.** Jan III Sobieski
+**C.** Władysław Łokietek
+**D.** Władysław II Jagiełło
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Władysław II Jagiełło był królem Polski i dowodził wojskami polskimi w bitwie pod Grunwaldem. Był założycielem dynastii Jagiellonów i wielkim księciem litewskim, który przyjął chrzest i został królem Polski w 1386 roku.
 
@@ -116,10 +116,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Kazimierz Wielki): Król Polski w latach 1333-1370, zmarł przed bitwą
-- Odpowiedź B (Władysław Łokietek): Król Polski w latach 1306-1333, dziadek Jagiełły
-- Odpowiedź D (Jan III Sobieski): Król Polski w XVII wieku (1674-1696)
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Kazimierz Wielki) – incorrect from Kazimierz Wielki: Król Polski w latach 1333-1370, ostatni z Piastów, zmarł 40 lat przed bitwą
+- Odpowiedź B (Jan III Sobieski) – incorrect from Sobieski: Król Polski w XVII wieku (1674-1696), żył ponad 250 lat po bitwie grunwaldzkiej
+- Odpowiedź C (Władysław Łokietek) – incorrect from Władysław Łokietek: Król Polski w latach 1306-1333, dziadek Jagiełły, zmarł przed bitwą
 
 ---
 
@@ -141,10 +141,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/Banderia_Prutenorum
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (12): Za mało, rzeczywista liczba była znacznie większa
-- Odpowiedź B (28): Połowa rzeczywistej liczby
-- Odpowiedź D (100): Zbyt wiele, rzeczywista liczba to 51
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (12) – no referenced answer: Zbyt mała liczba, rzeczywista liczba zdobytych chorągwi była znacznie większa
+- Odpowiedź B (28) – no referenced answer: Połowa rzeczywistej liczby zdobytych chorągwi
+- Odpowiedź D (100) – no referenced answer: Zbyt duża liczba, rzeczywista liczba zdobytych chorągwi to 51
 
 ---
 
@@ -166,10 +166,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/Witold_Kiejstutowicz
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Świdrygiełło): Był bratem Jagiełły, przeciwnikiem unii polsko-litewskiej
-- Odpowiedź C (Kiejstut): Ojciec Witolda, zmarł przed bitwą
-- Odpowiedź D (Olgierd): Ojciec Jagiełły, dziadek Witolda, zmarł przed bitwą
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Świdrygiełło) – no referenced answer: Był bratem Jagiełły i przeciwnikiem unii polsko-litewskiej, nie dowodził wojskami litewskimi w bitwie
+- Odpowiedź C (Kiejstut) – no referenced answer: Ojciec Witolda, wielki książę litewski w latach 1345-1377, zmarł przed bitwą
+- Odpowiedź D (Olgierd) – no referenced answer: Ojciec Jagiełły, dziadek Witolda, wielki książę litewski w latach 1345-1377, zmarł przed bitwą
 
 ---
 
@@ -191,10 +191,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/Zakon_krzy%C5%BCacki
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Mongołowie): Najechali na Polskę w XIII wieku, pod Legnicą w 1241
-- Odpowiedź C (Szwedzi): Byli przeciwnikami Polski w XVII wieku ("potop szwedzki")
-- Odpowiedź D (Rosjanie): Późniejsi przeciwnicy Polski (wojny polsko-rosyjskie, zaborcy)
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Mongołowie) – incorrect from Najazd mongolski: Najechali na Polskę w XIII wieku, bitwa pod Legnicą w 1241 roku, ponad 150 lat przed Grunwaldem
+- Odpowiedź C (Szwedzi) – incorrect from Potop szwedzki: Byli przeciwnikami Polski w XVII wieku podczas "potopu szwedzkiego" (1655-1660)
+- Odpowiedź D (Rosjanie) – no referenced answer: Późniejsi przeciwnicy Polski (wojny polsko-rosyjskie, zaborcy w XVIII wieku)
 
 ---
 
@@ -216,10 +216,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 - https://pl.wikipedia.org/wiki/Malbork
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Olsztynek): To miasto poddało się wojskom Jagiełły po bitwie
-- Odpowiedź C (Sztum): To miasto zostało zdobyte przez Polaków
-- Odpowiedź D (Dzierzgoń): To miasto zostało zajęte przez wojska polsko-litewskie
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Olsztynek) – no referenced answer: To miasto poddało się wojskom Jagiełły po bitwie grunwaldzkiej
+- Odpowiedź C (Sztum) – no referenced answer: To miasto zostało zdobyte przez wojska polskie po bitwie
+- Odpowiedź D (Dzierzgoń) – no referenced answer: To miasto zostało zajęte przez wojska polsko-litewskie po bitwie
 
 ---
 
@@ -241,10 +241,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/I_pok%C3%B3j_toru%C5%84ski_(1411)
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (Pokój w Kaliszu): Podpisano w 1343 roku między Kazimierzem Wielkim a zakonem krzyżackim
-- Odpowiedź C (Pokój melneński): Podpisano w 1422 roku po kolejnej wojnie
-- Odpowiedź D (Pokój w Lubowli): Podpisano w 1412 roku z Węgrami
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Pokój w Kaliszu) – incorrect from Kazimierz Wielki: Podpisano w 1343 roku między Kazimierzem Wielkim a zakonem krzyżackim
+- Odpowiedź C (Pokój melneński) – no referenced answer: Podpisano w 1422 roku po wojnie golubskiej między Polską a zakonem krzyżackim
+- Odpowiedź D (Pokój w Lubowli) – no referenced answer: Podpisano w 1412 roku z Węgrami, dotyczył spornych ziem na Słowacji
 
 ---
 
@@ -266,10 +266,10 @@ Bitwa ta była częścią wielkiej wojny polsko-krzyżackiej (1409-1411) i miał
 - https://pl.wikipedia.org/wiki/Zawisza_Czarny
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Maćko z Bogdańca): Postać fikcyjna z powieści "Krzyżacy" Henryka Sienkiewicza
-- Odpowiedź C (Michał Wołodyjowski): Postać fikcyjna z powieści "Ogniem i mieczem" Henryka Sienkiewicza
-- Odpowiedź D (Onufry Zagłoba): Postać fikcyjna z trylogii Henryka Sienkiewicza
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Maćko z Bogdańca) – no referenced answer: Postać fikcyjna z powieści "Krzyżacy" Henryka Sienkiewicza, nie uczestniczyła w rzeczywistej bitwie
+- Odpowiedź C (Michał Wołodyjowski) – no referenced answer: Postać fikcyjna z powieści "Ogniem i mieczem" Henryka Sienkiewicza, żył w XVII wieku
+- Odpowiedź D (Onufry Zagłoba) – no referenced answer: Postać fikcyjna z trylogii Henryka Sienkiewicza, żył w XVII wieku
 
 ---
 

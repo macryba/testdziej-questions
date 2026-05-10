@@ -31,12 +31,12 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 
 **Pytanie:** Kto był głównym autorem tekstu Konstytucji 3 maja?
 
-**A)** Hugo Kołłątaj
-**B)** Ignacy Potocki
-**C)** Stanisław August Poniatowski
+**A)** Stanisław August Poniatowski
+**B)** Hugo Kołłątaj
+**C)** Ignacy Potocki
 **D)** Tadeusz Kościuszko
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Głównym autorem tekstu Konstytucji 3 maja był król Stanisław August Poniatowski. Istotny wkład w jej spisanie mieli też Ignacy Potocki, Hugo Kołłątaj oraz sekretarz królewski Scipione Piattoli.
 
@@ -106,12 +106,12 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 
 **Pytanie:** Co było główną przyczyną zawiązania konfederacji barskiej w 1768 roku?
 
-**A)** Obrona praw katolickich przeciwko równouprawnieniu dysydentów
-**B)** Przeciwstwo reformom gospodarczym Stanisława Augusta
+**A)** Przeciwstwo reformom gospodarczym Stanisława Augusta
+**B)** Obrona praw katolickich przeciwko równouprawnieniu dysydentów
 **C)** Chęć przywrócenia dynastii saskiej na tron polski
 **D)** Sprzeciw wobec podniesienia podatków
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Konfederacja barska została zawiązana w 1768 roku w Barze na Podolu w obronie wiary katolickiej i niepodległości Rzeczypospolitej. Szlachta konserwatywna sprzeciwiała się wpływom rosyjskim i równouprawnieniu dysydentów, którego domagała się Rosja.
 
@@ -132,11 +132,11 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 **Pytanie:** Jakie główne skutki przyniosło utworzenie Komisji Edukacji Narodowej w 1773 roku?
 
 **A)** Zniesienie pańszczyzny i uwłaszczenie chłopów
-**B)** Reforma szkolnictwa i utworzenie pierwszego ministerstwa oświaty na świecie
-**C)** Uchwalenie Konstytucji 3 maja i zniesienie liberum veto
+**B)** Uchwalenie Konstytucji 3 maja i zniesienie liberum veto
+**C)** Reforma szkolnictwa i utworzenie pierwszego ministerstwa oświaty na świecie
 **D)** Powstanie pierwszego polskiego uniwersytetu w Warszawie
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Komisja Edukacji Narodowej (KEN) zreformowała system oświaty, przekształcając Akademie Wileńską i Krakowską w Szkoły Główne. Była to pierwsza na świecie instytucja tego typu - ministerstwo oświaty, która zajmowała się organizacją szkolnictwa.
 
@@ -157,11 +157,11 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 **Pytanie:** Czym wyróżniało się polskie oświecenie na tle europejskiego?
 
 **A)** Większym udziałem szlachty w ruchu oświeceniowym
-**B)** Unikalnym udziałem duchowieństwa katolickiego (do 40% czołowych postaci)
-**C)** WCześniejszym początkiem niż w innych krajach
+**B)** WCześniejszym początkiem niż w innych krajach
+**C)** Unikalnym udziałem duchowieństwa katolickiego (do 40% czołowych postaci)
 **D)** Skupieniem się na reformach religijnych而不是 społecznych
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Specyfiką polskiego oświecenia był niespotykany gdzie indziej udział kleru katolickiego w tym ruchu. Pierwsze pokolenie ludzi oświecenia stanowili głównie duchowni, a księża stanowili aż 40% spośród czołowych postaci oświecenia w Polsce. Zjawisko to bywa nazywane "oświeceniem katolickim".
 
@@ -182,11 +182,11 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 **Pytanie:** Jaki proces ewolucji ustroju Rzeczypospolitej wprowadziła Konstytucja 3 maja?
 
 **A)** Z monarchii konstytucyjnej do republiki
-**B)** Z demokracji szlacheckiej do monarchii konstytucyjnej
-**C)** Z monarchii absolutnej do monarchii parlamentarnej
+**B)** Z monarchii absolutnej do monarchii parlamentarnej
+**C)** Z demokracji szlacheckiej do monarchii konstytucyjnej
 **D)** Z unii realnej do federacji
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Konstytucja 3 maja przekształciła Rzeczpospolitą z demokracji szlacheckiej (opartej na wolnej elekcji i liberum veto) w monarchię konstytucyjną z tronem dziedzicznym. Zmieniła ustrój państwa, ograniczając znacząco demokrację szlachecką.
 
@@ -208,10 +208,10 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 
 **A)** Stanisław Szczęsny Potocki
 **B)** Seweryn Rzewuski
-**C)** Franciszek Ksawery Branicki
-**D)** Wszyscy wyżej wymienieni
+**C)** Wszyscy wyżej wymienieni
+**D)** Franciszek Ksawery Branicki
 
-**Poprawna odpowiedź:** D
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Konfederację targowicką zawiązali magnaci: Stanisław Szczęsny Potocki, Seweryn Rzewuski i Franciszek Ksawery Branicki. Poprosili oni cesarzową Katarzynę II o interwencję i przywrócenie im przywilejów, które zostały zniesione na mocy Konstytucji 3 maja.
 
@@ -231,11 +231,11 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 **Pytanie:** Dlaczego Rosja interweniowała militarnie przeciwko Rzeczypospolitej w 1792 roku?
 
 **A)** Aby obronić prawosławnych przed prześladowaniami
-**B)** Z obawy przed rozprzestrzenianiem się idei rewolucyjnych z Francji
-**C)** Aby przywrócić stare przywileje szlacheckie i zachować wpływy w Polsce
+**B)** Aby przywrócić stare przywileje szlacheckie i zachować wpływy w Polsce
+**C)** Z obawy przed rozprzestrzenianiem się idei rewolucyjnych z Francji
 **D)** W odpowiedź na atak polski na wschodnie terytoria Rosji
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:** Rosja interweniowała w 1792 roku, aby obalić Konstytucję 3 maja i przywrócić stary ustrój Rzeczypospolitej, który gwarantowała od 1768 roku. Reformy polskie zagrażały rosyjskiemu protektoratowi nad Polską, a konfederacja targowicka (grupa polskich magnatów przeciwnych zmianom) poprosiła rosyjską cesarzową o pomoc w przywróceniu przywilejów.
 
@@ -257,10 +257,10 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 
 **A)** Kraków
 **B)** Gdańsk
-**C)** Warszawa
-**D)** Wilno
+**C)** Wilno
+**D)** Warszawa
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Warszawa była głównym ośrodkiem kultury oświeceniowej i siedzibą króla Stanisława Augusta. To tam odbywały się obiady czwartkowe, obrady Sejmu Czteroletniego, działał teatr publiczny i skoncentrowana była tam większość życia kulturalnego i politycznego.
 
@@ -280,12 +280,12 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 
 **Pytanie:** Jakie reformy wprowadziła Konstytucja 3 maja w sprawie praw politycznych mieszczan?
 
-**A)** Pełne równouprawnienie ze szlachtą w prawach wyborczych
-**B)** Częściowe zrównanie praw osobistych i możliwość zajmowania stanowisk państwowych
+**A)** Częściowe zrównanie praw osobistych i możliwość zajmowania stanowisk państwowych
+**B)** Pełne równouprawnienie ze szlachtą w prawach wyborczych
 **C)** Zniesienie ograniczeń w nabywaniu ziemi przez mieszczan
 **D)** Przyznanie mieszczanom prawa do wolnego wyboru króla
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Konstytucja 3 maja wprowadziła częściowe zrównanie praw osobistych mieszczan i szlachty oraz stawiała chłopów pod ochroną państwa. Mieszczanie zyskali prawo do bezpieczeństwa osobistego, posiadania majątków ziemskich, zajmowania stanowisk oficerskich i w administracji państwowej.
 
@@ -306,11 +306,11 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 **Pytanie:** Jakie były podobieństwa między polską Konstytucją 3 maja a konstytucją amerykańską z 1787 roku?
 
 **A)** Obie wprowadzały monarchię dziedziczną
-**B)** Obie opierały się na ideach oświeceniowych i trójpodziale władzy
-**C)** Obie powstały w tym samym roku
-**D)** Obie gwarantowały równouprawnienie wszystkich stanów
+**B)** Obie gwarantowały równouprawnienie wszystkich stanów
+**C)** Obie opierały się na ideach oświeceniowych i trójpodziale władzy
+**D)** Obie powstały w tym samym roku
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Zarówno polska Konstytucja 3 maja, jak i konstytucja amerykańska opierały się na ideach oświeceniowych, w tym na trójpodziale władzy (prawodawczej, wykonawczej i sądowniczej) i idei umowy społecznej. Obie były pionierskimi dokumentami konstytucyjnymi swojego czasu.
 
@@ -356,11 +356,11 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 **Pytanie:** Dlaczego Sejm Czteroletni mógł bezpiecznie przeprowadzić reformy w latach 1788-1792?
 
 **A)** Dzięki silnej armii polskiej odstraszającej sąsiadów
-**B)** Dzięki korzystnemu położeniu międzynarodowemu (Rosja zajęta wojnami)
-**C)** Dzięki poparciu finansowemu Francji
+**B)** Dzięki poparciu finansowemu Francji
+**C)** Dzięki korzystnemu położeniu międzynarodowemu (Rosja zajęta wojnami)
 **D)** Dzięki neutralności Prus i Austrii
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Sejm Czteroletni mógł bezpiecznie przeprowadzić reformy dzięki korzystnemu położeniu międzynarodowemu. Rosja była zajęta wojnami z Turcją i Szwecją, co ograniczało jej możliwości interwencji. Dodatkowo Polska zawarła sojusz z Prusami w 1790 roku.
 
@@ -381,11 +381,11 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 **Pytanie:** Jaki był główny cel działalności Towarzystwa do Ksiąg Elementarnych, utworzonego w 1775 roku?
 
 **A)** Wydawanie literatury pięknej i poezji
-**B)** Przygotowanie podręczników do nowego systemu oświaty
-**C)** Tłumaczenie dzieł filozofów oświeceniowych na język polski
+**B)** Tłumaczenie dzieł filozofów oświeceniowych na język polski
+**C)** Przygotowanie podręczników do nowego systemu oświaty
 **D)** Organizowanie debat politycznych w salonach warszawskich
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Towarzystwo do Ksiąg Elementarnych zostało powołane w 1775 roku przez Komisję Edukacji Narodowej. Zajmowało się przygotowaniem podręczników dostosowanych do nowego programu nauczania w zreformowanym systemie oświaty.
 

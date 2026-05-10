@@ -35,7 +35,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Ta odpowiedź przecenia rolę walk frakcyjnych i ignoruje autentyczne przyczyny społeczne protestów
 - B: Ta odpowiedź ignoruje dowody na wewnątrzpartyjne rozgrywki, które przyspieszyły upadek Gomułki
 - D: Nie ma dowodów na to, że wydarzenia były zaplanowaną akcją służb specjalnych
@@ -58,10 +58,10 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970, https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Ta odpowiedź sugeruje, że władze w 1980 roku miały jasną strategię, co nie jest prawdą
-- C: Władze PRL miały duże doświadczenie w stłumieniu protestów już w 1970 roku
-- D: Odpowiedź upraszcza sytuację, ignorując obawy przed interwencją ZSRR
+- C: Władze PRL miały duże doświadczenie w stłumieniu protestów już w 1970 roku (Poznań 1956, marzec 1968)
+- D: Odpowiedź upraszcza sytuację, ignorując obawy przed interwencją ZSRR oraz doświadczenia z 1970 roku
 
 ---
 
@@ -81,9 +81,9 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970, https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
-**Analiza odpowiedzi niepoprawnych:**
-- A: Robotnicy nie utworzyli związków zawodowych w 1970 roku, stało się to dopiero w 1980 roku
-- B: Wydarzenia z 1970 roku nie zostały zapomniane, były one ważnym punktem odniesienia
-- D: Władze rzeczywiście zliberalizowały politykę na krótki czas po 1970 roku, ale nie opóźniło to powstania „Solidarności"
+**Analiza odpowiedzi błędnych:**
+- A: Robotnicy nie utworzyli związków zawodowych w 1970 roku – pierwsze niezależne związki („Solidarność") powstały dopiero w sierpniu 1980 roku
+- B: Wydarzenia z 1970 roku nie zostały zapomniane – były one ważnym punktem odniesienia i symbolem krwawego stłumienia protestów robotniczych
+- D: Władze rzeczywiście zliberalizowały politykę na krótki czas po 1970 roku (propaganda sukcesu Edwarda Gierka), ale tymczasowa liberalizacja nie wpłynęła znacząco na opóźnienie powstania „Solidarności"
 
 ---

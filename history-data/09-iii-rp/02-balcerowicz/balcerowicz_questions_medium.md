@@ -58,10 +58,10 @@ Ile ustaw tworzyło Plan Balcerowicza?
 
 **A:** 3 ustawy
 **B:** 5 ustaw
-**C:** 10 ustaw
-**D:** 15 ustaw
+**C:** 15 ustaw
+**D:** 10 ustaw
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Plan Balcerowicza składał się z 10 ustaw uchwalonych przez Sejm kontraktowy 27 i 28 grudnia 1989 roku. Ustawy zostały podpisane przez prezydenta Jaruzelskiego 31 grudnia 1989 roku i weszły w życie 1 stycznia 1990 roku.
@@ -72,7 +72,7 @@ Plan Balcerowicza składał się z 10 ustaw uchwalonych przez Sejm kontraktowy 2
 **Analiza niepoprawnych odpowiedzi:**
 - A: 3 ustawy to zbyt mała liczba
 - B: 5 ustaw to połowa rzeczywistej liczby
-- D: 15 ustaw to zawyżona liczba
+- C: 15 ustaw to zawyżona liczba
 
 ---
 
@@ -110,12 +110,12 @@ W sierpniu 1989 roku inflacja w Polsce wyniosła 39,5%, a w październiku tego s
 **Pytanie:**
 Która instytucja międzynarodowa udzieliła Polsce wsparcia finansowego na utrzymanie stabilizacji złotego?
 
-**A:** Bank Światowy
-**B:** Międzynarodowy Fundusz Walutowy
+**A:** Międzynarodowy Fundusz Walutowy
+**B:** Bank Światowy
 **C:** Europejski Bank Odbudowy i Rozwoju
-**D:** Unia Europejska
+**D:** Bank Europejskich Inwestycji
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Międzynarodowy Fundusz Walutowy (MFW) udzielił Polsce wsparcia w wysokości 1 miliarda dolarów na utworzenie Funduszu Stabilizacji Złotego. Eksperci MFW, w tym Jeffrey Sachs, doradzali rządowi polskiemu przy opracowywaniu planu reform.
@@ -124,9 +124,9 @@ Międzynarodowy Fundusz Walutowy (MFW) udzielił Polsce wsparcia w wysokości 1 
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
 **Analiza niepoprawnych odpowiedzi:**
-- A: Bank Światowy zajmuje się głównie pomocą rozwojową
+- B: Bank Światowy zajmuje się głównie pomocą rozwojową
 - C: EBOR powstał dopiero w 1991 roku
-- D: Polska wstąpiła do UE w 2004 roku
+- D: BEI wspiera projekty infrastrukturalne UE
 
 ---
 
@@ -192,10 +192,10 @@ Dzięki Planowi Balcerowicza inflacja spadła z poziomu ok. 2000% w 1989 roku do
 **Pytanie:**
 Który element Planu Balcerowicza polegał na usunięciu gwarancji istnienia wszystkich przedsiębiorstw państwowych?
 
-**A:** Ustawa o zmianie ustawy o gospodarce finansowej przedsiębiorstw państwowych
+**A:** Ustawa o gospodarce finansowej przedsiębiorstw państwowych
 **B:** Ustawa o opodatkowaniu wzrostu wynagrodzeń
 **C:** Ustawa o zatrudnieniu
-**D:** Ustawa Prawo dewizowe
+**D:** Ustawa o działalności gospodarczej
 
 **Poprawna odpowiedź:** A
 
@@ -274,11 +274,11 @@ Plan Balcerowicza przyczynił się do gwałtownego wzrostu bezrobocia. W 1993 ro
 Która zmiana wprowadzona przez Plan Balcerowicza dotyczyła cen?
 
 **A:** Zamrożenie cen na poziomie z 1989 roku
-**B:** Uwolnienie 90% cen
-**C:** Zwiększenie kontroli państwowej nad cenami
-**D:** Wprowadzenie cen urzędowych na wszystkie produkty
+**B:** Zwiększenie kontroli państwowej nad cenami
+**C:** Wprowadzenie cen urzędowych na wszystkie produkty
+**D:** Uwolnienie 90% cen
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Już w styczniu 1990 roku zezwolono na swobodne kształtowanie 90% cen. Uwolnienie cen było jednym z kluczowych elementów Planu Balcerowicza i pozwoliło ograniczyć dotacje budżetowe oraz stopniowo równoważyć rynek.
@@ -288,8 +288,8 @@ Już w styczniu 1990 roku zezwolono na swobodne kształtowanie 90% cen. Uwolnien
 
 **Analiza niepoprawnych odpowiedzi:**
 - A: Ceny zostały uwolnione, niezamrożone
-- C: Zmniejszono kontrolę państwową nad cenami
-- D: Zniesiono ceny urzędowe na większość produktów
+- B: Zmniejszono kontrolę państwową nad cenami
+- C: Zniesiono ceny urzędowe na większość produktów
 
 ---
 

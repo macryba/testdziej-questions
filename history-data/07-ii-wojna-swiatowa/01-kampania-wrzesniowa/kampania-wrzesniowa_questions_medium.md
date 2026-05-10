@@ -80,12 +80,12 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **Pytanie:** O której godzinie rozpoczęła się agresja Niemiec na Polskę 1 września 1939 roku?
 
-**A:** 3:45
-**B:** 4:15
-**C:** 4:45
-**D:** 5:00
+**A:** 4:45
+**B:** 3:45
+**C:** 5:00
+**D:** 4:15
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Atak na Polskę rozpoczął się 1 września 1939 roku o godzinie 4:45 rano, gdy niemiecki pancernik „Schleswig-Holstein" otworzył ogień na Westerplatte. Niemcy bez wypowiedzenia wojny zaatakowali Polskę z zachodu, północy i południa.
 
@@ -93,9 +93,9 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (3:45) - nieprawidłowa godzina
-- Odpowiedź B (4:15) - nieprawidłowa godzina
-- Odpowiedź D (5:00) - nieprawidłowa godzina
+- Odpowiedź B (3:45) - nieprawidłowa godzina
+- Odpowiedź C (5:00) - nieprawidłowa godzina
+- Odpowiedź D (4:15) - nieprawidłowa godzina
 
 ---
 
@@ -181,9 +181,9 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **Pytanie:** Jaki był główny cel Niemiec w ataku na Polskę we wrześniu 1939 roku?
 
-**A:** Odzyskanie utraconych terytoriów po I wojnie światowej
+**A:** Odzyskanie utraconych terytoriów
 **B:** Zdobycie dostępu do morza Bałtyckiego
-**C:** Zniszczenie państwowości polskiej i ekspansja na wschód (Lebensraum)
+**C:** Zniszczenie państwowości polskiej
 **D:** Zabezpieczenie granic przed ZSRR
 
 **Prawidłowa odpowiedź:** C
@@ -207,8 +207,8 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **Pytanie:** Dlaczego ZSRR zaatakował Polskę 17 września 1939 roku?
 
-**A:** Aby chronić ludność białoruską i ukraińską na wschodzie Polski
-**B:** Na mocy tajnego protokołu paktu Ribbentrop-Mołotow, który przewidywał podział stref wpływów
+**A:** Aby chronić ludność białoruską i ukraińską
+**B:** Na mocy tajnego protokołu paktu Ribbentrop-Mołotow
 **C:** Ponieważ Polska zaatakowała pierwotnie ZSRR
 **D:** Aby przywrócić granice sprzed I wojny światowej
 
@@ -231,24 +231,24 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **Question ID:** Q-IIW-M009
 
-**Pytanie:** Kiedy zakończyła się obrona Warszawy we wrześniu 1939 roku?
+**Pytanie:** Co było bezpośrednią przyczyną kapitulacji Warszawy w 1939 roku?
 
-**A:** 17 września
-**B:** 22 września
-**C:** 28 września
-**D:** 6 października
+**A:** Brak amunicji i wody
+**B:** Wyczerpanie się zapasów żywności
+**C:** Dezercja polskich żołnierzy
+**D:** Włamanie się niemieckich czołgów do centrum
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** A
 
-**Wyjaśnienie:** Obrona Warszawy zakończyła się 28 września 1939 roku kapitulacją miasta po 20 dniach walk. Mimo zmasowanych bombardowań i ataków niemieckich, Warszawa broniła się herośnie, ale ostatecznie musiała skapitulować z powodu braku amunicji i wody.
+**Wyjaśnienie:** Obrona Warszawy zakończyła się 28 września 1939 roku kapitulacją miasta po 20 dniach walk. Główną przyczyną kapitulacji był brak amunicji i wody spowodowany zmasowanymi bombardowaniami niemieckimi. Mimo heroicznej obrony, miasto musiało skapitulować z powodu wyczerpania zapasów.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obrona_Warszawy_%281939%29
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź A (17 września) - data agresji ZSRR na Polskę
-- Odpowiedź B (22 września) - data zakończenia bitwy nad Bzurą
-- Odpowiedź D (6 października) - data zakończenia bitwy pod Kockiem
+- Odpowiedź B (żywność) - zapasy żywności nie były głównym problemem
+- Odpowiedź C (dezercja) - polscy żołnierze nie masowo dezerowali, walczyli bohatersko
+- Odpowiedź D (czołgi w centrum) - niemieckie wojska nie włamały się do centrum miasta przed kapitulacją
 
 ---
 
@@ -259,11 +259,11 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Pytanie:** Jakie były straty osobowe Polski w kampanii wrześniowej?
 
 **A:** Około 10 tysięcy poległych
-**B:** Około 66 tysięcy poległych
-**C:** Około 100 tysięcy poległych
-**D:** Około 200 tysięcy poległych
+**B:** Około 100 tysięcy poległych
+**C:** Około 200 tysięcy poległych
+**D:** Około 66 tysięcy poległych
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Polska straciła około 66 tysięcy poległych żołnierzy w kampanii wrześniowej. Ponadto około 130 tysięcy zostało rannych, a 700 tysięcy wziętych do niemieckiej niewoli. Były to ciężkie straty dla polskiego wojska.
 
@@ -272,8 +272,8 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (10 tysięcy) - znacznie zaniżona liczba
-- Odpowiedź C (100 tysięcy) - zawyżona liczba poległych
-- Odpowiedź D (200 tysięcy) - znacznie zawyżona liczba
+- Odpowiedź B (100 tysięcy) - zawyżona liczba poległych
+- Odpowiedź C (200 tysięcy) - znacznie zawyżona liczba
 
 ---
 
@@ -284,11 +284,11 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Pytanie:** Kto był Naczelnym Wodzem polskich sił zbrojnych podczas kampanii wrześniowej?
 
 **A:** Władysław Sikorski
-**B:** Edward Rydz-Śmigły
-**C:** Wacław Stachiewicz
+**B:** Wacław Stachiewicz
+**C:** Edward Rydz-Śmigły
 **D:** Kazimierz Sosnkowski
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Marszałek Edward Rydz-Śmigły był Naczelnym Wodzem polskich sił zbrojnych podczas kampanii wrześniowej. Pełnił też funkcję Generalnego Inspektora Sił Zbrojnych. Po kampanii wrześniowej ewakuował się do Rumunii, a następnie na Węgry.
 
@@ -297,7 +297,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 
 **Analiza nieprawidłowych odpowiedzi:**
 - Odpowiedź A (Sikorski) - został premierem i Naczelnym Wodzem później, po wrześniu 1939
-- Odpowiedź C (Stachiewicz) - szef Sztabu Głównego, nie Naczelny Wódz
+- Odpowiedź B (Stachiewicz) - szef Sztabu Głównego, nie Naczelny Wódz
 - Odpowiedź D (Sosnkowski) - zastępca Naczelnego Wodza, nie główny dowódca
 
 ---
@@ -309,7 +309,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Pytanie:** Jaki był główny powód klęski Polski w kampanii wrześniowej?
 
 **A:** Zdrada sojuszników zachodnich
-**B:** Przewaga liczebna i technologiczna agresorów oraz atak z dwóch stron
+**B:** Przewaga agresorów i atak z dwóch stron
 **C:** Brak chęci do walki polskich żołnierzy
 **D:** Błąd w wyborze sojuszników
 

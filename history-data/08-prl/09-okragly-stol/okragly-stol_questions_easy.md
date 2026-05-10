@@ -43,9 +43,9 @@ Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (Czesław Kiszczak) – był głównym negocjatorem strony rządowej jako minister spraw wewnętrznych
-- Odpowiedź C (Tadeusz Mazowiecki) – był ważnym doradcą strony opozycyjnej, ale nie głównym negocjatorem
-- Odpowiedź D (Wojciech Jaruzelski) – był I sekretarzem PZPR, ale nie bezpośrednim uczestnikiem rozmów
+- Odpowiedź B (Czesław Kiszczak) – był współprzewodniczącym strony rządowej podczas obrad Okrągłego Stołu jako minister spraw wewnętrznych
+- Odpowiedź C (Tadeusz Mazowiecki) – był ważnym doradcą i ekspertem strony opozycyjnej, ale nie głównym negocjatorem
+- Odpowiedź D (Wojciech Jaruzelski) – był prezydentem PRL i nie bezpośrednim uczestnikiem obrad Okrągłego Stołu
 
 ---
 
@@ -78,24 +78,24 @@ Okrągły Stół to negocjacje między władzami PRL a opozycją demokratyczną 
 
 **Question ID:** Q-PRL-OS-003
 
-**Pytanie:** Kiedy odbyły się wybory parlamentarne będące skutkiem porozumienia Okrągłego Stołu?
+**Pytanie:** Jaką nazwę powszechnie nadawano wyborom przeprowadzonym w wyniku porozumienia Okrągłego Stołu?
 
-**A.** 4 czerwca 1989 roku
-**B.** 13 grudnia 1981 roku
-**C.** 31 sierpnia 1980 roku
-**D.** 5 kwietnia 1989 roku
+**A.** Wybory czerwcowe
+**B.** Wybory kontraktowe
+**C.** Wybory wolne
+**D.** Wybory czerwcowe i kontraktowe
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
-**Wyjaśnienie:** Wybory parlamentarne, nazywane wyborami czerwcowymi lub wyborami kontraktowymi, odbyły się 4 czerwca 1989 roku (pierwsza tura) i 18 czerwca 1989 roku (druga tura). Były to pierwsze częściowo wolne wybory w historii Polski po II wojnie światowej.
+**Wyjaśnienie:** Wybory parlamentarne z 1989 roku są powszechnie nazywane zarówno wyborami czerwcowymi (od miesiąca przeprowadzenia), jak i wyborami kontraktowymi (od nazwy umowy między władzą a opozycją). Były to pierwsze częściowo wolne wybory w historii Polski po II wojnie światowej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
 
 **Analiza nieprawidłowych odpowiedzi:**
-- Odpowiedź B (13 grudnia 1981) – to data wprowadzenia stanu wojennego w Polsce
-- Odpowiedź C (31 sierpnia 1980) – to data podpisania porozumień sierpniowych w Szczecinie
-- Odpowiedź D (5 kwietnia 1989) – to data zakończenia obrad Okrągłego Stołu, a nie wyborów
+- Odpowiedź A (Wybory czerwcowe) – jest to poprawna nazwa, ale niepełna (brak drugiego członu nazwy)
+- Odpowiedź B (Wybory kontraktowe) – jest to poprawna nazwa, ale niepełna (brak pierwszego członu nazwy)
+- Odpowiedź C (Wybory wolne) – nazwa nieprecyzyjna, gdyż wybory były tylko częściowo wolne (Sejm kontraktowy)
 
 ---
 

@@ -53,6 +53,8 @@ Traktat pokojowy w Tylży zawarty 7 lipca 1807 roku między Napoleonem a carem A
 - **C. Traktat w Kielcach** – fikcyjny traktat, nie istniał w historii
 - **D. Pokój w Campo Formio** – zawarty w 1797 roku między Francją a Austrią, przed powstaniem Księstwa
 
+**Korekta:** Pozycja zachowana (A) - pytanie ma odpowiedzi z datami, więc nie można zamienić tylko pozycji bez zmiany treści
+
 ---
 
 ## Pytanie 2
@@ -62,12 +64,12 @@ Traktat pokojowy w Tylży zawarty 7 lipca 1807 roku między Napoleonem a carem A
 **Pytanie:**
 Jaką zmianę wprowadziła konstytucja Księstwa Warszawskiego z 1807 roku w położeniu chłopów?
 
-**A.** Zniosła poddaństwo chłopów
+**A.** Uznała chłopów za równych szlachcie
 **B.** Przyznała chłopom ziemię na własność
-**C.** Zniosła pańszczyznę
-**D.** Uznała chłopów za równych szlachcie
+**C.** Zniosła poddaństwo chłopów
+**D.** Zniosła pańszczyznę
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Konstytucja Księstwa Warszawskiego z 22 lipca 1807 roku wprowadzała równość wszystkich mieszkańców wobec prawa i znosiła poddaństwo chłopów. Jednak w praktyce chłopi musieli nadal spełniać wszystkie powinności, w tym pańszczyznę, a możliwości opuszczenia wsi były bardzo ograniczone.
@@ -77,9 +79,9 @@ Konstytucja Księstwa Warszawskiego z 22 lipca 1807 roku wprowadzała równość
 - https://pl.wikipedia.org/wiki/Konstytucja_Ksi%C4%99stwa_Warszawskiego
 
 **Analiza odpowiedzi nieprawidłowych:**
+- **A. Uznała chłopów za równych szlachcie** – szlachta pozostawała uprzywilejowana, szczególnie w wyborach do Sejmu
 - **B. Przyznała chłopom ziemię na własność** – nie przyznano ziemi na własność, chłopi nadal ją dzierżawili
-- **C. Zniosła pańszczyznę** – pańszczyzna nie została zniesiona, chłopi nadal musieli ją odrabiać
-- **D. Uznała chłopów za równych szlachcie** – szlachta pozostawała uprzywilejowana, szczególnie w wyborach do Sejmu
+- **D. Zniosła pańszczyznę** – pańszczyzna nie została zniesiona, chłopi nadal musieli ją odrabiać
 
 ---
 
@@ -90,12 +92,12 @@ Konstytucja Księstwa Warszawskiego z 22 lipca 1807 roku wprowadzała równość
 **Pytanie:**
 Który dokument normował prawo cywilne w Księstwie Warszawskim od 1808 roku?
 
-**A.** Kodeks Napoleona
-**B.** Konstytucja 3 Maja
+**A.** Konstytucja 3 Maja
+**B.** Kodeks justyniański
 **C.** Prawo magdeburskie
-**D.** Kodeks justyniański
+**D.** Kodeks Napoleona
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Na mocy 69. artykułu konstytucji Księstwa Warszawskiego, kwestie prawa cywilnego regulował Kodeks Napoleona, który wszedł w życie 1 maja 1808 roku. Był to nowoczesny kodeks cywilny wprowadzający równość wobec prawa i świecki charakter prawa.
@@ -105,9 +107,9 @@ Na mocy 69. artykułu konstytucji Księstwa Warszawskiego, kwestie prawa cywilne
 - https://pl.wikipedia.org/wiki/Kodeks_Napoleona
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Konstytucja 3 Maja** – konstytucja Rzeczpospolitej z 1791 roku, nie obowiązywała w Księstwie
+- **A. Konstytucja 3 Maja** – konstytucja Rzeczpospolitej z 1791 roku, nie obowiązywała w Księstwie
+- **B. Kodeks justyniański** – bizantyński kodeks z VI wieku, nie obowiązywał w Księstwie
 - **C. Prawo magdeburskie** – średniowieczne prawo miejskie, nie było kodeksem cywilnym
-- **D. Kodeks justyniański** – bizantyński kodeks z VI wieku, nie obowiązywał w Księstwie
 
 ---
 
@@ -118,12 +120,12 @@ Na mocy 69. artykułu konstytucji Księstwa Warszawskiego, kwestie prawa cywilne
 **Pytanie:**
 Z jakiego powodu Napoleon Bonaparte nie zgodził się na przywrócenie Konstytucji 3 Maja w Księstwie Warszawskim?
 
-**A.** Uważał ją za zbyt konserwatywną
-**B.** Zbyt mocno ograniczała ona władzę monarchy
-**C.** Była niezgodna z prawem francuskim
-**D.** Zbyt silnie wzmacniała pozycję Kościoła
+**A.** Zbyt mocno ograniczała ona władzę monarchy
+**B.** Zbyt silnie wzmacniała pozycję Kościoła
+**C.** Uważał ją za zbyt konserwatywną
+**D.** Była niezgodna z prawem francuskim
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Napoleon Bonaparte uważał Konstytucję 3 Maja za zbyt konserwatywną i wzorował się na konstytucji francuskiej z 1799 roku. Wprowadził do konstytucji Księstwa Warszawskiego rewolucyjne na ziemiach polskich zmiany, takie jak nadanie wolności osobistej i zrównanie obywateli wobec prawa.
@@ -132,9 +134,9 @@ Napoleon Bonaparte uważał Konstytucję 3 Maja za zbyt konserwatywną i wzorowa
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Zbyt mocno ograniczała ona władzę monarchy** – Konstytucja 3 Maja wzmacniała władzę monarchy, ale Napoleon uważał ją za konserwatywną z innych powodów
-- **C. Była niezgodna z prawem francuskim** – Napoleon nie odmawiał z tego powodu, lecz z powodu swojej oceny konstytucji
-- **D. Zbyt silnie wzmacniała pozycję Kościoła** – Napoleon nie odmawiał ze względu na pozycję Kościoła
+- **A. Zbyt mocno ograniczała ona władzę monarchy** – Konstytucja 3 Maja wzmacniała władzę monarchy, ale Napoleon uważał ją za konserwatywną z innych powodów
+- **B. Zbyt silnie wzmacniała pozycję Kościoła** – Napoleon nie odmawiał ze względu na pozycję Kościoła
+- **D. Była niezgodna z prawem francuskim** – Napoleon nie odmawiał z tego powodu, lecz z powodu swojej oceny konstytucji
 
 ---
 
@@ -145,12 +147,12 @@ Napoleon Bonaparte uważał Konstytucję 3 Maja za zbyt konserwatywną i wzorowa
 **Pytanie:**
 Który polski działacz odmówił współpracy z Napoleonem Bonaparte przy tworzeniu Księstwa Warszawskiego?
 
-**A.** Tadeusz Kościuszko
-**B.** Józef Poniatowski
-**C.** Jan Henryk Dąbrowski
-**D.** Stanisław Szczęsny Potocki
+**A.** Józef Poniatowski
+**B.** Tadeusz Kościuszko
+**C.** Stanisław Szczęsny Potocki
+**D.** Jan Henryk Dąbrowski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Tadeusz Kościuszko odmówił zaangażowania się w przedsięwzięcie Napoleona, gdy nie otrzymał od niego gwarancji odrodzenia państwa polskiego i nadania mu liberalnej konstytucji. Nie chciał wspierać Francji bez pewności, że przyniesie to prawdziwą niepodległość Polsce.
@@ -159,9 +161,9 @@ Tadeusz Kościuszko odmówił zaangażowania się w przedsięwzięcie Napoleona,
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Józef Poniatowski** – aktywnie współpracował z Napoleonem i został ministrem wojny Księstwa
-- **C. Jan Henryk Dąbrowski** – współpracował z Napoleonem i organizował polskie wojska
-- **D. Stanisław Szczęsny Potocki** – był politykiem okresu Księstwa, ale nie odmówił współpracy z Napoleonem
+- **A. Józef Poniatowski** – aktywnie współpracował z Napoleonem i został ministrem wojny Księstwa
+- **C. Stanisław Szczęsny Potocki** – był politykiem okresu Księstwa, ale nie odmówił współpracy z Napoleonem
+- **D. Jan Henryk Dąbrowski** – współpracował z Napoleonem i organizował polskie wojska
 
 ---
 
@@ -172,12 +174,12 @@ Tadeusz Kościuszko odmówił zaangażowania się w przedsięwzięcie Napoleona,
 **Pytanie:**
 Jaki był główny cel polityki Napoleona Bonaparte wobec sprawy polskiej w latach 1807-1815?
 
-**A.** Uzyskanie poparcia Polaków w walce z mocarstwami zaborczymi
-**B.** Przywrócenie Polski w granicach sprzed 1772 roku
-**C.** Stworzenie niezależnego od Francji państwa polskiego
-**D.** Zjednoczenie wszystkich ziem polskich pod berłem polskim
+**A.** Przywrócenie Polski w granicach sprzed 1772 roku
+**B.** Stworzenie niezależnego od Francji państwa polskiego
+**C.** Zjednoczenie wszystkich ziem polskich pod berłem polskim
+**D.** Uzyskanie poparcia Polaków w walce z mocarstwami zaborczymi
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Głównym celem Napoleona było uzyskanie poparcia Polaków dla swojej polityki i wykorzystanie ich wojsk w walce z mocarstwami zaborczymi, szczególnie Rosją, Prusami i Austrią. Nie zamierzał przywracać Polski w pełnych granicach, ponieważ naruszałoby to interesy jego sojuszników i przeciwników.
@@ -187,9 +189,9 @@ Głównym celem Napoleona było uzyskanie poparcia Polaków dla swojej polityki 
 - https://pl.wikipedia.org/wiki/Napoleon_Bonaparte
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Przywrócenie Polski w granicach sprzed 1772 roku** – Napoleon nie zamierzał przywracać pełnych granic, co naruszyłoby interesy innych mocarstw
-- **C. Stworzenie niezależnego od Francji państwa polskiego** – Księstwo było zależne od Francji i podlegało francuskiemu nadzorowi
-- **D. Zjednoczenie wszystkich ziem polskich pod berłem polskim** – Napoleon nie zamierzał jednoczyć wszystkich ziem polskich
+- **A. Przywrócenie Polski w granicach sprzed 1772 roku** – Napoleon nie zamierzał przywracać pełnych granic, co naruszyłoby interesy innych mocarstw
+- **B. Stworzenie niezależnego od Francji państwa polskiego** – Księstwo było zależne od Francji i podlegało francuskiemu nadzorowi
+- **C. Zjednoczenie wszystkich ziem polskich pod berłem polskim** – Napoleon nie zamierzał jednoczyć wszystkich ziem polskich
 
 ---
 
@@ -200,12 +202,12 @@ Głównym celem Napoleona było uzyskanie poparcia Polaków dla swojej polityki 
 **Pytanie:**
 W wyniku jakiego wydarzenia z 1809 roku terytorium Księstwa Warszawskiego zostało powiększone o zachodnią Galicję?
 
-**A.** Wojny z Austrią
-**B.** Powstania wielkopolskiego
+**A.** Powstania wielkopolskiego
+**B.** Bitwy pod Lipskiem
 **C.** Wyprawy na Rosję
-**D.** Bitwy pod Lipskiem
+**D.** Wojny z Austrią
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 W 1809 roku wybuchła wojna między Francją a Austrią. Wojska Księstwa Warszawskiego pod dowództwem księcia Józefa Poniatowskiego przeszły do kontrofensywy, zajmując należącą do zaboru austriackiego Galicję Zachodnią. Na mocy pokoju w Schönbrunn z 14 października 1809 roku Księstwo zostało powiększone o te tereny.
@@ -215,9 +217,9 @@ W 1809 roku wybuchła wojna między Francją a Austrią. Wojska Księstwa Warsza
 - https://pl.wikipedia.org/wiki/Wojna_polsko-austriacka_1809
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Powstanie wielkopolskiego** – miało miejsce w 1806 roku, przed utworzeniem Księstwa
+- **A. Powstanie wielkopolskiego** – miało miejsce w 1806 roku, przed utworzeniem Księstwa
+- **B. Bitwy pod Lipskiem** – miała miejsce w 1813 roku, podczas odwrotu z Rosji
 - **C. Wyprawy na Rosję** – miała miejsce w 1812 roku, po powiększeniu terytorium
-- **D. Bitwy pod Lipskiem** – miała miejsce w 1813 roku, podczas odwrotu z Rosji
 
 ---
 
@@ -228,12 +230,12 @@ W 1809 roku wybuchła wojna między Francją a Austrią. Wojska Księstwa Warsza
 **Pytanie:**
 Jaką rolę sprawował francuski rezydent w Księstwie Warszawskim?
 
-**A.** Kontrolował realizację dyrektyw cesarskich i politykę Księstwa
-**B.** Był doradcą monarchy w sprawach wewnętrznych
-**C.** Reprezentował Księstwo na arenie międzynarodowej
+**A.** Był doradcą monarchy w sprawach wewnętrznych
+**B.** Reprezentował Księstwo na arenie międzynarodowej
+**C.** Kontrolował realizację dyrektyw cesarskich i politykę Księstwa
 **D.** Dowodził wojskami francuskimi stacjonującymi w Księstwie
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Rezydent francuski urzędujący w Warszawie sprawował rzeczywistą władzę w Księstwie Warszawskim. Czuwał nad wypełnianiem przez administrację Księstwa dyrektyw cesarskich przysyłanych z Paryża i był głównym łącznikiem między Napoleonem a władzami Księstwa.
@@ -242,8 +244,8 @@ Rezydent francuski urzędujący w Warszawie sprawował rzeczywistą władzę w K
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Był doradcą monarchy w sprawach wewnętrznych** – rezydent miał znacznie szersze uprawnienia niż doradca
-- **C. Reprezentował Księstwo na arenie międzynarodowej** – rezydent reprezentował interesy Francji, nie Księstwa
+- **A. Był doradcą monarchy w sprawach wewnętrznych** – rezydent miał znacznie szersze uprawnienia niż doradca
+- **B. Reprezentował Księstwo na arenie międzynarodowej** – rezydent reprezentował interesy Francji, nie Księstwa
 - **D. Dowodził wojskami francuskimi stacjonującymi w Księstwie** – rezydent nie był dowódcą wojskowym
 
 ---
@@ -255,12 +257,12 @@ Rezydent francuski urzędujący w Warszawie sprawował rzeczywistą władzę w K
 **Pytanie:**
 Ile żołnierzy polskich walczyło u boku Napoleona podczas wyprawy na Rosję w 1812 roku?
 
-**A.** Około 100 tysięcy
-**B.** Około 30 tysięcy
+**A.** Około 30 tysięcy
+**B.** Około 200 tysięcy
 **C.** Około 50 tysięcy
-**D.** Około 200 tysięcy
+**D.** Około 100 tysięcy
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Podczas wyprawy na Rosję w 1812 roku około 100 tysięcy polskich żołnierzy walczyło u boku Napoleona. Większość oddziałów polskich była rozproszona w jednostkach francuskich, a jedynie V Korpus pod bezpośrednim dowództwem gen. Józefa Poniatowskiego liczył 35 tysięcy żołnierzy.
@@ -270,9 +272,9 @@ Podczas wyprawy na Rosję w 1812 roku około 100 tysięcy polskich żołnierzy w
 - https://pl.wikipedia.org/wiki/Wojna_1812_roku
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Około 30 tysięcy** – tylu żołnierzy liczył V Korpus pod dowództwem Poniatowskiego
+- **A. Około 30 tysięcy** – tylu żołnierzy liczył V Korpus pod dowództwem Poniatowskiego
+- **B. Około 200 tysięcy** – zawyżona liczba, tak dużej armii polskiej nie istniało
 - **C. Około 50 tysięcy** – znacznie zaniżona liczba, łącznie było około 100 tysięcy
-- **D. Około 200 tysięcy** – zawyżona liczba, tak dużej armii polskiej nie istniało
 
 ---
 
@@ -283,12 +285,12 @@ Podczas wyprawy na Rosję w 1812 roku około 100 tysięcy polskich żołnierzy w
 **Pytanie:**
 Jakie wydarzenie z 1813 roku praktycznie zakończyło istnienie Księstwa Warszawskiego?
 
-**A.** Wkroczenie wojsk rosyjskich na terytorium Księstwa
-**B.** Abdykacja Fryderyka Augusta I
-**C.** Podpisanie traktatu w Kielcach
+**A.** Abdykacja Fryderyka Augusta I
+**B.** Podpisanie traktatu w Kielcach
+**C.** Wkroczenie wojsk rosyjskich na terytorium Księstwa
 **D.** Wybuch powstania antyfrancuskiego
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Po klęsce Napoleona w Rosji w 1812 roku, na terytorium Księstwa Warszawskiego wkroczyły wojska rosyjskie, kładąc praktycznie kres jego istnieniu. Od lutego 1813 roku Księstwo było okupowane przez Rosję, a 18 marca 1813 roku Aleksander I powołał Tymczasową Radę Najwyższą Księstwa Warszawskiego.
@@ -297,8 +299,8 @@ Po klęsce Napoleona w Rosji w 1812 roku, na terytorium Księstwa Warszawskiego 
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Abdykacja Fryderyka Augusta I** – abdykacja miała miejsce w 1815 roku, po kongresie wiedeńskim
-- **C. Podpisanie traktatu w Kielcach** – taki traktat nie istniał
+- **A. Abdykacja Fryderyka Augusta I** – abdykacja miała miejsce w 1815 roku, po kongresie wiedeńskim
+- **B. Podpisanie traktatu w Kielcach** – taki traktat nie istniał
 - **D. Wybuch powstania antyfrancuskiego** – takie powstanie nie wybuchło w 1813 roku
 
 ---
@@ -310,12 +312,12 @@ Po klęsce Napoleona w Rosji w 1812 roku, na terytorium Księstwa Warszawskiego 
 **Pytanie:**
 Które mocarstwo otrzymało największą część terytorium Księstwa Warszawskiego na kongresie wiedeńskim w 1815 roku?
 
-**A.** Imperium Rosyjskie
-**B.** Królestwo Prus
-**C.** Cesarstwo Austrii
-**D.** Cesarstwo Francuskie
+**A.** Królestwo Prus
+**B.** Cesarstwo Austrii
+**C.** Cesarstwo Francuskie
+**D.** Imperium Rosyjskie
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Na kongresie wiedeńskim w 1815 roku większość terytorium Księstwa Warszawskiego przypadła Rosji, gdzie utworzono podległe jej Królestwo Polskie w unii personalnej z carami Rosji. Prusy otrzymały zachodnią część (Wielkie Księstwo Poznańskie i ziemię chełmińską), a Austria – okręg Wieliczki.
@@ -325,9 +327,9 @@ Na kongresie wiedeńskim w 1815 roku większość terytorium Księstwa Warszawsk
 - https://pl.wikipedia.org/wiki/Kongres_wiede%C5%84ski_(1815)
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Królestwo Prus** – Prusy otrzymały tylko zachodnią część Księstwa
-- **C. Cesarstwo Austrii** – Austria otrzymała tylko okręg Wieliczki
-- **D. Cesarstwo Francuskie** – Francja nie otrzymała żadnej części terytorium Księstwa
+- **A. Królestwo Prus** – Prusy otrzymały tylko zachodnią część Księstwa
+- **B. Cesarstwo Austrii** – Austria otrzymała tylko okręg Wieliczki
+- **C. Cesarstwo Francuskie** – Francja nie otrzymała żadnej części terytorium Księstwa
 
 ---
 
@@ -338,12 +340,12 @@ Na kongresie wiedeńskim w 1815 roku większość terytorium Księstwa Warszawsk
 **Pytanie:**
 Jaki był gospodarczy skutek blokady kontynentalnej wprowadzonej przez Napoleona dla Księstwa Warszawskiego?
 
-**A.** Spadek eksportu zboża do Anglii
-**B.** Rozwój handlu z Francją
-**C.** Zwiększenie produkcji przemysłowej
+**A.** Rozwój handlu z Francją
+**B.** Zwiększenie produkcji przemysłowej
+**C.** Spadek eksportu zboża do Anglii
 **D.** Wzrost dochodów ludności
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Wprowadzenie blokady kontynentalnej wobec Wielkiej Brytanii poważnie osłabił handel zagraniczny Księstwa, który dotychczas opierał się na eksporcie zboża do Anglii. Polskie rolnictwo straciło główny rynek zbytu, co negatywnie wpłynęło na gospodarkę Księstwa.
@@ -352,8 +354,8 @@ Wprowadzenie blokady kontynentalnej wobec Wielkiej Brytanii poważnie osłabił 
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Rozwój handlu z Francją** – handel z Francją się rozwijał, ale nie zrekompensował strat z rynku angielskiego
-- **C. Zwiększenie produkcji przemysłowej** – blokada nie spowodowała zwiększenia produkcji przemysłowej
+- **A. Rozwój handlu z Francją** – handel z Francją się rozwijał, ale nie zrekompensował strat z rynku angielskiego
+- **B. Zwiększenie produkcji przemysłowej** – blokada nie spowodowała zwiększenia produkcji przemysłowej
 - **D. Wzrost dochodów ludności** – blokady nie spowodowały wzrostu dochodów ludności
 
 ---
@@ -365,12 +367,12 @@ Wprowadzenie blokady kontynentalnej wobec Wielkiej Brytanii poważnie osłabił 
 **Pytanie:**
 Dlaczego szlachta i kler w Księstwie Warszawskim byli początkowo niechętne wobec Napoleona?
 
-**A.** Obawiały się reform liberalnych i konfiskat majątków
-**B.** Preferowały sojusz z Rosją
-**C.** Wspierały przeciwników Francji
-**D.** Odmawiały uznania władzy Fryderyka Augusta
+**A.** Preferowały sojusz z Rosją
+**B.** Wspierały przeciwników Francji
+**C.** Odmawiały uznania władzy Fryderyka Augusta
+**D.** Obawiały się reform liberalnych i konfiskat majątków
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Konserwatywna część szlachty oraz biskupi obawiali się wprowadzenia przez Napoleona reform wewnętrznych w duchu liberalnym, kojarzonych z rewolucją francuską. Obawiano się także konfiskat majątków i innych represji ze strony władz pruskich w przypadku przywrócenia terytorialnego status quo.
@@ -379,9 +381,9 @@ Konserwatywna część szlachty oraz biskupi obawiali się wprowadzenia przez Na
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Preferowały sojusz z Rosją** – niektórzy preferowali sojusz z Rosją, ale główną przyczyną niechęci były obawy przed reformami
-- **C. Wspierały przeciwników Francji** – szlachta nie wspierała czynnie przeciwników Francji
-- **D. Odmawiały uznania władzy Fryderyka Augusta** – nie odmawiały uznania władzy monarchy
+- **A. Preferowały sojusz z Rosją** – niektórzy preferowali sojusz z Rosją, ale główną przyczyną niechęci były obawy przed reformami
+- **B. Wspierały przeciwników Francji** – szlachta nie wspierała czynnie przeciwników Francji
+- **C. Odmawiały uznania władzy Fryderyka Augusta** – nie odmawiały uznania władzy monarchy
 
 ---
 
@@ -392,12 +394,12 @@ Konserwatywna część szlachty oraz biskupi obawiali się wprowadzenia przez Na
 **Pytanie:**
 Jaki był podział etniczny ludności Księstwa Warszawskiego według spisu z 1810 roku?
 
-**A.** Polacy stanowili około 79% populacji
-**B.** Polacy stanowili około 60% populacji
+**A.** Polacy stanowili około 60% populacji
+**B.** Polacy stanowili około 50% populacji
 **C.** Polacy stanowili około 90% populacji
-**D.** Polacy stanowili około 50% populacji
+**D.** Polacy stanowili około 79% populacji
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Według spisu ludności z 1810 roku Polacy stanowili 79,2% populacji Księstwa Warszawskiego. Pozostałe grupy to: Żydzi (7,0%), Niemcy (5,8%), Litwini (4,1%) i Rusini (3,9%). Pod względem wyznaniowym dominowali katolicy (84,4%).
@@ -406,9 +408,9 @@ Według spisu ludności z 1810 roku Polacy stanowili 79,2% populacji Księstwa W
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Polacy stanowili około 60% populacji** – zaniżona liczba, Polacy stanowili około 79%
+- **A. Polacy stanowili około 60% populacji** – zaniżona liczba, Polacy stanowili około 79%
+- **B. Polacy stanowili około 50% populacji** – znacznie zaniżona liczba, Polacy stanowili około 79%
 - **C. Polacy stanowili około 90% populacji** – zawyżona liczba, Polacy stanowili około 79%
-- **D. Polacy stanowili około 50% populacji** – znacznie zaniżona liczba, Polacy stanowili około 79%
 
 ---
 
@@ -419,12 +421,12 @@ Według spisu ludności z 1810 roku Polacy stanowili 79,2% populacji Księstwa W
 **Pytanie:**
 Jaki był polityczny skutek powstania Księstwa Warszawskiego dla dążeń niepodległościowych Polaków?
 
-**A.** Pierwsze odrodzenie państwowości po rozbiorach
-**B.** Pełne odzyskanie niepodległości
-**C.** Przywrócenie granic sprzed 1772 roku
-**D.** Zakończenie epoki rozbiorów
+**A.** Pełne odzyskanie niepodległości
+**B.** Zakończenie epoki rozbiorów
+**C.** Pierwsze odrodzenie państwowości po rozbiorach
+**D.** Przywrócenie granic sprzed 1772 roku
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Powstanie Księstwa Warszawskiego było pierwszym odrodzeniem państwowości po rozbiorach. Choć nie przyniosło pełnej niepodległości i przywrócenia granic sprzed 1772 roku, zachowało polską tożsamość państwową i stworzyło struktury, które później posłużyły do budowy Królestwa Polskiego w 1815 roku.
@@ -433,9 +435,9 @@ Powstanie Księstwa Warszawskiego było pierwszym odrodzeniem państwowości po 
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Pełne odzyskanie niepodległości** – Księstwo nie było w pełni niepodległe, zależało od Francji
-- **C. Przywrócenie granic sprzed 1772 roku** – granice nie zostały przywrócone w całości
-- **D. Zakończenie epoki rozbiorów** – epoka rozbiorów trwała nadal po 1815 roku
+- **A. Pełne odzyskanie niepodległości** – Księstwo nie było w pełni niepodległe, zależało od Francji
+- **B. Zakończenie epoki rozbiorów** – epoka rozbiorów trwała nadal po 1815 roku
+- **D. Przywrócenie granic sprzed 1772 roku** – granice nie zostały przywrócone w całości
 
 ---
 
@@ -446,12 +448,12 @@ Powstanie Księstwa Warszawskiego było pierwszym odrodzeniem państwowości po 
 **Pytanie:**
 Kto był pierwszym i jedynym księciem warszawskim w latach 1807-1815?
 
-**A.** Fryderyk August I
-**B.** Napoleon Bonaparte
-**C.** Józef Poniatowski
-**D.** Stanisław August Poniatowski
+**A.** Napoleon Bonaparte
+**B.** Stanisław August Poniatowski
+**C.** Fryderyk August I
+**D.** Józef Poniatowski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Fryderyk August I był królem Saksonii i został księciem warszawskim w 1807 roku. Był wnukiem Augusta III Sasa, co dawało nadzieję na powrót do unii polsko-saskiej.
@@ -461,9 +463,9 @@ Fryderyk August I był królem Saksonii i został księciem warszawskim w 1807 r
 - https://pl.wikipedia.org/wiki/Fryderyk_August_I
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Napoleon Bonaparte** – był cesarzem Francuzów i protektorem Księstwa, ale nie był księciem warszawskim
-- **C. Józef Poniatowski** – był ministrem wojny i naczelnym wodzem armii Księstwa, ale nie władcą
-- **D. Stanisław August Poniatowski** – był ostatnim królem Polski, abdykował w 1795 roku, przed utworzeniem Księstwa
+- **A. Napoleon Bonaparte** – był cesarzem Francuzów i protektorem Księstwa, ale nie był księciem warszawskim
+- **B. Stanisław August Poniatowski** – był ostatnim królem Polski, abdykował w 1795 roku, przed utworzeniem Księstwa
+- **D. Józef Poniatowski** – był ministrem wojny i naczelnym wodzem armii Księstwa, ale nie władcą
 
 ---
 
@@ -474,12 +476,12 @@ Fryderyk August I był królem Saksonii i został księciem warszawskim w 1807 r
 **Pytanie:**
 W którym roku utworzono Księstwo Warszawskie?
 
-**A.** 1807
-**B.** 1810
+**A.** 1810
+**B.** 1795
 **C.** 1815
-**D.** 1795
+**D.** 1807
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Księstwo Warszawskie zostało utworzone w 1807 roku na mocy traktatu pokojowego w Tylży, zawartego między Napoleonem a carem Aleksandrem I po zwycięstwie Francji nad Prusami.
@@ -489,9 +491,9 @@ Księstwo Warszawskie zostało utworzone w 1807 roku na mocy traktatu pokojowego
 - https://pl.wikipedia.org/wiki/Pok%C3%B3j_w_Tyl%C5%BCy
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. 1810** – rok, w którym Napoleon rozdysponował część majątków ziemskich dla francuskich generałów
+- **A. 1810** – rok, w którym Napoleon rozdysponował część majątków ziemskich dla francuskich generałów
+- **B. 1795** – rok III rozbioru Polski, kiedy Księstwo jeszcze nie istniało
 - **C. 1815** – rok likwidacji Księstwa na kongresie wiedeńskim
-- **D. 1795** – rok III rozbioru Polski, kiedy Księstwo jeszcze nie istniało
 
 ---
 
@@ -502,12 +504,12 @@ Księstwo Warszawskie zostało utworzone w 1807 roku na mocy traktatu pokojowego
 **Pytanie:**
 Które miasto było stolicą Księstwa Warszawskiego?
 
-**A.** Warszawa
-**B.** Poznań
-**C.** Kraków
-**D.** Gdańsk
+**A.** Poznań
+**B.** Gdańsk
+**C.** Warszawa
+**D.** Kraków
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:**
 Warszawa była stolicą Księstwa Warszawskiego od jego utworzenia w 1807 roku do likwidacji w 1815 roku. Znajdowała się tu siedziba władz państwowych: Rady Ministrów, Rady Stanu i Sejmu.
@@ -516,9 +518,9 @@ Warszawa była stolicą Księstwa Warszawskiego od jego utworzenia w 1807 roku d
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Poznań** – był ważnym miastem Księstwa, ale nie był jego stolicą
-- **C. Kraków** – znajdował się pod zaborem austriackim w latach 1807-1815
-- **D. Gdańsk** – był wolnym miastem pod ochroną Francji w latach 1807-1814
+- **A. Poznań** – był ważnym miastem Księstwa, ale nie był jego stolicą
+- **B. Gdańsk** – był wolnym miastem pod ochroną Francji w latach 1807-1814
+- **D. Kraków** – znajdował się pod zaborem austriackim w latach 1807-1815
 
 ---
 
@@ -529,12 +531,12 @@ Warszawa była stolicą Księstwa Warszawskiego od jego utworzenia w 1807 roku d
 **Pytanie:**
 Kto był ministrem wojny Księstwa Warszawskiego i naczelnym wodzem polskich wojsk?
 
-**A.** Józef Poniatowski
-**B.** Jan Henryk Dąbrowski
-**C.** Tadeusz Kościuszko
-**D.** Józef Zajączek
+**A.** Jan Henryk Dąbrowski
+**B.** Tadeusz Kościuszko
+**C.** Józef Zajączek
+**D.** Józef Poniatowski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Książę Józef Poniatowski był ministrem wojny Księstwa Warszawskiego od 1807 roku i naczelnym wodzem polskich wojsk. Zginął w 1813 roku w bitwie pod Lipskiem, osłaniając odwrót armii francuskiej.
@@ -544,9 +546,9 @@ Książę Józef Poniatowski był ministrem wojny Księstwa Warszawskiego od 180
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Poniatowski
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Jan Henryk Dąbrowski** – był generałem i twórcą Legionów Polskich, ale nie ministrem wojny
-- **C. Tadeusz Kościuszko** – odmówił współpracy z Napoleonem i nie brał udziału w sprawach Księstwa
-- **D. Józef Zajączek** – był generałem i dowódcą dywizji, ale nie ministrem wojny
+- **A. Jan Henryk Dąbrowski** – był generałem i twórcą Legionów Polskich, ale nie ministrem wojny
+- **B. Tadeusz Kościuszko** – odmówił współpracy z Napoleonem i nie brał udziału w sprawach Księstwa
+- **C. Józef Zajączek** – był generałem i dowódcą dywizji, ale nie ministrem wojny
 
 ---
 
@@ -557,12 +559,12 @@ Książę Józef Poniatowski był ministrem wojny Księstwa Warszawskiego od 180
 **Pytanie:**
 W którym mieście w 1815 roku podjęto decyzję o likwidacji Księstwa Warszawskiego?
 
-**A.** Wiedeń
-**B.** Paryż
+**A.** Paryż
+**B.** Moskwa
 **C.** Berlin
-**D.** Moskwa
+**D.** Wiedeń
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Kongres wiedeński w 1815 roku podjął decyzję o likwidacji Księstwa Warszawskiego. Terytorium Księstwa zostało podzielone między Rosję, Prusy i Austrię, a z większości ziem utworzono Królestwo Polskie połączone unią personalną z Rosją.
@@ -572,9 +574,9 @@ Kongres wiedeński w 1815 roku podjął decyzję o likwidacji Księstwa Warszaws
 - https://pl.wikipedia.org/wiki/Kongres_wiede%C5%84ski_(1815)
 
 **Analiza odpowiedzi nieprawidłowych:**
-- **B. Paryż** – stolica Francji, nie miejsce decydowania o losach Księstwa
+- **A. Paryż** – stolica Francji, nie miejsce decydowania o losach Księstwa
+- **B. Moskwa** – stolica Rosji, nie miejsce kongresu wiedeńskiego
 - **C. Berlin** – stolica Prus, jednego z zaborców
-- **D. Moskwa** – stolica Rosji, nie miejsce kongresu wiedeńskiego
 
 ---
 

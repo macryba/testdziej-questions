@@ -26,11 +26,11 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 **Pytanie:** Który król Polski prowadził wojnę z Zakonem Krzyżackim w latach 1454-1466?
 
 **A.** Władysław Jagiełło
-**B.** Kazimierz IV Jagiellończyk
-**C.** Jan Olbracht
+**B.** Jan Olbracht
+**C.** Kazimierz IV Jagiellończyk
 **D.** Zygmunt Stary
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Kazimierz IV Jagiellończyk był królem Polski podczas wojny trzynastoletniej. Poparł Związek Pruski i wypowiedział wojnę Zakonowi Krzyżackiemu w 1454 roku.
 
@@ -38,10 +38,10 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
-**Analiza niepoprawnych odpowiedzi:**
-- Władysław Jagiełło żył w latach ok. 1362-1434 i zmarł przed wybuchem wojny trzynastoletniej
-- Jan Olbracht był królem Polski w latach 1492-1501, ponad 40 lat po zakończeniu wojny
-- Zygmunt Stary panował w latach 1506-1548, długo po wojnie trzynastoletniej
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Władysław Jagiełło) – incorrect from Unia krewska: Władysław Jagiełło żył w latach ok. 1362-1434 i zmarł przed wybuchem wojny trzynastoletniej
+- Odpowiedź C (Jan Olbracht) – incorrect from Kazimierz Jagiellończyk: Jan Olbracht był królem Polski w latach 1492-1501, ponad 40 lat po zakończeniu wojny
+- Odpowiedź D (Zygmunt Stary) – incorrect from Zygmunt Stary: Zygmunt Stary panował w latach 1506-1548, długo po wojnie trzynastoletniej
 
 ---
 
@@ -64,10 +64,10 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Zwi%C4%85zek_Pruski
 
-**Analiza niepoprawnych odpowiedzi:**
-- 1410 to rok bitwy pod Grunwaldem (wojna polsko-krzyżacka 1409-1411)
-- 1466 to rok zakończenia wojny trzynastoletniej (drugi pokój toruński)
-- 1525 to rok secularizacji Prus Zakonnych i hołdu pruskiego
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (1410) – incorrect from Grunwald: Rok bitwy pod Grunwaldem podczas wojny polsko-krzyżackiej 1409-1411
+- Odpowiedź C (1466) – no referenced answer: Rok zakończenia wojny trzynastoletniej (drugi pokój toruński)
+- Odpowiedź D (1525) – incorrect from Zygmunt Stary: Rok secularizacji Prus Zakonnych i hołdu pruskiego
 
 ---
 
@@ -78,11 +78,11 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 **Pytanie:** Które miasto stało się stolicą Prus Królewskich po wojnie trzynastoletniej?
 
 **A.** Malbork
-**B.** Gdańsk
-**C.** Toruń
+**B.** Toruń
+**C.** Gdańsk
 **D.** Elbląg
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Gdańsk był głównym miastem Prus Królewskich, które zostały przyłączone do Polski po wojnie trzynastoletniej. Miasto odgrywało kluczową rolę jako port bałtycki i centrum handlowe.
 
@@ -90,10 +90,10 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Prusy_Kr%C3%B3lewskie
 
-**Analiza niepoprawnych odpowiedzi:**
-- Malbork pozostał siedzibą wielkich mistrzów zakonu krzyżackiego (w Prusach Książęcych)
-- Toruń był ważnym miastem Prus Królewskich, ale nie był stolicą
-- Elbląg był znaczącym portem, ale nie był głównym miastem Prus Królewskich
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Malbork) – no referenced answer: Malbork pozostał siedzibą wielkich mistrzów zakonu krzyżackiego w Prusach Książęcych
+- Odpowiedź B (Toruń) – no referenced answer: Toruń był ważnym miastem Prus Królewskich, ale nie był stolicą
+- Odpowiedź D (Elbląg) – no referenced answer: Elbląg był znaczącym portem, ale nie był głównym miastem Prus Królewskich
 
 ---
 
@@ -103,12 +103,12 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 
 **Pytanie:** Co zmusiło Zakon Krzyżacki do zakończenia wojny trzynastoletniej?
 
-**A.** Klęska pod Grunwaldem
-**B.** Porażka w bitwie pod Świecinem i blokada morska
+**A.** Porażka w bitwie pod Świecinem i blokada morska
+**B.** Klęska pod Grunwaldem
 **C.** Śmierć wielkiego mistrza
 **D.** Pomoc ze strony cesarza
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Kluczową porażką zakonu była bitwa pod Świecinem w 1462 roku oraz skuteczna blokada morska Prus prowadzona przez flotę gdańską, która izolowała zakon zaopatrzeniowo.
 
@@ -116,10 +116,10 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Bitwa_pod_%C5%9Awiecinem
 
-**Analiza niepoprawnych odpowiedzi:**
-- Bitwa pod Grunwaldem wydarzyła się w 1410 roku, ponad 40 lat przed wojną trzynastoletnią
-- Śmierć wielkiego mistrza nie była decydującym czynnikiem zakończenia wojny
-- Cesarz nie udzielił zakonowi skutecznej pomocy w wojnie z Polską
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Klęska pod Grunwaldem) – incorrect from Grunwald: Bitwa pod Grunwaldem wydarzyła się w 1410 roku, ponad 40 lat przed wojną trzynastoletnią
+- Odpowiedź C (Śmierć wielkiego mistrza) – no referenced answer: Śmierć wielkiego mistrza nie była decydującym czynnikiem zakończenia wojny
+- Odpowiedź D (Pomoc ze strony cesarza) – no referenced answer: Cesarz nie udzielił zakonowi skutecznej pomocy w wojnie z Polską
 
 ---
 
@@ -129,12 +129,12 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 
 **Pytanie:** Który pokój zakończył wojnę trzynastoletnią w 1466 roku?
 
-**A.** Pierwszy pokój toruński
-**B.** Drugi pokój toruński
-**C.** Pokój melneński
-**D.** Pokój brzeski
+**A.** Pokój brzeski
+**B.** Pokój melneński
+**C.** Pierwszy pokój toruński
+**D.** Drugi pokój toruński
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Drugi pokój toruński, zawarty w 1466 roku, zakończył wojnę trzynastoletnią. Na jego mocy Polska odzyskała Pomorze Gdańskie, ziemię chełmińską i Warmię, a Zakon Krzyżacki złożył hołd lenny królowi polskiemu.
 
@@ -142,9 +142,9 @@ Wojna trzynastoletnia (1454-1466) była konfliktem zbrojnym między Królestwem 
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 
-**Analiza niepoprawnych odpowiedzi:**
-- Pierwszy pokój toruński zawarto w 1411 roku po wojnie 1409-1411
-- Pokój melneński podpisano w 1422 roku po wojnie golubskiej
-- Pokój brzeski dotyczył unii polsko-litewskiej w XVI wieku
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Pokój brzeski) – no referenced answer: Pokój brzeski dotyczył unii polsko-litewskiej w XVI wieku
+- Odpowiedź B (Pokój melneński) – no referenced answer: Pokój melneński podpisano w 1422 roku po wojnie golubskiej
+- Odpowiedź C (Pierwszy pokój toruński) – incorrect from Grunwald: Pierwszy pokój toruński zawarto w 1411 roku po wojnie 1409-1411
 
 ---

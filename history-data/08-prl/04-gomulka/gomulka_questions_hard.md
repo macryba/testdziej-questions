@@ -26,12 +26,12 @@ Ten rozdział analizuje głębokie przemiany polityczne, społeczne i gospodarcz
 **Pytanie:**
 Oceń, w jakim stopniu "Praska Wiosna" w Czechosłowacji (1968) wpłynęła na politykę władz PRL wobec protestów Marcowych. Czy reakcja Gomułki na wydarzenia w Czechosłowacji była spójna z jego wcześniejszą polityką "polskiej drogi do socjalizmu"?
 
-**A:** Gomułka poparł Praską Wiosnę, co było spójne z jego polityką reform
-**B:** Gomułka potępił Praską Wiosnę i poparł interwencję, co było sprzeczne z obietnicami "polskiej drogi"
+**A:** Gomułka próbował mediować między stronami konfliktu
+**B:** Gomułka poparł Praską Wiosnę, co było spójne z jego polityką reform
 **C:** Gomułka zignorował wydarzenia w Czechosłowacji
-**D:** Gomułka próbował mediować między stronami konfliktu
+**D:** Gomułka potępił Praską Wiosnę i poparł interwencję, co było sprzeczne z obietnicami "polskiej drogi"
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Gomułka stanowczo sprzeciwił się reformom Aleksandra Dubczeka i poparł inwazję wojsk Układu Warszawskiego na Czechosłowację w sierpniu 1968. To było wyraźne sprzecznie z jego wcześniejszą retoryką o "polskiej drodze do socjalizmu" z 1956 roku. Reakcja Gomułki pokazała, że jego "odwilż" miała charakter ograniczony i nie zamierzał pozwolić na rzeczywistą demokratyzację systemu. Przykład Czechosłowacji uznał za groźny precedens, który mógłby zainspirować podobne dążenia w Polsce.
@@ -54,12 +54,12 @@ Gomułka stanowczo sprzeciwił się reformom Aleksandra Dubczeka i poparł inwaz
 **Pytanie:**
 Porównaj mechanizmy i skutki kampanii antysemickiej z 1968 roku z wcześniejszymi prześladowaniami w PRL. W czym kampania marcowa była unikalna i jak wpłynęła na strukturę aparatu partyjnego i społeczeństwa?
 
-**A:** Kampania marcowa była identyczna jak wcześniejsze czystki stalinowskie
-**B:** Kampania marcowa była unikalna, ponieważ skierowana była przeciwko osobom już zintegrowanym z systemem
-**C:** Kampania marcowa nie miała znaczącego wpływu na strukturę partii
-**D:** Kampania marcowa była spontaniczną reakcją społeczeństwa
+**A:** Kampania marcowa nie miała znaczącego wpływu na strukturę partii
+**B:** Kampania marcowa była identyczna jak wcześniejsze czystki stalinowskie
+**C:** Kampania marcowa była spontaniczną reakcją społeczeństwa
+**D:** Kampania marcowa była unikalna, ponieważ skierowana była przeciwko osobom już zintegrowanym z systemem
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:**
 Kampania antysemicka z 1968 roku była unikalna, ponieważ skierowana była przeciwko tzw. komunistycznych patriotów — osobom pochodzenia żydowskiego, które po wojnie aktywnie budowały system komunistyczny w Polsce. Wiele z nich zajmowało wysokie stanowiska w aparacie partyjnym, bezpieczeństwie, wojsku i nauce. Czystka miała miejsce na niespotykaną skalę — z partii usunięto ponad 8 tysięcy członków, a z kraju wyemigrowało 13-20 tysięcy osób. W przeciwieństwie do stalinizmu lat 50. kampania marcowa nie tyle opierała się na represjach karnych, co na przymusowej emigracji i wykluczeniu z życia publicznego.
@@ -81,12 +81,12 @@ Kampania antysemicka z 1968 roku była unikalna, ponieważ skierowana była prze
 **Pytanie:**
 Oceń bilans rządów Gomułki z perspektywy długofalowych skutków dla PRL. Czy okres 1956-1970 był czasem "zmarnowanych szans" na reformy systemu, czy koniecznym etapem stabilizacji po stalinizmie? Uzasadnij swoją odpowiedź, odnosząc się do osiągnięć gospodarczych, polityki społecznej i stosunków międzynarodowych.
 
-**A:** Okres Gomułki był wyłącznie czasem stabilizacji bez żadnych szans na reformy
-**B:** Okres Gomułki był czasem zmarnowanych szans na głębokie reformy systemu
+**A:** Okres Gomułki był czasem zmarnowanych szans na głębokie reformy systemu
+**B:** Okres Gomułki był wyłącznie czasem stabilizacji bez żadnych szans na reformy
 **C:** Okres Gomułki przyniósł znaczące reformy gospodarcze i polityczne
 **D:** Okres Gomułki nie miał żadnego wpływu na dalsze losy PRL
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:**
 Bilans rządów Gomułka jest w znacznym stopniu negatywny z perspektywy długofalowych skutków. Początkowe obietnice "polskiej drogi do socjalizmu" i liberalizacji nie zostały zrealizowane. Zamiast tego system zaczął "odwracać się od zdobyczy Października" - ograniczano swobody, wzmacniano cenzurę, eskalowano konflikt z Kościołem. Gospodarka popadła w kłopoty, co doprowadziło do Grudnia 1970. Stosunki międzynarodowe (z ZSRR i Zachodem) nie uległy znaczącej poprawie. Marzec 1968 zniszczył autorytet moralny władz i zmusił inteligencję do emigracji. Można więc uznać ten okres za "zmarnowane szanse" - miały miejsce, ale nie zostały wykorzystane. Upadek Gomułki w 1970 był logicznym skutkiem tej nieudolności.

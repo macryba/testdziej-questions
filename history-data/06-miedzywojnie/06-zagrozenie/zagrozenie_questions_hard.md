@@ -23,7 +23,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Pytanie:** Przeanalizuj przyczyny wybuchu II wojny światowej w 1939 roku z perspektywy działań Niemiec, ZSRR, mocarstw zachodnich i Polski. Które stwierdzenie najlepiej oddaje złożoność tej odpowiedzialności?
 
-**A)** Wybuch wojny w 1939 roku był wyłącznie wynikiem agresywnej polityki Adolfa Hitlera, który dążył do podboju Europy, podczas gdy inne mocarstwa (Francja, Wielka Brytania, ZSRR, Polska) usiłowały go powstrzymać dyplomatycznymi środkami
+**A)** Wybuch wojny był wyłącznie wynikiem agresywnej polityki Adolfa Hitlera, który dążył do podboju Europy, podczas gdy inne mocarstwa (Francja, Wielka Brytania, ZSRR, Polska) usiłowały go powstrzymać dyplomatycznymi środkami
 
 **B)** Wybuch wojny był skutkiem zbiorowej porażki dyplomacji europejskiej – ekspansji Niemiec i ZSRR, polityki ustępstw (appeasement) Francji i Wielkiej Brytanii, izolacji Polski oraz braku skutecznej koalicji antyhitlerowskiej
 
@@ -52,15 +52,15 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Pytanie:** Oceń politykę zagraniczną Józefa Becka w latach 1933-1939, zwłaszcza jego zasadę "nie wchodzimy w cudze kłopoty" i odmowę sojuszu z ZSRR. Która ocena najlepiej oddaje złożoność tej dziedziczy?
 
-**A)** Polityka Becka była całkowicie słuszna i realistyczna – Polska nie mogła zawrzeć sojuszu z totalitarnym ZSRR, musiała zachować niezależność, a odmowa oddania Gdańska była kwestią honoru narodowego
+**A)** Polityka Becka była właściwa i pragmatyczna – Polska nie mogła zawrzeć sojuszu z totalitarnym ZSRR, musiała zachować niezależność, a odmowa oddania Gdańska była kwestią honoru narodowego
 
-**B)** Polityka Becka była katastrofalna i naiwna – jego odrzucenie possibility sojuszu z ZSRR lub Niemcami doprowadziło do izolacji Polski, a brak realnych gwarancji zachodnich czynił politykę "równowagi" iluzoryczną
+**B)** Polityka Becka okazała się niewystarczająca – jego odrzucenie możliwości sojuszu z ZSRR lub Niemcami doprowadziło do izolacji Polski, a brak realnych gwarancji zachodnich czynił politykę "równowagi" iluzoryczną
 
-**C)** Polityka Becka miał mieszany charakter – jego zasada niezależności była słuszna (odmowa udziału w podziale Czechosłowacji 1938), ale brak elastyczności w negocjacjach z ZSRR i przecenianie gwarancji zachodnich doprowadziły do izolacji Polski
+**C)** Polityka Becka nie różniła się znacząco od polityki innych państw regionu – wszyscy sąsiedzi Polski próbowali zachować neutralność, a los Polski był zdeterminowany wyłącznie przez działania wielkich mocarstw
 
-**D)** Polityka Becka nie różniła się znacząco od polityki innych państw regionu – wszyscy sąsiedzi Polski próbowali zachować neutralność, a los Polski był zdeterminowany wyłącznie przez działania wielkich mocarstw
+**D)** Polityka Becka miał mieszany charakter – jego zasada niezależności była właściwa, ale brak elastyczności w negocjacjach z ZSRR i przecenianie gwarancji zachodnich doprowadziły do izolacji Polski
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Polityka zagraniczna Józefa Becka (minister spraw zagranicznych 1932-1939) miała charakter złożony i wymaga rozróżnienia między sukcesami a porażkami. **Sukcesy:** Beck skutecznie zachował niezależność Polski – odmówił niemieckim żądaniom oddania Gdańska i udziału w podziale Czechosłowacji (październik 1938), co zachowało honor narodowy. Zawarł sojusz z Francją (1921, odnowiony 1939) i Rumunią (1939), które teoretycznie miały gwarantować bezpieczeństwo. **Porażki:** Beck nie zdołał zbudować skutecznej koalicji antyhitlerowskiej – jego odmowa negocjacji z ZSRR (oferował sojz w 1939) doprowadziła do izolacji Polski. Polityka "równowagi" między Niemcami a ZSRR ("nie wchodzimy w cudze kłopoty") okazała się iluzoryczna, gdy oba totalitarne mocarstwa zawarły pakt Ribbentrop-Mołotow. Gwarancje zachodnie (Francja, Wielka Brytania) były słabe i nie zostały wykonane we wrześniu 1939 – Zachód nie pomógł Polsce realnie, jedynie wypowiedział wojnę Niemcom 3 września. **Ocena:** Beck miał rację co do odmowy kolaboracji z Hitlerem, ale błędnie ocenił, że Polska może przetrwać bez sojuszu z którymś z wielkich sąsiadów. Jego polityka była zbyt sztywna i nie wzięła pod uwagę, że Polska nie może przeciwstawić się obu totalitarnym mocarstwom jednocześnie.
 
@@ -72,8 +72,8 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Odpowiedź jest jednostronna i krzywdząca – Beck miał rację co do niezależności, ale jego polityka doprowadziła do izolacji Polski; nie docenił zagrożenia ze strony ZSRR i nie zbudował skutecznej koalicji
-- B) Odpowiedź jest krzywdząca – Beck nie był "naiwny", lecz realista, który wiedział, że sojz z ZSRR oznaczałby utratę niezależności; jego błąd polegał na przecenieniu gwarancji zachodnich i braku elastyczności
-- D) Odpowiedź jest błędna – polityka Becka była unikalna (próba równowagi między Niemcami a ZSRR), podczas gdy inni sąsiedzi (Czechosłowacja, Rumunia, Węgry) wybrali sojusze z jednym z mocarstw
+- B) Odpowiedź jest krzywdząca – Beck nie działał niewystarczająco, lecz jako realista, który wiedział, że sojusz z ZSRR oznaczałby utratę niezależności; jego błąd polegał na przecenieniu gwarancji zachodnich i braku elastyczności
+- C) Odpowiedź jest błędna – polityka Becka była unikalna (próba równowagi między Niemcami a ZSRR), podczas gdy inni sąsiedzi (Czechosłowacja, Rumunia, Węgry) wybrali sojusze z jednym z mocarstw
 
 ## Pytanie 3
 
@@ -81,11 +81,11 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 
 **Pytanie:** Dokonaj bilansu polityki zagranicznej II Rzeczypospolitej w latach 1933-1939. Które podsumowanie najlepiej oddaje złożoność osiągnięć i porażek?
 
-**A)** Polityka zagraniczna II RP była całkowitym sukcesem – Polska zachowała niezależność, zbudowała sojusze z Francją, Rumunią i Wielką Brytanią, a jedynym niepowodzeniem był atak Niemiec i ZSRR we wrześniu 1939
+**A)** Polityka zagraniczna II RP osiągnęła znakomite wyniki – Polska zachowała niezależność, zbudowała sojusze z Francją, Rumunią i Wielką Brytanią, a jedynym niepowodzeniem był atak Niemiec i ZSRR we wrześniu
 
-**B)** Polityka zagraniczna II RP była całkowitą porażką – Polska nie zdołała zbudować żadnych skutecznych sojuszy, została odizolowana dyplomatycznie i nie miała żadnych osiągnięć w latach 1933-1939
+**B)** Polityka zagraniczna II RP okazała się niesatysfakcjonująca – Polska nie zdołała zbudować żadnych skutecznych sojuszy, została odizolowana dyplomatycznie i nie miała żadnych osiągnięć w badanym okresie
 
-**C)** Bilans polityki zagranicznej II RP był mieszany – sukcesem było zachowanie niezależności i odmowa kolaboracji z Hitlerem (1938), ale porażką była izolacja Polski, brak skutecznej koalicji antyhitlerowskiej i niewystarczające gwarancje zachodnie
+**C)** Bilans polityki zagranicznej II RP był mieszany – sukcesem było zachowanie niezależności i odmowa kolaboracji z Hitlerem, ale porażką była izolacja Polski i brak skutecznej koalicji antyhitlerowskiej
 
 **D)** Polityka zagraniczna II RP nie różniła się od polityki innych państw regionu – wszyscy sąsiedzi mieli podobne sojusze i podobne problemy, a Polska nie była ani bardziej, ani mniej skuteczna
 
@@ -100,6 +100,6 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - Podstawa programowa – liceum_technikum_zpe.md, Dział XLII (zakres rozszerzony)
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Odpowiedź jest krzywdząca – Polska nie zachowała skutecznie niezależności w 1939, a sojusze okazały się niewystarczające; nie można nazwać tego "całkowitym sukcesem"
-- B) Odpowiedź jest krzywdząca – Polska miała istotne osiągnięcia (odmowa kolaboracji z Hitlerem 1938, pakt o nieagresji z ZSRR 1932), choć bilans był negatywny
+- A) Odpowiedź jest krzywdząca – Polska nie zachowała skutecznie niezależności, a sojusze okazały się niewystarczające; nie można nazwać tego "znakomitymi wynikami"
+- B) Odpowiedź jest krzywdząca – Polska miała istotne osiągnięcia (odmowa kolaboracji z Hitlerem, pakt o nieagresji z ZSRR), choć bilans był negatywny
 - D) Odpowiedź jest błędna – polityka Polski była unikalna (próba równowagi między Niemcami a ZSRR), podczas gdy inni sąsiedzi wybrali sojusze z jednym z mocarstw (Czechosłowacja – Francja, Rumunia – Polska + Francja, Węgry – Niemcy/Włochy)

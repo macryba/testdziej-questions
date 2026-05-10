@@ -57,8 +57,8 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 **Pytanie:** Które grupy społeczne poniosły największe koszty transformacji ustrojowej w latach 1989-1993?
 
 **A)** Pracownicy sektora prywatnego i rolnicy
-**B)** Pracownicy przedsiębiorstw państwowych i PGR-ów
-**C)** Inteligencja i przedsiębiorcy
+**B)** Pracownicy zakładów państwowych i PGR-ów
+**C)** Inteligencja oraz nowi przedsiębiorcy
 **D)** Pracownicy służby zdrowia i edukacji
 
 **Poprawna odpowiedź:** B
@@ -82,12 +82,12 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 
 **Pytanie:** Która koncepcja Tadeusza Mazowieckiego wywołała największe kontrowersje polityczne w 1989 roku?
 
-**A)** "Gruba kreska" — oddzielenie oceny przeszłości od budowania przyszłości
-**B)** Szybka integracja z Unią Europejską
-**C)** Pełna dekomunizacja aparatu państwowego
-**D)** Restytucja mienia prywatnego odebranego po 1945 roku
+**A)** Restytucja mienia prywatnego odebranego w okresie Polski Ludowej
+**B)** Szybka integracja z Unią Europejską i strukturami zachodnimi
+**C)** Pełna dekomunizacja aparatu państwowego i służb specjalnych
+**D)** "Gruba kreska" — oddzielenie oceny przeszłości od budowania przyszłości
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Koncepcja "grubej kreski" wygłoszona przez Tadeusza Mazowieckiego w jego exposé sejmowym (1989) wywołała największe kontrowersje. Polegała ona na oddzieleniu oceny przeszłości od konieczności budowania przyszłości i zaprzestaniu "polityki historycznej". Krytycy (m.in. Solidarność Walcząca) zarzucali Mazowieckiemu brak odwagi w rozliczaniu się z przeszłością komunistyczną i tolerowanie byłych funkcjonariuszy służb specjalnych w strukturach władzy.
 
@@ -96,10 +96,10 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- A (Poprawna): "Gruba kreska" — kontrowersyjna koncepcja polityczna Mazowieckiego
-- B (Niepoprawna): Szybka integracja z UE — nie była to kontrowersyjna koncepcja w 1989
-- C (Niepoprawna): Pełna dekomunizacja — nieprawda, Mazowiecki optował za "grubą kreską"
-- D (Niepoprawna): Restytucja mienia — problem istniał, ale nie był główną kontrowersją
+- A (Niepoprawna): Restytucja mienia prywatnego — problem istniał, ale nie był główną kontrowersją w 1989
+- B (Niepoprawna): Szybka integracja z UE — nie była to kontrowersyjna koncepcja w 1989, proces integracji rozpoczął się w 1994
+- C (Niepoprawna): Pełna dekomunizacja — nieprawda, Mazowiecki optował za "grubą kreską" zamiast pełnej dekomunizacji
+- D (Poprawna): "Gruba kreska" — kontrowersyjna koncepcja polityczna Mazowieckiego
 
 ---
 
@@ -108,10 +108,10 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 
 **Pytanie:** Które stwierdzenie najlepiej oddaje kontrowersje wokół procesu dekomunizacji i lustracji w latach 1989-1993?
 
-**A)** Dekomunizacja i lustracja były przeprowadzone szybko i kompleksowo
-**B)** Dekomunizacja i lustracja były prowadzone stopniowo i nie w pełni, co budziło krytykę
-**C)** Dekomunizacja i lustracja nie były przeprowadzone w ogóle
-**D)** Dekomunizacja i lustracja były przeprowadzone tylko wobec wyższych funkcjonariuszy partyjnych
+**A)** Dekomunizacja i lustracja nie były przeprowadzone w ogóle
+**B)** Procesy były prowadzone stopniowo i nie w pełni, co budziło krytykę
+**C)** Dekomunizacja i lustracja były przeprowadzone szybko i kompleksowo
+**D)** Dekomunizacja objęła tylko wyższych funkcjonariuszy partyjnych
 
 **Poprawna odpowiedź:** B
 
@@ -123,9 +123,9 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 - [Lustracja](https://pl.wikipedia.org/wiki/Lustracja) — Wikipedia Polska
 
 **Analiza niepoprawnych odpowiedzi:**
-- A (Niepoprawna): Szybko i kompleksowo — nieprawda, proces był powolny i ograniczony
+- A (Niepoprawna): Nie przeprowadzone w ogóle — nieprawda, rozwiązano PZPR i utworzono nowe służby
 - B (Poprawna): Stopniowo i nie w pełni — prawidłowa charakterystyka procesu dekomunizacji
-- C (Niepoprawna): Nie przeprowadzone w ogóle — nieprawda, rozwiązano PZPR i utworzono nowe służby
+- C (Niepoprawna): Szybko i kompleksowo — nieprawda, proces był powolny i ograniczony
 - D (Niepoprawna): Tylko wyżsi funkcjonariusze — zbyt uproszczone, lustracja była szersza, ale ograniczona
 
 ---

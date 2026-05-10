@@ -76,12 +76,12 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 
 **Pytanie:** Jak nazywało się sfałszowane referendum przeprowadzone przez władze komunistyczne w Polsce 30 czerwca 1946 roku?
 
-**A)** 3xTAK
-**B)** 4xNIE
-**C)** Referendum ludowe
-**D)** Wybory wolne
+**A)** Referendum ludowe
+**B)** 3xTAK
+**C)** Wybory wolne
+**D)** 4xNIE
 
-**Prawidłowa odpowiedź:** A
+**Prawidłowa odpowiedź:** B
 
 **Wyjaśnienie:** Referendum z 30 czerwca 1946 roku, potocznie nazywane „3xTAK", było sfałszowane przez komunistów. Obywatele odpowiadali na trzy pytania, a władze rekomendowały odpowiedź TAK na wszystkie z nich. W rzeczywistości wyniki zostały zmanipulowane, aby pokazać poparcie dla komunistów.
 
@@ -89,8 +89,8 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 - https://pl.wikipedia.org/wiki/Referendum_w_Polsce_w_1946_roku
 
 **Analiza odpowiedzi nieprawidłowych:**
-- 4xNIE – taką nazwę nadała opozycja (PSL), ale nie stała się popularna
 - Referendum ludowe – to oficjalna nazwa, ale nie potoczna
+- 4xNIE – taką nazwę nadała opozycja (PSL), ale nie stała się popularna
 - Wybory wolne – nie to były wybory, lecz referendum
 
 ---
@@ -102,10 +102,10 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 
 **A)** Włodzimierz Lenin
 **B)** Nikita Chruszczow
-**C)** Józef Stalin
-**D)** Leon Breżniew
+**C)** Leon Breżniew
+**D)** Józef Stalin
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Józef Stalin był przywódcą ZSRR w latach 1924-1953. To on decydował o losach Polski po II wojnie światowej i wspierał przejmowanie władzy przez polskich komunistów. Stalin osobiście zatwierdził utworzenie PKWN i nadzorował proces sowietyzacji Polski.
 
@@ -115,7 +115,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Analiza odpowiedzi nieprawidłowych:**
 - Włodzimierz Lenin zmarł w 1924 roku, przed II wojną światową
 - Nikita Chruszczow został przywódcą ZSRR dopiero po śmierci Stalina w 1953
-- Leon Breżniew rządził ZSRR w latach 1964-1982
+- Leon Breżniew rządził ZSRR w latach 1964-1982, dużo później niż opisywany okres
 
 ---
 
@@ -148,22 +148,22 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 
 **Pytanie:** Jaką partię polityczną utworzono w grudniu 1948 roku przez połączenie Polskiej Partii Robotniczej (PPR) i Polskiej Partii Socjalistycznej (PPS)?
 
-**A)** Zjednoczone Stronnictwo Ludowe
-**B)** Stronnictwo Demokratyczne
-**C)** Polska Zjednoczona Partia Robotnicza (PZPR)
-**D)** Konfederacja Polski Niepodległej
+**A)** Stronnictwo Demokratyczne
+**B)** Zjednoczone Stronnictwo Ludowe
+**C)** Polska Zjednoczona Partia Robotnicza
+**D)** Stronnictwo Pracy UNIA
 
 **Prawidłowa odpowiedź:** C
 
-**Wyjaśnienie:** Polska Zjednoczona Partia Robotnicza (PZPR) została utworzona 15 grudnia 1948 roku z połączenia PPR i PPS. PZPR stała się hegemoniczną (rządzącą) partią w PRL i sprawowała władzę do 1989 roku. Pierwszym sekretarzem PZPR został Bolesław Bierut.
+**Wyjaśnienie:** Polska Zjednoczona Partia Robotnicza (PZPR) została utworzona 15 grudnia 1948 roku z połączenia PPR i PPS. PZPR stała się hegemoniczną (rządzącą) partią w PRL i sprawowała władzę do 1989 roku. Pierwszym sekretarzem PZPR został Bolesław Bierut. PZPR była partią komunistyczną, która kontrolowała wszystkie dziedziny życia w Polsce.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Zjednoczona_Partia_Robotnicza
 
 **Analiza odpowiedzi nieprawidłowych:**
-- Zjednoczone Stronnictwo Ludowe – partia satelicka PZPR
-- Stronnictwo Demokratyczne – partia satelicka PZPR
-- Konfederacja Polski Niepodległej – partia opozycyjna w latach 80. XX wieku
+- Stronnictwo Demokratyczne – partia satelicka PZPR, utworzona w 1939 roku
+- Zjednoczone Stronnictwo Ludowe – partia satelicka PZPR, reprezentująca chłopów
+- Stronnictwo Pracy UNIA – partia opozycyjna w latach 90. XX wieku
 
 ---
 
@@ -196,22 +196,22 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 
 **Pytanie:** Jakie wydarzenie z czerwca 1956 roku w Poznaniu było pierwszym dużym protestem robotniczym przeciwko władzy komunistycznej w PRL?
 
-**A)** Strajk górników w Katowicach
-**B)** Protesty studenckie w Warszawie
+**A)** Czerwiec 1976
+**B)** Marzec 1968
 **C)** Poznański Czerwiec
-**D)** Powstanie zbrojne
+**D)** Grudzień 1970
 
 **Prawidłowa odpowiedź:** C
 
-**Wyjaśnienie:** Poznański Czerwiec to protesty robotnicze, które odbyły się w Poznaniu w dniach 28-30 czerwca 1956 roku. Robotnicy domagali się poprawy warunków życia i pracy. Protesty zostały krwawo stłumione przez milicję i wojsko – zginęło około 70 osób. Wydarzenie to stało się punktem zwrotnym w historii PRL.
+**Wyjaśnienie:** Poznański Czerwiec to protesty robotnicze, które odbyły się w Poznaniu w dniach 28-30 czerwca 1956 roku. Robotnicy domagali się poprawy warunków życia i pracy. Protesty zostały krwawo stłumione przez milicję i wojsko – zginęło około 70 osób. To było pierwsze większe wystąpienie przeciwko władzy komunistycznej w PRL.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec_1956
 
 **Analiza odpowiedzi nieprawidłowych:**
-- Strajk górników w Katowicach – wydarzenie z lat 80. (1981)
-- Protesty studenckie w Warszawie – marca 1968 roku
-- Powstanie zbrojne – taką nazwę nosi Powstanie Warszawskie (1944)
+- Czerwiec 1976 – protesty robotnicze w Radomiu i Ursusie (20 lat później)
+- Marzec 1968 – protesty studenckie w Warszawie (12 lat później)
+- Grudzień 1970 – protesty robotnicze na wybrzeżu (14 lat później)
 
 ---
 
@@ -222,10 +222,10 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 
 **A)** Bolesław Bierut
 **B)** Edward Gierek
-**C)** Władysław Gomułka
-**D)** Wojciech Jaruzelski
+**C)** Wojciech Jaruzelski
+**D)** Władysław Gomułka
 
-**Prawidłowa odpowiedź:** C
+**Prawidłowa odpowiedź:** D
 
 **Wyjaśnienie:** Władysław Gomułka został pierwszym sekretarzem PZPR w październiku 1956 roku, po śmierci Bolesława Bieruta. Jego powrót do władzy nastąpił po Poznańskim Czerwcu i oznaczył początek tzw. „odwilży gomułkowskiej" – okresu ograniczonej liberalizacji systemu komunistycznego.
 
@@ -246,20 +246,20 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 
 **A)** Gestapo
 **B)** NKWD
-**C)** UB (Bezpieka)
+**C)** UB
 **D)** KGB
 
 **Prawidłowa odpowiedź:** C
 
-**Wyjaśnienie:** UB (Urząd Bezpieczeństwa) – potocznie nazywana „Bezpieką" – to służba bezpieczeństwa PRL, która działała w latach 1944-1956. UB była odpowiedzialna za terror stalinowski, prześladowania opozycji i likwidację „podziemia reakcyjnego". Jej funkcjonariusze byli szkoleni przez radzieckie NKWD. Później UB przekształcono w MSW (Ministerstwo Spraw Wewnętrznych).
+**Wyjaśnienie:** UB (Urząd Bezpieczeństwa) to służba bezpieczeństwa PRL, która działała w latach 1944-1956. UB była odpowiedzialna za terror stalinowski, prześladowania opozycji i likwidację „podziemia niepodległościowego". Jej funkcjonariusze byli szkoleni przez radzieckie NKWD. UB potocznie nazywano „Bezpieką".
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 
 **Analiza odpowiedzi nieprawidłowych:**
-- Gestapo – niemiecka służba bezpieczeństwa z czasów II wojny światowej
+- Gestapo – niemiecka tajna policja z czasów II wojny światowej (1939-1945)
 - NKWD – radziecka służba bezpieczeństwa, która szkoliła funkcjonariuszy UB
-- KGB – radziecka służba bezpieczeństwa (utworzona w 1954 roku)
+- KGB – radziecka służba bezpieczeństwa utworzona w 1954 roku (po okresie UB)
 
 ---
 

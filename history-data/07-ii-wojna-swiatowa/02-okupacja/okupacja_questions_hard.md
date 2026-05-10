@@ -31,12 +31,12 @@ Kontrowersje dotyczą nie tylko samej okupacji, ale także postaw Polaków wobec
 **Pytanie:**
 W jaki sposób polityka aliantów zachodnich (USA, Wielka Brytania) wobec sprawy polskiej podczas II wojny światowej wpłynęła na powojenną sytuację Polski?
 
-**A:** Decyzje z Teheranu i Jałty przesądziły o utracie ziem wschodnich i uzależnieniu od ZSRR
-**B:** Gwarancje zachodnie zapewniły Polsce powrót do granic sprzed 1939
+**A:** Gwarancje zachodnie zapewniły Polsce pełną suwerenność i niezależność po zakończeniu wojny
+**B:** Decyzje z Teheranu i Jałty przesądziły o utracie ziem wschodnich i uzależnieniu od ZSRR
 **C:** Brak reakcji aliantów na zbrodnie niemieckie przyspieszył upadek III Rzeszy
 **D:** Wsparcie aliantów dla rządu londyńskiego umożliwiło zachowanie niepodległości Polski
 
-**Poprawna odpowiedź:** A
+**Poprawna odpowiedź:** B
 
 **Wyjaśnienie:**
 Polityka aliantów zachodnich miała decydujący wpływ na powojenną sytuację Polski. Na konferencjach w Teheranie (1943) i Jałcie (1945) Roosevelt i Churchill zgadzili się na stalinowskie żądania przesunięcia granic Polski na zachód (linia Curzona jako granica wschodnia, linia Odra-Nysa jako zachodnia). Decyzje te zostały potwierdzone w Poczdamie (1945). Alianci nie sprzeciwili się sowietyzacji Polski i uznali komunistyczny rząd (TRJN) w 1945. Polski rząd na uchodźstwie został wyłączony z gry politycznej. Decyzje te wynikały z pragmatizmu aliantów (chęć utrzymania sojuszu ze ZSRR, zmęczenie wojną), ale dla Polski oznaczały utratę suwerenności na prawie pół wieku.
@@ -46,7 +46,7 @@ Polityka aliantów zachodnich miała decydujący wpływ na powojenną sytuację 
 - https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska
 
 **Analiza odpowiedzi błędnych:**
-- Odp B (gwarancje granic): Alienci nie gwarantowali granic sprzed 1939 - co więcej, zgodzili się na ich zmianę
+- Odp A (gwarancje suwerenności): Alienci nie gwarantowali Polsce suwerenności - zgodzili się na sowietyzację
 - Odp C (brak reakcji): Brak reakcji na zbrodnie niemieckie był problemem, ale nie przyspieszył upadku Niemiec
 - Odp D (rząd londyński): Alienci stopniowo wycofywali poparcie dla rządu londyńskiego i uznali rząd komunistyczny
 

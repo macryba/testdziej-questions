@@ -27,23 +27,23 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 
 **Pytanie:** Oceń, w jakim stopniu upadek wszystkich trzech mocarstw zaborczych w latach 1917-1918 był decydującym czynnikiem umożliwiającym odrodzenie państwa polskiego, biorąc pod uwagę wcześniejsze polskie dążenia niepodległościowe?
 
-**A)** Upadek mocarstw zaborczych był jedynym czynnikiem decydującym o sukcesie odrodzenia Polski
-**B)** Upadek mocarstw zaborczych był kluczowy, ale bez wcześniejszych przygotowań polskich i działań dyplomatycznych sukces byłby niemożliwy
-**C)** Upadek mocarstw zaborczych był mniej istotny niż działania Piłsudskiego i Dmowskiego
-**D)** Upadek mocarstw zaborczych nie miał znaczenia dla odrodzenia Polski
+**A)** Upadek mocarstw zaborczych był kluczowy, ale bez wcześniejszych przygotowań polskich sukces byłby niemożliwy
+**B)** Upadek mocarstw zaborczych miał mniejsze znaczenie niż działania podjął Piłsudski i Dmowski
+**C)** Tylko upadek mocarstw zaborczych decydował o powodzeniu odrodzenia się państwa polskiego
+**D)** Upadek trzech mocarstw zaborczych nie odegrał istotnej roli w procesie odrodzenia Polski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
-**Wyjaśnienie:** Upadek Niemiec, Austro-Węgier i Rosji był kluczowym czynnikiem tworzącym warunki dla odrodzenia Polski, ale sukces nie byłby możliwy bez wcześniejszych przygotowań polskich (organizacje niepodległościowe, Legiony, Komitet Narodowy Polski) oraz zręcznych działań dyplomatycznych podczas konferencji paryskiej. Polski sukces był kombinacją sprzyjających okoliczności zewnętrznych i wewnętrznych przygotowań.
+**Wyjaśnienie:** Upadek Niemiec, Austro-Węgier i Rosji stanowił kluczowy warunek dla odrodzenia Polski, jednakże bez wcześniejszych przygotowań polskich (organizacje niepodległościowe, Legiony, Komitet Narodowy Polski) oraz zręcznych działań dyplomatycznych podczas konferencji paryskiej sukces ten nie byłby możliwy. Odrodzenie Polski było rezultatem połączenia sprzyjających okoliczności zewnętrznych z wewnętrznymi przygotowaniami.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1914%E2%80%931918)
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Nieprawidłowa - pomija znaczenie polskich przygotowań i działań.
-- Odpowiedź C: Nieprawidłowa - przecenia rolę jednostek koszt obiektywnych czynników.
-- Odpowiedź D: Nieprawidłowa - całkowicie ignoruje historyczne fakty.
+- Odpowiedź B: Nieprawidłowa - przecenia rolę działań jednostek kosztem obiektywnych czynników zewnętrznych.
+- Odpowiedź C: Nieprawidłowa - pomija znaczenie polskich przygotowań i działań dyplomatycznych.
+- Odpowiedź D: Nieprawidłowa - całkowicie ignoruje historyczne fakty dotyczące roli upadku mocarstw zaborczych.
 
 ---
 
@@ -53,10 +53,10 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 
 **Pytanie:** Porównaj znaczenie powstania wielkopolskiego dla sukcesu Polski w walce o zachodnie granice z innymi zbrojnymi wystąpieniami Polaków w latach 1918-1921. Które stwierdzenie najlepiej oddaje tę specyfikę?
 
-**A)** Powstanie wielkopolskie było jedynym sukcesem militarnym Polaków w walce o granice zachodnie
-**B)** Powstanie wielkopolskie wyróżniało się skutecznym połączeniem działań zbrojnych z dyplomacją, co odróżniało je od powstań śląskich
-**C)** Powstanie wielkopolskie było mniej skuteczne niż powstania śląskie
-**D)** Powstanie wielkopolskie nie miało znaczenia dla ustalenia granic zachodnich
+**A)** Powstanie wielkopolskie wykazało mniejszą skuteczność militarną niż powstań śląskie
+**B)** Powstanie wielkopolskie łączyło działania zbrojne z dyplomacją, co odróżniało go od powstań śląskich
+**C)** Powstanie wielkopolskie stanowiło jedyny sukces militarny Polaków o zachodnie granice
+**D)** Powstanie wielkopolskie nie odegrało istotnej roli w ustalaniu granic zachodnich
 
 **Poprawna odpowiedź:** B
 
@@ -68,9 +68,9 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Nieprawidłowa - powstańca śląskie również były sukcesami militarnymi.
-- Odpowiedź C: Nieprawidłowa - powstań wielkopolskie było bardziej skuteczne niż śląskie w sensie natychmiastowych rezultatów.
-- Odpowiedź D: Nieprawidłowa - powstanie wielkopolskie było kluczowe dla ustalenia granic zachodnich.
+- Odpowiedź A: Nieprawidłowa - powstanie wielkopolskie było bardziej skuteczne niż śląskie w sensie natychmiastowych rezultatów.
+- Odpowiedź C: Nieprawidłowa - powstań śląskie również były sukcesami militarnymi Polaków.
+- Odpowiedź D: Nieprawidłowa - powstanie wielkopolskie odegrało kluczową rolę w ustaleniu granic zachodnich.
 
 ---
 
@@ -80,14 +80,14 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 
 **Pytanie:** Oceń, w jakim stopniu konflikt polsko-czechosłowacki o Śląsk Cieszyński w 1919-1920 roku wpłynął na relacje między oboma państwami i ich późniejsze sojusze w Europie Środkowej?
 
-**A)** Konflikt o Śląsk Cieszyński był przejściowy i nie wpłynął na długoterminowe relacje polsko-czechosłowackie
-**B)** Konflikt o Śląsk Cieszyński trwale zniszczył relacje polsko-czechosłowackie i uniemożliwił przyszły sojusz
-**C)** Konflikt o Śląsk Cieszyński był poważnym zaostrzeniem relacji, ale w obliczu wspólnych zagrożeń (Niemcy, ZSRR) oba państwa stopniowo normalizowały stosunki
-**D)** Konflikt o Śląsk Cieszyński wzmocnił sojusz polsko-czechosłowacki przeciwko Niemcom
+**A)** Konflikt o Śląsk Cieszyński nie wpłynął na długoterminowe relacje polsko-czechosłowackie
+**B)** Konflikt o Śląsk Cieszyński zacieśnił sojusz polsko-czechosłowacki przeciwko Niemcom
+**C)** Konflikt o Śląsk Cieszyński uniemożliwił normalizację stosunków polsko-czechosłowackich
+**D)** Konflikt o Śląsk Cieszyński pogorszył relacje, lecz wspólne zagrożenia normalizowały stosunki
 
-**Poprawna odpowiedź:** C
+**Poprawna odpowiedź:** D
 
-**Wyjaśnienie:** Konflikt o Śląsk Cieszyński (w tym "wojna siedmiodniowa" w styczniu 1919 roku) był poważnym zaostrzeniem relacji polsko-czechosłowackich, które były już napięte z powodu różnych wizji Piłsudskiego i Masaryka dotyczących architektury Europy Środkowej. Jednak w obliczu wspólnych zagrożeń ze strony Niemiec i ZSRR w latach 30., oba państwa stopniowo normalizowały stosunki, co doprowadziło do sojuszu w 1945 roku.
+**Wyjaśnienie:** Konflikt o Śląsk Cieszyński (w tym "wojna siedmiodniowa" w styczniu 1919 roku) poważnie pogorszył relacje polsko-czechosłowackie, które były już napięte z powodu różnych wizji Piłsudskiego i Masaryka dotyczących architektury Europy Środkowej. Jednak w obliczu wspólnych zagrożeń ze strony Niemiec i ZSRR w latach 30., oba państwa stopniowo normalizowały stosunki, co doprowadziło do sojuszu w 1945 roku.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/%C5%9Al%C4%85sk_Cieszy%C5%84ski
@@ -95,9 +95,9 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi niepoprawnych:**
-- Odpowiedź A: Nieprawidłowa - konflikt miał długoterminowe skutki dla relacji.
-- Odpowiedź B: Nieprawidłowa - sojusz polsko-czechosłowacki został zawarty w 1945 roku.
-- Odpowiedź D: Nieprawidłowa - konflikt osłabił relacje, nie wzmocnił sojuszu.
+- Odpowiedź A: Nieprawidłowa - konflikt miał długoterminowe skutki dla relacji polsko-czechosłowackich.
+- Odpowiedź B: Nieprawidłowa - konflikt osłabił relacje, nie zacieśnił sojuszu.
+- Odpowiedź C: Nieprawidłowa - mimo konfliktu, stosunki zostały normalizowane w latach 30.
 
 ---
 **Koniec pytań poziomu trudnego.**

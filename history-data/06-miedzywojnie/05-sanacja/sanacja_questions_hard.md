@@ -23,10 +23,10 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Przeanalizuj i porównaj system polityczny II Rzeczypospolitej przed przewrotem majowym (1921-1926) i po nim (1926-1939). Które z poniższych stwierdzeń najlepiej oddaje istotę tej zmiany ustrojowej?
 
-**A)** Przed 1926 rokiem system parlamentarny charakteryzował się silną władzą prezydenta, a po 1926 roku władza prezydenta została ograniczona na rzecz Sejmu
-**B)** Przed 1926 rokiem system parlamentarny opierał się na dominacji Sejmu, a po 1926 roku nastąpiło przejście do systemu prezydenckiego z ograniczeniem roli parlamentu
-**C)** Przed i po 1926 roku system polityczny opierał się na równowadze trzech władz, a jedyną różnicą była zmiana partii rządzących
-**D)** Przed 1926 rokiem władza była sprawowana przez dyktatora wojskowego, a po 1926 roku nastąpiło przywrócenie demokracji parlamentarnej
+**A)** W systemie parlamentarnym sprzed przewrotu majowego prezydent dysponował rozległymi uprawnieniami, a po zmianach ustrojowych jego władza została znacząco ograniczona na rzecz parlamentu
+**B)** W systemie parlamentarnym sprzed przewrotu majowego kluczową rolę odgrywał Sejm, a po zmianach ustrojowych nastąpiło przejście do systemu prezydenckiego z ograniczeniem roli parlamentu
+**C)** Zarówno przed jak i po zmianach ustrojowych system polityczny opierał się na stabilnej równowadze trzech władz, a jedyną różnicą była zmiana partii rządzących
+**D)** Przed zmianami ustrojowymi władza była sprawowana przez dyktatora wojskowego, a po nich nastąpiło przywrócenie demokracji parlamentarnej w pełnym kształcie
 
 **Prawidłowa odpowiedź:** B
 
@@ -39,9 +39,9 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Odpowiedź jest błędna, ponieważ przed 1926 rokiem prezydent miał ograniczone uprawnienia, a po 1926 roku zostały one znacząco wzmocnione
-- C) Odpowiedź jest błędna, ponieważ przed 1926 rokiem istniała demokracja parlamentarna, a po 1926 roku system autorytarny – nie było to "trzech równoważnych władz"
-- D) Odpowiedź jest całkowicie błędna, ponieważ przed 1926 rokiem nie było dyktatury wojskowej, lecz demokracja parlamentarna, a po 1926 roku nie przywrócono demokracji, lecz wprowadzono autorytaryzm
+- A) Odpowiedź jest błędna, ponieważ przed przewrotem majowym prezydent miał ograniczone uprawnienia, a po nim zostały one znacząco wzmocnione
+- C) Odpowiedź jest błędna, ponieważ przed zmianami ustrojowymi istniała demokracja parlamentarna, a po nich system autorytarny – nie było to "trzech równoważnych władz"
+- D) Odpowiedź jest całkowicie błędna, ponieważ przed zmianami ustrojowymi nie było dyktatury wojskowej, lecz demokracja parlamentarna, a po nich nie przywrócono demokracji, lecz wprowadzono autorytaryzm
 
 ## Pytanie 2
 
@@ -49,10 +49,10 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Pytanie:** Oceń skutki ustrojowe noweli sierpniowej (1926) i konstytucji kwietniowej (1935) dla ustroju II Rzeczypospolitej. Które stwierdzenie najlepiej oddaje charakter tej zmiany konstytucyjnej?
 
-**A)** Obie ustawy przywróciły demokrację parlamentarną i wzmocniły prawa obywatelskie poprzez ograniczenie władzy wykonawczej
+**A)** Obie ustawy wzmocniły demokrację parlamentarną i rozszerzyły prawa obywatelskie poprzez skuteczne ograniczenie władzy wykonawczej na rzecz Sejmu
 **B)** Nowela sierpniowa i konstytucja kwietniowa zniszczyły system trójpodziału władzy i wprowadziły dyktaturę prezydenta z całkowitą podległością innych organów państwa
 **C)** Nowela sierpniowa i konstytucja kwietniowa wzmocniły władzę wykonawczą, ale zachowały mechanizmy kontroli parlamentarnej i praw obywatelskich typowe dla demokracji
-**D)** Obie ustawy miały charakter marginalny i nie wpłynęły znacząco na system polityczny Polski, który pozostał parlamentarny
+**D)** Obie ustawy miały charakter marginalny i nie wpłynęły znacząco na system polityczny Polski, który pozostał parlamentarny bez większych zmian
 
 **Prawidłowa odpowiedź:** B
 
@@ -65,7 +65,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - Podstawa programowa – liceum_technikum_zpe.md, Dział XLII (zakres rozszerzony)
 
 **Analiza nieprawidłowych odpowiedzi:**
-- A) Odpowiedź jest całkowicie błędna – ustawy nie przywróciły demokracji parlamentarnej, lecz ją ograniczyły; nie wzmocniły praw obywatelskich, lecz je ograniczyły
+- A) Odpowiedź jest całkowicie błędna – ustawy nie wzmocniły demokracji parlamentarnej, lecz ją ograniczyły; nie rozszerzyły praw obywatelskich, lecz je ograniczyły
 - C) Odpowiedź jest błędna – mechanizmy kontroli parlamentarnej zostały zniszczone, nie zachowane; prawa obywatelskie były ograniczone, nie typowe dla demokracji
 - D) Odpowiedź jest całkowicie błędna – ustawy miały charakter fundamentalny i całkowicie zmieniły system polityczny Polski z parlamentarnego na autorytarny
 
@@ -76,9 +76,9 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 **Pytanie:** Dokonaj bilansu rządów sanacji (1926-1939) pod względem politycznym, gospodarczym i społecznym. Która ocena najlepiej oddaje złożoność tego dziedzictwa?
 
 **A)** Rządy sanacji były całkowitym niepowodzeniem – nie przyniosły żadnych osiągnięćów, zniszczyły demokrację, doprowadziły do gospodarczej zapaści i nie przygotowały Polski do obrony przed agresją
-**B)** Rządy sanacji były wyłącznie sukcesem – przywróciły porządek i stabilność, zmodernizowały państwo, zapewniły rozwój gospodarczy i skutecznie przygotowały Polskę do wojny z Niemcami i ZSRR
+**B)** Rządy sanacji były wyłącznie sukcesem – ustanowiły porządek i stabilność, zmodernizowały państwo, zapewniły rozwój gospodarczy i skutecznie przygotowały Polskę do wojny z Niemcami i ZSRR
 **C)** Rządy sanacji były złożonym okresem – autorytarny rząd przyniósł modernizację (COP, interwencjonizm) i stabilizację, ale ograniczył demokrację, represjonował opozycję i nie zdołał skutecznie przygotować Polski do wojny
-**D)** Rządy sanacji nie różniły się znacząco od poprzedniego okresu – kontynuowano demokrację parlamentarną, a jedyne zmiany dotyczyły personeli w rządzie
+**D)** Rządy sanacji nie różniły się znacząco od poprzedniego okresu – kontynuowano demokrację parlamentarną, a jedyne zmiany dotyczyły personeli w rządzie, co oznaczało brak istotnych przemian ustrojowych
 
 **Prawidłowa odpowiedź:** C
 
@@ -92,5 +92,5 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 
 **Analiza nieprawidłowych odpowiedzi:**
 - A) Odpowiedź jest jednostronna i krzywdząca – sanacja przyniosła istotne osiągnięcia w modernizacji (COP), choć jej bilans był negatywny pod względem demokracji i przygotowań do wojny
-- B) Odpowiedź jest całkowicie błędna i krzywdząca – sanacja nie przywróciła demokracji, lecz ją ograniczyła; Polska nie została skutecznie przygotowana do wojny; społeczeństwo było jednym z najuboższych w Europie
+- B) Odpowiedź jest całkowicie błędna i krzywdząca – sanacja nie ustanowiła demokracji, lecz ją ograniczyła; Polska nie została skutecznie przygotowana do wojny; społeczeństwo było jednym z najuboższych w Europie
 - D) Odpowiedź jest całkowicie błędna – sanacja zasadniczo zmieniła system polityczny z parlamentarnego na autorytarny, co nie było jedynie zmianą personeli

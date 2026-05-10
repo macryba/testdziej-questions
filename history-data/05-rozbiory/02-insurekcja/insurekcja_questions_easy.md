@@ -42,10 +42,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 - https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp B: Jan Henryk Dąbrowski był generałem w czasie insurekcji, ale nie był Naczelnikiem. Słynie z późniejszych Legionów Polskich we Włoszech.
-- Odp C: Józef Poniatowski był generałem i bratankiem króla, ale w czasie insurekcji nie pełnił funkcji Naczelnika.
-- Odp D: Tadeusz Czacki był działaczem oświeceniowym i reformatorem edukacji, niewojskowym.
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Jan Henryk Dąbrowski) – correct for: Księstwo Warszawskie. Jan Henryk Dąbrowski był generałem w czasie insurekcji, ale nie był Naczelnikiem. Słynie z późniejszych Legionów Polskich we Włoszech (1797).
+- Odpowiedź C (Józef Poniatowski) – correct for: Księstwo Warszawskie. Józef Poniatowski był generałem i bratankiem króla, ale w czasie insurekcji nie pełnił funkcji Naczelnika. Później był ministrem wojny Księstwa Warszawskiego.
+- Odpowiedź D (Tadeusz Czacki) – no referenced answer. Tadeusz Czacki był działaczem oświeceniowym i reformatorem edukacji, niewojskowym.
 
 ---
 
@@ -68,10 +68,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: 1792 to rok wojny polsko-rosyjskiej i konfederacji targowickiej.
-- Odp B: 1793 to roku drugiego rozbioru Polski.
-- Odp D: 1795 to roku trzeciego rozbioru Polski, który zakończył istnienie państwa polskiego.
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (1792) – correct for: Upadek (Rozbiory). 1792 to rok wojny polsko-rosyjskiej i konfederacji targowickiej, która doprowadziła do interwencji rosyjskiej.
+- Odpowiedź B (1793) – correct for: Rozbiory. 1793 to rok drugiego rozbioru Polski przeprowadzonego przez Prusy i Rosję.
+- Odpowiedź D (1795) – correct for: Rozbiory. 1795 to rok trzeciego rozbioru Polski, który zakończył istnienie państwa polskiego.
 
 ---
 
@@ -81,12 +81,12 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 
 **Pytanie:** Jak nazywali się chłopi walczący w insurekcji kościuszkowskiej uzbrojeni w kosy?
 
-**A.** Huzarzy
-**B.** Kosynierzy
+**A.** Kosynierzy
+**B.** Huzarzy
 **C.** Szwoleżerowie
 **D.** Ułani
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Kosynierzy to chłopi walczący w insurekcji kościuszkowskiej uzbrojeni w kosy. Najbardziej znanym z nich był Wojciech Bartosz Głowacki, który wsławił się pod Racławicami.
 
@@ -94,10 +94,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Kosynierzy
 - https://pl.wikipedia.org/wiki/Wojciech_Bartosz_G%C5%82owacki
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Huzarzy to lekka kawaleria wojskowa, nie chłopi.
-- Odp C: Szwoleżerzy to piesi strzelcy wyborowi, nie kosynierzy.
-- Odp D: Ułani to kawaleria polska uzbrojona w lance, nie powstańcy chłopi.
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź B (Huzarzy) – no referenced answer. Huzarzy to lekka kawaleria wojskowa, nie chłopi. Husaria była starą formacją kawaleryjską z XVII-XVIII wieku.
+- Odpowiedź C (Szwoleżerowie) – no referenced answer. Szwoleżerzy to piesi strzelcy wyborowi, nie kosynierzy. Była to formacja wojskowa z epoki napoleońskiej.
+- Odpowiedź D (Ułani) – no referenced answer. Ułani to kawaleria polska uzbrojona w lance, nie powstańcy chłopi. Ta formacja rozwijała się później, w XIX wieku.
 
 ---
 
@@ -108,11 +108,11 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 **Pytanie:** Jaką nową formację wojskową stworzył Kościuszko w czasie insurekcji?
 
 **A.** Husarię
-**B.** Kosynierów
-**C.** Legiony polskie
+**B.** Legiony polskie
+**C.** Kosynierów
 **D.** Strzelców konnych
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** Kościuszko stworzył formację kosynierów – chłopów uzbrojonych w kosy i piki, którzy odnieśli sławę w bitwie pod Racławicami. Była to nowa formacja wojskowa w polskiej armii.
 
@@ -120,10 +120,10 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Kosynierzy
 - https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko
 
-**Analiza nieprawidłowych odpowiedzi:**
-- Odp A: Husaria była starą formacją kawaleryjską, nienową formacją Kościuszki.
-- Odp C: Legiony polskie zostały utworzone później, przez Jana Henryka Dąbrowskiego we Włoszech.
-- Odp D: Strzelcy konni istnieli wcześniej w polskiej armii.
+**Analiza odpowiedzi błędnych:**
+- Odpowiedź A (Husarię) – no referenced answer. Husaria była starą formacją kawaleryjską z XVII-XVIII wieku, nienową formacją Kościuszki. Słynęła z zwycięstw pod Wiedniem (1683).
+- Odpowiedź B (Legiony polskie) – correct for: Wiosna Ludów. Legiony polskie zostały utworzone później (1797), przez Jana Henryka Dąbrowskiego we Włoszech.
+- Odpowiedź D (Strzelców konnych) – no referenced answer. Strzelcy konni istnieli wcześniej w polskiej armii jako formacja kawaleryjska.
 
 ---
 

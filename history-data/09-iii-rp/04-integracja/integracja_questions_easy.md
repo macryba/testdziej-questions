@@ -25,14 +25,14 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 
 **Question ID:** Q-III-RP-INT-E-001
 
-**Pytanie:** W którym roku Polska przystąpiła do Organizacji Traktatu Północnoatlantyckiego (NATO)?
+**Pytanie:** Które wydarzenie odbyło się 12 marca 1999 roku?
 
-**A:** 1997
-**B:** 1999
-**C:** 2001
-**D:** 2004
+**A:** Przystąpienie Polski do NATO
+**B:** Przystąpienie Polski do Unii Europejskiej
+**C:** Podpisanie traktatu ateńskiego
+**D:** Referendum akcesyjne w Polsce
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Polska przystąpiła do NATO 12 marca 1999 roku razem z Czechami i Węgrami. Było to ważne wydarzenie, ponieważ Polska otrzymała gwarancje bezpieczeństwa od zachodnich sojuszników.
 
@@ -40,9 +40,9 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 
 **Analiza niepoprawnych odpowiedzi:**
-- A (1997): W tym roku Polska otrzymała zaproszenie do NATO podczas szczytu w Madrycie
-- C (2001): W tym roku Polska była już członkiem NATO i przygotowywała się do ataków terrorystycznych w USA
-- D (2004): W tym roku Polska przystąpiła do Unii Europejskiej, a nie NATO
+- B (Przystąpienie Polski do UE): Polska przystąpiła do Unii Europejskiej 1 maja 2004 roku, ponad 5 lat później
+- C (Podpisanie traktatu ateńskiego): Traktat akcesyjny podpisano 16 kwietnia 2003 roku w Atenach, dotyczył wejścia do UE
+- D (Referendum akcesyjne): Referendum w sprawie wejścia do UE odbyło się 7-8 czerwca 2003 roku, a nie w marcu 1999
 
 ---
 
@@ -50,12 +50,12 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 
 **Question ID:** Q-III-RP-INT-E-002
 
-**Pytanie:** Który organizacja międzynarodowa przyjęła Polskę do swojego grona 1 maja 2004 roku?
+**Pytanie:** Która organizacja międzynarodowa przyjęła Polskę do swojego grona 1 maja 2004 roku?
 
-**A:** Organizacja Narodów Zjednoczonych
-**B:** Unia Europejska
-**C:** NATO
-**D:** Organizacja Bezpieczeństwa i Współpracy w Europie
+**A:** Organizacja Narodów Zjednoczonych (ONZ)
+**B:** Unia Europejska (UE)
+**C:** Organizacja Traktatu Północnoatlantyckiego (NATO)
+**D:** Organizacja Bezpieczeństwa i Współpracy w Europie (OBWE)
 
 **Poprawna odpowiedź:** B
 
@@ -65,9 +65,9 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
 **Analiza niepoprawnych odpowiedzi:**
-- A (ONZ): Polska była członkiem ONZ od 1945 roku
+- A (ONZ): Polska była członkiem ONZ od 1945 roku, prawie 60 lat przed 2004 rokiem
 - C (NATO): Polska przystąpiła do NATO w 1999 roku, 5 lat przed wejściem do UE
-- D (OBWE): Organizacja Bezpieczeństwa i Współpracy w Europie to inna organizacja, w tym czasie Polska była już jej członkiem
+- D (OBWE): Polska była członkiem OBWE od 1992 roku, dużo przed akcesją do UE
 
 ---
 
@@ -102,10 +102,10 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 
 **Pytanie:** Jaki procent Polaków głosował "tak" w referendum akcesyjnym dotyczącym przystąpienia Polski do Unii Europejskiej?
 
-**A:** 58,85%
-**B:** 67,45%
+**A:** 53,15%
+**B:** 58,85%
 **C:** 77,45%
-**D:** 88,45%
+**D:** 84,13%
 
 **Poprawna odpowiedź:** C
 
@@ -115,9 +115,9 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
 **Analiza niepoprawnych odpowiedzi:**
-- A (58,85%): To była frekwencja w referendum, a nie procent głosów "tak"
-- B (67,45%): To nieprawdziwa liczba, wymyślona odpowiedź
-- D (88,45%): To nieprawdziwa liczba, prawdziwy wynik był niższy
+- A (53,15%): To był procent głosów "tak" w referendum konstytucyjnym w 1997 roku, dotyczył innej kwestii
+- B (58,85%): To była frekwencja w referendum UE, a nie procent głosów "tak"
+- D (84,13%): To był procent głosów "tak" w referendum konstytucyjnym w 1997 roku, dotyczył przyjęcia Konstytucji RP
 
 ---
 
@@ -128,11 +128,11 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 **Pytanie:** Kto był prezydentem Polski podczas podpisywania traktatu akcesyjnego z Unią Europejską w 2003 roku?
 
 **A:** Lech Wałęsa
-**B:** Aleksander Kwaśniewski
-**C:** Lech Kaczyński
-**D:** Bronisław Komorowski
+**B:** Lech Kaczyński
+**C:** Bronisław Komorowski
+**D:** Aleksander Kwaśniewski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Aleksander Kwaśniewski był prezydentem RP w latach 1995-2005. To on ratyfikował traktat akcesyjny 23 lipca 2003 roku, co było jednym z ostatnich kroków przed wejściem Polski do Unii Europejskiej.
 
@@ -141,8 +141,8 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 
 **Analiza niepoprawnych odpowiedzi:**
 - A (Lech Wałęsa): Był prezydentem w latach 1990-1995, długo przed procesem integracji z UE
-- C (Lech Kaczyński): Był prezydentem w latach 2005-2010, Polska była już wtedy w UE
-- D (Bronisław Komorowski): Był prezydentem w latach 2010-2015, długo po wejściu Polski do UE
+- B (Lech Kaczyński): Był prezydentem w latach 2005-2010, Polska była już wtedy w UE od roku
+- C (Bronisław Komorowski): Był prezydentem w latach 2010-2015, długo po wejściu Polski do UE
 
 ---
 

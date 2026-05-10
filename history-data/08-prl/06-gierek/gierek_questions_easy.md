@@ -48,23 +48,23 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 ## Pytanie 2
 **Question ID:** Q-PRL-GIEREK-EASY-002
 
-**Pytanie:** W którym roku Edward Gierek objął władzę w Polsce po strajkach robotniczych na Wybrzeżu?
+**Pytanie:** Jakie wydarzenie bezpośrednio poprzedziło objęcie władzy przez Edwarda Gierka?
 
-**A.** 1968
-**B.** 1970
-**C.** 1976
-**D.** 1980
+**A.** Strajki robotnicze na Wybrzeżu
+**B.** Wydarzenia marcowe 1968
+**C.** Strajki w Radomiu i Ursusie
+**D.** Powstanie "Solidarności"
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** A
 
 **Wyjaśnienie:** Edward Gierek objął stanowisko I sekretarza KC PZPR w grudniu 1970 roku, po krwawo stłumionych strajkach robotniczych w Szczecinie, Gdyni i Gdańsku.
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
 **Analiza nieprawidłowych odpowiedzi:**
-- 1968 — to rok wydarzeń marcowych, kiedy Gomułka był jeszcze u władzy
-- 1976 — to rok strajków w Radomiu i Ursusie, już podczas rządów Gierka
-- 1980 — to rok, kiedy Gierek został odsunięty od władzy po strajkach sierpniowych
+- Wydarzenia marcowe 1968 — to studenckie protesty i antysemicka kampania z 1968 roku, podczas rządów Gomułki
+- Strajki w Radomiu i Ursusie — to wydarzenia z 1976 roku, już podczas rządów Gierka
+- Powstanie "Solidarności" — to wydarzenie z sierpnia 1980 roku, które doprowadziło do odejścia Gierka od władzy
 
 ---
 
@@ -120,11 +120,11 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 **Pytanie:** Co wydarzyło się w Polsce w sierpniu 1980 roku?
 
 **A.** Wybuchło powstanie warszawskie
-**B.** Powstał związek zawodowy "Solidarność"
-**C.** Gierek objął władzę w Polsce
-**D.** Zaczęły się strajki na Wybrzeżu w grudniu 1970
+**B.** Gierek objął władzę w Polsce
+**C.** Powstał związek zawodowy "Solidarność"
+**D.** Wprowadzono stan wojenny
 
-**Prawidłowa odpowiedź:** B
+**Prawidłowa odpowiedź:** C
 
 **Wyjaśnienie:** W sierpniu 1980 roku w Polsce wybuchły strajki robotnicze, które doprowadziły do powstania Niezależnego Samorządnego Związku Zawodowego "Solidarność". To wydarzenie przyczyniło się do odsunięcia Edwarda Gierka od władzy we wrześniu 1980 roku.
 
@@ -133,6 +133,6 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 **Analiza nieprawidłowych odpowiedzi:**
 - Wybuchło powstanie warszawskie — to wydarzyło się w 1944 roku, podczas II wojny światowej
 - Gierek objął władzę w Polsce — to wydarzyło się w grudniu 1970 roku
-- Zaczęły się strajki na Wybrzeżu w grudniu 1970 — te strajki doprowadziły do objęcia władzy przez Gierka, a nie do jego odejścia
+- Wprowadzono stan wojenny — to wydarzyło się w grudniu 1981 roku, już po rządach Gierka
 
 ---

@@ -50,12 +50,12 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Jakie były najważniejsze skutki bitwy warszawskiej dla Europy Zachodniej?
 
-**A:** Przyspieszenie sojuszu polsko-niemieckiego przeciw ZSRR
-**B:** Zatrzymanie ekspansji komunizmu na Europę Zachodnią
+**A:** Zatrzymanie ekspansji komunizmu na Europę Zachodnią
+**B:** Przyspieszenie sojuszu polsko-niemieckiego przeciw ZSRR
 **C:** Utworzenie nowego bloku państw wschodnich
 **D:** Wypowiedzenie wojny ZSRR przez Francję i Wielką Brytanię
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Zwycięstwo Polski w bitwie warszawskiej powstrzymało radziecką ekspansję na Europę Zachodnią. Lenin planował rozprzestrzenienie rewolucji komunistycznej przez Polskę do Niemiec i dalej na Zachód. Klęska pod Warszawą przekreśliła te plany.
 
@@ -76,11 +76,11 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Pytanie:** Dlaczego taktyka kontruderzenia znad Wieprza okazała się skuteczna przeciw Armii Czerwonej?
 
 **A:** Ponieważ wojska radzieckie były zmęczone długim pościgiem
-**B:** Ze względu na uderzenie na słabo obsadzone skrzydło sił Tuchaczewskiego
-**C:** Dzięki przewadze liczebnej wojsk polskich
+**B:** Dzięki przewadze liczebnej wojsk polskich
+**C:** Ze względu na uderzenie na słabo obsadzone skrzydło sił Tuchaczewskiego
 **D:** Z powodu braku amunicji w wojskach radzieckich
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Kontruderzenie znad Wieprza uderzyło na słabo obsadzone lewe skrzydło sił Tuchaczewskiego przez Grupę Mozyrską. Manewr oskrzydlający wyszedł na tyły wojsk radzieckich atakujących Warszawę, powodując ich chaotyczny odwrót.
 
@@ -125,12 +125,12 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Jakie były główne przyczyny porażki wyprawy kijowskiej?
 
-**A:** Zdrada wojsk ukraińskich Symona Petlury
-**B:** Brak poparcia społeczeństwa ukraińskiego dla Petlury i szybka sowiecka kontrofensywa
+**A:** Brak poparcia społeczeństwa ukraińskiego dla Petlury i szybka sowiecka kontrofensywa
+**B:** Zdrada wojsk ukraińskich Symona Petlury
 **C:** Wyczerpanie zapasów amunicji wojsk polskich
 **D:** Nagły atak wojsk niemieckich z zachodu
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Wyprawa kijowska poniosła porażkę, ponieważ Symon Petlura nie miał szerszego poparcia wśród ludności ukraińskiej, a wojska sowieckie przeprowadziły szybką kontrofensywę, zmuszając Polaków do wycofania się z Kijowa w czerwcu 1920.
 
@@ -151,11 +151,11 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Pytanie:** Jaki był główny cel bolszewików w wojnie z Polską?
 
 **A:** Odzyskanie ziem zabranych przez Polskę w traktacie wersalskim
-**B:** Rozprzestrzenienie rewolucji komunistycznej na Europę Zachodnią
-**C:** Obrona granic ZSRR przed polską agresją
+**B:** Obrona granic ZSRR przed polską agresją
+**C:** Rozprzestrzenienie rewolucji komunistycznej na Europę Zachodnią
 **D:** Zdobycie dostępu do Morza Bałtyckiego
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Głównym celem bolszewików było rozprzestrzenienie rewolucji komunistycznej na Europę Zachodnią. Lenin planował wykorzystać Polskę jako drogowę do Niemiec, a następnie do całej Europy, budząc międzynarodową rewolucję.
 
@@ -176,11 +176,11 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Pytanie:** Czym różniła się koncepcja federacyjna Piłsudskiego od koncepcji inkorporacyjnej endecji?
 
 **A:** Piłsudski chciał wcielić wschodnie ziem do Polski, endecja wanted to create independent states
-**B:** Piłsudski dążył do federacji z Ukrainą i Litwą, endecja do wcielenia ziem wschodnich do Polski
-**C:** Koncepcje były identyczne, różniły się tylko w metodach realizacji
-**D:** Piłsudski chciał sojuszu z Rosją, endecja dążyła do konfrontacji
+**B:** Koncepcje były identyczne, różniły się tylko w metodach realizacji
+**C:** Piłsudski chciał sojuszu z Rosją, endecja dążyła do konfrontacji
+**D:** Piłsudski dążył do federacji z Ukrainą i Litwą, endecja do wcielenia ziem wschodnich do Polski
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Koncepcja federacyjna Piłsudskiego (Międzymorze) przewidywała stworzenie federacji polsko-litewsko-ukraińskiej jako bufora przeciw Rosji. Endecja Natana Dąbrowskiego preferowała inkorporację etnicznie polskich i mieszanych ziem wschodnich do Polski.
 
@@ -200,12 +200,12 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 
 **Pytanie:** Jaką rolę odegrała pomoc węgierska dla Polski podczas wojny polsko-bolszewickiej?
 
-**A:** Węgry wysłały swoje wojska do walki przeciw bolszewikom
-**B:** Dostarczyły znaczącej ilości amunicji i wyposażenia wojskowego
+**A:** Dostarczyły znaczącej ilości amunicji i wyposażenia wojskowego
+**B:** Węgry wysłały swoje wojska do walki przeciw bolszewikom
 **C:** Zapewniły polityczne wsparcie na arenie międzynarodowej
 **D:** Udzieliły pożyczki finansowej na zakup broni
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** A
 
 **Wyjaśnienie:** Węgry przekazały Polsce nieodpłatnie około 48 milionów naboi karabinowych, 13 milionów naboi Mannlichera, amunicję artyleryjską, 30 tysięcy karabinów Mauser, kuchnie polowe i piece polowe. Transport dotarł przez Rumunię w krytycznym momencie wojny.
 
@@ -226,11 +226,11 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Pytanie:** Dlaczego bitwa warszawska została uznana za jedną z 18 przełomowych bitew w historii świata?
 
 **A:** Ze względu na niezwykłe rozmiary sił obu stron
-**B:** Ponieważ powstrzymała radziecką ekspansję na Europę
-**C:** Z powodu innowacyjnej taktyki wojskowej
+**B:** Z powodu innowacyjnej taktyki wojskowej
+**C:** Ponieważ powstrzymała radziecką ekspansję na Europę
 **D:** Dla rekordowej liczby uczestników
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** C
 
 **Wyjaśnienie:** Brytyjski dyplomata Edgar D'Abernon uznał bitwę warszawską za "18. decydującą bitwę w dziejach świata" dlatego, że powstrzymała radziecką ekspansję na Europę Zachodnią i uratowała suwerenność państw europejskich przed sowietyzacją.
 
@@ -251,11 +251,11 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Pytanie:** Jak traktat ryski wpłynął na polską koncepcję Międzymorza?
 
 **A:** Umożliwił jej realizację dzięki dobrym relacjom z Rosją
-**B:** Zakończył ją, ponieważ Polska zrezygnowała z uznania URL
-**C:** Opóźnił jej realizację o kilka lat
-**D:** Wzmocnił ją dzięki sojuszowi z Ukrainą
+**B:** Opóźnił jej realizację o kilka lat
+**C:** Wzmocnił ją dzięki sojuszowi z Ukrainą
+**D:** Zakończył ją, ponieważ Polska zrezygnowała z uznania URL
 
-**Poprawna odpowiedź:** B
+**Poprawna odpowiedź:** D
 
 **Wyjaśnienie:** Traktat ryski zakończył koncepcję Międzymorza, ponieważ Polska uznała sowiecką USRR (marionetkowe państwo ukraińskie) i wycofała uznanie dla Ukraińskiej Republiki Ludowej Petlury. Polska zrezygnowała z federacji w zamian za pokój.
 
