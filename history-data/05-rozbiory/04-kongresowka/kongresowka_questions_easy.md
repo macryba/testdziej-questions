@@ -41,9 +41,9 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 - https://pl.wikipedia.org/wiki/Kr%C3%B3lestwo_Polskie_%28kongresowe%29
 
 **Analiza odpowiedzi błędnych:**
-- B. Paweł I Romanow – incorrect from other epoch: był carem Rosji w latach 1796-1801, zmarł przed utworzeniem Królestwa Polskiego (1815)
-- C. Aleksander II Romanow – incorrect from other epoch: panował dużo później jako car Rosji w latach 1855-1881
-- D. Mikołaj I Romanow – correct for: Powstanie listopadowe: był drugim królem Królestwa Polskiego (1825-1831) podczas powstania listopadowego
+- B: incorrect from other epoch: był carem Rosji w latach 1796-1801, zmarł przed utworzeniem Królestwa Polskiego (1815)
+- C: incorrect from other epoch: panował dużo później jako car Rosji w latach 1855-1881
+- D: correct for: Powstanie listopadowe: był drugim królem Królestwa Polskiego (1825-1831) podczas powstania listopadowego
 
 ---
 
@@ -66,9 +66,9 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 - https://pl.wikipedia.org/wiki/Kongres_wiede%C5%84ski
 
 **Analiza odpowiedzi błędnych:**
-- A. 1807 – incorrect from Księstwo Warszawskie: w tym roku utworzono Księstwo Warszawskie na mocy traktatu w Tylży
-- B. 1812 – incorrect from Księstwo Warszawskie: w tym roku Napoleon wkroczył do Moskwy podczas inwazji na Rosję
-- D. 1830 – correct for: Powstanie listopadowe: w tym roku wybuchło powstanie listopadowe przeciw władzy rosyjskiej
+- A: incorrect from Księstwo Warszawskie: w tym roku utworzono Księstwo Warszawskie na mocy traktatu w Tylży
+- B: incorrect from Księstwo Warszawskie: w tym roku Napoleon wkroczył do Moskwy podczas inwazji na Rosję
+- D: correct for: Powstanie listopadowe: w tym roku wybuchło powstanie listopadowe przeciw władzy rosyjskiej
 
 ---
 
@@ -90,9 +90,9 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 - https://pl.wikipedia.org/wiki/Konstytucja_Kr%C3%B3lestwa_Polskiego
 
 **Analiza odpowiedzi błędnych:**
-- A. Ustawa Rządowa – incorrect from Oświecenie: potoczna nazwa Konstytucji 3 maja z 1791 roku uchwalonej przez Rzeczpospolitą Obojga Narodów
-- B. Konstytucja 3 maja – incorrect from Oświecenie: pierwsza nowoczesna konstytucja w Europie, uchwalona w 1791 roku dla Rzeczypospolitej Obojga Narodów
-- C. Konstytucja Księstwa Warszawskiego – incorrect from Księstwo Warszawskie: konstytucja Księstwa Warszawskiego z 1807 roku nadana przez Napoleona
+- A: incorrect from Oświecenie: potoczna nazwa Konstytucji 3 maja z 1791 roku uchwalonej przez Rzeczpospolitą Obojga Narodów
+- B: incorrect from Oświecenie: pierwsza nowoczesna konstytucja w Europie, uchwalona w 1791 roku dla Rzeczypospolitej Obojga Narodów
+- C: incorrect from Księstwo Warszawskie: konstytucja Księstwa Warszawskiego z 1807 roku nadana przez Napoleona
 
 ---
 
@@ -114,9 +114,9 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 - https://pl.wikipedia.org/wiki/Franciszek_Ksawery_Drucki-Lubecki
 
 **Analiza odpowiedzi błędnych:**
-- A. Adam Jerzy Czartoryski – incorrect from same chapter: był kuratorem okręgu wileńskiego i przywódcą obozu konserwatywnego, nie ministrem skarbu
-- B. Stanisław Staszic – incorrect from Oświecenie: był działaczem oświeceniowym i reformator, zmarł w 1826 roku
-- C. Józef Zajączek – no referenced answer: był namiestnikiem Królestwa Polskiego w latach 1815-1826, nie ministrem skarbu
+- A: incorrect from same chapter: był kuratorem okręgu wileńskiego i przywódcą obozu konserwatywnego, nie ministrem skarbu
+- B: incorrect from Oświecenie: był działaczem oświeceniowym i reformator, zmarł w 1826 roku
+- C: no referenced answer: był namiestnikiem Królestwa Polskiego w latach 1815-1826, nie ministrem skarbu
 
 ---
 
@@ -138,9 +138,9 @@ Narastające niezadowolenie z łamania konstytucji doprowadziło do wybuchu pows
 - https://pl.wikipedia.org/wiki/Uniwersytet_Warszawski
 
 **Analiza odpowiedzi błędnych:**
-- A. 1830 – incorrect from same chapter: w tym roku wybuchło powstanie listopadowe
-- C. 1820 – no referenced answer: w tym roku utworzono Instytut Politechniczny w Warszawie, a nie Uniwersytet Warszawski
-- D. 1815 – no referenced answer: w tym roku utworzono Królestwo Polskie, ale uniwersytet powstał rok później
+- A: incorrect from same chapter: w tym roku wybuchło powstanie listopadowe
+- C: no referenced answer: w tym roku utworzono Instytut Politechniczny w Warszawie, a nie Uniwersytet Warszawski
+- D: no referenced answer: w tym roku utworzono Królestwo Polskie, ale uniwersytet powstał rok później
 
 ---
 

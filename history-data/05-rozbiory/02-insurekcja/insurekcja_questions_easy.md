@@ -43,9 +43,9 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Jan Henryk Dąbrowski) – correct for: Księstwo Warszawskie. Jan Henryk Dąbrowski był generałem w czasie insurekcji, ale nie był Naczelnikiem. Słynie z późniejszych Legionów Polskich we Włoszech (1797).
-- Odpowiedź C (Józef Poniatowski) – correct for: Księstwo Warszawskie. Józef Poniatowski był generałem i bratankiem króla, ale w czasie insurekcji nie pełnił funkcji Naczelnika. Później był ministrem wojny Księstwa Warszawskiego.
-- Odpowiedź D (Tadeusz Czacki) – no referenced answer. Tadeusz Czacki był działaczem oświeceniowym i reformatorem edukacji, niewojskowym.
+- B: correct for: Księstwo Warszawskie. Jan Henryk Dąbrowski był generałem w czasie insurekcji, ale nie był Naczelnikiem. Słynie z późniejszych Legionów Polskich we Włoszech (1797).
+- C: correct for: Księstwo Warszawskie. Józef Poniatowski był generałem i bratankiem króla, ale w czasie insurekcji nie pełnił funkcji Naczelnika. Później był ministrem wojny Księstwa Warszawskiego.
+- D: no referenced answer. Tadeusz Czacki był działaczem oświeceniowym i reformatorem edukacji, niewojskowym.
 
 ---
 
@@ -69,9 +69,9 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Rac%C5%82awicami
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (1792) – correct for: Upadek (Rozbiory). 1792 to rok wojny polsko-rosyjskiej i konfederacji targowickiej, która doprowadziła do interwencji rosyjskiej.
-- Odpowiedź B (1793) – correct for: Rozbiory. 1793 to rok drugiego rozbioru Polski przeprowadzonego przez Prusy i Rosję.
-- Odpowiedź D (1795) – correct for: Rozbiory. 1795 to rok trzeciego rozbioru Polski, który zakończył istnienie państwa polskiego.
+- A: correct for: Upadek (Rozbiory). 1792 to rok wojny polsko-rosyjskiej i konfederacji targowickiej, która doprowadziła do interwencji rosyjskiej.
+- B: correct for: Rozbiory. 1793 to rok drugiego rozbioru Polski przeprowadzonego przez Prusy i Rosję.
+- D: correct for: Rozbiory. 1795 to rok trzeciego rozbioru Polski, który zakończył istnienie państwa polskiego.
 
 ---
 
@@ -95,9 +95,9 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Wojciech_Bartosz_G%C5%82owacki
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Huzarzy) – no referenced answer. Huzarzy to lekka kawaleria wojskowa, nie chłopi. Husaria była starą formacją kawaleryjską z XVII-XVIII wieku.
-- Odpowiedź C (Szwoleżerowie) – no referenced answer. Szwoleżerzy to piesi strzelcy wyborowi, nie kosynierzy. Była to formacja wojskowa z epoki napoleońskiej.
-- Odpowiedź D (Ułani) – no referenced answer. Ułani to kawaleria polska uzbrojona w lance, nie powstańcy chłopi. Ta formacja rozwijała się później, w XIX wieku.
+- B: no referenced answer. Huzarzy to lekka kawaleria wojskowa, nie chłopi. Husaria była starą formacją kawaleryjską z XVII-XVIII wieku.
+- C: no referenced answer. Szwoleżerzy to piesi strzelcy wyborowi, nie kosynierzy. Była to formacja wojskowa z epoki napoleońskiej.
+- D: no referenced answer. Ułani to kawaleria polska uzbrojona w lance, nie powstańcy chłopi. Ta formacja rozwijała się później, w XIX wieku.
 
 ---
 
@@ -121,9 +121,9 @@ Insurekcja kościuszkowska (1794) było polskim powstaniem narodowym przeciwko R
 - https://pl.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Husarię) – no referenced answer. Husaria była starą formacją kawaleryjską z XVII-XVIII wieku, nienową formacją Kościuszki. Słynęła z zwycięstw pod Wiedniem (1683).
-- Odpowiedź B (Legiony polskie) – correct for: Wiosna Ludów. Legiony polskie zostały utworzone później (1797), przez Jana Henryka Dąbrowskiego we Włoszech.
-- Odpowiedź D (Strzelców konnych) – no referenced answer. Strzelcy konni istnieli wcześniej w polskiej armii jako formacja kawaleryjska.
+- A: no referenced answer. Husaria była starą formacją kawaleryjską z XVII-XVIII wieku, nienową formacją Kościuszki. Słynęła z zwycięstw pod Wiedniem (1683).
+- B: correct for: Wiosna Ludów. Legiony polskie zostały utworzone później (1797), przez Jana Henryka Dąbrowskiego we Włoszech.
+- D: no referenced answer. Strzelcy konni istnieli wcześniej w polskiej armii jako formacja kawaleryjska.
 
 ---
 

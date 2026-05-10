@@ -41,9 +41,9 @@ Unia Lubelska, zawarta 1 lipca 1569 roku w Lublinie, była porozumieniem między
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
 **Analiza odpowiedzi błędnych:**
-- **B. Zygmunt III Waza** – incorrect from Wazowie: Pierwszy król elekcyjny z dynastii Wazów, wybrany w 1587 roku, 18 lat po unii lubelskiej
-- **C. Zygmunt I Stary** – incorrect from Zygmunt Stary: Ojciec Zygmunta II Augusta, panujący w latach 1506-1548, zmarł przed zawarciem unii lubelskiej
-- **D. Jan III Sobieski** – incorrect from Sobieski: Król z XVII wieku, panujący w latach 1674-1696, żył ponad 100 lat po zawarciu unii lubelskiej
+- B: incorrect from Wazowie: Pierwszy król elekcyjny z dynastii Wazów, wybrany w 1587 roku, 18 lat po unii lubelskiej
+- C: incorrect from Zygmunt Stary: Ojciec Zygmunta II Augusta, panujący w latach 1506-1548, zmarł przed zawarciem unii lubelskiej
+- D: incorrect from Sobieski: Król z XVII wieku, panujący w latach 1674-1696, żył ponad 100 lat po zawarciu unii lubelskiej
 
 ---
 
@@ -67,9 +67,9 @@ Unia Lubelska, zawarta 1 lipca 1569 roku w Lublinie, była porozumieniem między
 - https://pl.wikipedia.org/wiki/Rzeczpospolita_Obojga_Narod%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- **A. 1385** – incorrect from Unia krewska: Rok zawarcia pierwszej unii polsko-litewskiej w Krewie (unia personalna), a nie unii lubelskiej
-- **B. 1410** – incorrect from Grunwald: Rok bitwy pod Grunwaldem, ważnego zwycięstwa wojsk polsko-litewskich nad Zakonem Krzyżackim
-- **D. 1791** – incorrect from Oświecenie: Rok uchwalenia Konstytucji 3 Maja, a nie unii lubelskiej
+- A: incorrect from Unia krewska: Rok zawarcia pierwszej unii polsko-litewskiej w Krewie (unia personalna), a nie unii lubelskiej
+- B: incorrect from Grunwald: Rok bitwy pod Grunwaldem, ważnego zwycięstwa wojsk polsko-litewskich nad Zakonem Krzyżackim
+- D: incorrect from Oświecenie: Rok uchwalenia Konstytucji 3 Maja, a nie unii lubelskiej
 
 ---
 
@@ -93,9 +93,9 @@ Unia Lubelska, zawarta 1 lipca 1569 roku w Lublinie, była porozumieniem między
 - https://pl.wikipedia.org/wiki/Sejm_w_Lublinie_(1569)
 
 **Analiza odpowiedzi błędnych:**
-- **A. W Krakowie** – no referenced answer: Kraków był ówczesną stolicą Polski i miejscem koronacji królów, ale nie miejscem zawarcia unii lubelskiej
-- **B. W Warszawie** – no referenced answer: Warszawa stała się siedzibą sejmu walnego dopiero po unii lubelskiej, ale nie była miejscem jej zawarcia
-- **C. W Wilnie** – no referenced answer: Wilno było stolicą Wielkiego Księstwa Litewskiego, ale negocjacje unii odbywały się w Lublinie
+- A: no referenced answer: Kraków był ówczesną stolicą Polski i miejscem koronacji królów, ale nie miejscem zawarcia unii lubelskiej
+- B: no referenced answer: Warszawa stała się siedzibą sejmu walnego dopiero po unii lubelskiej, ale nie była miejscem jej zawarcia
+- C: no referenced answer: Wilno było stolicą Wielkiego Księstwa Litewskiego, ale negocjacje unii odbywały się w Lublinie
 
 ---
 
@@ -119,9 +119,9 @@ Unia Lubelska, zawarta 1 lipca 1569 roku w Lublinie, była porozumieniem między
 - https://pl.wikipedia.org/wiki/Rzeczpospolita_Obojga_Narod%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- **A. Królestwo Polskie** – no referenced answer: Nazwa tylko jednej części państwa (Korony), a nie całego państwa powstałego w wyniku unii
-- **B. Wielkie Księstwo Litewskie** – no referenced answer: Nazwa tylko drugiej części państwa (Litwy), a nie całego państwa powstałego w wyniku unii
-- **D. I Rzeczpospolita** – no referenced answer: Nazwa używana przez historyków dla całego okresu do 1795 roku, a nie oficjalna nazwa z 1569 roku
+- A: no referenced answer: Nazwa tylko jednej części państwa (Korony), a nie całego państwa powstałego w wyniku unii
+- B: no referenced answer: Nazwa tylko drugiej części państwa (Litwy), a nie całego państwa powstałego w wyniku unii
+- D: no referenced answer: Nazwa używana przez historyków dla całego okresu do 1795 roku, a nie oficjalna nazwa z 1569 roku
 
 ---
 
@@ -146,8 +146,8 @@ Unia Lubelska, zawarta 1 lipca 1569 roku w Lublinie, była porozumieniem między
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
 **Analiza odpowiedzi błędnych:**
-- **A. Piastowie** – incorrect from Chrystianizacja: Dynastia Piastów wygasła w 1370 roku, prawie 200 lat przed unią lubelską
-- **C. Wazowie** – incorrect from Wazowie: Dynastia Wazów panowała w latach 1587-1668, czyli po wygaśnięciu Jagiellonów
-- **D. Sasowie** – incorrect from Czasy saskie: Dynastia Sasów panowała w latach 1697-1763, czyli znacznie później niż Wazowie
+- A: incorrect from Chrystianizacja: Dynastia Piastów wygasła w 1370 roku, prawie 200 lat przed unią lubelską
+- C: incorrect from Wazowie: Dynastia Wazów panowała w latach 1587-1668, czyli po wygaśnięciu Jagiellonów
+- D: incorrect from Czasy saskie: Dynastia Sasów panowała w latach 1697-1763, czyli znacznie później niż Wazowie
 
 ---

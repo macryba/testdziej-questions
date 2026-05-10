@@ -40,9 +40,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa
 
 **Analiza odpowiedzi błędnych:**
-- Anna Walentynowicz – dźwigarka w Stoczni Gdańskiej, której zwolnienie było bezpośrednią przyczyną strajku, ale nie była jego liderem
-- Marian Jurczyk – przewodził strajkom w Stoczni Szczecińskiej w sierpniu 1980
-- Alina Pienkowska – pielęgniarka i działaczka Solidarności, jedna z inicjatorek strajku, ale nie jego główna liderka
+- B: dźwigarka w Stoczni Gdańskiej, której zwolnienie było bezpośrednią przyczyną strajku, ale nie była jego liderem
+- C: przewodził strajkom w Stoczni Szczecińskiej w sierpniu 1980
+- D: pielęgniarka i działaczka Solidarności, jedna z inicjatorek strajku, ale nie jego główna liderka
 
 ---
 
@@ -65,9 +65,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 **Analiza odpowiedzi błędnych:**
-- 14 sierpnia 1980 – początek strajku w Stoczni Gdańskiej, a nie data podpisania porozumienia
-- 17 września 1980 – data rejestracji NSZZ „Solidarność" przez Sąd Wojewódzki w Warszawie
-- 13 grudnia 1980 – data wprowadzenia stanu wojennego w Polsce (1981, nie 1980)
+- A: początek strajku w Stoczni Gdańskiej, a nie data podpisania porozumienia
+- C: data rejestracji NSZZ „Solidarność" przez Sąd Wojewódzki w Warszawie
+- D: data wprowadzenia stanu wojennego w Polsce (1981, nie 1980)
 
 ---
 
@@ -90,9 +90,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/21_postulat%C3%B3w_Mi%C4%99dzyzak%C5%82adowego_Komitetu_Strajkowego
 
 **Analiza odpowiedzi błędnych:**
-- Belwederski pałac – siedziba prezydenta Polski w okresie międzywojennym, nie był związany z Porozumieniami Sierpniowymi
-- Zamek Królewski w Krakowie – historyczna rezydencja królów polskich, nie była miejscem podpisania porozumienia
-- Sejm w Warszawie – miejsce obrad parlamentu, porozumienia podpisano w Gdańsku, a nie w Warszawie
+- A: siedziba prezydenta Polski w okresie międzywojennym, nie był związany z Porozumieniami Sierpniowymi
+- C: historyczna rezydencja królów polskich, nie była miejscem podpisania porozumienia
+- D: miejsce obrad parlamentu, porozumienia podpisano w Gdańsku, a nie w Warszawie
 
 ---
 
@@ -115,9 +115,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza odpowiedzi błędnych:**
-- Ogólnopolski Związek Zawodowy – nazwa nie odzwierciedlająca samorządności i niezależności związku
-- Robotniczy Związek Zawodowy – nazwa zbyt wąska, związek zrzeszał nie tylko robotników
-- Demokratyczny Związek Zawodowy – nazwa niepodana, słowo „demokratyczny" nie było w oficjalnej nazwie
+- B: nazwa nie odzwierciedlająca samorządności i niezależności związku
+- C: nazwa zbyt wąska, związek zrzeszał nie tylko robotników
+- D: nazwa niepodana, słowo "demokratyczny" nie było w oficjalnej nazwie
 
 ---
 
@@ -140,9 +140,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 **Analiza odpowiedzi błędnych:**
-- Podwyżka cen żywności – przyczyna strajków w grudniu 1970 roku, nie sierpnia 1980
-- Ogłoszenie stanu wojennego – wydarzenie z 13 grudnia 1981 roku, po narodzinach Solidarności
-- Wybory polskiego papieża – wydarzenie z października 1978 roku, wybór Karola Wojtyły na papieża
+- B: przyczyna strajków w grudniu 1970 roku, nie sierpnia 1980
+- C: wydarzenie z 13 grudnia 1981 roku, po narodzinach Solidarności
+- D: wydarzenie z października 1978 roku, wybór Karola Wojtyły na papieża
 
 ---
 
@@ -165,9 +165,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza odpowiedzi błędnych:**
-- 1978 – rok przed powstaniem Solidarności, związek nie istniał
-- 1979 – rok pielgrzymki Jana Pawła II do Polski, ale jeszcze przed narodzinami Solidarności
-- 1981 – rok wprowadzenia stanu wojennego, rejestracja miała miejsce wcześniej
+- A: rok przed powstaniem Solidarności, związek nie istniał
+- B: rok pielgrzymki Jana Pawła II do Polski, ale jeszcze przed narodzinami Solidarności
+- D: rok wprowadzenia stanu wojennego, rejestracja miała miejsce wcześniej
 
 ---
 
@@ -190,9 +190,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Jerzy_Popie%C5%82uszko
 
 **Analiza odpowiedzi błędnych:**
-- Kardynał Stefan Wyszyński – Prymas Polski, zmarł w 1981 roku, beatyfikowany w 2023, ale nie był bezpośrednio kapelanem Solidarności
-- Biskup Karol Wojtyła – został papieżem w 1978 roku, nie był kapelanem Solidarności
-- Ksiądz Jan Twardowski – polski poeta i kapelan, nie był związany z Solidarnością tak jak ks. Popiełuszko
+- A: Prymas Polski, zmarł w 1981 roku, beatyfikowany w 2023, ale nie był bezpośrednio kapelanem Solidarności
+- C: został papieżem w 1978 roku, nie był kapelanem Solidarności
+- D: polski poeta i kapelan, nie był związany z Solidarnością tak jak ks. Popiełuszko
 
 ---
 
@@ -215,9 +215,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza odpowiedzi błędnych:**
-- Około 1 miliona – znacznie zaniżona liczba, rzeczywista była około 10 razy większa
-- Około 3 milionów – również zaniżona liczba członków
-- Około 5 milionów – połowa rzeczywistej liczby członków
+- A: znacznie zaniżona liczba, rzeczywista była około 10 razy większa
+- B: również zaniżona liczba członków
+- C: połowa rzeczywistej liczby członków
 
 ---
 
@@ -240,9 +240,9 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
 **Analiza odpowiedzi błędnych:**
-- 1979 – rok przed powstaniem Solidarności, zjazd nie mógł się odbyć
-- 1980 – rok powstania Solidarności, ale pierwszy zjazd odbył się dopiero rok później
-- 1982 – rok po wprowadzeniu stanu wojennego, zjazd odbył się przed delegalizacją
+- A: rok przed powstaniem Solidarności, zjazd nie mógł się odbyć
+- B: rok powstania Solidarności, ale pierwszy zjazd odbył się dopiero rok później
+- D: rok po wprowadzeniu stanu wojennego, zjazd odbył się przed delegalizacją
 
 ---
 
@@ -265,6 +265,6 @@ Narodziny Solidarności w latach 1980-1981 to przełomowy moment w historii Pols
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
 **Analiza odpowiedzi błędnych:**
-- Szczecin – miasto na Wybrzeżu, gdzie również strajkowano w sierpniu 1980
-- Katowice – ważny ośrodek przemysłowy, ale nie był głównym miejscem narodzin Solidarności
-- Wrocław – miasto na Dolnym Śląsku, również strajkowało, ale nie było głównym ośrodkiem narodzin Solidarności
+- A: miasto na Wybrzeżu, gdzie również strajkowano w sierpniu 1980
+- B: ważny ośrodek przemysłowy, ale nie był głównym miejscem narodzin Solidarności
+- D: miasto na Dolnym Śląsku, również strajkowało, ale nie było głównym ośrodkiem narodzin Solidarności

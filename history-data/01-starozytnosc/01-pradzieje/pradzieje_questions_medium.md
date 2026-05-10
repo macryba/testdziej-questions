@@ -41,9 +41,9 @@ D. Około 10 tysięcy lat temu
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Około 1 miliona lat temu – ta data odnosi się do pojawienia się Homo erectus w Afryce, a nie w Europie Środkowej
-- C. Około 100 tysięcy lat temu – ta data odpowiada okresowi neandertalczyków, którzy byli późniejszymi mieszkańcami
-- D. Około 10 tysięcy lat temu – to początek holocenu i końca epoki lodowej, gdy ziemie polskie były już znacznie dłużej zamieszkane
+- A: ta data odnosi się do pojawienia się Homo erectus w Afryce, a nie w Europie Środkowej
+- C: ta data odpowiada okresowi neandertalczyków, którzy byli późniejszymi mieszkańcami
+- D: to początek holocenu i końca epoki lodowej, gdy ziemie polskie były już znacznie dłużej zamieszkane
 
 ---
 
@@ -64,9 +64,9 @@ D. Homo heidelbergensis
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- B. Neandertalczyk (Homo neanderthalensis) – pojawił się ok. 120-115 tysięcy lat temu (późniejszy gatunek)
-- C. Homo sapiens (człowiek rozumny) – pojawił się znacznie później, ok. 40 tysięcy lat temu
-- D. Homo heidelbergensis – wcześniejsza forma, która była przodkiem neandertalczyka, ale nie jest najstarszym gatunkiem na ziemiach polskich
+- B: pojawił się ok. 120-115 tysięcy lat temu (późniejszy gatunek)
+- C: pojawił się znacznie później, ok. 40 tysięcy lat temu
+- D: wcześniejsza forma, która była przodkiem neandertalczyka, ale nie jest najstarszym gatunkiem na ziemiach polskich
 
 ---
 
@@ -133,9 +133,9 @@ D. Handlem zagranicznym
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Rolnictwem i hodowlą – to cecha neolitu, który rozpoczął się ok. 5400 r. p.n.e.
-- C. Górnictwem i hutnictwem – to rozwoje z epoki brązu i żelaza, znacznie późniejsze
-- D. Handlem zagranicznym – intensywny handel rozwinął się dopiero w okresie rzymskim
+- A: to cecha neolitu, który rozpoczął się ok. 5400 r. p.n.e.
+- C: to rozwoje z epoki brązu i żelaza, znacznie późniejsze
+- D: intensywny handel rozwinął się dopiero w okresie rzymskim
 
 ---
 
@@ -229,9 +229,9 @@ D. Budowa wielkich imperiów
 - https://pl.wikipedia.org/wiki/Kultura_ceramiki_wst%C4%99gowej_rytej
 
 **Analiza odpowiedzi błędnych:**
-- A. Wynalezienie pisma – to wynalazek z much późniejszego okresu (cywilizacje starożytnego Wschodu)
-- B. Powstanie pierwszych miast – pierwsze miasta pojawiły się w Mezopotamii, nie na ziemiach polskich w neolicie
-- D. Budowa wielkich imperiów – to domena epoki brązu i żelaza, tysiące lat później
+- A: to wynalazek z much późniejszego okresu (cywilizacje starożytnego Wschodu)
+- B: pierwsze miasta pojawiły się w Mezopotamii, nie na ziemiach polskich w neolicie
+- D: to domena epoki brązu i żelaza, tysiące lat później
 
 ---
 
@@ -277,9 +277,9 @@ D. Biskupin
 - https://pl.wikipedia.org/wiki/Biskupin
 
 **Analiza odpowiedzi błędnych:**
-- A. Gniezno – ważny gród wczesnopiastowski z X wieku, nie z epoki żelaza
-- B. Kraków – miasto o much późniejszym pochodzeniu, jego początki sięgają VIII-IX wieku
-- C. Poznań – podobnie jak Kraków, gród wczesnopiastowski z IX-X wieku
+- A: ważny gród wczesnopiastowski z X wieku, nie z epoki żelaza
+- B: miasto o much późniejszym pochodzeniu, jego początki sięgają VIII-IX wieku
+- C: podobnie jak Kraków, gród wczesnopiastowski z IX-X wieku
 
 ---
 
@@ -300,9 +300,9 @@ D. Około 1-400 n.e.
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Około 5000-4000 p.n.e. – to początek neolitu (kultura ceramiki wstęgowej), nie epoka brązu
-- C. Około 650-1 p.n.e. – to data początkowa epoki żelaza (okres halsztacki)
-- D. Około 1-400 n.e. – to okres lateński (późna epoka żelaza), nie brązu
+- A: to początek neolitu (kultura ceramiki wstęgowej), nie epoka brązu
+- C: to data początkowa epoki żelaza (okres halsztacki)
+- D: to okres lateński (późna epoka żelaza), nie brązu
 
 ---
 
@@ -347,9 +347,9 @@ D. Były magazynami żywności
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Były miejscami kultu religijnego – chociaż religia była ważna, kopalnie służyły przede wszystkim celom praktycznym
-- B. Były grobowcami dla elit – nie ma dowodów na to, że kopalnie pełniły funkcję grobowców
-- D. Były magazynami żywności – kopalnie służyły do wydobywania krzemienia, nie do przechowywania żywności
+- A: chociaż religia była ważna, kopalnie służyły przede wszystkim celom praktycznym
+- B: nie ma dowodów na to, że kopalnie pełniły funkcję grobowców
+- D: kopalnie służyły do wydobywania krzemienia, nie do przechowywania żywności
 
 ---
 
@@ -370,9 +370,9 @@ D. Chrystianizacja ziem polskich
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Podbicie ziem polskich przez Rzymian – Rzymianie nie podbili ziem polskich, ich granica sięgała do Dunaju
-- C. Powstanie rzymskich kolonii – nie było rzymskich kolonii na ziemiach polskich
-- D. Chrystianizacja ziem polskich – chrystianizacja nastąpiła much później, w X wieku
+- A: Rzymianie nie podbili ziem polskich, ich granica sięgała do Dunaju
+- C: nie było rzymskich kolonii na ziemiach polskich
+- D: chrystianizacja nastąpiła much później, w X wieku
 
 ---
 
@@ -393,9 +393,9 @@ D. Kultura przeworska
 - https://pl.wikipedia.org/wiki/Kultura_przeworska
 
 **Analiza odpowiedzi błędnych:**
-- A. Kultura wstęgowa – istniała w neolicie (5400-4700 p.n.e.), much wcześniej niż okres rzymski
-- B. Kultura ceramiki sznurowej – rozwijała się w eneolicie (2900-2350 p.n.e.)
-- C. Kultura pucharów lejkowatych – istniała w eneolicie (4100-3400 p.n.e.)
+- A: istniała w neolicie (5400-4700 p.n.e.), much wcześniej niż okres rzymski
+- B: rozwijała się w eneolicie (2900-2350 p.n.e.)
+- C: istniała w eneolicie (4100-3400 p.n.e.)
 
 ---
 
@@ -441,9 +441,9 @@ D. Z powodu niekorzystnych warunków klimatycznych i pokrycia lądolodem
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Z powodu braku dostępu do wody – w okresach zlodowaceń było wręcz odwrotnie, wody było zdecydowanie za dużo
-- B. Z powodu chorób i epidemii – nie ma dowodów na epidemie jako przyczynę wyludnienia
-- C. Z powodu braku narzędzi – ludność posiadała odpowiednie narzędzia, problemem był klimat
+- A: w okresach zlodowaceń było wręcz odwrotnie, wody było zdecydowanie za dużo
+- B: nie ma dowodów na epidemie jako przyczynę wyludnienia
+- C: ludność posiadała odpowiednie narzędzia, problemem był klimat
 
 ---
 
@@ -465,9 +465,9 @@ D. Pojawienie się osiadłych społeczności i wzrost liczby ludności
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Upadek struktur społecznych i powrót do nomadyzmu – rewolucja neolityczna przyniosła odwrotny efekt
-- B. Powstanie niewolnictwa – niewolnictwo rozwijało się później, w epoce brązu i żelaza
-- C. Zniknięcie różnic społecznych – osiadły tryb życia wręcz sprzyjał powstawaniu różnic
+- A: rewolucja neolityczna przyniosła odwrotny efekt
+- B: niewolnictwo rozwijało się później, w epoce brązu i żelaza
+- C: osiadły tryb życia wręcz sprzyjał powstawaniu różnic
 
 ---
 
@@ -488,9 +488,9 @@ D. Z powodu wojen domowych
 - https://pl.wikipedia.org/wiki/Prehistoria_ziem_polskich
 
 **Analiza odpowiedzi błędnych:**
-- A. Z powodu wybuchu wulkanu – nie ma dowodów na wybuch wulkanu jako przyczynę
-- B. Z powodu klęski głodu – chociaż klęski mogły być czynnikiem, to bezpośrednią przyczyną był najazd Hunów
-- D. Z powodu wojen domowych – wojny domowe nie były przyczyną wielkiej wędrówki ludów
+- A: nie ma dowodów na wybuch wulkanu jako przyczynę
+- B: chociaż klęski mogły być czynnikiem, to bezpośrednią przyczyną był najazd Hunów
+- D: wojny domowe nie były przyczyną wielkiej wędrówki ludów
 
 ---
 
@@ -511,6 +511,6 @@ D. Budową grodów obronnych i zaawansowaną metalurgią
 - https://pl.wikipedia.org/wiki/Kultura_%C5%82u%C5%BCycka
 
 **Analiza odpowiedzi błędnych:**
-- A. Używaniem ceramiki wstęgowej – ceramika wstęgowa jest cechą much wcześniejszej kultury neolitycznej
-- B. Prowadzeniem wyłącznie koczowniczego trybu życia – kultura łużycka była osiadła
-- C. Brakiem jakichkolwiek śladów osadniczych – zostawiła liczne ślady osadnicze, w tym słynne grody
+- A: ceramika wstęgowa jest cechą much wcześniejszej kultury neolitycznej
+- B: kultura łużycka była osiadła
+- C: zostawiła liczne ślady osadnicze, w tym słynne grody

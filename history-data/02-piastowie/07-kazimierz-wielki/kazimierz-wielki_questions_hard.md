@@ -42,9 +42,9 @@ Rezygnacja z prób odzyskania Śląska była pragmatyczną decyzją dostosowaną
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Decyzją bez znaczenia – Śląsk nie miał istotnego znaczenia dla Polski) – incorrect from current chapter: Śląsk miał duże znaczenie gospodarcze (kopalnie srebra, ołowiu) i strategiczne (szlaki handlowe), co czyni tę odpowiedź całkowicie błędną w kontekście historycznym
-- Odpowiedź B (Błędem politycznym – Kazimierz powinien był walczyć o Śląsk do końca) – incorrect from current chapter: Kontynuacja wojny z Czechami w XIV wieku mogła doprowadzić do dwuwojny (z Czechami i Zakonem Krzyżackim) i wyczerpania zasobów państwa, co czyniło tę strategię ryzykowną
-- Odpowiedź C (Strategicznym błędem – utrata Śląska osłabiła Polskę na stulecia) – incorrect from current chapter: Choć utrata Śląska była ciosem, pokój z Czechami (1348) zabezpieczył zachodnią granicę i pozwolił na rozwój wewnętrzny oraz ekspansję na wschód, co było pragmatycznym kompromisem
+- A: incorrect from current chapter: Śląsk miał duże znaczenie gospodarcze (kopalnie srebra, ołowiu) i strategiczne (szlaki handlowe), co czyni tę odpowiedź całkowicie błędną w kontekście historycznym
+- B: incorrect from current chapter: Kontynuacja wojny z Czechami w XIV wieku mogła doprowadzić do dwuwojny (z Czechami i Zakonem Krzyżackim) i wyczerpania zasobów państwa, co czyniło tę strategię ryzykowną
+- C: incorrect from current chapter: Choć utrata Śląska była ciosem, pokój z Czechami (1348) zabezpieczył zachodnią granicę i pozwolił na rozwój wewnętrzny oraz ekspansję na wschód, co było pragmatycznym kompromisem
 
 ---
 
@@ -70,9 +70,9 @@ Centralizacja władzy przez Kazimierza Wielkiego wymagała kompromisów ze szlac
 - https://pl.wikipedia.org/wiki/Statuty_Kazimierza_Wielkiego
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Centralizacja i przywileje szlacheckie były ze sobą sprzeczne) – incorrect from current chapter: W monarchii stanowej centralizacja i przywileje szlacheckie współistniały jako element kompromisu między władzą monarszą a stanami, co charakteryzowało system polityczny Polski XIV wieku
-- Odpowiedź B (Kazimierz nie przyznawał szlachcie żadnych przywilejów) – incorrect from current chapter: Statuty wiślicko-piotrkowskie (1346-1362) zawierały liczne przywileje dla szlachty, takie jak prawo do apelacji do króla, ograniczenia sądów marszałkowskich oraz gwarancje nietykalności osobistej
-- Odpowiedź C (Przywileje szlacheckie osłabiły centralizację władzy królewskiej) – incorrect from current chapter: Mimo przywilejów szlacheckich, władza królewska pozostała silna dzięki rozbudowie aparatu administracyjnego i skarbowego, co pozwoliło na efektywne rządzenie państwem
+- A: incorrect from current chapter: W monarchii stanowej centralizacja i przywileje szlacheckie współistniały jako element kompromisu między władzą monarszą a stanami, co charakteryzowało system polityczny Polski XIV wieku
+- B: incorrect from current chapter: Statuty wiślicko-piotrkowskie (1346-1362) zawierały liczne przywileje dla szlachty, takie jak prawo do apelacji do króla, ograniczenia sądów marszałkowskich oraz gwarancje nietykalności osobistej
+- C: incorrect from current chapter: Mimo przywilejów szlacheckich, władza królewska pozostała silna dzięki rozbudowie aparatu administracyjnego i skarbowego, co pozwoliło na efektywne rządzenie państwem
 
 ---
 
@@ -97,9 +97,9 @@ Bilans panowania Kazimierza Wielkiego był przede wszystkim pozytywny, ale nie b
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Całkowity sukces – wszystkie cele zostały osiągnięte) – incorrect from current chapter: Nie wszystkie cele zostały osiągnięte – Śląsk pozostał utracony, sukcesja nie została rozwiązana (brak męskiego potomka), a Pomorze Gdańskie nie zostało w pełni odzyskane
-- Odpowiedź C (Porażka – straty przeważały nad zyskami) – incorrect from current chapter: Osiągnięcia Kazimierza (stabilizacja granic, rozwój gospodarczy, kodyfikacja prawa, Akademia Krakowska, ekspansja na wschód) znacznie przeważały nad niepowodzeniami
-- Odpowiedź D (Bilans neutralny – osiągnięcia równoważyły straty) – incorrect from current chapter: Sukcesy były wyraźniejsze niż niepowodzenia – Polska została wzmocniona wewnętrznie i rozszerzona terytorialnie na wschodzie mimo utraty Śląska
+- B: incorrect from current chapter: Nie wszystkie cele zostały osiągnięte – Śląsk pozostał utracony, sukcesja nie została rozwiązana (brak męskiego potomka), a Pomorze Gdańskie nie zostało w pełni odzyskane
+- C: incorrect from current chapter: Osiągnięcia Kazimierza (stabilizacja granic, rozwój gospodarczy, kodyfikacja prawa, Akademia Krakowska, ekspansja na wschód) znacznie przeważały nad niepowodzeniami
+- D: incorrect from current chapter: Sukcesy były wyraźniejsze niż niepowodzenia – Polska została wzmocniona wewnętrznie i rozszerzona terytorialnie na wschodzie mimo utraty Śląska
 
 ---
 
@@ -124,8 +124,8 @@ Ekspansja na Ruś Halicko-Włodzimierską stworzyła potrzebę zabezpieczenia ty
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Stworzyła bezpośredni precedens dla unii z Litwą) – incorrect for "Unia krewska": Ekspansja na Ruś Halicko-Włodzimierską nie stworzyła bezpośredniego precedensu prawnego dla unii z Litwą – unia w Krewie (1385) była wynikiem kompleksowych czynników politycznych, dynastycznych i bezpieczeństwa
-- Odpowiedź B (Nie miała żadnego związku z unią polsko-litewską) – incorrect from current chapter: Ekspansja na Ruść miała kluczowe znaczenie dla polityki wschodniej Polski – utrzymanie tego obszaru wymagało sojuszu z Litwą przeciwko Moskwie i Tatrom, co bezpośrednio doprowadziło do unii w Krewie
-- Odpowiedź C (Została przerwana przez Litwinów, co zmusiło Polskę do negocjacji) – incorrect for "Unia krewska": Ekspansja nie została przerwana przez Litwinów – Polska utrzymała Ruś Halicko-Włodzimierską do czasu unii w Krewie (1385), a następnie przekazała ją Litwie jako część porozumienia unijnego
+- A: incorrect for "Unia krewska": Ekspansja na Ruś Halicko-Włodzimierską nie stworzyła bezpośredniego precedensu prawnego dla unii z Litwą – unia w Krewie (1385) była wynikiem kompleksowych czynników politycznych, dynastycznych i bezpieczeństwa
+- B: incorrect from current chapter: Ekspansja na Ruść miała kluczowe znaczenie dla polityki wschodniej Polski – utrzymanie tego obszaru wymagało sojuszu z Litwą przeciwko Moskwie i Tatrom, co bezpośrednio doprowadziło do unii w Krewie
+- C: incorrect for "Unia krewska": Ekspansja nie została przerwana przez Litwinów – Polska utrzymała Ruś Halicko-Włodzimierską do czasu unii w Krewie (1385), a następnie przekazała ją Litwie jako część porozumienia unijnego
 
 ---

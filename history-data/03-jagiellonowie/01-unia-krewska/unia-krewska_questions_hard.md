@@ -49,9 +49,9 @@ Bilans panowania Władysława II Jagiełły (1386-1434) jest przedmiotem debaty 
 **Wyjaśnienie:** Główne polemikum historiograficzne dotyczy charakteru unii krewskiej – czy sformułowanie "applicare" (przyłączyć) z aktu krewskiego oznaczało inkorporację Litwy przez Polskę, czy była to równoprawna unia dwóch suwerennych państw. Historycy polscy często podkreślają charakter inkorporacyjny, podczas gdy historycy litewscy wskazują na zachowanie autonomii Litwy i równoprawny charakter związku. Kwestia oryginalności dokumentu ani dobrowolności chrztu nie są głównym przedmiotem sporu.
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Czy akt krewski był oryginalnym dokumentem, czy falsyfikatem z XVII wieku) – no referenced answer: Kwestia oryginalności aktu krewskiego nie jest głównym przedmiotem debaty historiograficznej. Dokument jest uznawany za autentyczny przez większość historyków, choć niektóre szczegóły (np. data podpisania) budzą wątpliwości.
-- Odpowiedź B (Czy Jadwiga Andegaweńska była inicjatorką unii czy tylko pasywnym narzędziem w rękach szlachty) – incorrect from Unia Krewska: Rola Jadwigi jest przedmiotem badań historyków, ale nie stanowi głównego sporu historiograficznego dotyczącego charakteru unii krewskiej (inkorporacja vs sojusz).
-- Odpowiedź C (Czy Jagiełło dobrowolnie przyjął chrzest, czy został do tego zmuszony przez polskich biskupów) – incorrect from Chrystianizacja: Chrzest Jagiełły był warunkiem koniecznym unii krewskiej i małżeństwa z Jadwigą, ale kwestia dobrowolności nie jest głównym polemikum historiograficznym dotyczącym charakteru unii.
+- A: no referenced answer: Kwestia oryginalności aktu krewskiego nie jest głównym przedmiotem debaty historiograficznej. Dokument jest uznawany za autentyczny przez większość historyków, choć niektóre szczegóły (np. data podpisania) budzą wątpliwości.
+- B: incorrect from Unia Krewska: Rola Jadwigi jest przedmiotem badań historyków, ale nie stanowi głównego sporu historiograficznego dotyczącego charakteru unii krewskiej (inkorporacja vs sojusz).
+- C: incorrect from Chrystianizacja: Chrzest Jagiełły był warunkiem koniecznym unii krewskiej i małżeństwa z Jadwigą, ale kwestia dobrowolności nie jest głównym polemikum historiograficznym dotyczącym charakteru unii.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Unia_w_Krewie
@@ -74,9 +74,9 @@ Bilans panowania Władysława II Jagiełły (1386-1434) jest przedmiotem debaty 
 **Wyjaśnienie:** Głównym kosztem politycznym unii krewskiej dla Polski była konieczność nadania licznych przywilejów szlacheckich (przywilej jedleńsko-krakowski 1430/1433) w zamian za zgodę szlachty na sukcesję syna Jagiełły po śmierci ojca. Jagiełło nie miał dziedzicznych praw do tronu (zasiadał na nim dzięki prawom Jadwigi), więc musiał wykupić zgodę szlachty na przekazanie tronu synowi. Przywileje te osłabiły władzę królewską i przyczyniły się do późniejszego kryzysu monarchii w Rzeczypospolitej. Nie utracono dostępu do Bałtyku ani ziem ruskich.
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Utrata dostępu do Bałtyku na rzecz Zakonu Krzyżackiego) – correct for: Lokietek (Piastowie): Utrata dostępu do Bałtyku nastąpiła w 1308 roku, gdy Zakon Krzyżacki zajął Pomorze Gdańskie, co było poprzedzającym wydarzeniem z epoki Piastów, a nie skutkiem unii krewskiej.
-- Odpowiedź C (Zwiększenie podatków na finansowanie wojen z Moskwą) – no referenced answer: Wojny z Moskwą były późniejszym wydarzeniem (XVI-XVII wiek), a zwiększenie podatków nie było głównym kosztem politycznym unii krewskiej. Głównym kosztem były przywileje szlacheckie.
-- Odpowiedź D (Rezygnacja z ziem ruskich na rzecz Litwy) – incorrect from Unia Krewska: Polska nie rezygnowała z ziem ruskich na rzecz Litwy. Wręcz przeciwnie, unia krewska otworzyła Polsce drogę do ekspansji na wschód i ziem ruskich, które pozostały we wspólnym państwie polsko-litewskim.
+- B: correct for: Lokietek (Piastowie): Utrata dostępu do Bałtyku nastąpiła w 1308 roku, gdy Zakon Krzyżacki zajął Pomorze Gdańskie, co było poprzedzającym wydarzeniem z epoki Piastów, a nie skutkiem unii krewskiej.
+- C: no referenced answer: Wojny z Moskwą były późniejszym wydarzeniem (XVI-XVII wiek), a zwiększenie podatków nie było głównym kosztem politycznym unii krewskiej. Głównym kosztem były przywileje szlacheckie.
+- D: incorrect from Unia Krewska: Polska nie rezygnowała z ziem ruskich na rzecz Litwy. Wręcz przeciwnie, unia krewska otworzyła Polsce drogę do ekspansji na wschód i ziem ruskich, które pozostały we wspólnym państwie polsko-litewskim.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Przywilej_jedle%C5%84sko-krakowski
@@ -99,9 +99,9 @@ Bilans panowania Władysława II Jagiełły (1386-1434) jest przedmiotem debaty 
 **Wyjaśnienie:** Wybór obrządku katolickiego (łacińskiego), a nie prawosławnego, miał fundamentalne znaczenie cywilizacyjne – zdecydował o przynależności Litwy do kręgu kultury zachodniej, a nie wschodniej. Gdyby Jagiełło przyjął prawosławie, Litwa znalazłaby w sferze wpływów moskiewskiej i konstantynopolitańskiej, co zmieniłoby losy całej Europy Środkowo-Wschodniej. Katolicyzm umożliwił integrację z Polską, dostęp do zachodniej kultury, nauki i prawnictwa, a także udział w życiu politycznym Zachodu.
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Katolicyzm gwarantował pomoc Węgrów i Czechów przeciwko Moskwie) – no referenced answer: Choć katolicyzm faktycznie zbliżył Litwę do kręgu zachodniego, głównym znaczeniem nie była gwarancja pomocy Węgrów i Czechów, lecz cywilizacyjna przynależność do kultury zachodniej. Węgrzy i Czesi nie byli głównymi sojusznikami przeciwko Moskwie.
-- Odpowiedź B (Prawosławie było zakazane na Litwie przez Witolda) – incorrect from Unia Krewska: Prawosławie nie było zakazane na Litwie. Witold sam był prawosławny i wspierał Kościół prawosławny. Po chrzcie Jagiełły katolicyzm stał się religią panujących, ale prawosławie nadal funkcjonowało, szczególnie na ziemiach ruskich.
-- Odpowiedź D (Katolicyzm pozwolił na likwidację Kościoła prawosławnego na Litwie) – no referenced answer: Katolicyzm nie doprowadził do likwidacji Kościoła prawosławnego na Litwie. Prawosławie nadal funkcjonowało, szczególnie na ziemiach ruskich Wielkiego Księstwa Litewskiego. Brak jest podstaw historycznych dla twierdzenia o likwidacji Kościoła prawosławnego.
+- A: no referenced answer: Choć katolicyzm faktycznie zbliżył Litwę do kręgu zachodniego, głównym znaczeniem nie była gwarancja pomocy Węgrów i Czechów, lecz cywilizacyjna przynależność do kultury zachodniej. Węgrzy i Czesi nie byli głównymi sojusznikami przeciwko Moskwie.
+- B: incorrect from Unia Krewska: Prawosławie nie było zakazane na Litwie. Witold sam był prawosławny i wspierał Kościół prawosławny. Po chrzcie Jagiełły katolicyzm stał się religią panujących, ale prawosławie nadal funkcjonowało, szczególnie na ziemiach ruskich.
+- D: no referenced answer: Katolicyzm nie doprowadził do likwidacji Kościoła prawosławnego na Litwie. Prawosławie nadal funkcjonowało, szczególnie na ziemiach ruskich Wielkiego Księstwa Litewskiego. Brak jest podstaw historycznych dla twierdzenia o likwidacji Kościoła prawosławnego.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Chrzest_Litwy
@@ -124,9 +124,9 @@ Bilans panowania Władysława II Jagiełły (1386-1434) jest przedmiotem debaty 
 **Wyjaśnienie:** Współcześni historycy coraz częściej oceniają Jadwigę jako aktywną architekt unii, która mimo młodego wieku (12-13 lat) miała głos w sprawie wyboru małżonka. Jadwiga świadomie zerwała zaręczyny z Wilhelmem Habsburgiem (co wymagało unieważnienia małżeństwa per verba de praesenti), zgodziła się na małżeństwo z Jagiełłą i przekazała mu prawa do tronu polskiego, co było kluczowe dla jego legitymizacji. Nie była pasywnym narzędziem ani ofiarą przymusowego małżeństwa – jej rola w procesie decyzyjnym była realna.
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Jako pasywne narzędzie w rękach polskiej szlachty i duchowieństwa) – incorrect from Unia Krewska: Starsza historiografia przedstawiała Jadwigę jako pasywne narzędzie, ale współczesne badania wykazują, że miała realny wpływ na decyzje, w tym na wybór Jagiełły i zerwanie zaręczyn z Wilhelmem Habsburgiem.
-- Odpowiedź C (Jako ofiara przymusowego małżeństwa, która nigdy nie akceptowała Jagiełły) – no referenced answer: Brak jest podstaw historycznych dla twierdzenia, że Jadwiga była ofiarą przymusowego małżeństwa lub nigdy nie akceptowała Jagiełły. Źródła wskazują na współpracę i akceptację ze strony Jadwigi.
-- Odpowiedź D (Jako polityczna rywalka Jagiełły, która planowała go usunąć po koronacji) – no referenced answer: Brak jest jakichkolwiek dowodów historycznych na to, że Jadwiga planowała usunąć Jagiełłę po koronacji. Współpracowali oni w sprawowaniu władzy, a Jadwiga przekazała mu prawa do tronu.
+- B: incorrect from Unia Krewska: Starsza historiografia przedstawiała Jadwigę jako pasywne narzędzie, ale współczesne badania wykazują, że miała realny wpływ na decyzje, w tym na wybór Jagiełły i zerwanie zaręczyn z Wilhelmem Habsburgiem.
+- C: no referenced answer: Brak jest podstaw historycznych dla twierdzenia, że Jadwiga była ofiarą przymusowego małżeństwa lub nigdy nie akceptowała Jagiełły. Źródła wskazują na współpracę i akceptację ze strony Jadwigi.
+- D: no referenced answer: Brak jest jakichkolwiek dowodów historycznych na to, że Jadwiga planowała usunąć Jagiełłę po koronacji. Współpracowali oni w sprawowaniu władzy, a Jadwiga przekazała mu prawa do tronu.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Jadwiga_Andegawe%C5%84ska
@@ -149,9 +149,9 @@ Bilans panowania Władysława II Jagiełły (1386-1434) jest przedmiotem debaty 
 **Wyjaśnienie:** Unia krewska stworzyła fundament dla późniejszych unii, ale jej inkorporacyjny charakter (sformułowanie "applicare") budził opór elit litewskich i dążenia do zachowania autonomii. Późniejsze unie (wileńska 1401, horodelska 1413, mielecka 1501, lubelska 1569) były próbami kompromisu między dążeniami Polski do ściślejszego związku a litewską autonomią. Proces ten doprowadził ostatecznie do unii lubelskiej 1569, która stworzyła Rzeczpospolitą Obojga Narodów. Unia krewska nie została zastąpiona, ale ani nie była wzorem idealnym – jej dziedzictwo było złożone.
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Unia krewska została całkowicie zastąpiona przez unie wileńską i horodelską, nie miała długofalowego wpływu) – incorrect from Unia Krewska: Unia krewska nie została całkowicie zastąpiona. Późniejsze unie (wileńska 1401, horodelska 1413) modyfikowały i rozwijały ją, ale nie anulowały. Unia krewska stworzyła fundament dla całego procesu unii polsko-litewskich aż do 1569 roku.
-- Odpowiedź C (Unia krewska była wzorem idealnym, którego próbowała dokonać każda późniejsza unia) – no referenced answer: Unia krewska nie była wzorem idealnym. Jej inkorporacyjny charakter budził opór litewski, więc późniejsze unie starały się go złagodzić i znaleźć kompromis między dążeniami polskimi a litewską autonomią.
-- Odpowiedź D (Unia krewska spowodowała trwałe rozdzielenie Polski i Litwy do 1795 roku) – correct for: Rozbiory (III Rzeczpospolita): Unia krewska spowodowała połączenie, a nie rozdzielenie Polski i Litwy. Trwałe rozdzielenie nastąpiło dopiero po III rozbiorze Polski w 1795 roku, co jest wydarzeniem z epoki rozbiorów, a nie skutkiem unii krewskiej.
+- A: incorrect from Unia Krewska: Unia krewska nie została całkowicie zastąpiona. Późniejsze unie (wileńska 1401, horodelska 1413) modyfikowały i rozwijały ją, ale nie anulowały. Unia krewska stworzyła fundament dla całego procesu unii polsko-litewskich aż do 1569 roku.
+- C: no referenced answer: Unia krewska nie była wzorem idealnym. Jej inkorporacyjny charakter budził opór litewski, więc późniejsze unie starały się go złagodzić i znaleźć kompromis między dążeniami polskimi a litewską autonomią.
+- D: correct for: Rozbiory (III Rzeczpospolita): Unia krewska spowodowała połączenie, a nie rozdzielenie Polski i Litwy. Trwałe rozdzielenie nastąpiło dopiero po III rozbiorze Polski w 1795 roku, co jest wydarzeniem z epoki rozbiorów, a nie skutkiem unii krewskiej.
 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Unia_w_Krewie

@@ -46,9 +46,9 @@ Najazdy mongolskie na Polskę stanowiły kluczowy moment w dziejach państwa pia
 - https://pl.wikipedia.org/wiki/Podboje_Mongo%C5%82%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (problemy z zaopatrzeniem) – częściowo prawdziwy czynnik, ale przeceniony: Mongołowie rzeczywiście mieli problemy logistyczne, ale nie były one decydującym powodem wycofania; głównym powodem była śmierć Ugedeja i konieczność uregulowania sukcesji
-- Odpowiedź B (strategiczny sukces, konsolidacja na Rusi) – niepoprawna z racjonalizacji: bitwa była rzeczywiście sukcesem Mongołów, ale wycofanie nie miało związku z konsolidacją podbojów na Rusi (już wcześniej ją podbili); decyzja o wycofaniu wynikała z wydarzeń w centrum imperium
-- Odpowiedź D (marginalne znaczenie, tylko rajd łupieżczy) – całkowicie błędna interpretacja: mongolska inwazja na Europę była planowaną ekspansją, a nie jedynie rajdem; bitwa miała kluczowe znaczenie strategiczne, zatrzymując mongolską ekspansję na Europę Środkową
+- A: częściowo prawdziwy czynnik, ale przeceniony: Mongołowie rzeczywiście mieli problemy logistyczne, ale nie były one decydującym powodem wycofania; głównym powodem była śmierć Ugedeja i konieczność uregulowania sukcesji
+- B: niepoprawna z racjonalizacji: bitwa była rzeczywiście sukcesem Mongołów, ale wycofanie nie miało związku z konsolidacją podbojów na Rusi (już wcześniej ją podbili); decyzja o wycofaniu wynikała z wydarzeń w centrum imperium
+- D: całkowicie błędna interpretacja: mongolska inwazja na Europę była planowaną ekspansją, a nie jedynie rajdem; bitwa miała kluczowe znaczenie strategiczne, zatrzymując mongolską ekspansję na Europę Środkową
 
 ---
 
@@ -71,9 +71,9 @@ Najazdy mongolskie na Polskę stanowiły kluczowy moment w dziejach państwa pia
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (najazdy nie przyspieszyły modernizacji) – incorrect from Rozbicie dzielnicowe: choć najazdy rzeczywiście opóźniły rozwój polityczny Polski (proces zjednoczeniowy), to jednocześnie przyspieszyły modernizację gospodarczą i techniczną poprzez usunięcie starych struktur grodowych i osadniczych; odpowiedź koncentruje się tylko na politycznych aspektach
-- Odpowiedź C (modernizacja nastąpiła mimo najazdów) – ignoruje związek przyczynowo-skutkowy: modernizacja postępowała szybciej właśnie dzięki skutkom najazdów, które "wyczyściły przestrzeń" dla nowych form organizacji; niszczenie starych grodów tworzyło miejsce dla nowoczesnych założeń miejskich
-- Odpowiedź D (tylko Śląsk) – too narrow: zjawisko dotyczyło całej Polski, nie tylko Śląska; na Małopolskę i Wielkopolskę również wpłynęły najazdy, prowadząc do rozwoju miast na prawie niemieckim i kolonizacji na nowym prawie w całym kraju
+- B: incorrect from Rozbicie dzielnicowe: choć najazdy rzeczywiście opóźniły rozwój polityczny Polski (proces zjednoczeniowy), to jednocześnie przyspieszyły modernizację gospodarczą i techniczną poprzez usunięcie starych struktur grodowych i osadniczych; odpowiedź koncentruje się tylko na politycznych aspektach
+- C: ignoruje związek przyczynowo-skutkowy: modernizacja postępowała szybciej właśnie dzięki skutkom najazdów, które "wyczyściły przestrzeń" dla nowych form organizacji; niszczenie starych grodów tworzyło miejsce dla nowoczesnych założeń miejskich
+- D: too narrow: zjawisko dotyczyło całej Polski, nie tylko Śląska; na Małopolskę i Wielkopolskę również wpłynęły najazdy, prowadząc do rozwoju miast na prawie niemieckim i kolonizacji na nowym prawie w całym kraju
 
 ---
 
@@ -96,9 +96,9 @@ Najazdy mongolskie na Polskę stanowiły kluczowy moment w dziejach państwa pia
 - https://pl.wikipedia.org/wiki/Henryk_II_Pobo%C5%BCny
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (informacja wiarygodna i potwierdzona) – zbyt pewne twierdzenie przy braku niezbitych dowodów: brak niezależnych źródeł potwierdzających udział Krzyżaków; jedynym źródłem jest Długosz, który pisał 200 lat po wydarzeniach; niektórzy historycy (Gerard Labuda) uważają to za wiarygodne, ale nie ma pewności
-- Odpowiedź C (Krzyżacy na pewno nie brali udziału) – zbyt kategoryczne zaprzeczenie: mimo braku pewnych dowodów na obecność Krzyżaków, nie ma również dowodów na ich nieobecność; stan wiedzy to "nie wiemy na pewno", a nie "na pewno nie było";_historycy debatują tę kwestię do dziś
-- Odpowiedź D (udział pewny, liczba mniejsza) – no referenced answer: nie ma żadnych danych o liczbie Krzyżaków, ani w źródłach Długosza, ani w innych źródłach; odpowiedź jest całkowicie spekulatywna i niepoparta żadnymi dowodami historycznymi
+- A: zbyt pewne twierdzenie przy braku niezbitych dowodów: brak niezależnych źródeł potwierdzających udział Krzyżaków; jedynym źródłem jest Długosz, który pisał 200 lat po wydarzeniach; niektórzy historycy (Gerard Labuda) uważają to za wiarygodne, ale nie ma pewności
+- C: zbyt kategoryczne zaprzeczenie: mimo braku pewnych dowodów na obecność Krzyżaków, nie ma również dowodów na ich nieobecność; stan wiedzy to "nie wiemy na pewno", a nie "na pewno nie było";_historycy debatują tę kwestię do dziś
+- D: no referenced answer: nie ma żadnych danych o liczbie Krzyżaków, ani w źródłach Długosza, ani w innych źródłach; odpowiedź jest całkowicie spekulatywna i niepoparta żadnymi dowodami historycznymi
 
 ---
 
@@ -121,9 +121,9 @@ Najazdy mongolskie na Polskę stanowiły kluczowy moment w dziejach państwa pia
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (dysproporcja liczebna) – no referenced answer: choć była dysproporcja liczebna, to nie była ona fundamentalną przyczyną porażki; polskie rycerstwo miało lepsze uzbrojenie ochronne i potrafiło walczyć z mniejszymi siłami; kluczowa była taktyczna nieskuteczność przeciwko mongolskiej kawalerii strzeleckiej
-- Odpowiedź B (brak jednego dowódcy) – correct for Rozbicie dzielnicowe: prawdziwy czynnik polityczny wynikający z rozbicia dzielnicowego, ale nie podstawowa przyczyna militarna; nawet z jednolitym dowództwem taktyka rycerstwa nie zrekompensowałaby różnic w typach wojsk; brak jednego dowódcy był istotny, ale nie decydujący
-- Odpowiedź C (wyłączna reliance na grody drewniano-ziemne) – przesadzenie i wypaczenie: grody drewniano-ziemne były standardem w całej Europie XIII wieku, nie tylko w Polsce; także inne państwa europejskie używały takich grodów; Mongołowie zdobywali też kamienne zamki (np. na Rusi); odpowiedź przesadza znaczenie tego czynnika
+- A: no referenced answer: choć była dysproporcja liczebna, to nie była ona fundamentalną przyczyną porażki; polskie rycerstwo miało lepsze uzbrojenie ochronne i potrafiło walczyć z mniejszymi siłami; kluczowa była taktyczna nieskuteczność przeciwko mongolskiej kawalerii strzeleckiej
+- B: correct for Rozbicie dzielnicowe: prawdziwy czynnik polityczny wynikający z rozbicia dzielnicowego, ale nie podstawowa przyczyna militarna; nawet z jednolitym dowództwem taktyka rycerstwa nie zrekompensowałaby różnic w typach wojsk; brak jednego dowódcy był istotny, ale nie decydujący
+- C: przesadzenie i wypaczenie: grody drewniano-ziemne były standardem w całej Europie XIII wieku, nie tylko w Polsce; także inne państwa europejskie używały takich grodów; Mongołowie zdobywali też kamienne zamki (np. na Rusi); odpowiedź przesadza znaczenie tego czynnika
 
 ---
 
@@ -146,8 +146,8 @@ Najazdy mongolskie na Polskę stanowiły kluczowy moment w dziejach państwa pia
 - https://pl.wikipedia.org/wiki/Piastowie_%C5%9Bl%C4%85scy
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (integracja z Koroną Czeską) – incorrect from Układ dziedziczy 1335: procesy integracji Śląska z Czechami rozpoczęły się później, w XIV wieku (układ dziedziczy 1335), a nie jako bezpośredni skutek najazdu z 1241; choć śląscy Piastowie szukali sojuszy z Czechami, to nie było to bezpośrednim skutkiem najazdu mongolskiego
-- Odpowiedź C (utrzymanie jedności politycznej) – fałsz: jedność polityczna Śląska nie została utrzymana; po śmierci Henryka Pobożnego doszło do trwałego podziału między czterech synów, co doprowadziło do rozdrobnienia Śląska na ponad tuzin księstw; odpowiedź stoi w sprzeczności z faktami historycznymi
-- Odpowiedź D (anneksja przez Pragę w układzie dziedzicznym) – incorrect from Układ dziedziczy 1335: aneksja Śląska przez Czechy nie miała miejsca w XIII wieku; układ dziedziczny zawarto w 1335, a nie przed 1241; w momencie najazdu nie było żadnej umowy dziedzicznej między Henrykiem Pobożnym a Wacławem I; odpowiedź myli wydarzenia z różnego okresu
+- A: incorrect from Układ dziedziczy 1335: procesy integracji Śląska z Czechami rozpoczęły się później, w XIV wieku (układ dziedziczy 1335), a nie jako bezpośredni skutek najazdu z 1241; choć śląscy Piastowie szukali sojuszy z Czechami, to nie było to bezpośrednim skutkiem najazdu mongolskiego
+- C: fałsz: jedność polityczna Śląska nie została utrzymana; po śmierci Henryka Pobożnego doszło do trwałego podziału między czterech synów, co doprowadziło do rozdrobnienia Śląska na ponad tuzin księstw; odpowiedź stoi w sprzeczności z faktami historycznymi
+- D: incorrect from Układ dziedziczy 1335: aneksja Śląska przez Czechy nie miała miejsca w XIII wieku; układ dziedziczny zawarto w 1335, a nie przed 1241; w momencie najazdu nie było żadnej umowy dziedzicznej między Henrykiem Pobożnym a Wacławem I; odpowiedź myli wydarzenia z różnego okresu
 
 ---

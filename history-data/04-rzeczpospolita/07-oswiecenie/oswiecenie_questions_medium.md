@@ -220,7 +220,7 @@ Reformy oświeceniowe napotykały na silny opór konserwatywnej szlachty i były
 
 **Analiza odpowiedzi błędnych:**
 - A, B, C - Każdy z wymienionych był przywódcą konfederacji targowickiej
-- D (Poprawna) - Wszyscy trzej magnaci byli przywódcami
+- D: Wszyscy trzej magnaci byli przywódcami
 
 ---
 

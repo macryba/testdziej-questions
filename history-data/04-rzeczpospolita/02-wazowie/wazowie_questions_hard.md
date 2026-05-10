@@ -55,9 +55,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1572%E2%80%931697)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Polityka ta wzmocniła pozycję Rzeczypospolitej na Bałtyku i przyniosła znaczne korzyści gospodarcze) – no referenced answer: Nieprawda. Rzeczpospolita straciła większość Inflant na rzecz Szwecji w rozejmie w Altmarku (1629)
-- Odpowiedź C (Polityka ta zakończyła się pełnym sukcesem - Zygmunt III odzyskał tron szwedzki dla swoich potomków) – no referenced answer: Nieprawda. Zygmunt III nigdy nie odzyskał tronu szwedzkiego, a został z niego detronizowany w 1599 roku
-- Odpowiedź D (Polityka ta nie miała istotnego wpływu na sytuację Rzeczypospolitej i została szybko zarzucona) – no referenced answer: Nieprawda. Wojny polsko-szwedzkie trwały prawie 30 lat (1600-1629) i miały poważne skutki gospodarcze i polityczne
+- A: no referenced answer: Nieprawda. Rzeczpospolita straciła większość Inflant na rzecz Szwecji w rozejmie w Altmarku (1629)
+- C: no referenced answer: Nieprawda. Zygmunt III nigdy nie odzyskał tronu szwedzkiego, a został z niego detronizowany w 1599 roku
+- D: no referenced answer: Nieprawda. Wojny polsko-szwedzkie trwały prawie 30 lat (1600-1629) i miały poważne skutki gospodarcze i polityczne
 
 ---
 
@@ -81,9 +81,9 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Unia zjednoczyła wszystkich mieszkańców ziemi ruskich i poprawiła stosunki z Rosją) – no referenced answer: Nieprawda. Unia pogłębiła podziały wyznaniowe między unitami a prawosławnymi, a Rosja uznała ją za wrogi gest
-- Odpowiedź C (Unia spowodowała natychmiastową konwersję większości prawosławnych na katolicyzm) – no referenced answer: Nieprawda. Proces konwersji był powolny i stopniowy, trwał przez kolejne stulecia
-- Odpowiedź D (Unia została powszechnie przyjęta i zakończyła wszystkie konflikty wyznaniowe) – no referenced answer: Nieprawda. Unia spotkała się z oporem prawosławnych i wywołała długotrwałe konflikty wyznaniowe na ziemiach ruskich
+- B: no referenced answer: Nieprawda. Unia pogłębiła podziały wyznaniowe między unitami a prawosławnymi, a Rosja uznała ją za wrogi gest
+- C: no referenced answer: Nieprawda. Proces konwersji był powolny i stopniowy, trwał przez kolejne stulecia
+- D: no referenced answer: Nieprawda. Unia spotkała się z oporem prawosławnych i wywołała długotrwałe konflikty wyznaniowe na ziemiach ruskich
 
 ---
 
@@ -106,8 +106,8 @@ Okres ten charakteryzował się próbami wzmocnienia władzy królewskiej, kontr
 - https://pl.wikipedia.org/wiki/Zygmunt_III_Waza
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Decyzja ta nie miała większego znaczenia dla rozwoju Polski) – no referenced answer: Nieprawda. Przeniesienie stolicy miało fundamentalne znaczenie dla rozwoju państwa i kształtowania się Warszawy jako głównego ośrodka politycznego
-- Odpowiedź B (Przeniesienie stolicy było błędem, który osłabił państwo i doprowadził do upadku Krakowa) – no referenced answer: Nieprawda. Decyzja nie była błędem - była strategicznie uzasadniona geopolitycznie i wzmocniła pozycję Polski w regionie
-- Odpowiedź C (Przeniesienie stolicy spowodowało natychmiastowy upadek Krakowa i szybki rozwój Warszawy) – no referenced answer: Nieprawda. Kraków nie upadł - zachował swoje znaczenie jako miejsce koronacji i siedziba ważnych instytucji, a proces rozwoju Warszawy trwał dziesiątki lat
+- A: no referenced answer: Nieprawda. Przeniesienie stolicy miało fundamentalne znaczenie dla rozwoju państwa i kształtowania się Warszawy jako głównego ośrodka politycznego
+- B: no referenced answer: Nieprawda. Decyzja nie była błędem - była strategicznie uzasadniona geopolitycznie i wzmocniła pozycję Polski w regionie
+- C: no referenced answer: Nieprawda. Kraków nie upadł - zachował swoje znaczenie jako miejsce koronacji i siedziba ważnych instytucji, a proces rozwoju Warszawy trwał dziesiątki lat
 
 ---

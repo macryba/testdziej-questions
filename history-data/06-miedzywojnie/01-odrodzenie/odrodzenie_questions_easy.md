@@ -329,9 +329,9 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A: Rada Regencyjna nie była marionetką, lecz organem prawnym.
-- Odpowiedź B: Byli inni kandydaci na przywódcę Polski.
-- Odpowiedź D: Mocarstwa zachodnie nie zmuszały Rady do przekazania władzy.
+- A: Rada Regencyjna nie była marionetką, lecz organem prawnym.
+- B: Byli inni kandydaci na przywódcę Polski.
+- D: Mocarstwa zachodnie nie zmuszały Rady do przekazania władzy.
 
 ---
 
@@ -355,9 +355,9 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Obrona_Lwowa_(1918%E2%80%931919)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A: Lwów nie został przyłączony do ZSRR - to nastąpiło po II wojnie światowej.
-- Odpowiedź C: Lwów nie był miastem wolnym.
-- Odpowiedź D: Lwów nie został przyłączony do Rumunii.
+- A: Lwów nie został przyłączony do ZSRR - to nastąpiło po II wojnie światowej.
+- C: Lwów nie był miastem wolnym.
+- D: Lwów nie został przyłączony do Rumunii.
 
 ---
 **Koniec pytań poziomu łatwego.**

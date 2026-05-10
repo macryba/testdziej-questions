@@ -318,9 +318,9 @@ W historiografii trwają dyskusje nad przyczynami i oceną testamentu Bolesława
 - https://pl.wikipedia.org/wiki/Ustawa_sukcesyjna_Boles%C5%82awa_Krzywoustego
 
 **Analiza odpowiedzi błędnych:**
-- A. Roman Grodecki – uważał, że dokument był sporządzony na piśmie i zaprzysiężony przez hierarchów (context from current chapter - historiographic interpretation)
-- B. Karol Maleczyński – twierdził, że ustawa obejmowała pięciu synów i zastosowano podwójny system (seniorat + primogenitura) (context from current chapter - historiographic interpretation)
-- C. Gerard Labuda – dowodził, że Bolesław ustanowił pryncypat, w którym seniorat obejmowali synowie kolejno (context from current chapter - historiographic interpretation)
+- A: uważał, że dokument był sporządzony na piśmie i zaprzysiężony przez hierarchów (context from current chapter - historiographic interpretation)
+- B: twierdził, że ustawa obejmowała pięciu synów i zastosowano podwójny system (seniorat + primogenitura) (context from current chapter - historiographic interpretation)
+- C: dowodził, że Bolesław ustanowił pryncypat, w którym seniorat obejmowali synowie kolejno (context from current chapter - historiographic interpretation)
 
 ---
 
@@ -345,9 +345,9 @@ W historiografii trwają dyskusje nad przyczynami i oceną testamentu Bolesława
 - https://pl.wikipedia.org/wiki/Piotr_W%C5%82ostowic
 
 **Analiza odpowiedzi błędnych:**
-- B. Śmierć Salomei – wydarzenie z 1144 roku, które było jednym z powodów konfliktu, ale nie bezpośrednią przyczyną wygnania (temporal confusion: earlier event from 1144)
-- C. Bitwa nad bagnami Pilicy – bitwa z 1145 roku, którą Władysław wygrał przy pomocy Rusinów (temporal confusion: earlier event from 1145)
-- D. Najazd Konrada III – wydarzenie z 1146 roku, już po ucieczce Władysława (temporal confusion: later event from 1146)
+- B: wydarzenie z 1144 roku, które było jednym z powodów konfliktu, ale nie bezpośrednią przyczyną wygnania (temporal confusion: earlier event from 1144)
+- C: bitwa z 1145 roku, którą Władysław wygrał przy pomocy Rusinów (temporal confusion: earlier event from 1145)
+- D: wydarzenie z 1146 roku, już po ucieczce Władysława (temporal confusion: later event from 1146)
 
 ---
 
@@ -371,9 +371,9 @@ W historiografii trwają dyskusje nad przyczynami i oceną testamentu Bolesława
 - https://pl.wikipedia.org/wiki/Ustawa_sukcesyjna_Boles%C5%82awa_Krzywoustego
 
 **Analiza odpowiedzi błędnych:**
-- A. Seniorat wszystkich Piastów – interpretacja Gerarda Labudy (pryncypat) (context from current chapter - historiographic interpretation)
-- B. Cztery równe dzielnice – interpretacja Tadeusza Wojciechowskiego (context from current chapter - historiographic interpretation)
-- C. Książęta-juniorzy jako namiestnicy – interpretacja Edwarda Rymara (context from current chapter - historiographic interpretation)
+- A: interpretacja Gerarda Labudy (pryncypat) (context from current chapter - historiographic interpretation)
+- B: interpretacja Tadeusza Wojciechowskiego (context from current chapter - historiographic interpretation)
+- C: interpretacja Edwarda Rymara (context from current chapter - historiographic interpretation)
 
 ---
 
@@ -398,9 +398,9 @@ W historiografii trwają dyskusje nad przyczynami i oceną testamentu Bolesława
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Wygnaniec
 
 **Analiza odpowiedzi błędnych:**
-- A. Hołd Czechom – wydarzenie z późniejszego okresu (XIV wiek, 1327-1331) (temporal confusion: event from 1327-1331, incorrect from: chapters about XIV-century Poland)
-- B. Układ w Krzyszkowie – był skutkiem wyprawy cesarza, nie jej przyczyną (context from current chapter)
-- D. Utrata ziemi lubuskiej – wydarzenie z 1250 roku, już po okresie opisywanym w pytaniu (temporal confusion: later event from 1250)
+- A: wydarzenie z późniejszego okresu (XIV wiek, 1327-1331) (temporal confusion: event from 1327-1331, incorrect from: chapters about XIV-century Poland)
+- B: był skutkiem wyprawy cesarza, nie jej przyczyną (context from current chapter)
+- D: wydarzenie z 1250 roku, już po okresie opisywanym w pytaniu (temporal confusion: later event from 1250)
 
 ---
 **Statystyki:**

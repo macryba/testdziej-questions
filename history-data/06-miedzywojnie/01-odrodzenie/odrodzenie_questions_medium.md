@@ -43,9 +43,9 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A: Obydwaj działacze opowiadali się za republiką, a nie monarchią.
-- Odpowiedź B: Dmowski był przeciwnikiem integracji z Rosją, a Piłsudski walczył z bolszewikami.
-- Odpowiedź D: Obaj politycy dążyli do sojuszu z Francją, nie z Austrią.
+- A: Obydwaj działacze opowiadali się za republiką, a nie monarchią.
+- B: Dmowski był przeciwnikiem integracji z Rosją, a Piłsudski walczył z bolszewikami.
+- D: Obaj politycy dążyli do sojuszu z Francją, nie z Austrią.
 
 ---
 
@@ -69,9 +69,9 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B: Traktat wersalski ustalał tylko granicę zachodnią z Niemcami.
-- Odpowiedź C: Polska nie otrzymała odszkodowań wojennych na mocy traktatu wersalskiego.
-- Odpowiedź D: Sojusz z Francją został zawarty osobnym układem w 1921 roku.
+- B: Traktat wersalski ustalał tylko granicę zachodnią z Niemcami.
+- C: Polska nie otrzymała odszkodowań wojennych na mocy traktatu wersalskiego.
+- D: Sojusz z Francją został zawarty osobnym układem w 1921 roku.
 
 ---
 
@@ -95,9 +95,9 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A: Austria nie ogłosiła niepodległości Polski - była to inicjatywa polska.
-- Odpowiedź C: Paderewski był katalizatorem, ale nie decydującym czynnikiem.
-- Odpowiedź D: Cesarz Wilhelm II nie wydał dekretu sprzyjającego Polakom.
+- A: Austria nie ogłosiła niepodległości Polski - była to inicjatywa polska.
+- C: Paderewski był katalizatorem, ale nie decydującym czynnikiem.
+- D: Cesarz Wilhelm II nie wydał dekretu sprzyjającego Polakom.
 
 ---
 
@@ -121,9 +121,9 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Plebiscyt_na_%C5%9Al%C4%85sku_Opolskim
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A: Nie ma dowodów na sfałszowanie plebiscytu przez Niemców.
-- Odpowiedź B: Mieszkańcy głosowali w większości za Niemcami.
-- Odpowiedź C: Rada Ambasadorów uznała wyniki plebiscytu.
+- A: Nie ma dowodów na sfałszowanie plebiscytu przez Niemców.
+- B: Mieszkańcy głosowali w większości za Niemcami.
+- C: Rada Ambasadorów uznała wyniki plebiscytu.
 
 ---
 
@@ -147,9 +147,9 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A: Granice wschodnie były przedmiotem osobnych negocjacji z Rosją Sowiecką.
-- Odpowiedź B: Polska nie otrzymała znaczących odszkodowań.
-- Odpowiedź D: Polska była republiką, nie monarchią.
+- A: Granice wschodnie były przedmiotem osobnych negocjacji z Rosją Sowiecką.
+- B: Polska nie otrzymała znaczących odszkodowań.
+- D: Polska była republiką, nie monarchią.
 
 ---
 
@@ -173,9 +173,9 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B: Polacy mieli prawo głosu w plebiscycie.
-- Odpowiedź C: Nie ma dowodów na sfałszowanie plebiscytu.
-- Odpowiedź D: Polska prowadziła aktywną kampanię plebiscytową.
+- B: Polacy mieli prawo głosu w plebiscycie.
+- C: Nie ma dowodów na sfałszowanie plebiscytu.
+- D: Polska prowadziła aktywną kampanię plebiscytową.
 
 ---
 
@@ -199,9 +199,9 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A: Piłsudski objął władze później, w Warszawie.
-- Odpowiedź B: Rewolucja w Rosji nastąpiła wcześniej, w 1917 roku.
-- Odpowiedź C: Kapitulacja Niemiec wpłynęła na sytuację w Warszawie.
+- A: Piłsudski objął władze później, w Warszawie.
+- B: Rewolucja w Rosji nastąpiła wcześniej, w 1917 roku.
+- C: Kapitulacja Niemiec wpłynęła na sytuację w Warszawie.
 
 ---
 **Koniec pytań poziomu średniego.**

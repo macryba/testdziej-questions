@@ -41,9 +41,9 @@ Lech Wałęsa jako przewodniczący "Solidarności" został internowany w nocy 13
 - [Solidarność](https://pl.wikipedia.org/wiki/NSZZ_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9C) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Wojciech Jaruzelski) – correct for: Stan wojenny (przywódca wojskowy wprowadzający stan wojenny)
-- C (Czesław Kiszczak) – correct for: Stan wojenny (minister spraw wewnętrznych, odpowiedzialny za represje)
-- D (Mieczysław Rakowski) – correct for: Okrągły Stół (premier PRL w latach 1988-1989)
+- A: correct for: Stan wojenny (przywódca wojskowy wprowadzający stan wojenny)
+- C: correct for: Stan wojenny (minister spraw wewnętrznych, odpowiedzialny za represje)
+- D: correct for: Okrągły Stół (premier PRL w latach 1988-1989)
 
 ---
 
@@ -68,9 +68,9 @@ Stan wojenny został formalnie zawieszony 31 grudnia 1982 roku, choć pełne zni
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (13 grudnia 1982) – Pierwsza rocznica wprowadzenia stanu wojennego, nie data zawieszenia
-- C (1 maja 1983) – Święto Pracy, nie związane ze stanem wojennym
-- D (22 lipca 1983) – Data pełnego zniesienia stanu wojennego, nie zawieszenia
+- A: Pierwsza rocznica wprowadzenia stanu wojennego, nie data zawieszenia
+- C: Święto Pracy, nie związane ze stanem wojennym
+- D: Data pełnego zniesienia stanu wojennego, nie zawieszenia
 
 ---
 
@@ -95,9 +95,9 @@ Czesław Kiszczak jako minister spraw wewnętrznych był odpowiedzialny za milic
 - [Czesław Kiszczak](https://pl.wikipedia.org/wiki/Czes%C5%82aw_Kiszczak) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Premier PRL) – incorrect for: Stan wojenny (Kiszczak był premierem dopiero w latach 1988-1989)
-- B (Szef SB) – no referenced answer (Kiszczak był ministrem spraw wewnętrznych, co obejmowało nadzór nad SB, ale formalnie nie był "szefem SB")
-- D (Minister obrony narodowej) – correct for: Stan wojenny (to urząd Wojciecha Jaruzelskiego)
+- A: incorrect for: Stan wojenny (Kiszczak był premierem dopiero w latach 1988-1989)
+- B: no referenced answer (Kiszczak był ministrem spraw wewnętrznych, co obejmowało nadzór nad SB, ale formalnie nie był "szefem SB")
+- D: correct for: Stan wojenny (to urząd Wojciecha Jaruzelskiego)
 
 ---
 
@@ -123,9 +123,9 @@ Gdzie miała miejsce tragiczna pacyfikacja strajku podczas stanu wojennego, w kt
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Stocznie Gdańskie) – correct for: Sierpień 1980 (miejsce narodzin Solidarności)
-- C (Huta Katowice) – no referenced answer (duży zakład przemysłowy, ale nie miejsce pacyfikacji ze skutkiem śmiertelnym)
-- D (Kopalnia Piast w Bieruniu) – no referenced answer (inna kopalnia, niezwiązana z tą tragedią)
+- A: correct for: Sierpień 1980 (miejsce narodzin Solidarności)
+- C: no referenced answer (duży zakład przemysłowy, ale nie miejsce pacyfikacji ze skutkiem śmiertelnym)
+- D: no referenced answer (inna kopalnia, niezwiązana z tą tragedią)
 
 ---
 
@@ -150,9 +150,9 @@ Podczas stanu wojennego wprowadzono godzinę milicyjną, która ograniczała prz
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Zakaz opuszczania miasta) – no referenced answer (nie wprowadzano takiego ogólnego zakazu)
-- C (Zakaz podróżowania pociągami) – no referenced answer (podróżowanie było ograniczone, ale nie zabronione)
-- D (Obowiązek meldunkowy) – no referenced answer (nie wprowadzano takiego obowiązku)
+- A: no referenced answer (nie wprowadzano takiego ogólnego zakazu)
+- C: no referenced answer (podróżowanie było ograniczone, ale nie zabronione)
+- D: no referenced answer (nie wprowadzano takiego obowiązku)
 
 ---
 
@@ -177,9 +177,9 @@ Władze komunistyczne bały się utraty władzy pod wpływem rosnącej popularno
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Aby poprawić sytuację gospodarczą) – no referenced answer (stan wojenny pogorszył gospodarkę)
-- B (Aby wzmocnić demokrację w Polsce) – no referenced answer (stan wojenny ograniczył prawa demokratyczne)
-- D (Aby chronić kraj przed agresją NATO) – no referenced answer (NATO nie groziło Polsce agresją)
+- A: no referenced answer (stan wojenny pogorszył gospodarkę)
+- B: no referenced answer (stan wojenny ograniczył prawa demokratyczne)
+- D: no referenced answer (NATO nie groziło Polsce agresją)
 
 ---
 
@@ -204,9 +204,9 @@ Sąd Najwyższy PRL zdelegalizował Solidarność 8 października 1982 roku, co 
 - [Solidarność](https://pl.wikipedia.org/wiki/NSZZ_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9C) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Została rozwiązana dobrowolnie) – no referenced answer (Solidarność nie zrezygnowała z działalności)
-- B (Została włączona do struktur PZPR) – no referenced answer (nie doszło do takiego włączenia)
-- D (Została przekształcona w partię polityczną) – no referenced answer (Solidarność pozostała związkiem zawodowym)
+- A: no referenced answer (Solidarność nie zrezygnowała z działalności)
+- B: no referenced answer (nie doszło do takiego włączenia)
+- D: no referenced answer (Solidarność pozostała związkiem zawodowym)
 
 ---
 
@@ -231,9 +231,9 @@ Podczas stanu wojennego opór społeczny przybierał różne formy: strajki (np.
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Strajki i demonstracje) – no referenced answer (prawda, ale nie jedyne formy oporu)
-- B (Niezależne wydawnictwa) – no referenced answer (prawda, ale nie jedyna forma oporu)
-- C (Ulotki i plakaty) – no referenced answer (prawda, ale nie jedyna forma oporu)
+- A: no referenced answer (prawda, ale nie jedyne formy oporu)
+- B: no referenced answer (prawda, ale nie jedyna forma oporu)
+- C: no referenced answer (prawda, ale nie jedyna forma oporu)
 
 ---
 
@@ -258,9 +258,9 @@ Kraje zachodnie, w tym USA oraz państwa europejskie, wprowadziły sankcje gospo
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Wysłano wojska NATO do Polski) – no referenced answer (nie doszło do interwencji militarnej)
-- B (Zwiększono pomoc gospodarczą) – no referenced answer (wręcz przeciwnie, wstrzymano pomoc)
-- D (Zignorowano wydarzenia) – no referenced answer (Zachód zareagował sankcjami)
+- A: no referenced answer (nie doszło do interwencji militarnej)
+- B: no referenced answer (wręcz przeciwnie, wstrzymano pomoc)
+- D: no referenced answer (Zachód zareagował sankcjami)
 
 ---
 
@@ -285,9 +285,9 @@ Podczas stanu wojennego zginęło ponad 70 osób, w tym 9 górników z Kopalni W
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Ponad 700) – no referenced answer (zbyt duża liczba)
-- B (Ponad 7) – no referenced answer (zbyt mała liczba)
-- D (Ponad 7000) – no referenced answer (drastycznie przeszacowana liczba)
+- A: no referenced answer (zbyt duża liczba)
+- B: no referenced answer (zbyt mała liczba)
+- D: no referenced answer (drastycznie przeszacowana liczba)
 
 ---
 
@@ -312,9 +312,9 @@ Stan wojenny pogorszył sytuację gospodarczą Polski – spadła produkcja, wzr
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Poprawę sytuacji gospodarczej) – no referenced answer (stan wojenny pogorszył gospodarkę)
-- B (Stabilizację gospodarki) – no referenced answer (gospodarka była niestabilna)
-- D (Wzrost eksportu) – no referenced answer (eksport spadł z powodu sankcji)
+- A: no referenced answer (stan wojenny pogorszył gospodarkę)
+- B: no referenced answer (gospodarka była niestabilna)
+- D: no referenced answer (eksport spadł z powodu sankcji)
 
 ---
 
@@ -340,6 +340,6 @@ Pomimo delegalizacji, Solidarność kontynuowała działalność w podziemiu pop
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Została całkowicie zniszczona) – no referenced answer (Solidarność przetrwała w podziemiu)
-- B (Została przekształcona w legalną organizację) – no referenced answer (została zdelegalizowana)
-- C (Przerwała działalność do 1989) – no referenced answer (działalność kontynuowano w podziemiu)
+- A: no referenced answer (Solidarność przetrwała w podziemiu)
+- B: no referenced answer (została zdelegalizowana)
+- C: no referenced answer (działalność kontynuowano w podziemiu)

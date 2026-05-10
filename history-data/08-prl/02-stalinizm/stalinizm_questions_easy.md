@@ -42,9 +42,9 @@ tokens_total: 0
 - D) Wojciech Jaruzelski – przywódca Polski w latach 1981-1989 (po stalinizmie)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Władysław Gomułka) – incorrect from Początki PRL / Październik 56: Władysław Gomułka był przywódcą Polski w latach 1956-1970, po okresie stalinizmu
-- Odpowiedź C (Edward Gierek) – incorrect from Gierek: Edward Gierek był przywódcą Polski w latach 1970-1980, w okresie tzw. "dekady gierkowskiej"
-- Odpowiedź D (Wojciech Jaruzelski) – incorrect from Stan wojenny: Wojciech Jaruzelski był przywódcą Polski w latach 1981-1989, wprowadził stan wojenny
+- B: incorrect from Początki PRL / Październik 56: Władysław Gomułka był przywódcą Polski w latach 1956-1970, po okresie stalinizmu
+- C: incorrect from Gierek: Edward Gierek był przywódcą Polski w latach 1970-1980, w okresie tzw. "dekady gierkowskiej"
+- D: incorrect from Stan wojenny: Wojciech Jaruzelski był przywódcą Polski w latach 1981-1989, wprowadził stan wojenny
 
 ---
 
@@ -72,9 +72,9 @@ tokens_total: 0
 - C) Stronnictwo Demokratyczne – partia satelicka PZPR
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Polska Partia Robotnicza) – no referenced answer: PPR była partią komunistyczną działającą w latach 1942-1948, została włączona do PZPR
-- Odpowiedź B (Polska Partia Socjalistyczna) – no referenced answer: PPS była partią socjalistyczną działającą przed II wojną światową, w 1948 włączona do PZPR
-- Odpowiedź C (Stronnictwo Demokratyczne) – no referenced answer: SD było partią satelicką PZPR w PRL, nie było główną partią rządzącą
+- A: no referenced answer: PPR była partią komunistyczną działającą w latach 1942-1948, została włączona do PZPR
+- B: no referenced answer: PPS była partią socjalistyczną działającą przed II wojną światową, w 1948 włączona do PZPR
+- C: no referenced answer: SD było partią satelicką PZPR w PRL, nie było główną partią rządzącą
 
 ---
 
@@ -102,9 +102,9 @@ tokens_total: 0
 - C) Nikita Chruszczow – lider ZSRR w latach 1953-1964 (po śmierci Stalina)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Włodzimierz Lenin) – no referenced answer: Lenin był przywódcą ZSRR w latach 1917-1924, zmarł przed powstaniem stalinizmu
-- Odpowiedź B (Michaił Gorbaczow) – no referenced answer: Gorbaczow był liderem ZSRR w latach 1985-1991, wprowadził politykę pieriestrojki
-- Odpowiedź C (Nikita Chruszczow) – incorrect from Początki PRL / Październik 56: Chruszczow był liderem ZSRR w latach 1953-1964, potępił zbrodnie stalinizmu
+- A: no referenced answer: Lenin był przywódcą ZSRR w latach 1917-1924, zmarł przed powstaniem stalinizmu
+- B: no referenced answer: Gorbaczow był liderem ZSRR w latach 1985-1991, wprowadził politykę pieriestrojki
+- C: incorrect from Początki PRL / Październik 56: Chruszczow był liderem ZSRR w latach 1953-1964, potępił zbrodnie stalinizmu
 
 ---
 
@@ -132,9 +132,9 @@ tokens_total: 0
 - D) 1956 – rok odwilży i powrotu Gomułki do władzy
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (1945) – no referenced answer: 1945 to rok zakończenia II wojny światowej i powstania PRL
-- Odpowiedź B (1948) – no referenced answer: 1948 to rok utworzenia PZPR i początku okresu stalinizmu w Polsce
-- Odpowiedź D (1956) – incorrect from Październik 56: 1956 to rok odwilży, Poznańskiego Czerwca i powrotu Władysława Gomułki do władzy
+- A: no referenced answer: 1945 to rok zakończenia II wojny światowej i powstania PRL
+- B: no referenced answer: 1948 to rok utworzenia PZPR i początku okresu stalinizmu w Polsce
+- D: incorrect from Październik 56: 1956 to rok odwilży, Poznańskiego Czerwca i powrotu Władysława Gomułki do władzy
 
 ---
 
@@ -162,9 +162,9 @@ tokens_total: 0
 - D) Gdańsk – miejsce protestów w 1970 i 1980
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Warszawa) – no referenced answer: Warszawa to stolica Polski, miejsce siedziby władz PRL
-- Odpowiedź C (Kraków) – no referenced answer: Kraków to miejsce procesu biskupów w 1953, ale nie głównych protestów robotniczych
-- Odpowiedź D (Gdańsk) – incorrect from Grudzień 70 / Solidarność: Gdańsk to miejsce protestów robotniczych w grudniu 1970 i sierpniu 1980 (powstanie Solidarności)
+- A: no referenced answer: Warszawa to stolica Polski, miejsce siedziby władz PRL
+- C: no referenced answer: Kraków to miejsce procesu biskupów w 1953, ale nie głównych protestów robotniczych
+- D: incorrect from Grudzień 70 / Solidarność: Gdańsk to miejsce protestów robotniczych w grudniu 1970 i sierpniu 1980 (powstanie Solidarności)
 
 ---
 
@@ -192,9 +192,9 @@ tokens_total: 0
 - D) Straż Pożarna – formacja zajmująca się gaszeniem pożarów
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Policja) – no referenced answer: Policja była formacja przedwojenną, w PRL zastąpiona przez MO i MBP
-- Odpowiedź B (Wojsko Polskie) – no referenced answer: Wojsko Polskie to siły zbrojne, nie odpowiedzialne za bezpieczeństwo wewnętrzne
-- Odpowiedź D (Straż Pożarna) – no referenced answer: Straż Pożarna to formacja zajmująca się gaszeniem pożarów, nie represjami
+- A: no referenced answer: Policja była formacja przedwojenną, w PRL zastąpiona przez MO i MBP
+- B: no referenced answer: Wojsko Polskie to siły zbrojne, nie odpowiedzialne za bezpieczeństwo wewnętrzne
+- D: no referenced answer: Straż Pożarna to formacja zajmująca się gaszeniem pożarów, nie represjami
 
 ---
 
@@ -222,9 +222,9 @@ tokens_total: 0
 - D) Józef Glemp – prymas Polski w latach 1981-2009 (po stalinizmie)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Karol Wojtyła) – no referenced answer: Karol Wojtyła został papieżem Janem Pawłem II w 1978, był biskupem w okresie stalinizmu
-- Odpowiedź B (August Hlond) – no referenced answer: August Hlond był prymasem Polski w latach 1926-1948, zmarł przed rozpoczęciem stalinizmu
-- Odpowiedź D (Józef Glemp) – no referenced answer: Józef Glemp został prymasem Polski w 1981, po zakończeniu okresu stalinizmu
+- A: no referenced answer: Karol Wojtyła został papieżem Janem Pawłem II w 1978, był biskupem w okresie stalinizmu
+- B: no referenced answer: August Hlond był prymasem Polski w latach 1926-1948, zmarł przed rozpoczęciem stalinizmu
+- D: no referenced answer: Józef Glemp został prymasem Polski w 1981, po zakończeniu okresu stalinizmu
 
 ---
 
@@ -252,9 +252,9 @@ tokens_total: 0
 - D) Renesans – styl w sztuce z XVI wieku
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Romantyzm) – no referenced answer: Romantyzm to styl w sztuce i literaturze z pierwszej połowy XIX wieku
-- Odpowiedź C (Modernizm) – no referenced answer: Modernizm to kierunek w sztuce z przełomu XIX i XX wieku
-- Odpowiedź D (Renesans) – no referenced answer: Renesans to styl w sztuce z XVI wieku, epoka odrodzenia
+- A: no referenced answer: Romantyzm to styl w sztuce i literaturze z pierwszej połowy XIX wieku
+- C: no referenced answer: Modernizm to kierunek w sztuce z przełomu XIX i XX wieku
+- D: no referenced answer: Renesans to styl w sztuce z XVI wieku, epoka odrodzenia
 
 ---
 
@@ -282,9 +282,9 @@ tokens_total: 0
 - C) 1953 – rok śmierci Józefa Stalina
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (1948) – no referenced answer: 1948 to rok utworzenia PZPR i rozpoczęcia okresu stalinizmu w Polsce
-- Odpowiedź B (1950) – no referenced answer: 1950 to rok rozpoczęcia Planu 6-letniego w Polsce
-- Odpowiedź C (1953) – no referenced answer: 1953 to rok śmierci Józefa Stalina, przywódcy ZSRR
+- A: no referenced answer: 1948 to rok utworzenia PZPR i rozpoczęcia okresu stalinizmu w Polsce
+- B: no referenced answer: 1950 to rok rozpoczęcia Planu 6-letniego w Polsce
+- C: no referenced answer: 1953 to rok śmierci Józefa Stalina, przywódcy ZSRR
 
 ---
 
@@ -312,8 +312,8 @@ tokens_total: 0
 - D) Rozwój turystyki – nie był priorytetem władz
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Rozwój rolnictwa) – no referenced answer: Rolnictwo było zaniedbane w okresie stalinizmu na rzecz przemysłu ciężkiego
-- Odpowiedź B (Budowa domów) – no referenced answer: Budownictwo mieszkaniowe było zaniedbane, większość zasobów szła na przemysł
-- Odpowiedź D (Rozwój turystyki) – no referenced answer: Turystyka nie była priorytetem władz komunistycznych w okresie stalinizmu
+- A: no referenced answer: Rolnictwo było zaniedbane w okresie stalinizmu na rzecz przemysłu ciężkiego
+- B: no referenced answer: Budownictwo mieszkaniowe było zaniedbane, większość zasobów szła na przemysł
+- D: no referenced answer: Turystyka nie była priorytetem władz komunistycznych w okresie stalinizmu
 
 ---

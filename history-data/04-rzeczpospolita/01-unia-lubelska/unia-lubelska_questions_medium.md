@@ -43,9 +43,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
 **Analiza odpowiedzi błędnych:**
-- **A. Aby zabezpieczyć wschodnią granicę przed najazdami tatarskimi** – Inkorporacja nie miała na celu głównie obrony przed Tatarami, była narzędziem politycznym w negocjacjach z Litwą
-- **B. Aby zwiększyć liczebność szlachty polskiej w sejmie walnym** – Szlachta ruska uzyskała miejsca w sejmie, ale nie była to główna przyczyna inkorporacji
-- **C. Aby uzyskać dostęp do szlaków handlowych nad Morzem Czarnym** – Cele handlowe nie były głównym motywem inkorporacji ziem ruskich w 1569 roku
+- A: Inkorporacja nie miała na celu głównie obrony przed Tatarami, była narzędziem politycznym w negocjacjach z Litwą
+- B: Szlachta ruska uzyskała miejsca w sejmie, ale nie była to główna przyczyna inkorporacji
+- C: Cele handlowe nie były głównym motywem inkorporacji ziem ruskich w 1569 roku
 
 ---
 
@@ -69,9 +69,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Rzeczpospolita_Obojga_Narod%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- **B. Wspólny monarcha, sejm walny, skarb, wojsko, sądownictwo** – Skarb, wojsko i sądownictwo pozostały odrębne dla obu części Rzeczypospolitej
-- **C. Wspólny monarcha, język urzędowy, religia, system prawny** – Języki urzędowe i systemy prawne pozostały odrębne
-- **D. Wspólny skarb, wojsko, sądownictwo, polityka zagraniczna** – Skarb, wojsko i sądownictwo nie były wspólne
+- B: Skarb, wojsko i sądownictwo pozostały odrębne dla obu części Rzeczypospolitej
+- C: Języki urzędowe i systemy prawne pozostały odrębne
+- D: Skarb, wojsko i sądownictwo nie były wspólne
 
 ---
 
@@ -94,9 +94,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Unia_lubelska
 
 **Analiza odpowiedzi błędnych:**
-- **A. Wołyński** – Województwo wołyńskie zostało włączone do Korony później, 26 maja 1569 roku
-- **C. Kijowski** – Województwo kijowskie zostało włączone do Korony później, 6 czerwca 1569 roku
-- **D. Bracławski** – Województwo bracławskie zostało włączone do Korony później, 6 czerwca 1569 roku
+- A: Województwo wołyńskie zostało włączone do Korony później, 26 maja 1569 roku
+- C: Województwo kijowskie zostało włączone do Korony później, 6 czerwca 1569 roku
+- D: Województwo bracławskie zostało włączone do Korony później, 6 czerwca 1569 roku
 
 ---
 
@@ -120,9 +120,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Magnateria_litewska
 
 **Analiza odpowiedzi błędnych:**
-- **A. Niechęć do wspólnej waluty z Koroną** – Kwestia waluty nie była głównym powodem sprzeciwu magnatów litewskich
-- **B. Sprzeciw wobec wolnej elekcji monarchy** – Wolna elekcja była wspólnej korzyścią, nie głównym punktem sporu
-- **C. Zgodność religijna z Polską** – Różnice religijne nie były istotne, ponieważ większość magnatów litewskich była już katolikami
+- A: Kwestia waluty nie była głównym powodem sprzeciwu magnatów litewskich
+- B: Wolna elekcja była wspólnej korzyścią, nie głównym punktem sporu
+- C: Różnice religijne nie były istotne, ponieważ większość magnatów litewskich była już katolikami
 
 ---
 
@@ -146,9 +146,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Miko%C5%82aj_Radziwi%C5%82%C5%82_%E2%80%9ECzarny%E2%80%9D
 
 **Analiza odpowiedzi błędnych:**
-- **B. Jan Hieronimowicz Chodkiewicz** – Powrócił do negocjacji i wspierał zawarcie unii lubelskiej
-- **C. Mikołaj Kiszka** – Był jednym z posłów litewskich, którzy wrócili do Lublina i zaakceptowali unię
-- **D. Krzysztof Radziwiłł "Piorun"** – Był aktywny w życiu politycznym po unii lubelskiej
+- B: Powrócił do negocjacji i wspierał zawarcie unii lubelskiej
+- C: Był jednym z posłów litewskich, którzy wrócili do Lublina i zaakceptowali unię
+- D: Był aktywny w życiu politycznym po unii lubelskiej
 
 ---
 
@@ -171,9 +171,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Unia_lubelska
 
 **Analiza odpowiedzi błędnych:**
-- **A. 28 czerwca 1569** – To data uchwalenia unii przez sejm, nie ratyfikacji królewskiej
-- **B. 1 lipca 1569** – To data wymiany dokumentów i zaprzysiężenia aktu, nie ratyfikacji królewskiej
-- **D. 7 lipca 1569** – Ta data nie ma związku z ratyfikacją aktu unii lubelskiej
+- A: To data uchwalenia unii przez sejm, nie ratyfikacji królewskiej
+- B: To data wymiany dokumentów i zaprzysiężenia aktu, nie ratyfikacji królewskiej
+- D: Ta data nie ma związku z ratyfikacją aktu unii lubelskiej
 
 ---
 
@@ -197,9 +197,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Rzeczpospolita_Obojga_Narod%C3%B3w
 
 **Analiza odpowiedzi błędnych:**
-- **A. Unitarne państwo z jednym centrum władzy** – Państwo nie było unitarne, lecz federacyjne
-- **B. Konfederacja luźnych ziem i województw** – To nie była konfederacja, lecz federacja dwóch równoprawnych państw
-- **C. Unia personalna z wspólnym monarchą** – Unia lubelska była unią realną, nie tylko personalną
+- A: Państwo nie było unitarne, lecz federacyjne
+- B: To nie była konfederacja, lecz federacja dwóch równoprawnych państw
+- C: Unia lubelska była unią realną, nie tylko personalną
 
 ---
 
@@ -223,9 +223,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Wojew%C3%B3dztwa_I_Rzeczypospolitej
 
 **Analiza odpowiedzi błędnych:**
-- **A. Wileńskie, trockie, połockie** – To województwa litewskie, które nie zostały włączone do Korony
-- **C. Smoleńskie, czernihowskie, siewierskie** – Te województwa nie istniały lub nie zostały włączone do Korony w 1569 roku
-- **D. Witebskie, mścisławskie, nowogródzkie** – To województwa litewskie, które nie zostały włączone do Korony
+- A: To województwa litewskie, które nie zostały włączone do Korony
+- C: Te województwa nie istniały lub nie zostały włączone do Korony w 1569 roku
+- D: To województwa litewskie, które nie zostały włączone do Korony
 
 ---
 
@@ -249,9 +249,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Szlachta_ruska
 
 **Analiza odpowiedzi błędnych:**
-- **A. Ograniczone prawa bez możliwości zasiadania w sejmie** – Szlachta ruska otrzymała pełne prawa, w tym prawo do zasiadania w sejmie
-- **B. Prawa szlacheckie pod warunkiem przejścia na katolicyzm** – Nie było takiego warunku religijnego
-- **C. Status gości bez praw politycznych** – Szlachta ruska otrzymała pełne prawa polityczne
+- A: Szlachta ruska otrzymała pełne prawa, w tym prawo do zasiadania w sejmie
+- B: Nie było takiego warunku religijnego
+- C: Szlachta ruska otrzymała pełne prawa polityczne
 
 ---
 
@@ -275,9 +275,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Stanis%C5%82aw_S%C4%99dziw%C3%B3j_Czarnkowski
 
 **Analiza odpowiedzi błędnych:**
-- **A. Mikołaj Sienicki** – Był przywódcą ruchu egzekucyjnego, nie marszałkiem sejmu
-- **B. Rafał Leszczyński** – Był przywódcą ruchu egzekucyjnego, nie marszałkiem sejmu
-- **D. Filip Padniewski** – Był biskupem krakowskim i autorem projektu unii, nie marszałkiem sejmu
+- A: Był przywódcą ruchu egzekucyjnego, nie marszałkiem sejmu
+- B: Był przywódcą ruchu egzekucyjnego, nie marszałkiem sejmu
+- D: Był biskupem krakowskim i autorem projektu unii, nie marszałkiem sejmu
 
 ---
 
@@ -301,9 +301,9 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Filip_Padniewski
 
 **Analiza odpowiedzi błędnych:**
-- **A. Jakub Uchański** – Był prymasem Polski, ale nie autorem projektu unii lubelskiej
-- **B. Stanisław Hozjusz** – Był biskupem warmińskim i kardynałem, nie autorem projektu unii lubelskiej
-- **C. Piotr Myszkowski** – Był biskupem, ale nie był głównym autorem projektu unii lubelskiej
+- A: Był prymasem Polski, ale nie autorem projektu unii lubelskiej
+- B: Był biskupem warmińskim i kardynałem, nie autorem projektu unii lubelskiej
+- C: Był biskupem, ale nie był głównym autorem projektu unii lubelskiej
 
 ---
 
@@ -327,8 +327,8 @@ W wyniku unii oba państwa zyskały wspólnego monarchę wybieranego w wolnej el
 - https://pl.wikipedia.org/wiki/Sejm_walny
 
 **Analiza odpowiedzi błędnych:**
-- **B. 50 posłów koronnych i 77 litewskich** – To odwrotna proporcja niż w rzeczywistości
-- **C. 100 posłów koronnych i 50 litewskich** – Liczba posłów koronnych była mniejsza
-- **D. 77 posłów koronnych i 77 litewskich** – Posłowie litewscy nie mieli równej liczby z koronnymi
+- B: To odwrotna proporcja niż w rzeczywistości
+- C: Liczba posłów koronnych była mniejsza
+- D: Posłowie litewscy nie mieli równej liczby z koronnymi
 
 ---

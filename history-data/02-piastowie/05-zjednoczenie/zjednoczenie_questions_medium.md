@@ -317,7 +317,7 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 
 **Analiza odpowiedzi błędnych:**
 - A. Przemysł II nie prowadził polityki ekspansji na wschód (no referenced answer)
-- B. Nie dążył do sojuszu z Czechami, przeciwnie - Czechy były zagrożeniem (no referenced answer)
+- B: Czechy były zagrożeniem (no referenced answer)
 - C. Nie prowadził otwartej wojny z Zakonem w tym okresie (no referenced answer)
 
 ---
@@ -386,7 +386,7 @@ Okres zjednoczenia w Księstwie Wielkopolskim (1275-1306) to kluczowy etap w pro
 
 **Analiza odpowiedzi błędnych:**
 - A. Zjednoczenie wszystkich ziem nie nastąpiło od razu (no referenced answer)
-- C. Przeciwnie - koronacja była aktem niezależności (no referenced answer)
+- C: koronacja była aktem niezależności (no referenced answer)
 - D. Nie rozpoczęto wtedy wojny z Zakonem (no referenced answer)
 
 ---

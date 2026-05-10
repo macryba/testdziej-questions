@@ -41,9 +41,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://en.wikipedia.org/wiki/Auschwitz_bombing_debate
 
 **Analiza odpowiedzi błędnych:**
-- A (Brak informacji) – fałsz, alianci mieli szczegółowe raporty
-- C (Sprzeciwienie Żydów) – fałsz, żydowskie organizacje apelowały o bombardowanie
-- D (Neutralność Szwajcarii) – prawda, ale nie była główną przyczyną bierności aliantów
+- A: fałsz, alianci mieli szczegółowe raporty
+- C: fałsz, żydowskie organizacje apelowały o bombardowanie
+- D: prawda, ale nie była główną przyczyną bierności aliantów
 
 ---
 
@@ -67,9 +67,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://en.wikipedia.org/wiki/Karski_Report
 
 **Analiza odpowiedzi błędnych:**
-- A (Dowody fotograficzne) – Karski nie robił zdjęć, jego raport był werbalny
-- B (Plan ocalenia) – takiego planu nie opracował, jego rolą było informowanie
-- D (Kampania prasowa) – nie organizował kampanii, spotkał się z politykami
+- A: Karski nie robił zdjęć, jego raport był werbalny
+- B: takiego planu nie opracował, jego rolą było informowanie
+- D: nie organizował kampanii, spotkał się z politykami
 
 ---
 
@@ -94,9 +94,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://pl.wikipedia.org/wiki/Konferencja_w_Wannsee
 
 **Analiza odpowiedzi błędnych:**
-- B (Tylko ideologia) – uproszczenie, bez biurokracji niemożliwa była taka skala
-- C (Bezkarność) – prawda, ale nie wyjaśnia całokształtu zjawiska
-- D (Presja ekonomiczna) – marginalny czynnik, nie przyczyna Holokaustu
+- B: uproszczenie, bez biurokracji niemożliwa była taka skala
+- C: prawda, ale nie wyjaśnia całokształtu zjawiska
+- D: marginalny czynnik, nie przyczyna Holokaustu
 
 ---
 
@@ -120,9 +120,9 @@ Holocaust (Szoah) był systematycznym ludobójstwem około 6 milionów europejsk
 - https://en.wikipedia.org/wiki/Franciszek_Piper
 
 **Analiza odpowiedzi błędnych:**
-- A (Zawsze 1,1 mln) – fałsz, początkowa estymacja była inna
-- B (Nigdy nie badano) – fałsz, badania polskie są wzorcowe
-- D (4 mln oficjalnych) – fałsz, muzeum uznaje 1,1 mln
+- A: fałsz, początkowa estymacja była inna
+- B: fałsz, badania polskie są wzorcowe
+- D: fałsz, muzeum uznaje 1,1 mln
 
 ---
 
@@ -151,9 +151,9 @@ Rzeczpospolita Polska rządowa na wychodźstwie protestowała przeciwko tej term
 - https://en.wikipedia.org/wiki/Auschwitz_concentration_camp
 
 **Analiza odpowiedzi błędnych:**
-- A (Neutralny) – fałsz, termin jest politycznie i historycznie zaangażowany
-- B (Poprawny) – fałsz, obozy nie były polskie
-- D (Tylko neonaziści) – fałsz, termin bywa używany nieświadomie również w mediach głównego nurtu
+- A: fałsz, termin jest politycznie i historycznie zaangażowany
+- B: fałsz, obozy nie były polskie
+- D: fałsz, termin bywa używany nieświadomie również w mediach głównego nurtu
 
 ---
 

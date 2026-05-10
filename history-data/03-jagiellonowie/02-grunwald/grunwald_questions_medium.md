@@ -44,9 +44,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Wielka_wojna_z_Zakonem_Krzy%C5%BCackim_(1409%E2%80%931411)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Spór o tron polski) – incorrect from Kazimierz Wielki: Kazimierz Wielki zmarł w 1370 roku, a sukcesja po nim została rozwiązana w 1384-1386 (unia z Litwą), długo przed wojną 1409-1411
-- Odpowiedź B (Ruś Halicka) – no referenced answer: Ruś Halicka była przedmiotem sporów polsko-węgierskich w XIV wieku, ale nie była przyczyną wojny z zakonem krzyżackim
-- Odpowiedź C (Szlak bursztynowy) – context from Ekspansja Piastów: szlak bursztynowy biegł głównie przez tereny zachodniopomorskie, nie był główną przyczyną wojny polsko-krzyżackiej
+- A: incorrect from Kazimierz Wielki: Kazimierz Wielki zmarł w 1370 roku, a sukcesja po nim została rozwiązana w 1384-1386 (unia z Litwą), długo przed wojną 1409-1411
+- B: no referenced answer: Ruś Halicka była przedmiotem sporów polsko-węgierskich w XIV wieku, ale nie była przyczyną wojny z zakonem krzyżackim
+- C: context from Ekspansja Piastów: szlak bursztynowy biegł głównie przez tereny zachodniopomorskie, nie był główną przyczyną wojny polsko-krzyżackiej
 
 ---
 
@@ -68,9 +68,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Brak żywności) – no referenced answer: Nie był to główny powód, choć logistyka była trudna; wojska miały zapasy i could kontynuować oblężenie
-- Odpowiedź B (Za silny zamek) – context from Malbork defense: Zamek był potężny, ale mógł zostać zdobyty przy odpowiednim oblężeniu; problemem było opóźnienie w dotarciu pod zamek
-- Odpowiedź D (Posiłki z Europy) – no referenced answer: Krzyżacy otrzymali pewne posiłki, ale nie było to decydujące; głównym problemem był wyjazd wojsk litewskich
+- A: no referenced answer: Nie był to główny powód, choć logistyka była trudna; wojska miały zapasy i could kontynuować oblężenie
+- B: context from Malbork defense: Zamek był potężny, ale mógł zostać zdobyty przy odpowiednim oblężeniu; problemem było opóźnienie w dotarciu pod zamek
+- D: no referenced answer: Krzyżacy otrzymali pewne posiłki, ale nie było to decydujące; głównym problemem był wyjazd wojsk litewskich
 
 ---
 
@@ -93,9 +93,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Likwidacja zakonu) – no referenced answer: Zakon krzyżacki przetrwał I pokój toruński, choć jego potęga militarna została złamana; zlikwidowany został dopiero w 1525 roku (sekularyzacja Prus)
-- Odpowiedź B (Pomorze Gdańskie) – incorrect from Wojna trzynastoletnia: Pomorze Gdańskie zostało odzyskane dopiero w 1466 roku (II pokój toruński), nie w 1411
-- Odpowiedź C (Wybrzeże bałtyckie) – incorrect from Wojna trzynastoletnia: Polska nie uzyskała pełnego dostępu do morza aż do 1466 roku, a Gdańsk i Królewiec nie były pod polską kontrolą w 1411
+- A: no referenced answer: Zakon krzyżacki przetrwał I pokój toruński, choć jego potęga militarna została złamana; zlikwidowany został dopiero w 1525 roku (sekularyzacja Prus)
+- B: incorrect from Wojna trzynastoletnia: Pomorze Gdańskie zostało odzyskane dopiero w 1466 roku (II pokój toruński), nie w 1411
+- C: incorrect from Wojna trzynastoletnia: Polska nie uzyskała pełnego dostępu do morza aż do 1466 roku, a Gdańsk i Królewiec nie były pod polską kontrolą w 1411
 
 ---
 
@@ -118,9 +118,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Wielka_wojna_z_Zakonem_Krzy%C5%BCackim_(1409%E2%80%931411)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Szczecin i Wolin) – incorrect from Pomorze Zachodnie: Szczecin i Wolin były w rękach książąt pomorskich (Griffitów), nie zakonu krzyżackiego
-- Odpowiedź B (Ziemia dobrzyńska i Kujawy) – no referenced answer: To były tereny sporne zajęte przez Krzyżaków, ale nie główny cel strategiczny; celem było zmuszenie zakonu do bitwy
-- Odpowiedź C (Królewiec i Gdańsk) – incorrect from Wojna trzynastoletnia: Te miasta były ważne, ale Malbork (stolica zakonu) był głównym celem w 1410; Królewiec i Gdańsk zostały odzyskane później
+- A: incorrect from Pomorze Zachodnie: Szczecin i Wolin były w rękach książąt pomorskich (Griffitów), nie zakonu krzyżackiego
+- B: no referenced answer: To były tereny sporne zajęte przez Krzyżaków, ale nie główny cel strategiczny; celem było zmuszenie zakonu do bitwy
+- C: incorrect from Wojna trzynastoletnia: Te miasta były ważne, ale Malbork (stolica zakonu) był głównym celem w 1410; Królewiec i Gdańsk zostały odzyskane później
 
 ---
 
@@ -142,9 +142,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Chan i hospodar) – incorrect from Najazd mongolski: Chan Złotej Ordy i hospodar mołdawski wspierali Polskę i Litwę (Tatarzy walczyli po stronie polsko-litewskiej pod wodzą Dżalal ad-Dina)
-- Odpowiedź B (Papież i cesarz) – no referenced answer: Nie udzielili oni bezpośredniego wsparcia militarnego; papież nie był zaangażowany, a cesarz nie istniał w tym okresie (wakat na tronie cesarskim)
-- Odpowiedź D (Król Czech) – no referenced answer: Część rycerzy czeskich i śląskich walczyła po stronie zakonu jako "goście", ale Wacław IV był formalnie pośrednikiem i nie udzielił oficjalnego wsparcia
+- A: incorrect from Najazd mongolski: Chan Złotej Ordy i hospodar mołdawski wspierali Polskę i Litwę (Tatarzy walczyli po stronie polsko-litewskiej pod wodzą Dżalal ad-Dina)
+- B: no referenced answer: Nie udzielili oni bezpośredniego wsparcia militarnego; papież nie był zaangażowany, a cesarz nie istniał w tym okresie (wakat na tronie cesarskim)
+- D: no referenced answer: Część rycerzy czeskich i śląskich walczyła po stronie zakonu jako "goście", ale Wacław IV był formalnie pośrednikiem i nie udzielił oficjalnego wsparcia
 
 ---
 
@@ -166,9 +166,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Bezpośredni atak) – no referenced answer: Atak nie był pojedynczym uderzeniem ciężkiej jazdy, lecz składał się z kilku faz; wojska polskie manewrowały, aby zmusić Krzyżaków do ataku
-- Odpowiedź C (Atak nocny) – incorrect from various battles: Ataki nocne były stosowane w innych bitwach (np. pod Kircholmem 1605), ale nie pod Grunwaldem; bitwa rozpoczęła się w południe i trwała do zmierzchu
-- Odpowiedź D (Oblężenie przed bitwą) – no referenced answer: Nie było oblężenia przed bitwą; oblężenie Malborka rozpoczęto dopiero po bitwie (22 lipca 1410)
+- A: no referenced answer: Atak nie był pojedynczym uderzeniem ciężkiej jazdy, lecz składał się z kilku faz; wojska polskie manewrowały, aby zmusić Krzyżaków do ataku
+- C: incorrect from various battles: Ataki nocne były stosowane w innych bitwach (np. pod Kircholmem 1605), ale nie pod Grunwaldem; bitwa rozpoczęła się w południe i trwała do zmierzchu
+- D: no referenced answer: Nie było oblężenia przed bitwą; oblężenie Malborka rozpoczęto dopiero po bitwie (22 lipca 1410)
 
 ---
 
@@ -191,9 +191,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Pawe%C5%82_W%C5%82odkowic
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Ekskomunika) – no referenced answer: Jagiełło nie został ekskomunikowany; wręcz przeciwnie, Polska przedstawiła swoją sprawę jako obronę chrześcijaństwa przed agresją zakonu
-- Odpowiedź B (Likwidacja zakonu) – incorrect from Prusy Książęce: Zakon nie został zlikwidowany na soborze; przetrwał do 1525 roku, gdy wielki mistrz Albrecht Hohenzollern przeszedł na luteranizm i stworzył Prusy Książęce
-- Odpowiedź C (Uznanie praw) – no referenced answer: Sprawa nie została rozstrzygnięta w pełni; sobór nie wydał decyzji w sprawie ziem spornych, co wymusiło dalsze wojny polsko-krzyżackie
+- A: no referenced answer: Jagiełło nie został ekskomunikowany; wręcz przeciwnie, Polska przedstawiła swoją sprawę jako obronę chrześcijaństwa przed agresją zakonu
+- B: incorrect from Prusy Książęce: Zakon nie został zlikwidowany na soborze; przetrwał do 1525 roku, gdy wielki mistrz Albrecht Hohenzollern przeszedł na luteranizm i stworzył Prusy Książęce
+- C: no referenced answer: Sprawa nie została rozstrzygnięta w pełni; sobór nie wydał decyzji w sprawie ziem spornych, co wymusiło dalsze wojny polsko-krzyżackie
 
 ---
 
@@ -215,9 +215,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Tylko zaciężni) – no referenced answer: Zaciężni z zachodniej Europy walczyli głównie po stronie krzyżackiej, nie polsko-litewskiej
-- Odpowiedź B (Tylko Polacy i Litwini) – no referenced answer: Skład wojsk był znacznie bardziej zróżnicowany; obejmował Rusinów, Tatarów, Mołdawian, Czechów i Morawian
-- Odpowiedź C (Goście z Francji i Anglii) – incorrect from Teutonic support: Goście z Francji i Anglii ("guests") walczyli po stronie zakonu krzyżackiego jako "gość" rycerze zachodnioeuropejscy, nie po stronie polskiej
+- A: no referenced answer: Zaciężni z zachodniej Europy walczyli głównie po stronie krzyżackiej, nie polsko-litewskiej
+- B: no referenced answer: Skład wojsk był znacznie bardziej zróżnicowany; obejmował Rusinów, Tatarów, Mołdawian, Czechów i Morawian
+- C: incorrect from Teutonic support: Goście z Francji i Anglii ("guests") walczyli po stronie zakonu krzyżackiego jako "gość" rycerze zachodnioeuropejscy, nie po stronie polskiej
 
 ---
 
@@ -240,9 +240,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Zakon_krzy%C5%BCacki
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Natychmiastowe odzyskanie) – no referenced answer: Nie uzyskano wszystkich ziem spornych; Pomorze Gdańskie pozostało przy zakonie do 1466 roku (II pokój toruński)
-- Odpowiedź B (Zakończenie wojen) – incorrect from Wojna trzynastoletnia: Wojny polsko-krzyżackie trwały dalej; kolejna wielka wojna to wojna trzynastoletnia (1454-1466)
-- Odpowiedź C (Likwidacja zakonu) – incorrect from Prusy Książęce: Zakon krzyżacki przetrwał Grunwald; został zlikwidowany dopiero w 1525 roku, gdy wielki mistrz Albrecht Hohenzollern przeszedł na luteranizm i stworzył Prusy Książęce
+- A: no referenced answer: Nie uzyskano wszystkich ziem spornych; Pomorze Gdańskie pozostało przy zakonie do 1466 roku (II pokój toruński)
+- B: incorrect from Wojna trzynastoletnia: Wojny polsko-krzyżackie trwały dalej; kolejna wielka wojna to wojna trzynastoletnia (1454-1466)
+- C: incorrect from Prusy Książęce: Zakon krzyżacki przetrwał Grunwald; został zlikwidowany dopiero w 1525 roku, gdy wielki mistrz Albrecht Hohenzollern przeszedł na luteranizm i stworzył Prusy Książęce
 
 ---
 
@@ -264,9 +264,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Broń palna) – no referenced answer: Artyleria krzyżacka oddała tylko dwie salwy na początku bitwy; broń palna nie była decydująca w średniowiecznych bitwach
-- Odpowiedź C (3 dni) – no referenced answer: Bitwa trwała jeden dzień (około 10 godzin: od południa do zmierzchu 15 lipca 1410); wielodniowe bitwy były rzadkością w średniowieczu
-- Odpowiedź D (Wojska z całego świata) – no referenced answer: Uczestnicy byli głównie z regionu Europy Środkowo-Wschodniej (Polska, Litwa, Zakon Krzyżacki, ziemie czeskie, śląskie, morawskie, ruskie, inflanckie)
+- A: no referenced answer: Artyleria krzyżacka oddała tylko dwie salwy na początku bitwy; broń palna nie była decydująca w średniowiecznych bitwach
+- C: no referenced answer: Bitwa trwała jeden dzień (około 10 godzin: od południa do zmierzchu 15 lipca 1410); wielodniowe bitwy były rzadkością w średniowieczu
+- D: no referenced answer: Uczestnicy byli głównie z regionu Europy Środkowo-Wschodniej (Polska, Litwa, Zakon Krzyżacki, ziemie czeskie, śląskie, morawskie, ruskie, inflanckie)
 
 ---
 
@@ -288,9 +288,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Wielka_wojna_z_Zakonem_Krzy%C5%BCackim_(1409%E2%80%931411)
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź B (Od razu do Prus) – no referenced answer: Najpierw był rozejm (8 października 1409 - 24 czerwca 1410) i przygotowania; wkroczenie do Prus nastąpiło dopiero w czerwcu 1410
-- Odpowiedź C (Rezygnacja) – no referenced answer: Jagiełło nie rezygnował z walki; odzyskał Kujawy i Bydgoszcz, a następnie przygotował się do decydującej kampanii
-- Odpowiedź D (Tylko potyczki) – no referenced answer: Wojna była na dużą skalę; obejmowała najazdy na Kujawy i ziemię dobrzyńską oraz wielką kampanię letnią 1410 roku z bitwą pod Grunwaldem
+- B: no referenced answer: Najpierw był rozejm (8 października 1409 - 24 czerwca 1410) i przygotowania; wkroczenie do Prus nastąpiło dopiero w czerwcu 1410
+- C: no referenced answer: Jagiełło nie rezygnował z walki; odzyskał Kujawy i Bydgoszcz, a następnie przygotował się do decydującej kampanii
+- D: no referenced answer: Wojna była na dużą skalę; obejmowała najazdy na Kujawy i ziemię dobrzyńską oraz wielką kampanię letnią 1410 roku z bitwą pod Grunwaldem
 
 ---
 
@@ -312,9 +312,9 @@ Mimo zwycięstwa zamek w Malborku (stolica zakonu) nie został zdobyty, co pozwo
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Grunwaldem
 
 **Analiza odpowiedzi błędnych:**
-- Odpowiedź A (Przekazanie władzy) – incorrect from Unia krewska: Przekazanie władzy nad Litwą dla Jagiełły nastąpiło wcześniej, w wyniku unii krewskiej (1385) i chrztu Litwy (1387)
-- Odpowiedź B (Pojednanie) – no referenced answer: Nie było to pojednanie między władcami; Jagiełło i Witold byli sojusznikami, a nie skonfliktowanymi stronami
-- Odpowiedź C (Podarunek papieża) – no referenced answer: Nie miało to związku z papieżem; miecze zostały wysłane przez wielkiego mistrza Ulricha von Jungingena jako prowokacja
+- A: incorrect from Unia krewska: Przekazanie władzy nad Litwą dla Jagiełły nastąpiło wcześniej, w wyniku unii krewskiej (1385) i chrztu Litwy (1387)
+- B: no referenced answer: Nie było to pojednanie między władcami; Jagiełło i Witold byli sojusznikami, a nie skonfliktowanymi stronami
+- C: no referenced answer: Nie miało to związku z papieżem; miecze zostały wysłane przez wielkiego mistrza Ulricha von Jungingena jako prowokacja
 
 ---
 

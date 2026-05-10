@@ -586,9 +586,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_IV_K%C4%99dzierzawy
 
 **Analiza odpowiedzi błędnych:**
-- B. Śląsk z ziemią lubuską – dzielnica dziedziczna Władysława II Wygnańca
-- C. Zachodnia Wielkopolska z Poznaniem – dzielnica dziedziczna Mieszka III Starego
-- D. Ziemia sandomierska – dzielnica dziedziczna Henryka Sandomierskiego
+- B: dzielnica dziedziczna Władysława II Wygnańca
+- C: dzielnica dziedziczna Mieszka III Starego
+- D: dzielnica dziedziczna Henryka Sandomierskiego
 
 ---
 
@@ -613,9 +613,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Śmierć Salomei z Bergu – wydarzenie z 1144 roku, które było jednym z powodów konfliktu
-- B. Konflikt z Piotrem Włostowicem – wydarzenie z 1145-1146, ale nie bezpośrednia przyczyna wygnania
-- D. Najazd cesarza Fryderyka Barbarossy – wydarzenie z 1157 roku
+- A: wydarzenie z 1144 roku, które było jednym z powodów konfliktu
+- B: wydarzenie z 1145-1146, ale nie bezpośrednia przyczyna wygnania
+- D: wydarzenie z 1157 roku
 
 ---
 
@@ -640,9 +640,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- B. Brak potomków męskich – Piastowie mieli wielu męskich potomków
-- C. Najazdy mongolskie – nastąpiły później (1241), były skutkiem rozbicia, nie przyczyną
-- D. Zbyt silna władza królewska – przeciwnie, problemem była słabość władzy centralnej
+- B: Piastowie mieli wielu męskich potomków
+- C: nastąpiły później (1241), były skutkiem rozbicia, nie przyczyną
+- D: przeciwnie, problemem była słabość władzy centralnej
 
 ---
 
@@ -666,9 +666,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Utrata Pomorza Zachodniego – skutek polityczny/terytorialny
-- C. Wzrost znaczenia możnowładztwa – skutek polityczny
-- D. Zwiększenie zagrożenia zewnętrznego – skutek polityczny/militarny
+- A: skutek polityczny/terytorialny
+- C: skutek polityczny
+- D: skutek polityczny/militarny
 
 ---
 
@@ -693,9 +693,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Prawo najstarszego syna do całości państwa – senior nie miał prawa do całości, tylko do władzy zwierzchniej
-- C. Rządy kolegialne – testament ustanawiał władzę jednego seniora
-- D. Podział na równe części – dzielnice miały różną wielkość i znaczenie
+- A: senior nie miał prawa do całości, tylko do władzy zwierzchniej
+- C: testament ustanawiał władzę jednego seniora
+- D: dzielnice miały różną wielkość i znaczenie
 
 ---
 
@@ -719,9 +719,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Wypędzenie polskiej ludności – polska ludność współżyła z osadnikami
-- B. Utrata niepodległości – Polska nie była niepodległa, ale kolonizacja nie była tego przyczyną
-- D. Upadek rolnictwa – rolnictwo rozwinęło się dzięki trójpolówce
+- A: polska ludność współżyła z osadnikami
+- B: Polska nie była niepodległa, ale kolonizacja nie była tego przyczyną
+- D: rolnictwo rozwinęło się dzięki trójpolówce
 
 ---
 
@@ -746,9 +746,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Władysław II – otrzymał Śląsk i dzielnicę senioralną
-- B. Bolesław IV – otrzymał Mazowsze
-- C. Mieszko III – otrzymał Wielkopolskę
+- A: otrzymał Śląsk i dzielnicę senioralną
+- B: otrzymał Mazowsze
+- C: otrzymał Wielkopolskę
 
 ---
 
@@ -773,9 +773,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Władysław II – zmarł na wygnaniu w 1159 roku
-- C. Zmarł wszyscy starsi bracia – w 1177 żyli jeszcze Mieszko III
-- D. Papież – papież Innocenty III przywrócił seniorat dopiero w 1210
+- A: zmarł na wygnaniu w 1159 roku
+- C: w 1177 żyli jeszcze Mieszko III
+- D: papież Innocenty III przywrócił seniorat dopiero w 1210
 
 ---
 
@@ -799,9 +799,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Ustawa_sukcesyjna_Boles%C5%82awa_Krzywoustego
 
 **Analiza odpowiedzi błędnych:**
-- A. Ziemia krakowska – wchodziła w skład dzielnicy senioralnej (siedziba seniora)
-- B. Ziemia sandomierska – wchodziła w skład dzielnicy senioralnej
-- C. Pomorze Gdańskie – wchodziło w skład dzielnicy senioralnej (pod zwierzchnictwem seniora)
+- A: wchodziła w skład dzielnicy senioralnej (siedziba seniora)
+- B: wchodziła w skład dzielnicy senioralnej
+- C: wchodziło w skład dzielnicy senioralnej (pod zwierzchnictwem seniora)
 
 ---
 
@@ -826,9 +826,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Ustawa_sukcesyjna_Boles%C5%82awa_Krzywoustego
 
 **Analiza odpowiedzi błędnych:**
-- A. Koronacja Henryka Brodatego – Henryk nie został koronowany, zmarł w 1238
-- C. Najazd mongolski – wydarzenie z 1241 roku, już po upadku pryncypatu
-- D. Władysław Łokietek – objął władzę dopiero na początku XIV wieku
+- A: Henryk nie został koronowany, zmarł w 1238
+- C: wydarzenie z 1241 roku, już po upadku pryncypatu
+- D: objął władzę dopiero na początku XIV wieku
 
 ---
 
@@ -853,9 +853,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Wygnaniec
 
 **Analiza odpowiedzi błędnych:**
-- A. Wszebor – wojewoda mazowiecki, przeciwnik Władysława II
-- C. Jakub ze Żnina – metropolita gnieźnieński, przeciwnik Władysława II
-- D. Salomea z Bergu – wdowa po Bolesławie, otrzymała oprawę wdowią
+- A: wojewoda mazowiecki, przeciwnik Władysława II
+- C: metropolita gnieźnieński, przeciwnik Władysława II
+- D: wdowa po Bolesławie, otrzymała oprawę wdowią
 
 ---
 
@@ -879,9 +879,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Ekspansja tatarska – nastąpiła później (najazd mongolski w 1241)
-- C. Najazdy wikingów – zagrożenie z wczesnego średniowiecza
-- D. Ekspansja węgierska – Węgry nie były zagrożeniem dla ziem zachodnich Polski
+- A: nastąpiła później (najazd mongolski w 1241)
+- C: zagrożenie z wczesnego średniowiecza
+- D: Węgry nie były zagrożeniem dla ziem zachodnich Polski
 
 ---
 
@@ -906,9 +906,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Ustawa_sukcesyjna_Boles%C5%82awa_Krzywoustego
 
 **Analiza odpowiedzi błędnych:**
-- B. Mieszko I – pierwszy historyczny władca Polski, żył w X wieku (960-992), założył państwo polskie
-- C. Bolesław Chrobry – pierwszy koronowany król Polski (1025), panował na początku XI wieku
-- D. Kazimierz Wielki – ostatni piastowski król Polski, panował w XIV wieku (1333-1370), zakończył rozbicie
+- B: pierwszy historyczny władca Polski, żył w X wieku (960-992), założył państwo polskie
+- C: pierwszy koronowany król Polski (1025), panował na początku XI wieku
+- D: ostatni piastowski król Polski, panował w XIV wieku (1333-1370), zakończył rozbicie
 
 ---
 
@@ -933,9 +933,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Wstydliwy – żaden polski władca nie miał takiego przydomka
-- C. Krzywousty – przydomek jego ojca Bolesława III
-- D. Sprawiedliwy – przydomek Kazimierza II, który objął władzę po Władysławie
+- A: żaden polski władca nie miał takiego przydomka
+- C: przydomek jego ojca Bolesława III
+- D: przydomek Kazimierza II, który objął władzę po Władysławie
 
 ---
 
@@ -960,9 +960,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- B. Śląsk – dzielnica dziedziczna Władysława II Wygnańca
-- C. Mazowsze – dzielnica dziedziczna Bolesława Kędzierzawego
-- D. Wielkopolska – dzielnica dziedziczna Mieszka Starego
+- B: dzielnica dziedziczna Władysława II Wygnańca
+- C: dzielnica dziedziczna Bolesława Kędzierzawego
+- D: dzielnica dziedziczna Mieszka Starego
 
 ---
 
@@ -987,9 +987,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Polska_w_okresie_rozbicia_dzielnicowego
 
 **Analiza odpowiedzi błędnych:**
-- A. Władysław II Wygnaniec – był seniorem zgodnie z zasadą senioratu, został wygnany
-- C. Mieszko III Stary – był seniorem po śmierci Bolesława Kędzierzawego (1173-1177)
-- D. Bolesław IV Kędzierzawy – został seniorem po wygnaniu Władysława II (1146-1173)
+- A: był seniorem zgodnie z zasadą senioratu, został wygnany
+- C: był seniorem po śmierci Bolesława Kędzierzawego (1173-1177)
+- D: został seniorem po wygnaniu Władysława II (1146-1173)
 
 ---
 
@@ -1014,9 +1014,9 @@ W XIII wieku próby zjednoczenia podjęli Henryk I Brodaty i Henryk II Pobożny 
 - https://pl.wikipedia.org/wiki/Ustawa_sukcesyjna_Boles%C5%82awa_Krzywoustego
 
 **Analiza odpowiedzi błędnych:**
-- A. Władysław II Wygnaniec – został wygnany z Polski w 1146 roku
-- B. Bolesław Kędzierzawy – był seniorem po wygnaniu Władysława II (1146-1173)
-- C. Kazimierz Sprawiedliwy – pierwszy złamał seniorat i przejął władzę w 1177 roku
+- A: został wygnany z Polski w 1146 roku
+- B: był seniorem po wygnaniu Władysława II (1146-1173)
+- C: pierwszy złamał seniorat i przejął władzę w 1177 roku
 
 ---
 **Statystyki:**

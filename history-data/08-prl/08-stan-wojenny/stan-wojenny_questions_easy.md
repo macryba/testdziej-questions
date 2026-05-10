@@ -41,9 +41,9 @@ Wojciech Jaruzelski jako generał i przewodniczący Wojskowej Rady Ocalenia Naro
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Stanisław Kania) – I sekretarz KC PZPR w latach 1980-1981, został zastąpiony przez Jaruzelskiego przed wprowadzeniem stanu wojennego
-- B (Edward Gierek) – I sekretarz KC PZPR w latach 1970-1980, nie sprawował władzy w czasie stanu wojennego
-- D (Bolesław Bierut) – Prezydent Polski w latach 1947-1952, zmarł w 1956 roku, nie żył w czasie stanu wojennego
+- A: I sekretarz KC PZPR w latach 1980-1981, został zastąpiony przez Jaruzelskiego przed wprowadzeniem stanu wojennego
+- B: I sekretarz KC PZPR w latach 1970-1980, nie sprawował władzy w czasie stanu wojennego
+- D: Prezydent Polski w latach 1947-1952, zmarł w 1956 roku, nie żył w czasie stanu wojennego
 
 ---
 
@@ -68,9 +68,9 @@ Stan wojenny został wprowadzony nocą z 12 na 13 grudnia 1981 roku przez Wojsko
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (17 września 1981) – Rocznica agresji ZSRR na Polskę w 1939 roku, niezwiązana ze stanem wojennym
-- B (1 maja 1982) – Święto Pracy, niezwiązane z datą wprowadzenia stanu wojennego
-- C (13 sierpnia 1980) – Data podpisania porozumień sierpniowych w Szczecinie
+- A: Rocznica agresji ZSRR na Polskę w 1939 roku, niezwiązana ze stanem wojennym
+- B: Święto Pracy, niezwiązane z datą wprowadzenia stanu wojennego
+- C: Data podpisania porozumień sierpniowych w Szczecinie
 
 ---
 
@@ -95,9 +95,9 @@ Wojskowa Rada Ocalenia Narodowego (WRON) była tymczasowym, niekonstytucyjnym or
 - [Wojskowa Rada Ocalenia Narodowego](https://pl.wikipedia.org/wiki/Wojskowa_Rada_Ocalenia_Narodowego) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Rada Ministrów) – Konstytucyjny organ władzy wykonawczej, nie WRON
-- B (Sejm PRL) – Parlament, nie sprawował władzy podczas stanu wojennego
-- D (Rada Państwa) – Formalnie zatwierdziła stan wojenny, ale nie sprawowała rzeczywistej władzy
+- A: Konstytucyjny organ władzy wykonawczej, nie WRON
+- B: Parlament, nie sprawował władzy podczas stanu wojennego
+- D: Formalnie zatwierdziła stan wojenny, ale nie sprawowała rzeczywistej władzy
 
 ---
 
@@ -122,9 +122,9 @@ Podczas stanu wojennego internowano około 10 000 działaczy "Solidarności" i o
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Zostali aresztowani przez milicję) – Internowanie to nie to samo co aresztowanie, odbywało się bez procesu sądowego
-- B (Dostali awanse w pracy) – Działacze Solidarności byli represjonowani, a nie nagradzani
-- D (Uciekli za granicę) – Część działaczy wyemigrowała, ale nie większość
+- A: Internowanie to nie to samo co aresztowanie, odbywało się bez procesu sądowego
+- B: Działacze Solidarności byli represjonowani, a nie nagradzani
+- D: Część działaczy wyemigrowała, ale nie większość
 
 ---
 
@@ -149,6 +149,6 @@ Podczas stanu wojennego internowano łącznie 10 131 osób związanych z "Solida
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
 **Analiza odpowiedzi błędnych:**
-- A (Ponad 50 tysięcy) – Liczba przeszacowana, nie odpowiada rzeczywistym danym statystycznym
-- B (Ponad 100 tysięcy) – Zbyt duża liczba, znacznie przeszacowana
-- D (Ponad tysiąc) – Zbyt mała liczba, niedoszacowana
+- A: Liczba przeszacowana, nie odpowiada rzeczywistym danym statystycznym
+- B: Zbyt duża liczba, znacznie przeszacowana
+- D: Zbyt mała liczba, niedoszacowana
