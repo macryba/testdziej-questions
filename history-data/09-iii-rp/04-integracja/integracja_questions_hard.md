@@ -40,7 +40,7 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Wymóg wzajemny): To nieprawda - członkostwo w NATO i UE nie było warunkiem wzajemnym, wiele państw jest członkiem tylko jednej z tych organizacji (np. Norwegia w NATO, Szwajcaria poza UE)
 - B (Naciski USA): Choć USA popierały integrację Polski z NATO, nie decydowały o jednoczesnym przystąpieniu do UE - była to samodzielna decyzja Polski
 - C (Wymóg traktatu): Traktat Północnoatlantycki nie nakłada obowiązku członkostwa w UE - to są odrębne organizacje
@@ -66,7 +66,7 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 - https://pl.wikipedia.org/wiki/Akcesja_Polski_do_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (NATO bardziej skomplikowane): To nieprawda - proces akcesji do NATO był prostszy i trwał ok. 2 lat, nie wymagał referendum
 - C (Równie skomplikowane): Procesy były znacznie różne pod względem złożoności - NATO (kryteria polityczne) vs UE (harmonizacja prawa, 31 rozdziałów negocjacyjnych)
 - D (UE krótszy): Proces integracji z UE trwał niemal 10 lat (1994-2004), podczas gdy NATO tylko ok. 2 lat (1997-1999)
@@ -91,7 +91,7 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B (Utrata suwerenności): Polska zachowała suwerenność, jedynie częściowo przekazując kompetencje instytucjom UE (ale z prawem weta w kluczowych obszarach)
 - C (Zamknięcie fabryk): Choć niektóre firmy zamknięto, większość zmodernizowano dzięki inwestycjom zachodnim i funduszom UE
 - D (Obniżenie poziomu życia): Po transformacji poziom życia w Polsce systematycznie rósł - PKB na mieszkańca wzrastał od 2000 roku
@@ -117,7 +117,7 @@ Proces integracji Polski z NATO i Unią Europejską w latach 1999-2004 był zło
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 - https://pl.wikipedia.org/wiki/Narodziny_III_Rzeczypospolitej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Polityka ponad gospodarką): To nieprawda - politycy III RP intensywnie zajmowali się problemami gospodarczymi (reformy Balcerowicza, prywatyzacja)
 - C (Niemożliwe bez integracji): Choć integracja pomogła rozwojowi gospodarczemu, problemy gospodarcze można było rozwiązywać również bez członkostwa w NATO/UE (przykład: inne państwa Europy Środkowej)
 - D (Społeczeństwo): Społeczeństwo polskie było bardziej zainteresowane sytuacją gospodarczą niż polityką zagraniczną - sondaże z lat 90. pokazują, że problemy ekonomiczne były priorytetem

@@ -36,7 +36,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Adolf_Hitler
 - https://pl.wikipedia.org/wiki/III_Rzesza
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Rok 1930 to trzy lata przed dojściem Hitlera do władzy
 - C) Rok 1935 to rok po śmierci prezydenta Hindenburga, kiedy Hitler już był kanclerzem
 - D) Rok 1938 to rok Anschlussu Austrii i układu monachijskiego, ale pięć lat po dojściu Hitlera do władzy
@@ -60,7 +60,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Pakt_Ribbentrop-Mo%C5%82otow
 - https://pl.wikipedia.org/wiki/Inwazja_na_Polsk%C4%99_w_1939_roku_%E2%80%93_chronologicznie
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) 3 marca 1939 to data bez znaczenia w tym kontekście
 - C) 1 września 1939 to dzień niemieckiego ataku na Polskę, nie podpisania paktu
 - D) 17 września 1939 to dzień agresji ZSRR na Polskę, dwa tygodnie po podpisaniu paktu
@@ -84,7 +84,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Neville_Chamberlain
 - https://pl.wikipedia.org/Uk%C5%82ad_monachijski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Winston Churchill zastąpił Chamberlaina w maju 1940 roku, był przeciwnikiem appeasementu
 - B) Anthony Eden był ministrem spraw zagranicznych w rządzie Chamberlaina, ale nie premierem
 - C) Stanley Baldwin był premierem przed Chamberlainem (1923-1924, 1935-1937)
@@ -108,7 +108,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Beck
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) "Polska dla Polaków – Niemcy do Niemców" było hasłem nacjonalistycznej endecji, nie sanacji
 - B) "Wielka Polska od morza do morza" to hasło dotyczące granic II RP (1921-1939), ale nie jest to cytat Becka
 - D) To hasło powstałe w czasie powstania styczniowego, ale nie jest to cytat Becka
@@ -132,7 +132,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Wolne_Miasto_Gda%C5%84sk
 - https://pl.wikipedia.org/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Gdańsk nie był pod kontrolą polską – był pod kontrolą Ligi Narodów jako wolne miasto
 - C) Odpowiedź jest sprzeczna – Gdańsk znajdował się na terytorium Polski, ale był Wolnym Miastem pod kontrolą międzynarodową
 - D) Odpowiedź jest częściowo prawdziwa, ale nie precyzuje, że był pod kontrolą Ligi Narodów
@@ -157,7 +157,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/Appeasement
 - https://pl.wikipedia.org/Polityka_zagraniczna_II_Rzeczypospolitej
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Zachód nie prowadził polityki zbrojnej przeciwko Niemcom, lecz ustępstwa
 - B) Zachód nie zawarł sojuszu wojskowego z Polską przed wrześniem 1939
 - D) Ekspansja terytorium Czechosłowacji była skutkiem ustępstwa, nie celem samej polityki
@@ -181,7 +181,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Pakt_Ribbentrop-Mo%C5%82otow
 - https://pl.wikipedia.org/wiki/Tajny_protok%C3%B3%C5%82_do_paktu_Ribbentrop_Mo%C5%82otow
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Protokół nie przewidywał wspólnej wojny z Zachodem, lecz podział terytoriów
 - C) Nie przewidywał wspólnej obrony przed USA, lecz wyłącznie podział stref wpływów
 - D) Pomoc gospodarcza nie była przedmiotem tajnego protokołu
@@ -206,7 +206,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/Zaolzie
 - https://pl.wikipedia.org/Polityka_zagraniczna_II_Rzeczypospolitej
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Marzec to miesiąc Anschlussu Austrii, nie podziału Czechosłowacji
 - B) Kwiecień to miesiąc między Anschluss a układem monachijskim
 - C) Wrzesień to miesiąc układu monachijskiego, zajęcia Kraju Sudetów i części terytorium Czech
@@ -230,7 +230,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Sojusz_polsko-francuski
 - https://pl.wikipedia.org/wiki/Sojusz_polsko-rumu%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Sojusze nie były skierowane przeciwko ZSRR, lecz przeciwko Niemcom
 - B) Sojusze nie miały charakteru gospodarczego
 - C) Infrastruktura transportowa nie była głównym celem sojuszy
@@ -254,7 +254,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Edward_Rydz-%C5%9Amig%C5%82y
 - https://pl.wikipedia.org/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Rydz-Śmigły nie był premierem – funkcję tę sprawowali Felicjan Sławoj Składkowski i inni
 - B) Ministrem spraw zagranicznych był Józef Beck
 - D) Odpowiedź jest błędna – Rydz-Śmigły miał realny wpływ na decyzje wojskowe jako naczelny wódz
@@ -278,7 +278,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Beck
 - https://pl.wikipedia.org/Polityka_zagraniczna_II_Rzeczypospolitej
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Polityka równowagi dążyła do UNIKNANIA się z którymkolwiek z sąsiadów
 - C) Nie istniał blok państw bałtyckich – Beck nie dążył do jego stworzenia
 - D) Polska była członkiem Ligi Narodów od 1919 roku, a Beck nie zwracał się o pomoc do ONZ przed wrześniem 1939
@@ -303,7 +303,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Inwazja_na_Polsk%C4%99_w_1939_roku_%E2%80%93_chronologicznie
 - https://pl.wikipedia.org/wiki/Agresja_ZSRR_na_Polsk%C4%99
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Decyzja Polski o odmowie żądań była czynnikiem, ale nie bezpośrednią przyczyną wojny
 - C) Sojusze polskie nie były powodem ataku, Niemcy uderzyli mimo nich
 - D) Chęć rozszerzenia terytoriów była motywacją, ale sojusze polskie nie były powodem

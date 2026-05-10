@@ -39,7 +39,7 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B (Przystąpienie Polski do UE): Polska przystąpiła do Unii Europejskiej 1 maja 2004 roku, ponad 5 lat później
 - C (Podpisanie traktatu ateńskiego): Traktat akcesyjny podpisano 16 kwietnia 2003 roku w Atenach, dotyczył wejścia do UE
 - D (Referendum akcesyjne): Referendum w sprawie wejścia do UE odbyło się 7-8 czerwca 2003 roku, a nie w marcu 1999
@@ -64,7 +64,7 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (ONZ): Polska była członkiem ONZ od 1945 roku, prawie 60 lat przed 2004 rokiem
 - C (NATO): Polska przystąpiła do NATO w 1999 roku, 5 lat przed wejściem do UE
 - D (OBWE): Polska była członkiem OBWE od 1992 roku, dużo przed akcesją do UE
@@ -89,7 +89,7 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Akcesja_Polski_do_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Bruksela): To siedziba Unii Europejskiej i NATO, ale traktat podpisano w Atenach
 - B (Paryż): To ważne miasto europejskie, ale nie miejsce podpisania traktatu akcesyjnego
 - D (Waszyngton): To stolica USA i siedziba NATO, ale nie związana z podpisaniem traktatu UE
@@ -114,7 +114,7 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (53,15%): To był procent głosów "tak" w referendum konstytucyjnym w 1997 roku, dotyczył innej kwestii
 - B (58,85%): To była frekwencja w referendum UE, a nie procent głosów "tak"
 - D (84,13%): To był procent głosów "tak" w referendum konstytucyjnym w 1997 roku, dotyczył przyjęcia Konstytucji RP
@@ -139,7 +139,7 @@ Okres integracji Polski z NATO i Unią Europejską (1999-2004) stanowił fundame
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Aleksander_Kwa%C5%9Bniewski
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Lech Wałęsa): Był prezydentem w latach 1990-1995, długo przed procesem integracji z UE
 - B (Lech Kaczyński): Był prezydentem w latach 2005-2010, Polska była już wtedy w UE od roku
 - C (Bronisław Komorowski): Był prezydentem w latach 2010-2015, długo po wejściu Polski do UE

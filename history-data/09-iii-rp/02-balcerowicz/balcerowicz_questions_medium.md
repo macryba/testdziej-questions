@@ -42,7 +42,7 @@ Leszek Balcerowicz był wicepremierem i ministrem finansów w rządzie Tadeusza 
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 - https://pl.wikipedia.org/wiki/Leszek_Balcerowicz
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Premierem był Tadeusz Mazowiecki
 - C: Ministrem spraw zagranicznych był Krzysztof Skubiszewski
 - D: Teki gospodarki przestrzennej nie istniał w tym czasie
@@ -69,7 +69,7 @@ Plan Balcerowicza składał się z 10 ustaw uchwalonych przez Sejm kontraktowy 2
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: 3 ustawy to zbyt mała liczba
 - B: 5 ustaw to połowa rzeczywistej liczby
 - C: 15 ustaw to zawyżona liczba
@@ -96,7 +96,7 @@ W sierpniu 1989 roku inflacja w Polsce wyniosła 39,5%, a w październiku tego s
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: 5,5% to typowa inflacja w stabilnej gospodarce
 - B: 12,3% to wysoka, ale nie hiperinflacja
 - D: 68,2% to poziom inflacji z 1990 roku
@@ -123,7 +123,7 @@ Międzynarodowy Fundusz Walutowy (MFW) udzielił Polsce wsparcia w wysokości 1 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B: Bank Światowy zajmuje się głównie pomocą rozwojową
 - C: EBOR powstał dopiero w 1991 roku
 - D: BEI wspiera projekty infrastrukturalne UE
@@ -151,7 +151,7 @@ Terapia szokowa oznaczała gwałtowne i jednoczesne wdrożenie wszystkich reform
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 - https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Stopniowe reformy to metoda gradualizmu
 - C: Reformy dotyczyły całej gospodarki
 - D: Celem było wdrożenie reform, nie ich wstrzymanie
@@ -178,7 +178,7 @@ Dzięki Planowi Balcerowicza inflacja spadła z poziomu ok. 2000% w 1989 roku do
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Inflacja spadła, a nie wzrosła
 - B: Inflacja nie została wyeliminowana, lecz znacznie ograniczona
 - D: Inflacja znacznie spadła
@@ -205,7 +205,7 @@ Ustawa o zmianie ustawy o gospodarce finansowej przedsiębiorstw państwowych us
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B: Ta ustawa dotyczyła opodatkowania wzrostu płac
 - C: Ta ustawa zmieniała reguły biur pośrednictwa pracy
 - D: Ta ustawa dotyczyła wymienialności złotego
@@ -232,7 +232,7 @@ Popiwek to potoczna nazwa podatku od ponadnormatywnego wzrostu wynagrodzeń. Prz
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B: Podatek od zysków to CIT, nie popiwek
 - C: Cła na towary luksusowe to inna podatek
 - D: Podatek od transakcji giełdowych to podatek od obrotu
@@ -259,7 +259,7 @@ Plan Balcerowicza przyczynił się do gwałtownego wzrostu bezrobocia. W 1993 ro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Nastąpiło zmniejszenie liczby miejsc pracy
 - C: Wydatki socjalne zwiększano, ale to nie był skutek negatywny
 - D: Płace realne spadły, nie wzrosły
@@ -286,7 +286,7 @@ Już w styczniu 1990 roku zezwolono na swobodne kształtowanie 90% cen. Uwolnien
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Ceny zostały uwolnione, niezamrożone
 - B: Zmniejszono kontrolę państwową nad cenami
 - C: Zniesiono ceny urzędowe na większość produktów
@@ -313,7 +313,7 @@ Plan Balcerowicza ustalił sztywny kurs złotego na poziomie 9500 zł za 1 USD. 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: 5000 zł to zbyt niski kurs
 - C: 15000 zł to zawyżony kurs
 - D: 25000 zł to zawyżony kurs
@@ -340,7 +340,7 @@ Jeffrey Sachs, ekonomista z Uniwersytetu Harvarda i ekspert Międzynarodowego Fu
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Milton Friedman był teoretykiem monetaryzmu, nie doradzał Polsce
 - C: John Maynard Keynes zmarł w 1946 roku
 - D: Friedrich Hayek zmarł w 1992 roku i nie doradzał Polsce

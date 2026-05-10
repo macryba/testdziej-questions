@@ -45,7 +45,7 @@ Zygmunt August został koronowany vivente rege (za życia ojca) w 1530 roku prze
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - 1520 – rok urodzin Zygmunta Augusta
 - 1548 – rok śmierci Zygmunta Starego i objęcia samodzielnych rządów przez Zygmunta Augusta
 - 1569 – rok zawarcia unii lubelskiej
@@ -72,7 +72,7 @@ Barbara Radziwiłłówna była drugą żoną Zygmunta Augusta. Małżeństwo zos
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Elżbieta Habsburżanka – pierwsza żona Zygmunta Augusta, poślubiona oficjalnie w 1543 roku
 - Katarzyna Habsburżanka – trzecia żona Zygmunta Augusta, siostra Elżbiety, poślubiona w 1553 roku
 - Bona Sforza – matka Zygmunta Augusta, żona Zygmunta Starego
@@ -99,7 +99,7 @@ Zygmunt August zmarł 7 lipca 1572 roku w Knyszynie na Podlasiu, gdzie często p
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Kraków – tradycyjna stolica Polski i miejsce koronacji
 - Wilno – stolica Wielkiego Księstwa Litewskiego, rezydencja Zygmunta Augusta jako wielkiego księcia
 - Warszawa – miasto, w którym rozpoczęto budowę mostu Zygmunta Augusta
@@ -126,7 +126,7 @@ Unia lubelska przewidywała włączenie do Korony ziem litewskich położonych n
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Unia_lubelska_1569
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wilno, Troki, Żmudź – historyczne ziemie litewskie, które pozostały w Wielkim Księstwie Litewskim
 - Inflanty, Kurlandia, Semigalia – ziemie na północ od Litwy, będące przedmiotem sporów
 - Mołdawia, Wołoszczyzna, Siedmiogród – kraje bałkańskie poza granicami Rzeczypospolitej
@@ -153,7 +153,7 @@ Wojna o Inflanty (1558-1583) była konfliktem między Rzeczpospolitą a Carstwem
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wojna_o_Inflanty_(1558%E2%80%931583)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Szwecja – zaangażowana w wojnę o Inflanty później, po śmierci Zygmunta Augusta
 - Prusy Książęce – lenno polskie, sprzymierzonec Rzeczypospolitej
 - Imperium Osmańskie – potęga na Bałkanach, nie zaangażowana w konflikt o Inflanty
@@ -180,7 +180,7 @@ Głównym celem unii lubelskiej było wzmocnienie Rzeczypospolitej poprzez stwor
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Unia_lubelska_1569
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Przekazanie tronu polskiego Habsburgom – sprzeczne z intencjami unii, która miała wzmocnić państwo Jagiellonów
 - Rozpoczęcie wojny z Imperium Osmańskim – konflikt z Turcją toczył się na innych kierunkach
 - Wprowadzenie wolnej elekcji – skutkiem ubocznym śmierci Zygmunta Augusta, nie celem unii
@@ -207,7 +207,7 @@ Małżeństwo z Barbarą Radziwiłłówną zostało zawarte potajemnie w 1547 ro
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Barbara była kalwinistką, nie protestantką, i to nie był główny powód sprzeciwu
 - Nie ma dowodów na poparcie Barbary dla Rosji
 - Zabiegi dyplomatyczne prowadzono wobec domu Habsburgów, a nie angielskiego dworu
@@ -235,7 +235,7 @@ Jakie bezpośrednie skutki miała śmierć Zygmunta II Augusta bezpotomna w 1572
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 - https://pl.wikipedia.org/wiki/Wolna_elekcja
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Unia lubelska wzmocniła państwo, a nie doprowadziła do jego rozpadu
 - Wojna z Rosją trwała już wcześniej i nie była bezpośrednim skutkiem śmierci króla
 - Imperium Osmańskie nie próbowało włączyć Polski w tym okresie
@@ -262,7 +262,7 @@ W 1555 roku posiadająca przewagę w izbie poselskiej szlachta protestancka wysu
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wypędzenie katolików nie było postulatem – chodziło o równouprawnienie wyznań
 - Żadne zakazy budowy kościołów nie były rozważane
 - Islam nie miał żadnego znaczenia w polityce wyznaniowej Rzeczypospolitej
@@ -289,7 +289,7 @@ Na sejmie w Warszawie 13 marca 1564 roku Zygmunt August odstąpił Koronie Król
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_II_August
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Król nie posiadał prywatnych ziem, które mógłby odstąpić
 - Głosowanie na sejmie należało do szlachty, nie do monarchy
 - Tytuł wielkiego księcia litewskiego Zygmunt August zachował do śmierci
@@ -316,7 +316,7 @@ Unia lubelska tworzyła federację Polski i Litwy ze wspólnym monarchą, sejmem
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Unia_lubelska_1569
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Pełne zjednoczenie nie było celem unii – zachowano odrębności
 - Likwidacja Wielkiego Księstwa spotkałaby się z oporem szlachty litewskiej
 - Oddzielenie Litwy było przeciwieństwem celu unii

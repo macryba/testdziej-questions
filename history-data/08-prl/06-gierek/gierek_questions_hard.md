@@ -38,7 +38,7 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek, https://pl.wikipedia.org/wiki/Gospodarka_Polski_Ludowej
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Niewystarczające wykorzystanie kredytów zagranicznych — problemem był nie brak inwestycji, ale ich błędna struktura
 - Brak dostatecznej współpracy gospodarczej — współpraca kontynuowana była, ale kredyty pochodziły z Zachodu
 - Zbyt szybki wzrost wynagrodzeń — wzrost płac był celowy politycznie i nie był główną przyczyną porażki
@@ -61,7 +61,7 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Radykalnym reformatorem — Gierek nie przeprowadzał reform ustrojowych, jedynie gospodarcze
 - Politykiem zupełnie niezależnym — deklarował lojalność wobec ZSRR, a inwazja na Afganistan w 1979 spotkała się z poparciem PRL
 - Antykomunistą — Gierek był komunistą od 1931 roku, wierzył w system i dążył do jego modernizacji
@@ -84,7 +84,7 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wyłącznie po spisku politycznym — kryzys miał szerszą, społeczno-gospodarczą podstawę
 - Tylko nacisków ze strony ZSRR — ZSRR nie naciskało bezpośrednio na odsunięcie Gierka
 - Wyłącznie działalności opozycji demokratycznej — opozycja była ważnym czynnikiem, ale nie jedynym
@@ -107,7 +107,7 @@ Rządy Edwarda Gierka były próbą przeprowadzenia "strategii przyspieszonego r
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zerwała z blokiem wschodnim — Polska pozostała w Układzie Warszawskim i RWPG
 - Całkowicie podporządkowana — Polska miała względną autonomię, zwłaszcza gospodarczą
 - Dominowała w bloku wschodnim — to ZSRR dominowało, a nie Polska

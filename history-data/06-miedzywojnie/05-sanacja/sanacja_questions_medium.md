@@ -38,7 +38,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Wybory parlamentarne z 1928 roku odbyły się dwa lata po przewrocie majowym
 - C) Nowela sierpniowa została ogłoszona w sierpniu 1926 roku, kilka miesięcy po przewrocie majowym
 - D) Śmierć Gabriela Narutowicza nastąpiła w 1922 roku, przed rozpoczęciem rządów sanacji
@@ -62,7 +62,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Rok 1926 to rok przewrotu majowego, początku rządów sanacji
 - B) Rok 1930 to okres wyborów brzeskich i procesu brzeskiego
 - D) Rok 1939 to rok wybuchu II wojny światowej, który położył kres rządom sanacji
@@ -86,7 +86,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Ignacy_Mo%C5%9Bcicki
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Józef Piłsudski nigdy nie był prezydentem RP – odmówił objęcia urzędu w 1926 roku
 - C) Edward Rydz-Śmigły był marszałkiem Polski i generalnym inspektorem sił zbrojnych
 - D) Stanisław Wojciechowski był prezydentem RP przed przewrotem majowym (1922-1926)
@@ -110,7 +110,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Bezpartyjny_Blok_Wsp%C3%B3pracy_z_Rz%C4%85dem
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) BBWR nie był koalicją partii lewicowych, lecz organizacją sanacyjną
 - C) BBWR był organizacją rządową, nie opozycyjną
 - D) BBWR nie był związkiem zawodowym, lecz ugrupowaniem politycznym
@@ -134,7 +134,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Miejsce_Odosobnienia_w_Berezie_Kartuskiej
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Obóz nie służył do przetrzymywania jeńców wojennych
 - C) Nie był to obóz edukacyjny dla młodzieży
 - D) Nie służył do rehabilitacji rannych żołnierzy
@@ -158,7 +158,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Konstytucja_aprniowa
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Konstytucja kwietniowa nie przywróciła demokracji parlamentarnej, lecz ograniczyła ją
 - B) Wprost przeciwnie – wzmocniła władzę prezydenta kosztem Sejmu
 - D) Urząd prezydenta nie został zniesiony, lecz znacząco wzmocniony
@@ -182,7 +182,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Proces_brzeski
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Proces nie dotyczył działaczy sanacji, lecz ich przeciwników politycznych
 - C) Sprawa Gabriela Czechowicza dotyczyła przekroczenia budżetu
 - D) Proces nie dotyczył weryfikacji prawa wyborczego
@@ -206,7 +206,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Centralny_Okreg_Przemys%C5%82owy
 - https://pl.wikipedia.org/wiki/Eugeniusz_Kwiatkowski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) COP nie był strefą wolnego handlu
 - C) COP nie był okręgiem militarnym
 - D) COP nie był programem rolnym
@@ -230,7 +230,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Nowela_sierpniowa
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Nowela nie znieśliła urzędu prezydenta, lecz go wzmocniła
 - C) Nowela nie przywróciła konstytucji marcowej, lecz ją ograniczyła
 - D) Nowela nie wprowadziła powszechnych praw wyborczych
@@ -254,7 +254,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Ob%C3%B3z_Zjednoczenia_Narodowego
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) OZN nie był organizacją opozycyjną, lecz rządową
 - B) OZN nie był koalicją partii prawicowych
 - C) OZN nie był związkiem mniejszości narodowych
@@ -278,7 +278,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Edward_Rydz-%C5%9Amig%C5%82y
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Rydz-Śmigły nie był premierem – funkcję tę sprawowali inni
 - C) Ministrem spraw zagranicznych był Józef Beck
 - D) Rydz-Śmigły nie był przywódcą opozycji
@@ -302,7 +302,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Beck
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Pakt Ribbentrop-Mołotow został podpisany przez ZSRR i Niemcy
 - C) Beck nie wypowiedział sojuszu z Francją i Brytanią
 - D) Polska nie negocjowała przystąpienia do Osły

@@ -38,7 +38,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Edward Gierek był pierwszym sekretarzem KC PZPR w latach 1970-1980
 - C: Bolesław Bierut zmarł w marcu 1956 roku, przed wydarzeniami październikowymi
 - D: Stanisław Moczar był politykiem PZPR, ale nie pełnił funkcji pierwszego sekretarza
@@ -64,7 +64,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Powstanie węgierskie wybuchło w październiku 1956, równolegle do polskich wydarzeń
 - C: Stan wojenny został wprowadzony w 1981 roku, 25 lat później
 - D: Grudzień 1970 to protesty robotnicze w 1970 roku
@@ -89,7 +89,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Wielka Reforma to nieoficjalna nazwa reform w czasach saskich
 - C: Srebrny Wiek to okres XIX-wiecznej literatury polskiej
 - D: Czasy Gierka to okres rządów Edwarda Gierka (1970-1980)
@@ -115,7 +115,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Karol Wojtyła został biskupem w 1958 roku, a papieżem w 1978
 - C: Józef Glemp został prymasem Polski w 1981 roku
 - D: Jerzy Popiełuszko był kapłanem zabitym w 1984 roku
@@ -140,7 +140,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Bolesław Bierut zmarł w marcu 1956 roku, nie w 1953 (1953 to rok śmierci Stalina)
 - B: Stalinizm w Polsce rozpoczął się w 1948 roku, nie w 1955
 - D: Solidarność powstała w 1980 roku, 24 lata po VIII Plenum

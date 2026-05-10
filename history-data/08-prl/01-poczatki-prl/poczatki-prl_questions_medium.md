@@ -41,7 +41,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Komuniści nie mieli szerokiego poparcia – referendum i wybory były sfałszowane
 - Nie przejęli władzy samodzielnie – bez Armii Czerwonej nie byliby w stanie
 - Nie współpracowali z rządem emigracyjnym – był on przeciwnikiem komunistów
@@ -66,7 +66,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 - https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska
 - https://pl.wikipedia.org/wiki/Konferencja_poczdamska
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Granice uległy drastycznym zmianom – przesunięto państwo na zachód
 - Polska nie utraciła dostępu do morza – wręcz przeciwnie, wzmocniła swoją pozycję nad Bałtykiem
 - Polska nie zyskała terytoriów na wschodzie – je utraciła na rzecz ZSRR
@@ -90,7 +90,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Proces_szesnastu
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Nie zostali zaproszeni do współpracy – byli prześladowani jako „podziemie reakcyjne"
 - Nie wszyscy uciekli – część została zwabiona w pułapkę
 - Nie byli uznawani przez komunistów – walczono z nimi jako „wrogami ustroju"
@@ -115,7 +115,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 - https://pl.wikipedia.org/wiki/Referendum_w_Polsce_w_1946_roku
 - https://pl.wikipedia.org/wiki/Wybory_do_Sejmu_Ustawodawczego_rp_1947
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Frekwencja była wysoka – wymuszano udział w głosowaniu
 - Rząd emigracyjny wzywał do bojkotu, ale wiele osób głosowało
 - Komisje wyborcze były pod kontrolą komunistów
@@ -139,7 +139,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Władze walczyły z Kościołem jako „opium dla mas"
 - Kościół nie został zlikwidowany – mimo prześladowań działał konspiracyjnie
 - Władze aktywnie walczyły z Kościołem jako konkurencją ideologiczną
@@ -163,7 +163,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kolektywizacja_w_Polsce
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Chłopi nie mogli swobodnie handlować – istniały kontyngenty i dostawy obowiązkowe
 - Ziemia nie była rozdawana – dawni ziemianie tracili ją na rzecz reformy rolnej
 - Polska nie wprowadziła modelu kołchozów jak w ZSRR z powodu oporu społecznego
@@ -187,7 +187,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Edward_Os%C3%B3bka-Morawski
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Bolesław Bierut był prezydentem KRN, później prezydentem RP
 - Władysław Gomułka był sekretarzem generalnym PPR
 - Józef Cyrankiewicz został premierem dopiero w 1947 roku
@@ -211,7 +211,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec_1956
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Protest nie domagał się wyjścia z bloku wschodniego – to były późniejsze postulaty
 - Nie dotyczył kolektywizacji – to problem chłopów, nie robotników
 - Nie było solidaryzacji z Węgrami –Powstanie na Węgrzech wybuchło później (październik 1956)
@@ -235,7 +235,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Zjednoczona_Partia_Robotnicza
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Pluralizm został zlikwidowany, nie utrzymany
 - Nie wszystkie partie połączyły się – ZSL i SD zachowały formalną odrębność
 - Władzę przejęli komuniści z PPR, którzy zdominowali PPS
@@ -260,7 +260,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 - https://pl.wikipedia.org/wiki/Proces_szesnastu
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Armia Czerwona nie pomagała – walczyła z polskim podziemiem
 - Pomoc była minimalna – ZSRR eksploatowało zasoby Polski
 - NKWD i radzieccy doradcy akwnie ingerowali w sprawy Polski
@@ -285,7 +285,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 - https://pl.wikipedia.org/wiki/Stalinizm_w_Polsce
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Terror nie dotyczył tylko Niemców – był wymierzony w Polaków
 - Ograniczenie wolności było tylko jednym elementem szerszego represji
 - Czystki dotyczyły prawdziwych lub domniemanych przeciwników wewnątrz partii
@@ -310,7 +310,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres fundamentalnych
 - https://pl.wikipedia.org/wiki/Odwil%C5%BC_gomu%C5%82kowska
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - PZPR nie została zlikwidowana – rządziła do 1989
 - Polska nie wystąpiła z bloku wschodniego – pozostała w Układzie Warszawskim
 - Konstytucja marcowa nie została przywrócona – obowiązywała konstytucja PRL z 1952

@@ -35,7 +35,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_Bierut
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Bolesław Bierut – PRAWIDŁOWA – był przywódcą Polski w latach 1948-1956
 - B) Władysław Gomułka – I sekretarz PZPR w latach 1956-1970 (po stalinizmie)
 - C) Edward Gierek – I sekretarz PZPR w latach 1970-1980 (po stalinizmie)
@@ -65,7 +65,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Zjednoczona_Partia_Robotnicza
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - D) Polska Zjednoczona Partia Robotnicza – PRAWIDŁOWA – partia rządząca od 1948
 - A) Polska Partia Robotnicza – jedna z partii, które utworzyły PZPR
 - B) Polska Partia Socjalistyczna – jedna z partii, które utworzyły PZPR
@@ -95,7 +95,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stalinizm
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - D) Józef Stalin – PRAWIDŁOWA – dyktator ZSRR w latach 1924-1953
 - A) Włodzimierz Lenin – przywódca rewolucji październikowej, zmarł w 1924
 - B) Michaił Gorbaczow – lider ZSRR w latach 1985-1991 (po stalinizmie)
@@ -125,7 +125,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - C) 1950 – PRAWIDŁOWA – rok rozpoczęcia Planu 6-letniego
 - A) 1945 – rok zakończenia II wojny światowej
 - B) 1948 – rok utworzenia PZPR
@@ -155,7 +155,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Poznań – PRAWIDŁOWA – miejsce protestów w czerwcu 1956
 - A) Warszawa – stolica Polski, siedziba władz
 - C) Kraków – miejsce procesu biskupów w 1953
@@ -185,7 +185,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - C) Ministerstwo Bezpieczeństwa Publicznego – PRAWIDŁOWA – służba bezpieczeństwa
 - A) Policja – formacja istniejąca przed II wojną światową
 - B) Wojsko Polskie – siły zbrojne, nieodpowiedzialne za bezpieczeństwo wewnętrzne
@@ -215,7 +215,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - C) Stefan Wyszyński – PRAWIDŁOWA – prymas Polski w latach 1948-1981
 - A) Karol Wojtyła – został papieżem Janem Pawłem II w 1978 (po stalinizmie)
 - B) August Hlond – prymas Polski w latach 1926-1948 (przed stalinizmem)
@@ -245,7 +245,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Socrealizm – PRAWIDŁOWA – styl w sztuce w okresie stalinizmu
 - A) Romantyzm – styl w sztuce z XIX wieku
 - C) Modernizm – kierunek w sztuce z początku XX wieku
@@ -275,7 +275,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_Bierut
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - D) 1956 – PRAWIDŁOWA – rok śmierci Bieruta
 - A) 1948 – rok utworzenia PZPR
 - B) 1950 – rok rozpoczęcia Planu 6-letniego
@@ -305,7 +305,7 @@ tokens_total: 0
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - C) Uprzemysłowienie kraju – PRAWIDŁOWA – główny cel Planu 6-letniego
 - A) Rozwój rolnictwa – zaniedbane w okresie stalinizmu
 - B) Budowa domów – zaniedbane na rzecz przemysłu

@@ -37,7 +37,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A (Piłsudski) – niepoprawne: Piłsudski nie opracował planu w całości samodzielnie
 - Odp B (Rozwadowski) – niepoprawne z tego rozdziału: Rozwadowski nie był jedynym autorem planu
 - Odp D (Weygand) – niepoprawne z tego rozdziału: rola misji francuskiej była pomocnicza, Weygand nie był głównym autorem
@@ -62,7 +62,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odp B (pomocne) – niepoprawne z tego rozdziału: rola złamia szyfrów była kluczowa, nie tylko pomocna
 - Odp C (nieodegrało roli) – niepoprawne z tego rozdziału: informacje były dokładne i decydujące
 - Odp D (zignorowano) – niepoprawne z tego rozdziału: polskie dowództwo intensywnie wykorzystywało informacje wywiadowcze
@@ -87,7 +87,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A (sprzeczny z interesami) – niepoprawne: traktat był najlepszym możliwym rozwiązaniem w sytuacji Polski
 - Odp C (nie miał wpływu) – niepoprawne z rozdziału "Kampania wrześniowa 1939": traktat miał fundamentalny wpływ na relacje polsko-radzieckie
 - Odp D (pokojowe relacje) – niepoprawne z rozdziału "Kampania wrześniowa 1939": relacje nie były pokojowe, ZSRR dążyło do rewizji granic

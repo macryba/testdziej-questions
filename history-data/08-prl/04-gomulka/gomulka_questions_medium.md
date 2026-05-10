@@ -39,7 +39,7 @@ Władysław Gomułka był I sekretarzem KC PZPR od października 1956 do grudnia
 **Źródła:**
 - [Władysław Gomułka](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Edward Gierek był następcą Gomułki (1970-1980), nie poprzednikiem
 - Bolesław Bierut zmarł w 1956, przed powrotem Gomułki do władzy
 - Edward Ochab był tymczasowym następcą Bieruta (marzec-październik 1956)
@@ -66,7 +66,7 @@ Protesty studenckie wybuchły w marcu 1968 roku, stąd nazwa "Marzec '68". Bezpo
 **Źródła:**
 - [Marzec 1968](https://pl.wikipedia.org/wiki/Marzec_1968) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Styczeń i luty to miesiące przed wybuchem protestów (wtedy narastał konflikt wokół "Dziadów")
 - Kwiecień to miesiąc po głównych wydarzeniach marcowych
 
@@ -92,7 +92,7 @@ Strajki robotnicze w grudniu 1970 roku wybuchły głównie w miastach nadbałtyc
 **Źródła:**
 - [Grudzień 1970](https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Warszawa, Kraków, Łódź to duże miasta w centrum Polski, gdzie nie było głównych strajków
 - Poznań, Wrocław, Katowice to miasta w innych regionach Polski
 - Lublin, Białystok, Olsztyn to miasta wschodniej Polski
@@ -119,7 +119,7 @@ Spektakl "Dziady" Adama Mickiewicza w reżyserii Kazimierza Dejmka wywołał kon
 **Źródła:**
 - [Marzec 1968](https://pl.wikipedia.org/wiki/Marzec_1968) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - "Wesele", "Balladyna" i "Nieboska Komedia" to inne polskie dramaty romantyczne, niegrane wówczas w Teatrze Narodowym
 
 ---
@@ -144,7 +144,7 @@ Józef Cyrankiewicz był premierem PRL w latach 1954-1970, czyli przez cały okr
 **Źródła:**
 - [Władysław Gomułka](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Piotr Jaroszewicz został premierem dopiero w 1970, po upadku Gomułki
 - Adam Rapacki był ministrem spraw zagranicznych
 - Stefan Jędrychowski był wicepremierem i ministrem finansów
@@ -169,7 +169,7 @@ Dlaczego początki rządów Gomułki (1956-1957) nazywano "odwilżą gomułkowsk
 **Źródła:**
 - [Polska Rzeczpospolita Ludowa](https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Gomułka nie zwolnił wszystkich więźniów i nie zniósł cenzury
 - Nie zerwał z ZSRR ani nie wprowadził gospodarki rynkowej
 - Władze nie oddały władzy społeczeństwu
@@ -194,7 +194,7 @@ Decyzja o podwyżce cen wynikała z poważnych problemów gospodarczych PRL. Gos
 **Źródła:**
 - [Grudzień 1970](https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Podwyżka nie wynikała z chęci wzbogacenia elity
 - MFW nie miał wpływu na politykę cen PRL
 - Nie było żadnego spisku obcych wywiadów
@@ -219,7 +219,7 @@ Bezpośrednim powodem emigracji była kampania antysemicka, którą władze PRL 
 **Źródła:**
 - [Marzec 1968](https://pl.wikipedia.org/wiki/Marzec_1968) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Emigracja nie była podyktowana ekonomią
 - Nie była to naturalna emigracja zarobkowa
 - Chęć życia w Izraelu nie była głównym powodem — ludzie uciekali przed prześladowaniami
@@ -244,7 +244,7 @@ Reżim zaczął się cofać z reform z kilku powodów: ZSRR nie zgadzało się n
 **Źródła:**
 - [Władysław Gomułka](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Gomułka nie bał się utraty władzy na początku
 - Protesty nie wymusiły zaostrzenia — wręcz odwrotnie
 - Nie było żadnych agentów zachodnich
@@ -269,7 +269,7 @@ Kościół katolicki zachował daleko idącą wstrzemięźliwość podczas Marca
 **Źródła:**
 - [Marzec 1968](https://pl.wikipedia.org/wiki/Marzec_1968) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Władze nie zakazały działalności Kościoła
 - Kościół nie potępił protestów
 - Nie doszło do otwartego konfliktu
@@ -294,7 +294,7 @@ Co łączyło "Puławian" i "Natolińczyków" - dwie frakcje w PZPR w czasach Go
 **Źródła:**
 - [Marzec 1968](https://pl.wikipedia.org/wiki/Marzec_1968) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Nie obie grupy dążyły do demokratyzacji
 - Nie obie sprzeciwiały się Gomułce
 - Nie były to organizacje młodzieżowe
@@ -319,7 +319,7 @@ Gomułka musiał odejść po krwawym stłumieniu strajków na Wybrzeżu. Pacyfik
 **Źródła:**
 - [Grudzień 1970](https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Choroba i wiek nie były głównym powodem
 - Moskwa nie wymusiła dymisji bezpośrednio
 - Gomułka nie stracił poparcia w partii przed grudniem 1970

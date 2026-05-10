@@ -45,7 +45,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Mieszko II](https://pl.wikipedia.org/wiki/Mieszko_II_Lambert) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Kazimierz Odnowiciel był synem Mieszka II, panował w latach 1039-1058
 - Odp C: Bolesław Śmiały był synem Kazimierza Odnowiciela, panował w latach 1058-1079
 - Odp D: Władysław Herman był synem Kazimierza Odnowiciela, panował w latach 1079-1102
@@ -70,7 +70,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Kazimierz Odnowiciel](https://pl.wikipedia.org/wiki/Kazimierz_Odnowiciel) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Poznań został poważnie zniszczony podczas najazdu Brzetysława w 1038 roku
 - Odp C: Wrocław był ważnym ośrodkiem na Śląsku, ale nie został stolicą
 - Odp D: Płock stał się ważnym ośrodkiem za Władysława Hermana, ale nie był główną stolicą
@@ -95,7 +95,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Testament Bolesława Krzywoustego](https://pl.wikipedia.org/wiki/Testament_Boles%C5%82awa_Krzywoustego) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: 1102 to rok objęcia władzy przez Bolesława Krzywoustego
 - Odp B: 1109 to rok najazdu cesarza Henryka V na Polskę
 - Odp C: 1135 to rok spotkania Bolesława Krzywoustego z cesarzem Lotarem III w Merseburgu
@@ -120,7 +120,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Otton z Bambergu](https://pl.wikipedia.org/wiki/Otton_z_Bambergu) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Święty Wojciech prowadził misję w Prusach w 997 roku, za Bolesława Chrobrego
 - Odp C: Bruno z Kwerfurtu był misjonarzem w XI wieku
 - Odp D: Bernard z Clairvaux żył w XII wieku, ale nie był związany z chrystianizacją Pomorza
@@ -145,7 +145,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Grody Czerwieńskie](https://pl.wikipedia.org/wiki/Grody_Czerwie%C5%84skie) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Pomorze Zachodnie było opanowane przez Mieszka I w 967 roku
 - Odp C: Śląsk został przyłączony do Polski około 990 roku
 - Odp D: Mazowsze było częścią Polski od czasów plemiennych
@@ -170,7 +170,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Mieszko II](https://pl.wikipedia.org/wiki/Mieszko_II_Lambert) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Nie ma dowodów na znaczące katastrofy naturalne w tym okresie
 - Odp C: Chłopi wzięli udział w reakcji pogańskiej, ale Wikingowie nie atakowali Polski
 - Odp D: Państwo nie zbankrutowało, a Mieszko II miał następców
@@ -195,7 +195,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Kazimierz Odnowiciel](https://pl.wikipedia.org/wiki/Kazimierz_Odnowiciel) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Kazimierz pragnął wzmocnić państwo, więc nie miał motywacji do rezygnacji z korony z pokory
 - Odp C: Koszty koronacji nie były główną przeszkodą
 - Odp D: Nie ma dowodów na odmowę papieża
@@ -220,7 +220,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Reakcja pogańska w Polsce](https://pl.wikipedia.org/wiki/Reakcja_poga%C5%84ska_w_Polsce) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Reakcja pogańska doprowadziła do odwrotnego skutku — osłabienia chrystianizacji
 - Odp C: Cesarstwo nie atakowało Polski w tym okresie
 - Odp D: Reakcja pogańska doprowadziła do rozpadu, nie zjednoczenia
@@ -245,7 +245,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Bolesław III Krzywousty](https://pl.wikipedia.org/wiki/Boles%C5%82aw_III_Krzywousty) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Chociaż religia była ważna, motywy były przede wszystkim polityczne
 - Odp C: Papież nie wydał takiego nakazu
 - Odp D: Ekspansja na Prusy nie była głównym celem w tym okresie
@@ -270,7 +270,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Testament Bolesława Krzywoustego](https://pl.wikipedia.org/wiki/Testament_Boles%C5%82awa_Krzywoustego) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Testament miał odwrotny skutek — doprowadził do osłabienia
 - Odp C: Niepodległość została utracona stopniowo, nie natychmiast
 - Odp D: Nie doszło do zjednoczenia z Czechami
@@ -295,7 +295,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 **Źródła:**
 - [Polska wczesnopiastowska](https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Różnice społeczne wzrosły, nie znikły
 - Odp C: Struktury państwowe rozwijały się, nie cofano
 - Odp D: Demokracja nie była znana w średniowieczu
@@ -321,7 +321,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Kazimierz Odnowiciel](https://pl.wikipedia.org/wiki/Kazimierz_Odnowiciel) - Wikipedia Polska
 - [Kraków](https://pl.wikipedia.org/wiki/Krak%C3%B3w) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: Kraków nie był rozwiązaniem tymczasowym
 - Odp C: Przeniesienie stolicy miało bardzo duże znaczenie
 - Odp D: Gniezno nie odzyskało statusu stolicy
@@ -347,7 +347,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Chrzest Polski](https://pl.wikipedia.org/wiki/Chrzest_Polski) - Wikipedia Polska
 - [Mieszko I](https://pl.wikipedia.org/wiki/Mieszko_I) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Polska w X wieku nie miała bezpośredniego dostępu do handlu z Bizancjum
 - Odp C: Papież w X wieku nie udzielał pomocy wojskowej
 - Odp D: Ruś Kijowska w X wieku jeszcze nie przyjęła chrztu i nie stanowiła dużego zagrożenia
@@ -373,7 +373,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Mieszko I](https://pl.wikipedia.org/wiki/Mieszko_I) - Wikipedia Polska
 - [Pomorze Zachodnie](https://pl.wikipedia.org/wiki/Pomorze_Zachodnie) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Szlak bursztynowy biegł głównie przez tereny połabskie i ziemie czeskie
 - Odp C: Polska w X wieku nie prowadziła polityki kolonizacyjnej w Skandynawii
 - Odp D: Choć wikingowie stanowili pewne zagrożenie, to nie byli głównym powodem ekspansji na Pomorze
@@ -399,7 +399,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
 - [Otton III](https://pl.wikipedia.org/wiki/Otton_III_(cesarz_rzymski)) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Nowy cesarz Henryk II był przeciwnikiem politycznym Bolesława Chrobrego
 - Odp C: Papież w XI wieku nie udzielał licencji na podboje
 - Odp D: Choć Polska utrzymywała kontakty z Rusią Kijowską, to nie zawarła z nią sojuszu militarnego przeciwko cesarstwu w tym okresie
@@ -425,7 +425,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Koronacja Bolesława Chrobrego](https://pl.wikipedia.org/wiki/Koronacja_Boles%C5%82awa_Chrobrego) - Wikipedia Polska
 - [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Koronacja Bolesława nie oznaczała uzyskania zwierzchnictwa nad innymi państwami słowiańskimi
 - Odp C: Koronacja nie oznaczała podporządkowania Polsce władzy papieskiej
 - Odp D: Koronacja Bolesława Chrobrego była potwierdzeniem niezależności Polski od cesarstwa
@@ -451,7 +451,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Wyprawa kijowska (1018)](https://pl.wikipedia.org/wiki/Wyprawa_kijowska_(1018)) - Wikipedia Polska
 - [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Kijów nie został trwale przyłączony do Polski. Po śmierci Bolesława Chrobrego Ruś Kijowska odzyskała pełną niezależność
 - Odp C: Nie doprowadziło do trwałego sojuszu anty-niemieckiego z Rusią
 - Odp D: Handel z Bizancjem nie był priorytetem polityki Bolesława Chrobrego
@@ -477,7 +477,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Zjazd gnieźnieński](https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski) - Wikipedia Polska
 - [Archidiecezja gnieźnieńska](https://pl.wikipedia.org/wiki/Archidiecezja_gnie%C5%BAnie%C5%84ska) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Zjazd gnieźnieński nie oznaczał podporządkowania Polski cesarzowi
 - Odp C: Zjazd gnieźnieński nie był związany z zawarciem sojuszu przeciwko Rusi Kijowskiej
 - Odp D: Zjazd gnieźnieński nie dotyczył zezwoleń na podbój Pomorza
@@ -503,7 +503,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Pokój w Budziszynie](https://pl.wikipedia.org/wiki/Pok%C3%B3j_w_Budziszynie) - Wikipedia Polska
 - [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Wojny z cesarstwem miały na celu obronę niezależności Polski, a nie jej włączenie do cesarstwa
 - Odp C: Choć wojny były kosztowne, to nie doprowadziły do trwałego osłabienia gospodarczego Polski
 - Odp D: Wojny z cesarstwem nie doprowadziły do utraty ziemi zachodnich
@@ -529,7 +529,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Kościół katolicki w Polsce](https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki_w_Polsce#Historia) - Wikipedia Polska
 - [Diecezje polskie](https://pl.wikipedia.org/wiki/Diecezje_polskie) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Ekspansja nie zahamowała chrystianizacji, lecz ją przyspieszyła
 - Odp C: Ekspansja i utworzenie arcybiskupstwa w Gnieźnie w 1000 roku miały na celu uniezależnienie kościoła polskiego od Niemiec
 - Odp D: Nowe terytoria były poddawane chrystianizacji po ich przyłączeniu do Polski
@@ -555,7 +555,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Mieszko II Lambert](https://pl.wikipedia.org/wiki/Mieszko_II_Lambert) - Wikipedia Polska
 - [Bolesław I Chrobry](https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Mieszko II Lambert nie zrezygnował z ekspansji z wyboru, lecz został zmuszony do obrony terytoriów
 - Odp C: Choć cesarstwo odzyskało siły, to bezpośrednią przyczyną osłabienia państwa polskiego były wewnętrzne problemy
 - Odp D: Choć wojny były kosztowne, to nie one bezpośrednio doprowadziły do osłabienia państwa po śmierci Bolesława
@@ -581,7 +581,7 @@ Bolesław Krzywousty (1102-1138) odzyskał Pomorze (1116-1122), schrystianizowa�
 - [Państwo Piastów](https://pl.wikipedia.org/wiki/Pa%C5%84stwo_Piast%C3%B3w) - Wikipedia Polska
 - [Polska wczesnopiastowska](https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: Ekspansja X-XI wieku nie była bezpośrednią przyczyną rozbicia dzielnicowego
 - Odp C: Ekspansja nie zwiększyła tylko bogactwa dynastii, lecz także rozwój gospodarczy całości państwa
 - Odp D: Ekspansja była połączona z reformami wewnętrznymi

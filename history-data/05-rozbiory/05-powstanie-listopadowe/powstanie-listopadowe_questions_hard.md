@@ -58,7 +58,7 @@ W polskiej historiografii powstanie listopadowe jest przedmiotem debaty. Częś�
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Jan_Zygmunt_Skrzynecki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Opcja A jest błędna - strategiczne błędy miały istotny wpływ na wynik
 - Opcja B przecenia znaczenie błędów dowództwa, ignorując przewagę Rosji
 - Opcja D jest częściowo słuszna, ale niedocenia roli innych czynników decydujących
@@ -86,7 +86,7 @@ W polskiej historiografii powstanie listopadowe jest przedmiotem debaty. Częś�
 - https://pl.wikipedia.org/wiki/Wielka_Emigracja
 - https://pl.wikipedia.org/wiki/Joachim_Lelewel
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Opcja A jest błędna - mocarstwa europejskie nie uznały sprawy polskiej
 - Opcja B jest błędna - kolejne powstanie wybuchło dopiero po 32 latach
 - Opcja C jest błędna - emigracja prowadziła intensywną działalność niepodległościową
@@ -114,7 +114,7 @@ W polskiej historiografii powstanie listopadowe jest przedmiotem debaty. Częś�
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Opcja A przecenia bezpośredni wpływ na Wiosnę Ludów
 - Opcja B jest całkowicie błędna - powstanie miało znaczenie symboliczne
 - Opcja D jest błędna - powstanie nie zostało zapomniane
@@ -142,7 +142,7 @@ W polskiej historiografii powstanie listopadowe jest przedmiotem debaty. Częś�
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Maurycy_Mochnacki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Opcja A jest błędna - konflikt miał istotny wpływ
 - Opcja C jest błędna - pluralizm nie był korzystny w czasie wojny
 - Opcja D jest błędna - odpowiedzialność jest wspólna
@@ -170,7 +170,7 @@ W polskiej historiografii powstanie listopadowe jest przedmiotem debaty. Częś�
 - https://pl.wikipedia.org/wiki/Detronizacja_Miko%C5%82aja_I
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Opcja A jest błędna - akt nie był skuteczny prawnie i nieuznany
 - Opcja B jest częściowo słuszna, ale ignoruje moralne uzasadnienie
 - Opcja D jest błędna - akt nie był całkowicie zgodny z ówczesnym prawem
@@ -197,7 +197,7 @@ W polskiej historiografii powstanie listopadowe jest przedmiotem debaty. Częś�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Car nie dowodził osobiście wojskami
 - Przewaga liczebna była jednym z czynników, ale nie jedynym
 - Brak broni i amunicji nie był głównym problemem
@@ -225,7 +225,7 @@ W polskiej historiografii powstanie listopadowe jest przedmiotem debaty. Częś�
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Rewolucja_belgijska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Państwa bałtyckie nie uzyskały niepodległości
 - Monarchia we Francji upadła wcześniej
 - Święty Przymierze trwało dalej

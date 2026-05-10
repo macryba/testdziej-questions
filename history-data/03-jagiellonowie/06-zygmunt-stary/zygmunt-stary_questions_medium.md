@@ -45,7 +45,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (1447-1492) to lata panowania Kazimierza IV Jagiellończyka, ojca Zygmunta Starego
 - Odpowiedź B (1492-1506) to lata panowania poprzedniego króla - Aleksandra Jagiellończyka, brata Zygmunta Starego
 - Odpowiedź D (1548-1572) to lata panowania syna Zygmunta Starego — Zygmunta II Augusta
@@ -71,7 +71,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Ho%C5%82d_pruski_1525
 - https://pl.wikipedia.org/wiki/Wojna_polsko-krzy%C5%BCacka_%281519%E2%80%932021%29
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (bitwa pod Grunwaldem) miała miejsce w 1410 roku, ponad 100 lat przed hołdem pruskim, podczas panowania Władysława Jagiełły
 - Odpowiedź B (pokój toruński) został podpisany w 1466 roku, kończąc wojnę trzynastoletnią i tworząc Prusy Królewskie jako lenno polskie
 - Odpowiedź C (inkorporacja Mazowsza) nastąpiła w 1529 roku i dotyczyła włączenia księstwa mazowieckiego do Korony, a nie zakonu krzyżackiego
@@ -96,7 +96,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Barbara Zápolya) była pierwszą żoną Zygmunta Starego (zmarła w 1515 roku), ale nie odegrała tak dużej roli politycznej jak Bona Sforza
 - Odpowiedź C (Jadwiga Jagiellonka) była córką Zygmunta Starego, a nie jego żoną
 - Odpowiedź D (Elżbieta Rakuszanka) była matką Zygmunta Starego, żoną Kazimierza IV Jagiellończyka
@@ -121,7 +121,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Kraków) był stolicą Polski i miastem koronacyjnym, gdzie Zygmunt Stary miał swoją siedzibę na Wawelu
 - Odpowiedź B (Wilno) było stolicą Wielkiego Księstwa Litewskiego, gdzie Zygmunt został koronowany na wielkiego księcia litewskiego
 - Odpowiedź D (Poznań) było ważnym miastem w Wielkopolsce, ale nie było miejscem buntu w 1526 roku
@@ -146,7 +146,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (zjazd monarchów) odnosi się do zjazdu wiedeńskiego z 1515 roku, gdzie spotkano się z władcami Habsburgów
 - Odpowiedź C (bitwa z Moskwą) jest niepoprawna, ponieważ Moskwa nie atakowała Lwowa w tym okresie
 - Odpowiedź D (sejm walny) jest błędna, ponieważ rokospistoki to zbrojny protest szlachty, a nie formalny sejm walny
@@ -171,7 +171,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (spór o granice z Prusami) odnosi się do konfliktu z zakonem krzyżackim, który został rozwiązany w 1525 roku hołdem pruskim
 - Odpowiedź C (wpływ na Bałtyku) dotyczyła polityki wobec Gdańska i Prus Książęcych, a nie bezpośrednio konfliktu z Moskwą
 - Odpowiedź D (chęć podboju Moskwy) jest niepoprawna, ponieważ celem Polski była obrona ziem litewskich, a nie podbój samej Moskwy
@@ -197,7 +197,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Ho%C5%82d_pruski_1525
 - https://pl.wikipedia.org/wiki/Wojna_polsko-krzy%C5%BCacka_%281519%E2%80%932021%29
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (wzrost wpływów Habsburgów) jest niepoprawna, ponieważ hołd pruski wręcz zmniejszył wpływ Habsburgów w regionie, wzmacniając pozycję Polski
 - Odpowiedź C (utrata dostępu do Bałtyku) jest sprzeczna z faktami - Polska zachowała dostęp do morza poprzez Gdańsk i inne miasta
 - Odpowiedź D (włączenie Prus do Korony) jest częściowo błędna - Prusy Książęce stały się lennem polskim, ale nie zostały bezpośrednio włączone do Korony
@@ -222,7 +222,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wojna_polsko-krzy%C5%BCacka_%281519%E2%80%932021%29
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (spór o granice z Mazowszem) jest niepoprawna, ponieważ Mazowsze nie było stroną konfliktu z zakonem krzyżackim
 - Odpowiedź C (konflikt handlowy o Gdańsk) odnosi się do późniejszych napięć, ale nie była główną przyczyną wojny w latach 1519-1521
 - Odpowiedź D (sojusz krzyżacko-moskiewski) istniał, ale był raczej następstwem niż główną przyczyną konfliktu
@@ -247,7 +247,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (pomyślnie wdrożona) jest niepoprawna, ponieważ reformacja została częściowo stłumiona, a nie wdrożona powszechnie
 - Odpowiedź B (całkowicie stłumiona) jest zbyt daleko idąca, ponieważ idee reformacyjne przetrwały w niektórych środowiskach, mimo represji
 - Odpowiedź D (brak wpływu) jest sprzeczna z faktami - reformacja miała istotny wpływ na politykę wewnętrzną i wyznaniową
@@ -272,7 +272,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (chęć obalenia monarchy) jest niepoprawna - szlachta nie dążyła do obalenia króla, ale do ograniczenia wpływów dworu
 - Odpowiedź B (sprzeciw wobec wojny) jest częściowo poprawna, ale nie była główną przyczyną rokospistoku
 - Odpowiedź C (konflikt z Kościołem) nie był istotnym czynnikiem rokospistoku
@@ -297,7 +297,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (utrata autonomii) jest prawdziwa, ale inkorporacja nie zniszczyła całkowicie autonomii - Mazowsze zachowało pewne przywileje
 - Odpowiedź C (niezależne księstwo) jest sprzeczna z faktami - inkorporacja zakończyła niezależność Mazowsza
 - Odpowiedź D (wojna z Litwą) jest niepoprawna - inkorporacja Mazowsza nie spowodowała wojny z Litwą
@@ -323,7 +323,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 - https://pl.wikipedia.org/wiki/Dzwon_Zygmunt
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Uniwersytet Jagielloński) został założony w 1364 roku przez Kazimierza Wielkiego, a nie przez Zygmunta Starego
 - Odpowiedź C (Zamek w Warszawie) został zbudowany później, za panowania Zygmunta III Wazy
 - Odpowiedź D (Biblioteka Załuskich) została założona w XVIII wieku, a nie w XVI wieku
@@ -348,7 +348,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (zjazd wiedeński) jest niepoprawna - zjazd wiedeński w 1515 roku odbył się przed małżeństwem Zygmunta z Boną
 - Odpowiedź C (bitwa pod Orszą) jest niepoprawna - kobiety nie dowodziły wojskami w bitwach w tym okresie
 - Odpowiedź D (drukarnia) jest niepoprawna - pierwsza drukarnia w Polsce powstała wcześniej, w XV wieku
@@ -373,7 +373,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (wsparcie autonomii) jest sprzeczna z polityką króla - Zygmunt starał się ograniczyć autonomię Gdańska
 - Odpowiedź B (przekazanie zakonowi) jest niepoprawna - Gdańsk był już w Koronie od 1466 roku
 - Odpowiedź D (zrzeczenie się praw) jest sprzeczna z faktami - król dążył do wzmocnienia, a nie zrzeczenia się praw
@@ -398,7 +398,7 @@ Okres panowania Zygmunta I Starego to czas niezwykłego rozwoju kultury renesans
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zygmunt_I_Stary
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (permanentna wojna) jest niepoprawna - relacje były zmienne, od sojuszu do rywalizacji
 - Odpowiedź C (podporządkowanie polityki) jest niepoprawna - Polska zachowywała niezależność polityki wobec Habsburgów
 - Odpowiedź D (obojętność) jest sprzeczna z faktami - Zygmunt aktywnie angażował się w sprawy habsburskie

@@ -36,7 +36,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Roman Dmowski): Był przywódcą obozu narodowego
 - Odpowiedź B (Wincenty Witos): Był premierem Polski obalonym w wyniku przewrotu majowego
 - Odpowiedź D (Stanisław Wojciechowski): Był prezydentem Polski podczas przewrotu
@@ -60,7 +60,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (1-3 maja 1926): Te daty przypadają na święto państwowe, ale nie mają związku z przewrotem
 - Odpowiedź C (20-23 maja 1926): Przewrót już się zakończył, a rząd Witosa podał się do dymisji
 - Odpowiedź D (1-4 czerwca 1926): W tym czasie już trwały negocjacje polityczne po przewrocie
@@ -84,7 +84,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Stanisław Wojciechowski](https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Wojciechowski) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Ignacy Mościcki): Został prezydentem dopiero po przewrocie majowym, 1 czerwca 1926 roku
 - Odpowiedź B (Gabriel Narutowicz): Był pierwszym prezydentem Polski, zamordowanym w 1922 roku
 - Odpowiedź C (Maciej Rataj): Był marszałkiem Sejmu, który czasowo przejął uprawnienia prezydenta po rezygnacji Wojciechowskiego
@@ -108,7 +108,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Rząd Józefa Piłsudskiego): Piłsudski był przywódcą przewrotu, nie premierem obalonego rządu
 - Odpowiedź C (Rząd Romana Dmowskiego): Dmowski nigdy nie był premierem Polski
 - Odpowiedź D (Rząd Ignacego Paderewskiego): Paderewski był premierem w 1919 roku, znacznie przed przewrotem majowym
@@ -132,7 +132,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (1000): Tyle osób zostało rannych, nie zabitych
 - Odpowiedź C (215): To liczba tylko żołnierzy zabitych, nie łącznie
 - Odpowiedź D (164): To liczba tylko cywilów zabitych, nie łącznie
@@ -156,7 +156,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Ignacy Mościcki](https://pl.wikipedia.org/wiki/Ignacy_Mo%C5%9Bcicki) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Józef Piłsudski): Odmówił objęcia urzędu prezydenta
 - Odpowiedź C (Stanisław Wojciechowski): Był prezydentem przed przewrotem majowym
 - Odpowiedź D (Maciej Rataj): Był marszałkiem Sejmu, pełniąc obowiązki prezydenta
@@ -180,7 +180,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Bał się odpowiedzialności): Piłsudski nie bał się odpowiedzialności
 - Odpowiedź B (Nie miał poparcia): Został wybrany przez Zgromadzenie Narodowe
 - Odpowiedź D (Planował wyjazd): Piłsudski nie planował opuszczać Polski
@@ -204,7 +204,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Zabójstwo ministra): Nie doszło do takiego wydarzenia w czasie przewrotu
 - Odpowiedź B (Budżet): Kwestie budżetowe nie były bezpośrednim powodem przewrotu
 - Odpowiedź D (Strajk generalny): Strajk kolejarzy wybuchnął później, jako poparcie dla Piłsudskiego
@@ -228,7 +228,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Transportował wojska): Kolejarze zablokowali transporty rządowe, nie ich realizowali
 - Odpowiedź C (Pozostał neutralny): Kolejarze aktywnie wspierali Piłsudskiego
 - Odpowiedź D (Zablokował cały kraj): Strajk był selektywny, dotyczył głównie transportu wojsk rządowych
@@ -252,7 +252,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Przywrócono monarchię): Polska pozostała republiką
 - Odpowiedź B (Zniesiono prezydenta): Urząd prezydenta został zachowany i wzmocniony
 - Odpowiedź C (Rozwiązano parlament): Sejm i Senat kontynuowały działalność, ale z ograniczonymi uprawnienieniami
@@ -276,7 +276,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Sanacja](https://pl.wikipedia.org/wiki/Sanacja) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Przyłączenie ziem): Sanacja nie odnosiła się do kwestii terytorialnych
 - Odpowiedź C (Organizacja oporu): Sanacja była obozem rządzącym, nie organizacją oporu
 - Odpowiedź D (Partia socjalistyczna): Sanacja nie była partią, lecz obozem politycznym skupionym wokół Piłsudskiego
@@ -300,7 +300,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 **Źródła:**
 - [Konstytucja kwietniowa](https://pl.wikipedia.org/wiki/Konstytucja_kwietniowa) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (1926): W tym roku uchwalono nowelę sierpniową, nie konstytucję kwietniową
 - Odpowiedź B (1930): W tym czasie trwały rządy sanacji, ale konstytucja jeszcze nie powstała
 - Odpowiedź C (1939): Konstytucja została uchwalona przed wybuchem wojny, w 1935 roku

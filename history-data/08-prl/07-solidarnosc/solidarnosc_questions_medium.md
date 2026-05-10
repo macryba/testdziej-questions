@@ -39,7 +39,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Była członkinią Partii Komunistycznej – nieprawda, Walentynowicz była działaczką opozycji demokratycznej
 - Zorganizowała wcześniej nielegalne strajki – nieprawda, strajki w 1980 były pierwszymi w jej historii
 - Była ona najpopularniejszą działaczką – prawdziwe, ale nie to było bezpośrednią przyczyną wybuchu strajku
@@ -64,7 +64,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/21_postulat%C3%B3w_Mi%C4%99dzyzak%C5%82adowego_Komitetu_Strajkowego
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Uwolnienie więźniów – częściowy postulat, ale nie był głównym celem strajku
 - Wyprowadzenie wojsk radzieckich – postulat nie pojawiał się w Porozumieniach Sierpniowych
 - Przyłączenie Polski do NATO – w 1980 roku Polska była członkiem Układu Warszawskiego
@@ -89,7 +89,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Prowokacja_bydgoska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zakończono zjazd – I Zjazd Solidarności odbył się we wrześniu 1981 w Gdańsku
 - Wybuchły strajki – strajki były odpowiedzią na wydarzenia w Bydgoszczy, ale nie były samym wydarzeniem
 - Podpisano porozumienie – nie podpisano nowych porozumień po Bydgoszczy
@@ -114,7 +114,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wybór Reagana – wydarzenie z listopada 1980, po powstaniu Solidarności
 - Wpisanie na listę – wydarzenie miało miejsce, ale nie miało tak dużego wpływu
 - Porozumienie helsińskie – podpisane w 1975, inspirujące ale nie bezpośredni impuls
@@ -139,7 +139,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Obawiały się interwencji – ZSRR nie interweniował w 1980, a rząd radziecki wręcz odradzał siłowe rozwiązania
 - Chciały poprawić wizerunek – motywacja była drugorzędna względem konieczności rozwiązania kryzysu
 - Zmuszone przez ZSRR – nieprawda, ZSRR nie wywierał presji na podpisanie porozumień
@@ -164,7 +164,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Obrona przed zachodem – nie było żadnego zagrożenia ze strony Zachodu
 - Ochrona przed ZSRR – to argument propagandowy, ZSRR nie planował interwencji
 - Przeprowadzenie reform – reforma były sprzeczne z cele stanu wojennego
@@ -189,7 +189,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Strajki robotnicze – ważny element, ale nie jedyny
 - Powstanie KOR – istotny czynnik, ale bez strajków robotniczych nie byłby wystarczający
 - Pielgrzymka Jana Pawła II – kluczowe wydarzenie, ale poprzedziły je inne ważne elementy
@@ -214,7 +214,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Poprzednie strajki nie miały liderów – nieprawda, miały liderów, ale nie stworzyli trwałych struktur
 - Solidarność nie domagała się praw – nieprawda, prawa pracownicze były jednym z głównych postulatów
 - Wcześniejsze strajki stłumione – częściowo prawda, ale nie to było główną różnicą
@@ -239,7 +239,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zakończenie działalności – sprzeczne z rozwojem Solidarności
 - Transformacja w partię – nieprawda, Solidarność nie chciała być partią
 - Ograniczenie do spraw ekonomicznych – przeciwieństwo hasła „ruch społeczny"
@@ -264,7 +264,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Natychmiastowe obalenie – nieprawda, upadek komunizmu nastąpił dopiero w 1989 roku
 - Nie miała wpływu – nieprawda, Solidarność miała duży wpływ na inne kraje
 - Interwencja ZSRR – nieprawda, ZSRR nie interweniował wojskowo w Polsce
@@ -289,7 +289,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zbyt ważna gospodarczo – nieprawda, gospodarka nie była głównym czynnikiem
 - Zbyt słaby – nieprawda, Armia Radziecka była bardzo silna
 - Ufał władzom PRL – częściowo prawda, ale nie to było głównym powodem
@@ -314,7 +314,7 @@ Narodziny Solidarności w latach 1980-1981 stanowiły kluczowy moment w historii
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Niezale%C5%BCny_Samorz%C4%85dny_Zwi%C4%85zek_Zawodowy_%E2%80%9ESolidarno%C5%9B%C4%87%E2%80%9D
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Potępił strajki – nieprawda, księża wspierali strajkujących
 - Przeciwny ruchowi – nieprawda, Kościół stanął po stronie Solidarności
 - Neutralny – nieprawda, Kościół jawnie popierał Solidarność

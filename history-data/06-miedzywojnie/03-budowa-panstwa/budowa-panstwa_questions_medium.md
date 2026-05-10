@@ -42,7 +42,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Konstytucja marcowa](https://pl.wikipedia.org/wiki/Konstytucja_marcowa) - Wikipedia Polska
 - [II Rzeczpospolita](https://pl.wikipedia.org/wiki/II_Rzeczpospolita) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B (Zgromadzenie Narodowe) wybierało prezydenta, a nie uchwalało konstytucję. Odpowiedź C (Rada Ministrów) przygotowywała projekt, ale nie uchwalała konstytucji. Odpowiedź D (Sejm i Senat razem) - Sejm uchwalił konstytucję samodzielnie, Senat ją tylko zatwierdził.
+**Analiza odpowiedzi błędnych:** Odpowiedź B (Zgromadzenie Narodowe) wybierało prezydenta, a nie uchwalało konstytucję. Odpowiedź C (Rada Ministrów) przygotowywała projekt, ale nie uchwalała konstytucji. Odpowiedź D (Sejm i Senat razem) - Sejm uchwalił konstytucję samodzielnie, Senat ją tylko zatwierdził.
 
 ---
 
@@ -65,7 +65,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Traktat ryski (1921)](https://pl.wikipedia.org/wiki/Traktat_ryski_%281921%29) - Wikipedia Polska
 - [Wojna polsko-bolszewicka](https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A (Traktat wersalski) dotyczył zakończenia I wojny światowej i ustalenia zachodniej granicy Polski. Odpowiedź C (Traktat brzeski) był zawarty w 1918 roku z Ukrainą. Odpowiedź D (Traktat tarnopolski) nie istnieje.
+**Analiza odpowiedzi błędnych:** Odpowiedź A (Traktat wersalski) dotyczył zakończenia I wojny światowej i ustalenia zachodniej granicy Polski. Odpowiedź C (Traktat brzeski) był zawarty w 1918 roku z Ukrainą. Odpowiedź D (Traktat tarnopolski) nie istnieje.
 
 ---
 
@@ -88,7 +88,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Gabriel Narutowicz](https://pl.wikipedia.org/wiki/Gabriel_Narutowicz) - Wikipedia Polska
 - [Konstytucja marcowa](https://pl.wikipedia.org/wiki/Konstytucja_marcowa) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A (Józef Piłsudski) był Naczelnikiem Państwa, ale nie prezydentem w tym okresie. Odpowiedź C (Stanisław Wojciechowski) był prezydentem po Narutowicza. Odpowiedź D (Wincenty Witos) był premierem, nie prezydentem.
+**Analiza odpowiedzi błędnych:** Odpowiedź A (Józef Piłsudski) był Naczelnikiem Państwa, ale nie prezydentem w tym okresie. Odpowiedź C (Stanisław Wojciechowski) był prezydentem po Narutowicza. Odpowiedź D (Wincenty Witos) był premierem, nie prezydentem.
 
 ---
 
@@ -111,7 +111,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [II Rzeczpospolita](https://pl.wikipedia.org/wiki/II_Rzeczpospolita) - Wikipedia Polska
 - [Reforma walutowa Grabskiego](https://pl.wikipedia.org/wiki/Reforma_walutowa_Grabskiego) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B (Józef Piłsudski) prowadził działania wojenne i później przewrót majowy. Odpowiedź C (Roman Dmowski) był przywódcą endecji. Odpowiedź D (Ignacy Paderewski) był premierem w 1919 roku.
+**Analiza odpowiedzi błędnych:** Odpowiedź B (Józef Piłsudski) prowadził działania wojenne i później przewrót majowy. Odpowiedź C (Roman Dmowski) był przywódcą endecji. Odpowiedź D (Ignacy Paderewski) był premierem w 1919 roku.
 
 ---
 
@@ -134,7 +134,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Historia Polski (1918–1939)](https://pl.wikipedia.org/wiki/Historia_Polski_%281918%E2%80%931939%29) - Wikipedia Polska
 - [Sojusz polsko-francuski](https://pl.wikipedia.org/wiki/Sojusz_polsko-francuski) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A (Niemcy) były głównym przeciwnikiem Polski. Odpowiedź B (ZSRR) była wroga Polsce po wojnie polsko-bolszewickiej. Odpowiedź D (Wielka Brytania) nie zawarła sojuszu wojskowego z Polską w tym okresie.
+**Analiza odpowiedzi błędnych:** Odpowiedź A (Niemcy) były głównym przeciwnikiem Polski. Odpowiedź B (ZSRR) była wroga Polsce po wojnie polsko-bolszewickiej. Odpowiedź D (Wielka Brytania) nie zawarła sojuszu wojskowego z Polską w tym okresie.
 
 ---
 
@@ -157,7 +157,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 - [Józef Piłsudski](https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B (Władysław Sikorski) był premierem później, w latach 20. Odpowiedź C (Edward Rydz-Śmigły) został marszałkiem dopiero w 1935 roku. Odpowiedź D (Kazimierz Sosnkowski) był generałem, ale nie marszałkiem w tym okresie.
+**Analiza odpowiedzi błędnych:** Odpowiedź B (Władysław Sikorski) był premierem później, w latach 20. Odpowiedź C (Edward Rydz-Śmigły) został marszałkiem dopiero w 1935 roku. Odpowiedź D (Kazimierz Sosnkowski) był generałem, ale nie marszałkiem w tym okresie.
 
 ---
 
@@ -180,7 +180,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Konstytucja marcowa](https://pl.wikipedia.org/wiki/Konstytucja_marcowa) - Wikipedia Polska
 - [Kryzys demokracji parlamentarnej](https://pl.wikipedia.org/wiki/Kryzys_demokracji_parlamentarnej) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A jest częściowo prawdziwa, ale nie główną przyczyną. Odpowiedź C jest fałszywa - nie było wojny domowej. Odpowiedź D jest fałszywa - prezydent miał ograniczone uprawnienia.
+**Analiza odpowiedzi błędnych:** Odpowiedź A jest częściowo prawdziwa, ale nie główną przyczyną. Odpowiedź C jest fałszywa - nie było wojny domowej. Odpowiedź D jest fałszywa - prezydent miał ograniczone uprawnienia.
 
 ---
 
@@ -203,7 +203,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Gabriel Narutowicz](https://pl.wikipedia.org/wiki/Gabriel_Narutowicz) - Wikipedia Polska
 - [Eligiusz Niewiadomski](https://pl.wikipedia.org/wiki/Eligiusz_Niewiadomski) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A nie nastąpiła. Odpowiedź C jest nieprecyzyjna - nowym prezydentem został Wojciechowski. Odpowiedź D nie miała miejsca.
+**Analiza odpowiedzi błędnych:** Odpowiedź A nie nastąpiła. Odpowiedź C jest nieprecyzyjna - nowym prezydentem został Wojciechowski. Odpowiedź D nie miała miejsca.
 
 ---
 
@@ -227,7 +227,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Józef Piłsudski](https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski) - Wikipedia Polska
 - [Międzymorze](https://pl.wikipedia.org/wiki/Mi%C4%99dzymorze) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A jest odwrotna. Odpowiedź C jest fałszywa - obaj popierali republikę. Odpowiedź D jest fałszywa - mieli fundamentalnie różne wizje.
+**Analiza odpowiedzi błędnych:** Odpowiedź A jest odwrotna. Odpowiedź C jest fałszywa - obaj popierali republikę. Odpowiedź D jest fałszywa - mieli fundamentalnie różne wizje.
 
 ---
 
@@ -250,7 +250,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [II Rzeczpospolita](https://pl.wikipedia.org/wiki/II_Rzeczpospolita) - Wikipedia Polska
 - [Historia Polski (1918–1939)](https://pl.wikipedia.org/wiki/Historia_Polski_%281918%E2%80%931939%29) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B jest niepełna - problem był szerszy. Odpowiedź C jest za wąska. Odpowiedź D jest częściowo prawdziwa, ale nie główna bariera.
+**Analiza odpowiedzi błędnych:** Odpowiedź B jest niepełna - problem był szerszy. Odpowiedź C jest za wąska. Odpowiedź D jest częściowo prawdziwa, ale nie główna bariera.
 
 ---
 
@@ -274,7 +274,7 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [Sanacja](https://pl.wikipedia.org/wiki/Sanacja) - Wikipedia Polska
 - [Józef Piłsudski](https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź A jest fałszywa - Piłsudski był przeciwnikiem bolszewizmu. Odpowiedź C jest fałszywa - nie dążył do monarchii. Odpowiedź D jest fałszywa - to była polska inicjatywa.
+**Analiza odpowiedzi błędnych:** Odpowiedź A jest fałszywa - Piłsudski był przeciwnikiem bolszewizmu. Odpowiedź C jest fałszywa - nie dążył do monarchii. Odpowiedź D jest fałszywa - to była polska inicjatywa.
 
 ---
 
@@ -297,6 +297,6 @@ Okres budowy II RP (1921-1926) rozpoczął się od uchwalenia Konstytucji marcow
 - [II Rzeczpospolita](https://pl.wikipedia.org/wiki/II_Rzeczpospolita) - Wikipedia Polska
 - [Mniejszości narodowe w II RP](https://pl.wikipedia.org/wiki/Mniejszo%C5%9Bci_narodowe_w_II_RP) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:** Odpowiedź B jest fałszywa - miały duże znaczenie. Odpowiedź C jest fałszywa - Polacy byli większością. Odpowiedź D jest fałszywa - asymilacja nie nastąpiła.
+**Analiza odpowiedzi błędnych:** Odpowiedź B jest fałszywa - miały duże znaczenie. Odpowiedź C jest fałszywa - Polacy byli większością. Odpowiedź D jest fałszywa - asymilacja nie nastąpiła.
 
 ---

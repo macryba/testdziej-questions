@@ -44,7 +44,7 @@ Lech Wałęsa został wybrany na prezydenta RP w 1990 roku, pokonując w drugiej
 **Źródła:**
 - [Lech Wałęsa](https://pl.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wojciech Jaruzelski — był ostatnim prezydentem PRL, wybranym przez Zgromadzenie Narodowe w 1989 roku, nie w powszechnych wyborach
 - Tadeusz Mazowiecki — był pierwszym niekomunistycznym premierem Polski (1989-1991), a nie prezydentem
 - Aleksander Kwaśniewski — został wybrany na prezydenta w 1995 roku, jako drugi prezydent III RP
@@ -72,7 +72,7 @@ Polska przystąpiła do NATO 12 marca 1999 roku wraz z Czechami i Węgrami. Był
 **Źródła:**
 - [Przystąpienie Polski do NATO](https://pl.wikipedia.org/wiki/Przyst%C4%85pienie_Polski_do_NATO) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Rok przyjęcia Konstytucji RP — to był rok 1997, kiedy Polska przyjęła nową konstytucję, ale jeszcze nie była członkiem NATO
 - Rok ataków terrorystycznych na USA — to był rok 2001, a Polska była już członkiem NATO od dwóch lat
 - Rok przystąpienia do Unii Europejskiej — to był rok 2004, kiedy Polska dołączyła do UE, a nie do NATO
@@ -100,7 +100,7 @@ Konstytucja Rzeczypospolitej Polskiej została przyjęta przez Zgromadzenie Naro
 **Źródła:**
 - [Konstytucja Rzeczypospolitej Polskiej](https://pl.wikipedia.org/wiki/Konstytucja_Rzeczypospolitej_Polskiej) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Traktat o przyjęciu do Unii Europejskiej — został podpisany w 2003 roku, a nie w 1997
 - Ustawa o wyborach parlamentarnych — jest ważną ustawą, ale nie jest najważniejszym aktem prawnym
 - Ustawa o trybunale konstytucyjnym — reguluje działanie Trybunału Konstytucyjnego, ale jest ustawą, a nie konstytucją

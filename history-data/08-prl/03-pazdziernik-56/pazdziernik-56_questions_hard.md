@@ -38,7 +38,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Społeczeństwo popierało reformy (duży wiec 24 października)
 - C: ZSRR nie groził bezpośrednio interwencją po porozumieniach z października
 - D: Pytanie nie dotyczyło opozycji demokratycznej, która była słaba
@@ -63,7 +63,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: NATO nie groziło interwencją
 - C: Wojska radzieckie były gotowe do interwencji
 - D: Naciski zachodnie nie były decydujące
@@ -88,7 +88,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Rzeczywiście zmieniło się (koniec terroru, wolność religijna)
 - C: Nie był porażką — przyniósł realne zmiany
 - D: Miał wpływ na przyszłość — był punktem odniesienia

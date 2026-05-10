@@ -43,7 +43,7 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Niepoprawna): Tylko mało radykalne — nieprawda, reformy były bardzo radykalne
 - B (Poprawna): Zbyt szybkie tempo — główny argument krytyków terapii szokowej
 - C (Niepoprawna): Brak konsultacji — nieprawda, były konsultacje z ekspertami
@@ -69,7 +69,7 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 - [Plan Balcerowicza](https://pl.wikipedia.org/wiki/Plan_Balcerowicza) — Wikipedia Polska
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Niepoprawna): Sektor prywatny i rolnicy — nieprawda, prywatny sektor się rozwijał
 - B (Poprawna): Pracownicy przedsiębiorstw państwowych i PGR-ów — grupa najmocniej dotknięta
 - C (Niepoprawna): Inteligencja i przedsiębiorcy — nieprawda, te grupy często korzystały
@@ -95,7 +95,7 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 - [Tadeusz Mazowiecki](https://pl.wikipedia.org/wiki/Tadeusz_Mazowiecki) — Wikipedia Polska
 - [Transformacja systemowa w Polsce](https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Niepoprawna): Restytucja mienia prywatnego — problem istniał, ale nie był główną kontrowersją w 1989
 - B (Niepoprawna): Szybka integracja z UE — nie była to kontrowersyjna koncepcja w 1989, proces integracji rozpoczął się w 1994
 - C (Niepoprawna): Pełna dekomunizacja — nieprawda, Mazowiecki optował za "grubą kreską" zamiast pełnej dekomunizacji
@@ -122,7 +122,7 @@ Rząd Tadeusza Mazowieckiego podjął decyzję o "grubej kresce", która oddziel
 - [Dekomunizacja](https://pl.wikipedia.org/wiki/Dekomunizacja) — Wikipedia Polska
 - [Lustracja](https://pl.wikipedia.org/wiki/Lustracja) — Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Niepoprawna): Nie przeprowadzone w ogóle — nieprawda, rozwiązano PZPR i utworzono nowe służby
 - B (Poprawna): Stopniowo i nie w pełni — prawidłowa charakterystyka procesu dekomunizacji
 - C (Niepoprawna): Szybko i kompleksowo — nieprawda, proces był powolny i ograniczony

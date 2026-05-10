@@ -40,7 +40,7 @@ Gomułka stanowczo sprzeciwił się reformom Aleksandra Dubczeka i poparł inwaz
 - [Władysław Gomułka](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka) - Wikipedia Polska
 - [Marzec 1968](https://pl.wikipedia.org/wiki/Marzec_1968) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Gomułka nie poparł Praskiej Wiosny - wręcz przeciwnie
 - Nie zignorował wydarzeń — aktywnie uczestniczył w ich tłumieniu
 - Nie mediował — poparł interwencję zbrojną
@@ -67,7 +67,7 @@ Kampania antysemicka z 1968 roku była unikalna, ponieważ skierowana była prze
 **Źródła:**
 - [Marzec 1968](https://pl.wikipedia.org/wiki/Marzec_1968) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Kampania nie była identyczna ze stalinowskimi czystkami
 - Miała ogromny wpływ na strukturę partii i społeczeństwa
 - Nie była spontaniczna — była zaplanowana i sterowana przez władze
@@ -95,7 +95,7 @@ Bilans rządów Gomułka jest w znacznym stopniu negatywny z perspektywy długof
 - [Władysław Gomułka](https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka) - Wikipedia Polska
 - [Polska Rzeczpospolita Ludowa](https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Nie był to wyłącznie czas stabilizacji — były szanse na reformy
 - Nie przyniósł znaczących reform gospodarczych i politycznych
 - Miał ogromny wpływ na dalsze losy PRL (m.in. poprzez wyjazd intelektualistów i poczucie niesprawiedliwości społecznej)

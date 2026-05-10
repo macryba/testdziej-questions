@@ -42,7 +42,7 @@ Główna krytyka Planu Balcerowicza, zgłaszana przez ekonomistów takich jak Gr
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 - https://pl.wikipedia.org/wiki/Grzegorz_Ko%C5%82odko
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Prywatyzacja była powolna, nie szybka
 - C: Kurs utrzymano zbyt długo, nie za krótko
 - D: Stopa procentowa była wysoka, nie niska
@@ -70,7 +70,7 @@ Głównym społecznym kosztem transformacji był drastyczny spadek stopy życiow
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 - https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Liczba milionerów początkowo spadła
 - C: Wydatki na służbę zdrowia ograniczano
 - D: Płace realne spadły, nie wzrosły
@@ -98,7 +98,7 @@ Zwolennicy terapii szokowej argumentowali, że szybkie i radykalne reformy pozwo
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 - https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B: Gospodarka przeszła przez głęboką recesję
 - C: System bankowy był zagrożony, ale to nie był główny argument
 - D: Reformy dotknęły nierównie grupy społeczne
@@ -126,7 +126,7 @@ Polska dzięki radykalnym reformom i stabilizacji makroekonomicznej osiągnęła
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 - https://pl.wikipedia.org/wiki/Transformacja_systemowa_w_Polsce
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Polska miała szybszy wzrost niż Czechy i Słowacja
 - B: Polska doścignęła poziom PKB z 1989 roku w 1995, szybciej niż większość krajów
 - C: Polska miała wyższy poziom inwestycji zagranicznych niż Węgry

@@ -45,7 +45,7 @@ Witold Pilecki był polskim żołnierzem, który ochotniczo trafił do niemiecki
 - https://pl.wikipedia.org/wiki/Witold_Pilecki
 - https://pl.wikipedia.org/wiki/Polskie_Pa%C5%84stwo_Podziemne
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 Odpowiedź B (Jan Bytnar "Rudy") był harcerzem Szarych Szeregów, ale nie udał się do Auschwitz. Odpowiedź C (Stefan Rowecki "Grot") był dowódcą Armii Krajowej, a D (Tadeusz Komorowski "Bór") także pełnił funkcję dowódcy AK, ale obaj nie wzięli udziału w misji w Auschwitz.
 
 ---
@@ -72,7 +72,7 @@ Armia Krajowa była największą podziemną organizacją wojskową w okupowanej 
 - https://pl.wikipedia.org/wiki/Armia_Krajowa
 - https://pl.wikipedia.org/wiki/Polski_ruch_oporu_w_czasie_II_wojny_%C5%9Bwiatowej
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 Odpowiedź A (Szare Szeregi) była konspiracyjną organizacją harcerską. Odpowiedź C (Bataliony Chłopskie) liczyły około 170 tysięcy żołnierzy. Odpowiedź D (Narodowe Siły Zbrojne) liczyły około 75 tysięcy żołnierzy.
 
 ---
@@ -99,7 +99,7 @@ Powstanie warszawskie rozpoczęło się 1 sierpnia 1944 roku i trwało do 2 paź
 - https://pl.wikipedia.org/wiki/Powstanie_warszawskie
 - https://pl.wikipedia.org/wiki/Polskie_Pa%C5%84stwo_Podziemne
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 Odpowiedź A (1939) to rok wybuchu II wojny światowej. Odpowiedź B (1942) to rok utworzenia Armii Krajowej. Odpowiedź C (1943) to rok powstania w getcie warszawskim.
 
 ---

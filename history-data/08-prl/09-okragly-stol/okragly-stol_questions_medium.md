@@ -42,7 +42,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Sejm PRL) – Sejm nie został zlikwidowany, ale wzmocniono jego rolę jako naczelnego organu państwa
 - Odpowiedź C (Sąd Najwyższy) – nie podlegał likwidacji w ramach reform Okrągłego Stołu
 - Odpowiedź D (Trybunał Konstytucyjny) – nie został zlikwidowany, wręcz przeciwnie, otrzymał większe kompetencje
@@ -67,7 +67,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (50 senatorów) – to połowa rzeczywistej liczby senatorów
 - Odpowiedź C (150 senatorów) – liczba ta nie odpowiada strukturze Senatu ustanowionej w 1989 roku
 - Odpowiedź D (200 senatorów) – to dwukrotność rzeczywistej liczby senatorów
@@ -92,7 +92,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (35%) – to procent mandatów przeznaczonych dla kandydatów bezpartyjnych
 - Odpowiedź B (50%) – to propozycja początkowa strony rządowej, ostatecznie przyjęto 65%
 - Odpowiedź D (75%) – ta wartość nie była przedmiotem negocjacji
@@ -117,7 +117,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Józef Glemp) – prymas Polski wspierał proces, ale nie był bezpośrednim uczestnikiem obrad
 - Odpowiedź C (Jerzy Popiełuszko) – kapłan ten został zamordowany w 1984 roku, przed Okrągłym Stołem
 - Odpowiedź D (Stefan Wyszyński) – prymas Wyszyński zmarł w 1981 roku, przed obradami Okrągłego Stołu
@@ -142,7 +142,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (100 mandatów) – to liczba senatorów, nie mandatów w Sejmie
 - Odpowiedź C (299 mandatów) – to łączna liczba mandatów zagwarantowanych dla koalicji rządowej
 - Odpowiedź D (264 mandaty) – to liczba mandatów w okręgach wyborczych dla strony rządowej
@@ -167,7 +167,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (presja ZSRR) – ZSRR wspierało przemiany, ale nie wywierało presji na prowadzenie rozmów
 - Odpowiedź B (demokratyczne wybory) – władze nie zamierzały przeprowadzać w pełni demokratycznych wyborów
 - Odpowiedź C (interwencja NATO) – nie było zagrożenia interwencją NATO
@@ -192,7 +192,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (natychmiastowe uwolnienie mandatów) – nie wszystkie mandaty były wolne, 65% było zarezerwowanych
 - Odpowiedź B (przedterminowe wybory) – wybory nie były przedterminowe
 - Odpowiedź C (utrzymanie większości komunistycznej) – koalicja rządowa poniosła druzgocącą porażkę
@@ -217,7 +217,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (pełna kontrola) – opozycja nie uzyskała pełnej kontroli nad mediami publicznymi
 - Odpowiedź C (tylko media lokalne) – opozycja uzyskała dostęp także do mediów ogólnopolskich
 - Odpowiedź D (media zagraniczne) – dostęp do mediów zagranicznych był niezależny od porozumienia
@@ -243,7 +243,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 - https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1989_roku
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Lech Wałęsa) – został prezydentem RP w 1990 roku, po zmianach ustrojowych
 - Odpowiedź B (Czesław Kiszczak) – był desygnowany na premiera, ale nie uformował rządu
 - Odpowiedź D (Tadeusz Mazowiecki) – został premierem, a nie prezydentem
@@ -269,7 +269,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 - https://pl.wikipedia.org/wiki/Strajki_w_Polsce_1988
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (natychmiastowe przekazanie władzy) – rząd nie zamierzał natychmiast przekazać władzy
 - Odpowiedź C (brak znaczenia) – strajki były ważnym czynnikiem w decyzji o rozmowach
 - Odpowiedź D (interwencja ZSRR) – ZSRR nie interweniowało, wręcz wspierało reformy
@@ -294,7 +294,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (zachowanie rygorów) – pierestrojka nie zmuszała do zachowania rygorów
 - Odpowiedź C (brak wpływu) – pierestrojka miała istotny wpływ na sytuację w Polsce
 - Odpowiedź D (presja militarna) – nie było wzrostu presji militarnej
@@ -320,7 +320,7 @@ Okrągły Stół to cykl negocjacji między władzami Polskiej Rzeczypospolitej 
 - https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_%28Polska%29
 - https://pl.wikipedia.org/wiki/Jesie%C5%84_Lud%C3%B3w
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (brak wpływu) – polski sukces miał istotny wpływ na inne kraje regionu
 - Odpowiedź B (wzrost napięć) – przemiany odbywały się w większości przypadków pokojowo
 - Odpowiedź D (interwencja ZSRR) – ZSRR nie interweniowało militarnie

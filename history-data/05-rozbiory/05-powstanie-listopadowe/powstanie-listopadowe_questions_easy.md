@@ -54,7 +54,7 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Piotr_Wysocki_(wojskowy)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Józef Chłopicki był pierwszym dyktatorem powstania
 - Jan Skrzynecki był wodzem naczelnym wojsk polskich
 - Romuald Traugutt był przywódcą powstania styczniowego (1863-1864)
@@ -79,7 +79,7 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Statut Organiczny został wprowadzony po klęsce powstania w 1832 roku
 - Kapitulacja Warszawy miała miejsce we wrześniu 1831 roku
 - Wybuch powstania na Litwie był częścią działań wojennych
@@ -105,7 +105,7 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Statut_Organiczny_(1832)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Konstytucja Księstwa Warszawskiego obowiązywała w latach 1807-1815
 - Karta Konstytycyjna została ogłoszona przez cara w 1815 roku, a następnie łamana
 - Konstytucja 3 maja została uchwalona w 1791 roku
@@ -131,7 +131,7 @@ Powstanie upadło we wrześniu 1831 roku po kapitulacji Warszawy. Skutkiem klęs
 - https://pl.wikipedia.org/wiki/Powstanie_listopadowe
 - https://pl.wikipedia.org/wiki/Wielka_Emigracja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Prusy i Austria były wrogie powstaniu i internowały polskich uchodźców
 - Stany Zjednoczone były zbyt daleko dla masowej emigracji
 - Belgia i Szwajcaria przyjęły mniejsze grupy emigrantów

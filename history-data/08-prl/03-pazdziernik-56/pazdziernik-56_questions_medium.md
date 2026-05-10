@@ -37,7 +37,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Śmierć Bolesława Bieruta w marcu 1956 była następstwem zmian politycznych
 - C: Powstanie węgierskie wybuchło po polskim październiku
 - D: Procesy lekarzy miały miejsce wcześniej i zostały zakończone przez Stalina
@@ -63,7 +63,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/Konstanty_Rokossowski
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Gieorgij Żukow był radzieckim marszałkiem, ale nie służył w polskim wojsku
 - C: Iwan Koniew był radzieckim marszałkiem, ale nie był związany z Polską
 - D: Andriej Grieczko był radzieckim dowódcą, ale nie służył w Polsce
@@ -89,7 +89,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/Katowice
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Warszawa nigdy nie nazywała się Stalinogród
 - C: Łódź nigdy nie nazywała się Stalinogród
 - D: Wrocław nigdy nie nazywał się Stalinogród
@@ -114,7 +114,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: "Życie Warszawy" kontynuowało wydawanie
 - C: "Polityka" to współczesne czasopismo
 - D: "Przegląd Kultury" był wydawany dalej
@@ -139,7 +139,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: MO to Milicja Obywatelska, istniała wcześniej
 - C: SB to Służba Bezpieczeństwa, utworzona później
 - D: ORMO to Ochotnicza Rezerwa Milicji Obywatelskiej, utworzona później
@@ -164,7 +164,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Port w Gdyni nigdy nie był nazwany imieniem Stalina
 - C: Huta w Krakowa nie była nazwana imieniem Stalina w tamtym czasie
 - D: Kopalnia w Katowicach nie była bezpośrednio nazwana imieniem Stalina
@@ -189,7 +189,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Radio Wolna Europa nie było wymieniane przez Chruszczowa
 - C: Deutsche Welle nie było wymieniane przez Chruszczowa
 - D: RFI nie było wymieniane przez Chruszczowa
@@ -214,7 +214,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: 10 tysięcy to za mała liczba
 - C: 50 tysięcy to zawyżona liczba
 - D: 100 tysięcy to znacznie zawyżona liczba
@@ -240,7 +240,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/Nikita_Chruszczow
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Józef Stalin zmarł w 1953 roku
 - B: Leonid Breżniew został przywódcą ZSRR w 1964 roku
 - D: Michaił Gorbaczow został przywódcą ZSRR w 1985 roku
@@ -266,7 +266,7 @@ tokens_total: 27000
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 - https://pl.wikipedia.org/wiki/Powstanie_w%C4%99gierskie_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Praska Wiosna miała miejsce w 1968 roku
 - C: Rewolucja welwetowa odbyła się w 1989 roku
 - D: Jesień Ludów odbyła się w 1989 roku
@@ -291,7 +291,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: W Polsce były protesty (Poznański Czerwiec)
 - C: Polskie władze nie były w pełni zgodne z Moskwą
 - D: NATO nie grało roli w decyzji Chruszczowa
@@ -316,7 +316,7 @@ tokens_total: 27000
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_pa%C5%BAdziernik_1956
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: "Wielka stabilizacja" to nieoficjalna nazwa lat 80.
 - C: "Długa stabilizacja" to nieoficjalna nazwa lat 70.
 - D: "Nowa stabilizacja" to nieoficjalna nazwa lat 90.

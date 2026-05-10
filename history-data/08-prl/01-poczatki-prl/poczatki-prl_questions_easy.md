@@ -40,7 +40,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_Bierut
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Władysław Gomułka został przywódcą PRL dopiero w 1956 roku (po śmierci Bieruta)
 - Edward Osóbka-Morawski był premierem w latach 1944-1947, ale nie był głównym przywódcą
 - Józef Cyrankiewicz został premierem dopiero w 1956 roku
@@ -64,7 +64,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - 1943 – w tym roku trwała still okupacja niemiecka, PKWN nie istniał
 - 1945 – w tym roku PKWN został przekształcony w Rząd Tymczasowy
 - 1946 – w tym roku przeprowadzono referendum ludowe
@@ -88,7 +88,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Referendum_w_Polsce_w_1946_roku
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Referendum ludowe – to oficjalna nazwa, ale nie potoczna
 - 4xNIE – taką nazwę nadała opozycja (PSL), ale nie stała się popularna
 - Wybory wolne – nie to były wybory, lecz referendum
@@ -112,7 +112,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Stalin
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Włodzimierz Lenin zmarł w 1924 roku, przed II wojną światową
 - Nikita Chruszczow został przywódcą ZSRR dopiero po śmierci Stalina w 1953
 - Leon Breżniew rządził ZSRR w latach 1964-1982, dużo później niż opisywany okres
@@ -136,7 +136,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Warszawa – była jeszcze okupowana przez Niemców i zniszczona w powstaniu
 - Kraków – został wyzwolony w styczniu 1945 roku
 - Łódź – nie była siedzibą PKWN
@@ -160,7 +160,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Zjednoczona_Partia_Robotnicza
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Stronnictwo Demokratyczne – partia satelicka PZPR, utworzona w 1939 roku
 - Zjednoczone Stronnictwo Ludowe – partia satelicka PZPR, reprezentująca chłopów
 - Stronnictwo Pracy UNIA – partia opozycyjna w latach 90. XX wieku
@@ -184,7 +184,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Stalin
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - 1956 – rok śmierci Bolesława Bieruta i Poznańskiego Czerwca
 - 1948 – rok utworzenia PZPR
 - 1960 – rok późniejszy, nie związany ze śmiercią Stalina
@@ -208,7 +208,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Pozna%C5%84ski_Czerwiec_1956
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Czerwiec 1976 – protesty robotnicze w Radomiu i Ursusie (20 lat później)
 - Marzec 1968 – protesty studenckie w Warszawie (12 lat później)
 - Grudzień 1970 – protesty robotnicze na wybrzeżu (14 lat później)
@@ -232,7 +232,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Gomu%C5%82ka
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Bolesław Bierut zmarł w marcu 1956 roku
 - Edward Gierek został pierwszym sekretarzem dopiero w 1970 roku
 - Wojciech Jaruzelski był przywódcą PRL w latach 80. (1981-1989)
@@ -256,7 +256,7 @@ Okres Początków Polskiej Rzeczypospolitej Ludowej (1945-1956) to czas, kiedy k
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Gestapo – niemiecka tajna policja z czasów II wojny światowej (1939-1945)
 - NKWD – radziecka służba bezpieczeństwa, która szkoliła funkcjonariuszy UB
 - KGB – radziecka służba bezpieczeństwa utworzona w 1954 roku (po okresie UB)

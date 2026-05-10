@@ -40,7 +40,7 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1914%E2%80%931918)
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B: Nieprawidłowa - przecenia rolę działań jednostek kosztem obiektywnych czynników zewnętrznych.
 - Odpowiedź C: Nieprawidłowa - pomija znaczenie polskich przygotowań i działań dyplomatycznych.
 - Odpowiedź D: Nieprawidłowa - całkowicie ignoruje historyczne fakty dotyczące roli upadku mocarstw zaborczych.
@@ -67,7 +67,7 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/Powstania_%C5%9Bl%C4%85skie
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Nieprawidłowa - powstanie wielkopolskie było bardziej skuteczne niż śląskie w sensie natychmiastowych rezultatów.
 - Odpowiedź C: Nieprawidłowa - powstań śląskie również były sukcesami militarnymi Polaków.
 - Odpowiedź D: Nieprawidłowa - powstanie wielkopolskie odegrało kluczową rolę w ustaleniu granic zachodnich.
@@ -94,7 +94,7 @@ Odrodzenie Polski (1918-1921) było złożonym procesem, który wymagał sprawne
 - https://pl.wikipedia.org/wiki/Wojna_polsko-czechosłowacka
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Nieprawidłowa - konflikt miał długoterminowe skutki dla relacji polsko-czechosłowackich.
 - Odpowiedź B: Nieprawidłowa - konflikt osłabił relacje, nie zacieśnił sojuszu.
 - Odpowiedź C: Nieprawidłowa - mimo konfliktu, stosunki zostały normalizowane w latach 30.

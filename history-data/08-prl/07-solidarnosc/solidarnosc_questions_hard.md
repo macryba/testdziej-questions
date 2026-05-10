@@ -41,7 +41,7 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/Praska_Wiosna
 - https://pl.wikipedia.org/wiki/W%C4%99gierskie_powstanie_1956
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Solidarność była identyczna jak wcześniejsze ruchy oporu) – nieprawda, incorrect from Marzec 1968: Praska Wiosna była ruchem reformatorskim wewnątrz systemu, a Solidarność stworzyła niezależne struktury
 - Odpowiedź B (Jej unikalność polegała wyłącznie na skali protestów) – nieprawda, unikalność obejmowała strukturę, cele i metody działania
 - Odpowiedź C (Nie różniła się niczym od ruchów w Czechosłowacji czy na Węgrzech) – nieprawda, incorrect from Październik 1956: Węgierskie powstanie 1956 i Praska Wiosna 1968 zostały stłumione siłą, podczas gdy Solidarność przetrwała i doprowadziła do pokojowej transformacji
@@ -67,7 +67,7 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/Sierpie%C5%84_1980
 - https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Nic się nie zmieniło – rząd zawsze planował wprowadzić stan wojenny) – nieprawda, sytuacja znacznie się zmieniła od 1980 do 1981, gdy Solidarność zyskiwała siłę
 - Odpowiedź C (Solidarność stała się zbyt radykalna i zażądała obalenia komunizmu już w 1980) – nieprawda, w 1980 roku Solidarność nie domagała się obalenia komunizmu, jedynie reform ekonomicznych i społecznych
 - Odpowiedź D (ZSRR zmusił rząd PRL do wprowadzenia stanu wojennego) – częściowo prawda (ZSRR wywierał presję), ale rząd PRL również sam podjął decyzję ze względów wewnętrznych
@@ -94,7 +94,7 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/Praska_Wiosna
 - https://pl.wikipedia.org/wiki/W%C4%99gierskie_powstanie_1956
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Solidarność miała wsparcie militarne NATO) – nieprawda, NATO nie udzieliło Solidarności wsparcia militarnego, jedynie wsparcie polityczne i dyplomatyczne
 - Odpowiedź B (Inne ruchy nie miały liderów) – nieprawda, incorrect from Marzec 1968: Węgierskie Powstanie 1956 miało Imre Nagya, Praska Wiosna 1968 miała Alexandra Dubčeka
 - Odpowiedź D (ZSRR był zbyt słaby w latach 80. na interwencję) – nieprawda, ZSRR miał siły na interwencję, ale zrezygnował z niej ze względu na politykę Gorbaczowa i sytuację międzynarodową
@@ -121,7 +121,7 @@ Narodziny Solidarności w latach 1980-1981 to jedno z najważniejszych wydarzeń
 - https://pl.wikipedia.org/wiki/Michai%C5%82_Gorbaczow
 - https://pl.wikipedia.org/wiki/Zjednoczona_Niemcy
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Solidarność była jedyną przyczyną upadku komunizmu) – nieprawda, incorrect from Transformacja ustrojowa: upadek komunizmu miał wiele przyczyn, w tym politykę Gorbaczowa, kryzys gospodarczy ZSRR i zmiany w innych krajach bloku wschodniego
 - Odpowiedź C (Nie miała żadnego wpływu na upadek komunizmu) – nieprawda, Solidarność miała bardzo duży wpływ jako pierwszy ruch, który pokazał, że pokojowa transformacja jest możliwa
 - Odpowiedź D (Opóźniła upadek komunizmu o kilka lat) – nieprawda, Solidarność przyspieszyła proces transformacji i stała się inspiracją dla innych krajów (np. Jesień Ludów 1989)

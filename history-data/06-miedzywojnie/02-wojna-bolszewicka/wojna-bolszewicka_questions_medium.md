@@ -37,7 +37,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wyprawa_kijowska_(1920)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Piłsudski nie dążył do wcielenia Kijowa do Polski, lecz do utworzenia niezależnej Ukrainy
 - zasoby gospodarcze były ważne, ale nie głównym celem wyprawy
 - problemy gospodarcze istniały, ale wyprawa miała cele polityczne, nie dywersyjne
@@ -62,7 +62,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - nie powstał sojusz polsko-niemiecki przeciw ZSRR
 - nie utworzono nowego bloku państw wschodnich
 - Francja i Wielka Brytania nie wypowiedziały wojny ZSRR
@@ -87,7 +87,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - wojska radzieckie były zmęczone, ale to nie był kluczowy czynnik
 - wojska polskie nie miały przewagi liczebnej
 - brak amunicji nie był głównym problemem Armii Czerwonej
@@ -112,7 +112,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Tadeusz Rozwadowski był szefem Sztabu Generalnego
 - Władysław Sikorski był dowódcą 5 Armii
 - Edward Rydz-Śmigły dowodził Frontem Środkowym
@@ -137,7 +137,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wyprawa_kijowska_(1920)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - wojska ukraińskie nie zdradziły, ale były zbyt nieliczne
 - brak amunicji nie był główną przyczyną porażki
 - Niemcy nie atakowały Polski w tym czasie
@@ -162,7 +162,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - ziemie zabrane nie były głównym celem
 - bolszewicy twierdzili, że bronią się, ale faktycznie atakowali
 - dostęp do Morza Bałtyckiego nie był priorytetem
@@ -187,7 +187,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Piłsudski nie chciał wcielać ziem, lecz tworzyć federację
 - koncepcje były fundamentalnie różne
 - Piłsudski nie chciał sojuszu z Rosją, lecz ją osłabić
@@ -212,7 +212,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Węgry nie wysłały wojsk do walki
 - wsparcie polityczne było pomocne, ale drugorzędne
 - nie udzielono pożyczki finansowej
@@ -237,7 +237,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - rozmiary sił nie były rekordowe
 - taktyka była skuteczna, ale nie innowacyjna
 - liczba uczestników nie była rekordowa
@@ -262,7 +262,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - relacje z Rosją nie były dobre
 - realizacja koncepcji została zakończona, nie opóźniona
 - sojusz z URL został zakończony

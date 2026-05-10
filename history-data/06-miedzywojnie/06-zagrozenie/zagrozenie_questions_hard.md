@@ -41,7 +41,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Appeasement
 - Podstawa programowa – liceum_technikum_zpe.md, Dział XLII (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest jednostronna i krzywdząca – Hitler był głównym sprawcą, ale inne mocarstwa ponoszą współodpowiedzialność za porażkę dyplomacji (appeasement, izolacja Polski, pakt Ribbentrop-Mołotow)
 - C) Odpowiedź jest krzywdząca i historycznie błędna – Polska nie była główną przyczyną wojny; Beck odrzucił niemieckie żądania (Gdańsk, udział w podziale Czechosłowacji), co było słuszne, ale Polska nie zdołała zbudować skutecznej koalicji obronnej
 - D) Odpowiedź jest wąska i niespełniająca – pakt Ribbentrop-Mołotow był ostatnim aktem dramatu, ale wcześniejsze wydarzenia (appeasement, Anschluss, Czechosłowacja) były kluczowe dla zrozumienia przyczyn wojny
@@ -70,7 +70,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Sojusz_polsko-francuski
 - Podstawa programowa – liceum_technikum_zpe.md, Dział XLII (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest jednostronna i krzywdząca – Beck miał rację co do niezależności, ale jego polityka doprowadziła do izolacji Polski; nie docenił zagrożenia ze strony ZSRR i nie zbudował skutecznej koalicji
 - B) Odpowiedź jest krzywdząca – Beck nie działał niewystarczająco, lecz jako realista, który wiedział, że sojusz z ZSRR oznaczałby utratę niezależności; jego błąd polegał na przecenieniu gwarancji zachodnich i braku elastyczności
 - C) Odpowiedź jest błędna – polityka Becka była unikalna (próba równowagi między Niemcami a ZSRR), podczas gdy inni sąsiedzi (Czechosłowacja, Rumunia, Węgry) wybrali sojusze z jednym z mocarstw
@@ -99,7 +99,7 @@ Okres zagrożenia wojną (1933-1939) to czas narastającego niebezpieczeństwa d
 - https://pl.wikipedia.org/wiki/Gwarancje_brytyjskie_dla_Polski_(1939)
 - Podstawa programowa – liceum_technikum_zpe.md, Dział XLII (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest krzywdząca – Polska nie zachowała skutecznie niezależności, a sojusze okazały się niewystarczające; nie można nazwać tego "znakomitymi wynikami"
 - B) Odpowiedź jest krzywdząca – Polska miała istotne osiągnięcia (odmowa kolaboracji z Hitlerem, pakt o nieagresji z ZSRR), choć bilans był negatywny
 - D) Odpowiedź jest błędna – polityka Polski była unikalna (próba równowagi między Niemcami a ZSRR), podczas gdy inni sąsiedzi wybrali sojusze z jednym z mocarstw (Czechosłowacja – Francja, Rumunia – Polska + Francja, Węgry – Niemcy/Włochy)

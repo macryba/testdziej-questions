@@ -44,7 +44,7 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281831%E2%80%931914%29
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Lepsza sytuacja gospodarcza — warunki były trudniejsze z powodu intensywnej germanizacji i Kulturkampfu
 - Korzystniejsze warunki ekonomiczne — obciążenia podatkowe były wyższe niż w zaborze rosyjskim
 - Mniejsza represja — Kulturkampf i Hakata były bardzo dotkliwe dla Polaków
@@ -70,7 +70,7 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 - https://pl.wikipedia.org/wiki/Historia_Polski_%281831%E2%80%931914%29
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Brak wpływu — to twierdzenie stoi w sprzeczności z faktami historycznymi
 - Tylko inteligencja — ruch dotyczył także chłopów i rzemieślników
 - Marginalny wpływ — działalność polityczna opierała się na strukturach wytworzonych przez pracę organiczną
@@ -96,7 +96,7 @@ Wynikami ruchu były powstanie sieci bibliotek ludowych, kółek rolniczych, tow
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 - https://pl.wikipedia.org/wiki/Praca_u_podstaw
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odrzucenie patriotyzmu — organiczniści byli głęboko patriotyczni
 - Brak wiary romantyków — romantycy wierzyli w sukces, licząc na cud
 - Brak różnic — metody były fundamentalnie różne

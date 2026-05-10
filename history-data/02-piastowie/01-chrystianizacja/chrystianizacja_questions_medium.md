@@ -39,7 +39,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Zjazd w Merseburgu miał miejsce w 1002 roku, już po śmierci Ottona III
 - C) Zjazd w Kwedlinburgu odbył się wcześniej i nie był związany z Polską
 - D) Zjazd w Poznaniu nie był historycznie znaczącym wydarzeniem
@@ -63,7 +63,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Mieszko_I
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Decyzja była przede wszystkim polityczna, nie tylko religijna
 - B) Mieszko I nie został zmuszony przez Czechów, sam zdecydował o chrzcie
 - D) Mieszko I dążył do sojuszu z zachodem, nie z Rusią
@@ -87,7 +87,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 - https://pl.wikipedia.org/wiki/Biskupstwo_p%C5%82ockie
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Biskupstwo krakowskie zostało ustanowione w 1000 roku
 - B) Biskupstwo wrocławskie zostało ustanowione w 1000 roku
 - D) Biskupstwo kołobrzeskie zostało ustanowione w 1000 roku
@@ -111,7 +111,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 - https://pl.wikipedia.org/wiki/Archidiecezja_gnie%C5%BAnie%C5%84ska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Utworzenie arcybiskupstwa zmniejszyło wpływy niemieckie, nie zwiększyło ich
 - C) Zjazd gnieźnieński wzmocnił pozycję Polski, nie rozpoczął wojny
 - D) W skutkach nastąpiło wzmocnienie państwa polskiego, nie jego upadek
@@ -135,7 +135,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Obr%C4%85dek_%C5%82aci%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Obrządek bizantyjski był przyjęty przez Rusę Kijowską, nie Polskę
 - C) Obrządek ariański był herezją, nie był oficjalnym obrządkiem
 - D) Obrządek koptyjski był używany w Egipcie, nie w Polsce
@@ -159,7 +159,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Rusi
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Czechy przyjęły chrzest w obrządku łacińskim
 - C) Węgry przyjęły chrzest w obrządku łacińskim
 - D) Szwecja przyjęła chrzest w obrządku łacińskim
@@ -183,7 +183,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_I_Chrobry
 - https://pl.wikipedia.org/wiki/Koronacja_Boles%C5%82awa_Chrobrego
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Rok 1000 to data zjazdu gnieźnieńskiego, nie koronacji
 - C) Rok 1030 to data po śmierci Bolesława Chrobrego
 - D) Rok 1040 to długo po śmierci Bolesława Chrobrego
@@ -207,7 +207,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Dagome_iudex
 - https://pl.wikipedia.org/wiki/Mieszko_I
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Zjazd gnieźnieński był wydarzeniem, nie dokumentem
 - C) Bulla gnieźnieńska została wydana później
 - D) Kodeks tytułowy to nazwa wymyślona, nie istnieje
@@ -231,7 +231,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Mieszko_I
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Mieszko I nie dążył do zniszczenia Czech
 - C) Polska nie podporządkowała Czechów
 - D) Chrzest i małżeństwo zbliżyły Polskę i Czechy
@@ -255,7 +255,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Wojciech_S%C5%82awnikowic
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Święty Stanisław żył później i był biskupem krakowskim
 - C) Święty Wacław był czeskim świętym
 - D) Święty Prokop był czeskim świętym
@@ -279,7 +279,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Chrystianizacja przyspieszyła rozwój kultury, nie go zatrzymała
 - C) Polska nie wróciła do pogaństwa po chrzcie
 - D) Chrystianizacja włączyła Polskę do Europy, nie ją od niej odizolowała
@@ -303,7 +303,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Obr%C4%85dek_%C5%82aci%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Obrządek łaciński oznaczał wpływy zachodnie, a nie bizantyjskie — prawosławie wiążełoby Polskę ze wschodem
 - C) Decyzja o obrządku łacińskim przybliżyła Polskę do Czech (które też były łacińskie), a nie zwiększyła różnice
 - D) Kościół polski był podległy Rzymowi i nie był całkowicie niezależny — miał jednak dużą autonomię wewnętrzną
@@ -328,7 +328,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Mieszko_I
 - https://pl.wikipedia.org/wiki/Historia_Polski_(do_1138)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Relacje się pogorszyły, ale nie "całkowitemu" — Mieszko uznawał pewne zwierzchnictwo, ale zachowywał autonomię
 - C) Relacje nie zostały zerwane — Polska weszła w system powiązań politycznych z cesarstwem jako sojusznik
 - D) Chrzest miał ogromny wpływ na politykę — zmienił pozycję Polski od "państwa pogańskiego" do "chrześcijańskiego partnera"
@@ -352,7 +352,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrystianizacja_Polski
 - https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Proces nie przebiegał szybko i bez oporu — ludność często trzymała się starych zwyczajów i pogańskich praktyk
 - C) Proces nie zakończył się w 992 roku — trwał znacznie dłużej, aż do XV wieku i później w niektórych regionach
 - D) Chrystianizacja obejmowała całe społeczeństwo, również ludność wiejską — choć tam proces był najwolniejszy
@@ -376,7 +376,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Polska_wczesnopiastowska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Uniwersytety powstały dopiero w XIV wieku — w 966 roku nie było mowy o wyższych szkołach
 - C) Łacina nie zastąpiła języka polskiego w życiu codziennym — służyła do celów kościelnych i oficjalnych
 - D) Chrystianizacja włączyła Polskę do kultury zachodniej, a nie odizolowała od niej
@@ -400,7 +400,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Mieszko_I
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Mieszko I nie stworzył imperium i nie podbił wszystkich sąsiadów — chrzest dał mu pozycję w polityce, ale nie taką przewagę
 
 ## Pytanie 17
@@ -421,7 +421,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Sojusz z Rzymem przeciwko cesarzowi byłby politycznie niemożliwy w realiach X wieku — Mieszko I współpracował z cesarstwem, nie przeciwko niemu
 - C) Ekspansja na wschód (ziemi sandomierskiej, Lubelszczyzny) miała miejsce później, za panowania Bolesława Chrobrego i Kazimierza Odnowiciela (XI-XII wiek)
 - D) Najazdy wikingów (skandynawskich) na Polskę były sporadyczne i nie stanowiły głównego zagrożenia — chrzest nie był bezpośrednio związany z obroną przed Skandynawami
@@ -445,7 +445,7 @@ Okres chrystianizacji Polski (960-1025) to czas transformacji państwa polskiego
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Mieszko_I
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Biskup Wojciech (Adalbert) żył później — był męczennikiem z końca X wieku, nie brał udziału w chrzcie Mieszka I
 - C) Biskup Stanisław ze Szczepanowa żył w XI wieku — był biskupem krakowskim, ale znacznie później niż chrzest Polski
 - D) Biskup Prokop nie jest znany jako postać związana z chrztem Polski — to imię nie występuje w kontekście chrystianizacji

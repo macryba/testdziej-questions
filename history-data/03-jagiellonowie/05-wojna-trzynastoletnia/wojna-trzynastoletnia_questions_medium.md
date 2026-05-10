@@ -38,7 +38,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Wielcy_mistrzowie_zakonu_krzy%C5%BCackiego
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Ulrich von Jungingen był wielkim mistrzem w latach 1407-1410 i zginął pod Grunwaldem (incorrect from Grunwald)
 - Heinrich von Plauen był wielkim mistrzem w latach 1410-1413 po bitwie pod Grunwaldem (incorrect from Grunwald)
 - Albrecht Hohenzollern był wielkim mistrzem w latach 1511-1525, podczas wojny z Polską 1519-1521 (incorrect from Zygmunt Stary)
@@ -64,7 +64,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Zwi%C4%85zek_Pruski
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Królewiec był siedzibą wielkich mistrzów zakonu krzyżackiego (context from current chapter)
 - Malbork był główną siedzibą i twierdzą Zakonu Krzyżackiego (context from current chapter)
 - Toruń był ważnym miastem Związku, ale nie był głównym ośrodkiem (context from current chapter)
@@ -90,7 +90,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Bitwa_pod_%C5%9Awiecinem
 - https://pl.wikipedia.org/wiki/Piotr_Dunin
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Jan Zamoyski żył w latach 1542-1605, czyli dopiero po wojnie trzynastoletniej
 - Stefan Czarniecki żył w latach 1599-1665, w XVII wieku
 - Jan III Sobieski był królem Polski w latach 1674-1696
@@ -116,7 +116,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - 1411 to rok pierwszego pokoju toruńskiego po wojnie 1409-1411
 - 1422 to rok pokoju melneńskiego po wojnie golubskiej
 - 1525 to rok hołdu pruskiego i secularizacji Prus Zakonnych
@@ -142,7 +142,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 - https://pl.wikipedia.org/wiki/Prusy_Kr%C3%B3lewskie
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Pomorze Gdańskie zostało przyłączone do Polski jako część Prus Królewskich
 - Ziemia chełmińska weszła w skład Prus Królewskich
 - Warmia jako biskupie znalazła się pod zwierzchnictwem Polski
@@ -168,7 +168,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zakon musiał zwrócić Polskie miasta i ziemie, ale nie zapłacił kontrybucji (context from current chapter)
 - Zakon nie wstąpił do unii z Polską i Litwą (context from current chapter)
 - Zakon pozostał w Prusach Książęcych (context from current chapter)
@@ -194,7 +194,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Zwi%C4%85zek_Pruski
 - https://pl.wikipedia.org/wiki/Powstanie_antykrzy%C5%BCackie_w_Prusach
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Obszar Prus był już schrystianizowany od czasów podboju krzyżackiego (context from current chapter)
 - Związek Pruski zwrócił się do Polski, nie do Litwy (context from current chapter)
 - Związek Pruski walczył przeciwko Zakonowi, nie go wspierał (context from current chapter)
@@ -220,7 +220,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Kazimierz_IV_Jagiello%C5%84czyk
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Król nie dążył do likwidacji wszystkich zakonów, tylko do osłabienia konkretnego przeciwnika
 - Wojna z Zakonem nie była związana z konfliktem z Moskwą
 - Prusy były już schrystianizowane
@@ -246,7 +246,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Chojnicami
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Polska nie miała dostępu do morza przed wojną, ale nie to było głównym problemem (context from current chapter)
 - Polskie miasta generalnie wspierały wojnę, choć z różnym zaangażowaniem (context from current chapter)
 - Cesarstwo i papiestwo zachowały neutralność (context from current chapter)
@@ -272,7 +272,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Prusy_Kr%C3%B3lewskie
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Polska zyskała dostęp do morza, a go nie utraciła (context from current chapter)
 - Miasta pruskie rozwinęły się pod władzą polską (context from current chapter)
 - Rolnictwo na Pomorzu kontynuowało się bez zakłóceń (context from current chapter)
@@ -298,7 +298,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zakon został osłabiony, a nie wzmocniony
 - Zakon nie został zlikwidowany, trwał do 1525 roku
 - Zakon utracił terytoria na zachodzie, nie zyskał na wschodzie
@@ -324,7 +324,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Prusy_Kr%C3%B3lewskie
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Prusy Książęce pozostały pod władzą zakonu krzyżackiego (context from current chapter)
 - Księstwo Pruskie powstało później w 1525 roku (incorrect from Zygmunt Stary)
 - Województwo malborskie było częścią Prus Królewskich, ale nie całości (context from current chapter)
@@ -350,7 +350,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Pok%C3%B3j_toru%C5%84ski_(1411)
 - https://pl.wikipedia.org/wiki/Drugi_pok%C3%B3j_toru%C5%84ski_(1466)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Pierwszy pokój nie przyznał Polsce Pomorza
 - Oba traktaty dotyczyły Pomorza, ale z różnymi skutkami
 - Traktaty różniły się znacząco w postanowieniach
@@ -376,7 +376,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Marborka
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Flota gdańska aktywnie uczestniczyła w wojnie
 - Flota wspierała Polskę, nie zakon
 - Flota robiła znacznie więcej niż tylko transport wojsk
@@ -402,7 +402,7 @@ Wojna trzynastoletnia (1454-1466) była największym i najważniejszym konflikte
 - https://pl.wikipedia.org/wiki/Wojna_trzynastoletnia
 - https://pl.wikipedia.org/wiki/Pomorze_Gda%C5%84skie
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Polska zyskała dostęp do morza i wzmocniła pozycję
 - Pozycja Polski znacząco się poprawiła
 - Zakon stał się wasalem Polski, nie odwrotnie

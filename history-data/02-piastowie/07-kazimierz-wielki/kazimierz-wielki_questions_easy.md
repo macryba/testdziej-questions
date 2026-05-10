@@ -41,7 +41,7 @@ Kazimierz III Wielki panował w latach 1333-1370 i był ostatnim męskim przedst
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Władysław Łokietek – ojciec Kazimierza Wielkiego, poprzedni władca z dynastii Piastów (panował 1306-1333) [incorrect from Władysław Łokietek chapter]
 - Kazimierz Jagiellończyk – król Polski z dynastii Jagiellonów, panował w XV wieku (1447-1492) [incorrect from Kazimierz Jagiellończyk chapter]
 - Ludwik Węgierski – siostrzeniec Kazimierza Wielkiego, pierwszy król Polski z dynastii Andegawenów po wygaśnięciu Piastów
@@ -68,7 +68,7 @@ Akademia Krakowska (obecny Uniwersytet Jagielloński) została założona przez 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Uniwersytet_Jagiello%C5%84ski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - 1333 – rok objęcia tronu przez Kazimierza Wielkiego po śmierci Władysława Łokietka
 - 1343 – rok podpisania pokoju kaliskiego z Zakonem Krzyżackim
 - 1370 – rok śmierci Kazimierza Wielkiego
@@ -95,7 +95,7 @@ Kazimierz Wielki urodził się 30 kwietnia 1310 roku w Kowalu (województwo kuja
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Kraków – główna siedziba króla i miejsce śmierci Kazimierza Wielkiego
 - Gniezno – pierwsza stolica Polski i ważne centrum kościelne
 - Wiślica – miejsce, w którym Kazimierz Wielki wydał statuty wiślickie (kodyfikacja prawa)
@@ -122,7 +122,7 @@ Kazimierz Wielki był najmłodszym synem Władysława I Łokietka, króla Polski
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Władysław Herman – książę polski z dynastii Piastów z przełomu XI i XII wieku [incorrect from Rozbicie dzielnicowe I chapter]
 - Bolesław Krzywousty – władca Polski z początku XII wieku, znany z ustawy sukcesyjnej [incorrect from Rozbicie dzielnicowe I chapter]
 - Mieszko I – pierwszy historyczny władca Polski, który przyjął chrzest w 966 roku [incorrect from Chrystianizacja chapter]
@@ -149,7 +149,7 @@ Pokój kaliski zawarty 8 lipca 1343 roku zakończył wojnę polsko-krzyżacką. 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Pok%C3%B3j_kaliski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Pokój toruński – traktat z 1466 roku kończący wojnę trzynastoletnią z Zakonem Krzyżackim [incorrect from Wojna trzynastoletnia chapter]
 - Pokój melneński – traktat z 1422 roku między Polską a Zakonem Krzyżackim [incorrect from Wojna trzynastoletnia chapter]
 - Pokój brasławski – układ z Węgrami z 1354 roku (nie dotyczył Krzyżaków) [no referenced answer]
@@ -176,7 +176,7 @@ Powiedzenie "zastał Polskę drewnianą, a zostawił murowaną" odnosi się do i
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - "Zastał Polskę pogrążoną..." – to powiedzenie nie jest historycznie przypisane żadnemu władcy
 - "Zastał Polskę słabą..." – nie istnieje takie popularne powiedzenie o Kazimierzu Wielkim
 - "Zastał Polskę biedną..." – nie istnieje takie popularne powiedzenie o Kazimierzu Wielkim
@@ -203,7 +203,7 @@ Kazimierz Wielki zmarł 5 listopada 1370 roku w Krakowie. Był ostatnim męskim 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - 1333 – rok objęcia tronu przez Kazimierza Wielkiego po śmierci Władysława Łokietka
 - 1343 – roku podpisania pokoju kaliskiego z Zakonem Krzyżackim
 - 1364 – rok założenia Akademii Krakowskiej
@@ -230,7 +230,7 @@ Ponieważ Kazimierz Wielki zmarł bez męskiego potomka, tron polski objął jeg
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Jan III Sobieski – król Polski z XVII wieku (1674-1696)
 - Władysław Jagiełło – wielki książę litewski, który został królem Polski w 1386 roku
 - Kazimierz Jagiellończyk – król Polski z XV wieku (1447-1492)
@@ -257,7 +257,7 @@ Statuty wiślicko-piotrkowskie wydane przez Kazimierza Wielkiego to pierwsze w P
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Statuty_Kazimierza_Wielkiego
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Statuty kazimierzowskie – nazwa potoczna, nie historyczna [no referenced answer]
 - Statuty krakowskie – nie istniały jako osobny zbiór praw [no referenced answer]
 - Statuty andegawenów – prawa związane z dynastią Andegawenów, która rządziła po Kazimierzu Wielkim [no referenced answer]
@@ -284,7 +284,7 @@ Kraków był główną siedzibą Kazimierza Wielkiego. Tutaj również zmarł 5 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kazimierz_III_Wielki
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Gniezno – pierwsza stolica Polski i ważne centrum kościelne [incorrect from Chrystianizacja chapter]
 - Poznań – ważne miasto wielkopolskie, ale nie główna siedziba króla [no referenced answer]
 - Wiślica – miejsce, w którym Kazimierz wydał statuty wiślickie [no referenced answer]

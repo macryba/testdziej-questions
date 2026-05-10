@@ -44,7 +44,7 @@ PKWN został utworzony 21 lipca 1944 w Chełmie. Był to tymczasowy organ władz
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. 1943 - Rok przed utworzeniem PKWN
 - C. 1945 - Rok przekształcenia PKWN w Rząd Tymczasowy
 - D. 1946 - Rok po wojnie
@@ -72,7 +72,7 @@ Bitwa o Kołobrzeg (marzec 1945) była jedną z największych bitew Ludowego Woj
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_o_Ko%C5%82obrzeg
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Gdańsk - Zdobyty przez Armię Czerwoną w marcu 1945
 - C. Wrocław - Oblężony przez Armię Czerwoną, kapitulował w maju 1945
 - D. Szczecin - Zdobyty przez Armię Czerwoną w kwietniu 1945
@@ -100,7 +100,7 @@ Głównym celem utworzenia PKWN było przejęcie władzy w Polsce przy wsparciu 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. Odbudowa zniszczonego kraju - Cel ważny, ale nie główny (przejęcie władzy było priorytetem)
 - C. Walka z niemieckim okupantem - Pretekst do utworzenia PKWN, ale nie główny cel
 - D. Repatriacja Polaków z ZSRR - Działanie podejmowane później, nie cel utworzenia PKWN
@@ -129,7 +129,7 @@ LWP walczyło u boku Armii Czerwonej w operacji berlińskiej jako samodzielna ar
 - https://pl.wikipedia.org/wiki/Ludowe_Wojsko_Polskie
 - https://pl.wikipedia.org/wiki/Operacja_berli%C5%84ska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Tylko ochraniało tyły sowieckie - Nieprawda, LWP walczyło na froncie
 - B. Nie uczestniczyło w operacji berlińskiej - Nieprawda, LWP brało czynny udział
 - D. Walczyło przeciwko aliantom zachodnim - Nieprawda, alianci byli sojusznikami
@@ -156,7 +156,7 @@ Alianci zachodni zgodzili się na włączenie Polski w strefę wpływów ZSRR, p
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Nie zależało im na wolnej Polsce - Nieprawda, alianci deklarowali pragnienie wolnej Polski
 - B. Polacy sami prosili o włączenie do ZSRR - Nieprawda, rząd na uchodźstwie i większość Polaków byli przeciwni temu
 - C. Churchill i Roosevelt nie lubili polskiego rządu na uchodźstwie - Nieprawda, uznawali go za legalny
@@ -184,7 +184,7 @@ Polska utraciła Kresy Wschodnie (ponad 180 tys. km²) na rzecz ZSRR, ale otrzym
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Granice się nie zmieniły - Nieprawda, granice przesunięto na zachód
 - B. Polska powiększyła obszar o dwie trzecie - Nieprawda, obszar się zmniejszył
 - D. Polska stała się mniejsza o połowę - Nieprawda, obszar zmniejszył się o około 20%
@@ -211,7 +211,7 @@ Przesunięcie granic oznaczało wielkie migracje: Polacy i Żydzi z Kresów Wsch
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polskie_przesiedlenia_(1944%E2%80%931946)
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Wszyscy Polacy z ZSRR mogli wrócić do Polski - Część została w ZSRR, nie wszyscy chcieli wracać
 - B. Mieszkańcy nie musieli się przeprowadzać - Nieprawda, miliony ludzi zostało przesiedlonych
 - C. Wszyscy Żydzi mogli wrócić do Polski - Większość Żydów zginęła w Holokauście
@@ -238,7 +238,7 @@ Bolesław Bierut był przywódcą komunistycznej Polski w latach 1944-1956. Peł
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_Bierut
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. Władysław Gomułka - Przywódca PRL w latach 1956-1970
 - C. Józef Cyrankiewicz - Premier PRL w latach 1957-1970
 - D. Edward Osóbka - Działacz komunistyczny, ale nie główny przywódca - Działacz komunistyczny, ale nie główny przywódca
@@ -266,7 +266,7 @@ ZSRR wspierało formowanie LWP nie tylko militarnie, ale przede wszystkim polity
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Ludowe_Wojsko_Polskie
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Tylko do walki z Niemcami - Cel militarny był ważny, ale nie jedyny
 - B. Bo polskie wojska były najlepsze - Nieprawda, ZSRR miało silniejszą armię
 - C. ZSRR nie wspierało formowania polskich wojsk - Nieprawda, ZSRR aktywnie wspierało tworzenie LWP
@@ -294,7 +294,7 @@ Po wkroczeniu Armii Czerwonej żołnierze AK byli aresztowani przez NKWD, więzi
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Armia_Krajowa
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. AK została włączona do LWP - Nieprawda, AK była likwidowana
 - B. AK rozwiązała się sama w 1944 roku - AK została rozwiązana w styczniu 1945
 - D. AK kontynuowała walkę jako samodzielna siła - Nieprawda, AK została rozwiązana i likwidowana
@@ -321,7 +321,7 @@ Granica na Odrze i Nysie dała Polsce dostęp do morza (Szczecin, Świnoujście)
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. Ostateczne zerwanie z Niemcami na pokolenia - To skutek polityczny, nie geograficzny
 - C. Polska mogła ekspandować dalej na zachód - Nieprawda, granica została ustalona na stałe
 - D. Polska stała się sąsiadem Danii i Holandii - Nieprawda, to dalekie państwa sąsiadem Danii i Holandii - Nieprawda, to dalekie państwa
@@ -348,7 +348,7 @@ Proces wyzwalania Polski przez Armię Czerwoną doprowadził do trwałej zależn
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. ZSRR stało się sojusznikiem Polski - Nieprawda, był to związek zależności, nie sojuszu
 - B. Stosunki były partnerskie i równe - Nieprawda, ZSRR dominowało
 - C. ZSRR pomogło Polsce odbudować niepodległość - Nieprawda, ZSRR ograniczyło suwerenność Polski

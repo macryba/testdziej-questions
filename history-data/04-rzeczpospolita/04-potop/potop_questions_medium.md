@@ -47,7 +47,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: no referenced answer - Rosja nie pomagała Szwecji, prowadziła osobną wojnę z Polską (1654-1667)
 - Odp B: no referenced answer - Polska walczyła ze Szwecją, nie była z nią sprzymierzona
 - Odp D: no referenced answer - Wojska polskie były słabsze i mniej zorganizowane niż szwedzkie
@@ -72,7 +72,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A (Ujściem): incorrect from Potop - Była to przegrana bitwa 24-25 lipca 1655 roku, na początku wojny
 - Odp B (Sobotą): incorrect from Potop - Była to bitwa 2 września 1655 roku, którą Polacy przegrali
 - Odp C (Żarnowem): incorrect from Potop - Była to przegrana bitwa 16 września 1655 roku
@@ -97,7 +97,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Jasnej_G%C3%B3ry
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp B: no referenced answer - Jasna Góra była sanktuarium maryjnym, nie skarbcem królewskim
 - Odp C: no referenced answer - Obrona nie otworzyła drogi do Sztokholmu
 - Odp D: no referenced answer - Szwecja nie kapitulowała po oblężeniu Jasnej Góry
@@ -122,7 +122,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obl%C4%99%C5%BCenie_Jasnej_G%C3%B3ry
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A (Stefan Czarniecki): incorrect from Potop - Był hetmanem polskim, walczył w polu, nie na Jasnej Górze
 - Odp B (Jan Kazimierz): incorrect from Potop - Był królem Polski, przebywał na wygnaniu na Śląsku podczas oblężenia
 - Odp D (Karol Gustaw): incorrect from Potop - Był królem Szwecji, dowodził oblężeniem po stronie szwedzkiej
@@ -147,7 +147,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: no referenced answer - Szwecja i Brandenburgia były początkowo sprzymierzone, nie walczyły ze sobą
 - Odp C: no referenced answer - Brandenburgia nie była zainteresowana pomocą Rosji
 - Odp D: no referenced answer - Polska nie miała wystarczających środków na płacenie Brandenburgii
@@ -172,7 +172,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A (Janusz Radziwiłł): incorrect from Potop - Był polskim magnatem, który przeszedł na stronę szwedzką we wrześniu 1655
 - Odp B (Jan Kazimierz): incorrect from Potop - Był królem Polski, ale nie dowodził bezpośrednio w bitwie pod Warką
 - Odp C (Augustyn Kordecki): incorrect from Potop - Był przeorem na Jasnej Górze, nie dowodził wojskiem w polu
@@ -197,7 +197,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Jan_II_Kazimierz_Waza
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: no referenced answer - Jan Kazimierz nie został pojmany przez Szwedów, zdołał uciec na Śląsk
 - Odp C: no referenced answer - Uciekł na Śląsk, nie do Rosji (z którą Polska walczyła w wojnie polsko-rosyjskiej 1654-1667)
 - Odp D: no referenced answer - Nie zginął podczas wojny, zmarł w 1672 roku we Francji
@@ -222,7 +222,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: no referenced answer - Szwecja była protestancka, nie prowadziła krucjat ani misji chrystianizacyjnych
 - Odp C: no referenced answer - Szwecja zaatakowała Polskę, wykorzystując jej osłabienie, nie jej pomagała
 - Odp D: no referenced answer - Karol Gustaw nie chciał zostać królem Polski, dążył do dominacji morskiej
@@ -247,7 +247,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: no referenced answer - Mieszczanie nie byli przychylni Szwedom, poddanie się wynikało z beznadziejnej sytuacji militarnej
 - Odp B: no referenced answer - Król nie kazał się poddawać, sam uciekł na Śląsk i wzywał do oporu
 - Odp C: no referenced answer - Szwedzi nie obiecywali niższych podatków, wręcz przeciwnie - łupili kraj
@@ -272,7 +272,7 @@ Kluczowe bitwy pod Jarosławem (15 marca 1656), Warką (7 kwietnia 1656) i dwie 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Potop_szwedzki
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odp A: no referenced answer - Nie wszyscy magnaci walczyli ze Szwedami, część przeszła na stronę szwedzką (jak Janusz Radziwiłł)
 - Odp B: no referenced answer - Nie wszyscy przeszli na stronę szwedzką, wielu walczyło (jak Stefan Czarniecki, Jerzy Lubomirski)
 - Odp C: no referenced answer - Większość pozostała w kraju - część walczyła, część kolaborowała ze Szwedami

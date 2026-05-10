@@ -38,7 +38,7 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Władysław Gomułka — był pierwszym sekretarzem KC PZPR w latach 1956-1970, przed Gierkiem
 - Wojciech Jaruzelski — został premierem później, w latach 80., podczas stanu wojennego
 - Stanisław Kania — zastąpił Gierka na stanowisku I sekretarza KC PZPR w 1980 roku
@@ -61,7 +61,7 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wydarzenia marcowe 1968 — to studenckie protesty i antysemicka kampania z 1968 roku, podczas rządów Gomułki
 - Strajki w Radomiu i Ursusie — to wydarzenia z 1976 roku, już podczas rządów Gierka
 - Powstanie "Solidarności" — to wydarzenie z sierpnia 1980 roku, które doprowadziło do odejścia Gierka od władzy
@@ -84,7 +84,7 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Okres gomułkowski — to określenie na rządy Władysława Gomułki (1956-1970)
 - Polska Mała Stabilizacja — to termin odnoszący się do lat 80., po rządach Gierka
 - Okres jaruzelskowski — to czas rządów Wojciecha Jaruzelskiego (1981-1989)
@@ -107,7 +107,7 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek, https://pl.wikipedia.org/wiki/IV_plan_pi%C4%99cioletni_%28Polska%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Z ZSRR i innych państw bloku wschodniego — Polska należała do bloku wschodniego, ale kredyty zaciągała z Zachodu
 - Z państw arabskich — chociaż Polska prowadziła współpracę z niektórymi państwami arabskimi, kredyty pochodziły z Zachodu
 - Z państw afrykańskich — Polska nie zaciągała znaczących kredytów z państw afrykańskich
@@ -130,7 +130,7 @@ Edward Gierek był pierwszym sekretarzem Komitetu Centralnego Polskiej Zjednoczo
 
 **Źródła:** https://pl.wikipedia.org/wiki/Edward_Gierek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wybuchło powstanie warszawskie — to wydarzyło się w 1944 roku, podczas II wojny światowej
 - Gierek objął władzę w Polsce — to wydarzyło się w grudniu 1970 roku
 - Wprowadzono stan wojenny — to wydarzyło się w grudniu 1981 roku, już po rządach Gierka

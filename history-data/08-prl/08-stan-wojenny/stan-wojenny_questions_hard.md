@@ -40,7 +40,7 @@ Stan wojenny został wprowadzony niezgodnie z konstytucją PRL z 1952 roku, któ
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 - [Konstytucja PRL](https://pl.wikipedia.org/wiki/Konstytucja_Polskiej_Rzeczypospolitej_Ludowej_(1952)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Konstytucja PRL nie przewidywała stanu wojennego jako instytucji) – Konstytucja przewidywała stany nadzwyczajne, ale nie w formie stanu wojennego
 - C (Stan wojenny był częściowo zgodny z konstytucją PRL z 1952) – Nie można mówić o częściowej zgodności z konstytucją
 - D (Tak, był w pełni zgodny z konstytucją Polskiej Rzeczypospolitej Ludowej) – Stan wojenny naruszył konstytucję PRL z 1952 roku
@@ -68,7 +68,7 @@ Historycy do dziś debatują nad kwestią "znaku zapytania" – czy ZSRR rzeczyw
 - [Wojciech Jaruzelski](https://pl.wikipedia.org/wiki/Wojciech_Jaruzelski) - Wikipedia Polska
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (ZSRR nigdy nie groził interwencją wojskową na terytorium Polski) – Były sygnały o możliwej interwencji ZSRR w 1981 roku
 - B (Tak, wszystkie źródła potwierdzają, że interwencja ZSRR była nieuchronna) – Nie ma takiego jednogłośnego potwierdzenia
 - D (Nie, wszyscy historycy uważają zgodnie, że Jaruzelski skłamał wobec narodu) – Historycy nie są zgodni w tej ocenie
@@ -97,7 +97,7 @@ Stan wojenny opóźnił transformację, ale nie zdołał zniszczyć Solidarnośc
 - [Stan wojenny w Polsce](https://pl.wikipedia.org/wiki/Stan_wojenny_w_Polsce_(1981%E2%80%931983)) - Wikipedia Polska
 - [Okrągły Stół](https://pl.wikipedia.org/wiki/Okr%C4%85g%C5%82y_St%C3%B3%C5%82_(1989)) - Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B (Umożliwił szybsze zakończenie zimnej wojny i jednoczenie Europy) – Zakończenie zimnej wojny miało inne przyczyny, nie stan wojenny w Polsce
 - C (Zniszczył opozycję demokratyczną i przesądził o utrzymaniu komunizmu) – Opozycja przetrwała w podziemiu i wygrała w 1989 roku
 - D (Nie miał istotnego wpływu na późniejsze przemiany polityczne) – Miał znaczący wpływ, choć pośredni, na drogę do transformacji

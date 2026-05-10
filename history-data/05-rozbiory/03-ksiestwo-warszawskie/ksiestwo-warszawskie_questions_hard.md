@@ -48,7 +48,7 @@ Rezydenci francuscy sprawowali rzeczywistą władzę w Księstwie Warszawskim. C
 - https://pl.wikipedia.org/wiki/Ksi%C4%99stwo_Warszawskie
 - https://pl.wikipedia.org/wiki/Rezydenci_napole%C5%84scy_w_Warszawie_1807%E2%80%931813
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - **B. Rezydenci francuscy doradzali władzom Księstwa, ale nie mieli formalnych uprawnień do blokowania decyzji** – rezydenci mieli znacznie szersze uprawnienia niż doradcy, mieli prawo weta i bezpośrednią kontrolę
 - **C. Rezydenci francuscy sprawowali nadzór tylko nad polityką zagraniczną Księstwa, nie ingerując w sprawy wewnętrzne** – rezydenci kontrolowali zarówno politykę zagraniczną, jak i wewnętrzną Księstwa
 - **D. Księstwo Warszawskie było w pełni suwerenne, a rezydenci francuscy pełnili jedynie funkcję obserwatorów dyplomatycznych** – to nieprawda, Księstwo było silnie zależne od Francji, a rezydenci sprawowali rzeczywistą władzę
@@ -77,7 +77,7 @@ Reformy Księstwa Warszawskiego miały mieszane skutki. Z jednej strony, moderni
 - https://pl.wikipedia.org/wiki/Konstytucja_Ksi%C4%99stwa_Warszawskiego
 - https://pl.wikipedia.org/wiki/Kodeks_Napoleona
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - **A. Reformy były skuteczne i doprowadziły do rzeczywistej modernizacji ustrojowej i społecznej** – to nieprawda, modernizacja ustrojowa powiodła się, ale sytuacja chlopów poprawiła się niewiele
 - **B. Reformy były deklaracjami bez pokrycia, ponieważ szlachta skutecznie blokowała ich realizację** – to nieprawda, szlachta nie blokowała wszystkich reform, a nowoczesny ustrój się rozwinął
 - **C. Reformy były całkowicie nieskuteczne i zostały odrzucone przez społeczeństwo Księstwa** – to nieprawda, reformy ustrojowe były częściowo skuteczne i zostały zaakceptowane
@@ -106,7 +106,7 @@ Napoleon Bonaparte wykorzystywał sprawę polską dla własnych celów geopolity
 - https://pl.wikipedia.org/wiki/Napoleon_Bonaparte
 - https://pl.wikipedia.org/wiki/Wojna_1812_roku
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - **A. Napoleon był szczerym sojusznikiem Polski i dążył do przywrócenia pełnej niepodległości** – to nieprawda, Napoleon wykorzystywał Polaków dla własnych celów i nie zamierzał przywracać pełnej niepodległości
 - **C. Napoleon był neutralny wobec sprawy polskiej i pozostawiał decyzję mocarstwom zaborczym** – to nieprawda, Napoleon aktywnie wykorzystywał sprawę polską dla własnych celów
 - **D. Napoleon sprzeciwiał się odrodzeniu Polski i aktywnie wspierał politykę mocarstw zaborczych** – to nieprawda, Napoleon wspierał odrodzenie częściowe Polski dla własnych celów, ale nie był przeciwny sprawie polskiej

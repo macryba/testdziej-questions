@@ -42,7 +42,7 @@ Kapitulacja Niemiec 8 maja 1945 zakończyła II wojnę światową w Europie. Inn
 **Źródła:**
 - https://pl.wikipedia.org/wiki/II_wojna_%C5%9Bwiatowa
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. Agresja ZSRR na Polskę - Wydarzenie z 17 września 1939 roku (początek wojny, nie zakończenie)
 - C. Atak Niemiec na Polskę - Wydarzenie z 1 września 1939 roku (początek wojny, nie zakończenie)
 - D. Zakończenie I wojny światowej - Wydarzenie z 9 listopada 1918 roku (inna wojna)
@@ -70,7 +70,7 @@ Charles de Gaulle nie był członkiem Wielkiej Trójki. Wielka Trójka to: Winst
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wielka_Tr%C3%B3jka
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Winston Churchill - Premier Wielkiej Brytanii, członek Wielkiej Trójki
 - B. Franklin D. Roosevelt - Prezydent USA, członek Wielkiej Trójki
 - C. Józef Stalin - Przywódca ZSRR, członek Wielkiej Trójki
@@ -98,7 +98,7 @@ Linia Curzona stała się wschodnią granicą Polski po II wojnie światowej na 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Linia_Curzona
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. Linia Maginota - Francuska linia fortyfikacji z II wojny światowej
 - C. Linia Siegfrieda - Niemiecka linia obronna na zachodzie
 - D. Linia Mannerheima - Fińska linia obronna z wojny zimowej
@@ -128,7 +128,7 @@ Konferencje Wielkiej Trójki odbywały się w Teheranie (1943), Jałcie (1945) i
 - https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Londyn, Paryż, Waszyngton - Stolice państw alianckich, ale nie miejsca konferencji Wielkiej Trójki
 - C. Moskwa, Berlin, Rzym - Moskwa to stolica ZSRR, Berlin i Rzym to stolice państw Osi
 - D. Wiedeń, Praga, Budapeszt - Miasta europejskie, gdzie nie odbywały się konferencje Wielkiej Trójki
@@ -156,7 +156,7 @@ Po II wojnie światowej zachodnią granicę Polski ustalono na linii rzek Odra i
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Wisłę i Bug - Wisła to główna rzeka w Polsce, Bug to wschodnia granica międzywojennej
 - C. Ren i Łabę - Rzeki w Niemczech (Ren płynie przez zachodnie Niemcy, Łaba przez Czechy i Niemcy)
 - D. Dunaj i Dniestr - Dunaj przepływa przez Europę Środkową i Bałkany, Dniestr przez Ukrainę i Mołdawię

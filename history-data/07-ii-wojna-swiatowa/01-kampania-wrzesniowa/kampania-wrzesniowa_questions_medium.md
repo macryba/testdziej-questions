@@ -41,7 +41,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Fall Rot) - niemiecki plan ataku na Francję
 - Odpowiedź B (Fall Gelb) - niemiecki plan ataku na Benelux
 - Odpowiedź D (Fall Grün) - niemiecki plan ataku na Czechosłowację
@@ -67,7 +67,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Tadeusz_Kutrzeba
 - https://pl.wikipedia.org/wiki/Bitwa_nad_Bzur%C4%85
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Rómmel) - generał, dowódca armii „Łódź"
 - Odpowiedź C (Bortnowski) - generał, dowódca armii „Pomorze"
 - Odpowiedź D (Kleeberg) - generał, dowódca SGO „Polesie"
@@ -92,7 +92,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (3:45) - nieprawidłowa godzina
 - Odpowiedź C (5:00) - nieprawidłowa godzina
 - Odpowiedź D (4:15) - nieprawidłowa godzina
@@ -117,7 +117,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (statyczna obrona) - to taktyka obronna, nie ofensywna
 - Odpowiedź C (długie oblężenie) - Niemcy używali szybkiego natarcia, nie długich oblężenie
 - Odpowiedź D (partyzantka) - to taktyka nieregularnych sił, nie regularnej armii
@@ -143,7 +143,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Obrona_Warszawy_%281939%29
 - https://pl.wikipedia.org/wiki/Juliusz_R%C3%B3mmel
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Kraków) - armia broniąca rejonu Krakowa
 - Odpowiedź B (Łódź) - armia walcząca na ziemi łódzkiej, później wycofana
 - Odpowiedź D (Poznań) - armia, która walczyła w bitwie nad Bzurą
@@ -168,7 +168,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Francja) - rząd trafił do Francji później, przez Rumunię
 - Odpowiedź B (Wielka Brytania) - rząd trafił do Wielkiej Brytanii w 1940 roku
 - Odpowiedź D (Węgry) - rząd nie ewakuował się na Węgry
@@ -194,7 +194,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 - https://pl.wikipedia.org/wiki/Lebensraum
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (utracone terytoria) - Niemcy chciały więcej niż utracone terytoria
 - Odpowiedź B (dostęp do morza) - Niemcy już miały dostęp do morza od 1919 roku
 - Odpowiedź D (zabezpieczenie granic) - to cel drugorzędny, głównym była ekspansja
@@ -220,7 +220,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 - https://pl.wikipedia.org/wiki/Agresja_ZSRR_na_Polsk%C4%99
 - https://pl.wikipedia.org/wiki/Pakt_Ribbentrop-Mo%C5%82otow
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (ochrona ludności) - to pretekst, nie prawdziwa przyczyna
 - Odpowiedź C (Polska zaatakowała) - to fałszywa propaganda sowiecka
 - Odpowiedź D (granice sprzed 1914) - ZSRR chciał więcej niż granice sprzed I wojny
@@ -245,7 +245,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Obrona_Warszawy_%281939%29
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (żywność) - zapasy żywności nie były głównym problemem
 - Odpowiedź C (dezercja) - polscy żołnierze nie masowo dezerowali, walczyli bohatersko
 - Odpowiedź D (czołgi w centrum) - niemieckie wojska nie włamały się do centrum miasta przed kapitulacją
@@ -270,7 +270,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (10 tysięcy) - znacznie zaniżona liczba
 - Odpowiedź B (100 tysięcy) - zawyżona liczba poległych
 - Odpowiedź C (200 tysięcy) - znacznie zawyżona liczba
@@ -295,7 +295,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Edward_Rydz-%C5%9Amig%C5%82y
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Sikorski) - został premierem i Naczelnym Wodzem później, po wrześniu 1939
 - Odpowiedź B (Stachiewicz) - szef Sztabu Głównego, nie Naczelny Wódz
 - Odpowiedź D (Sosnkowski) - zastępca Naczelnego Wodza, nie główny dowódca
@@ -320,7 +320,7 @@ Kluczowe bitwy kampanii obejmowały: obronę Westerplatte (1-7 września), bitw�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Kampania_wrze%C5%9Bniowa
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (zdrada sojuszników) - brak realnej pomocy był ważny, ale nie główny powód
 - Odpowiedź C (brak chęci) - fałszywe, polscy żołnierze walczyli bohatersko
 - Odpowiedź D (błąd sojuszników) - Polska miała sojusze, ale to nie był główny powód klęski

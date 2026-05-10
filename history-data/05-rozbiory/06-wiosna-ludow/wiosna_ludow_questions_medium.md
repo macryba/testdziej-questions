@@ -35,7 +35,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie_%281848%29
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Józef Bem walczył na Węgrzech, a nie w Wielkopolsce
 - Edward Dembowski był przywódcą powstania krakowskiego w 1846 roku
 - Roman Zmorski był poetą i działaczem patriotycznym, ale nie dowodził powstaniem w 1848 roku
@@ -58,7 +58,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w_na_ziemiach_polskich
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Wiosna Ludów we Francji wybuchła wcześniej, w lutym 1848
 - Powstanie krakowskie miało miejsce w 1846 roku
 - Manifestacja wiedeńska nie była bezpośrednio związana z powstaniem wielkopolskim
@@ -81,7 +81,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie_%281848%29
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Warszawa znajdowała się w zaborze rosyjskim
 - Kraków był pod zaborem austriackim
 - Wrocław był miastem niemieckim w prowincji śląskiej
@@ -104,7 +104,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie_%281848%29
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - 22 listopada to data wybuchu powstania listopadowego
 - 15 sierpnia to data święta Wojska Polskiego
 - 3 maja to święto konstytucji
@@ -127,7 +127,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Bem
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Ludwik Mierosławski walczył w Wielkopolsce
 - Tadeusz Kościuszko żył w XVIII wieku
 - Jan Henryk Dąbrowski był generałem z okresu napoleońskiego
@@ -150,7 +150,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Bem
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Slawonia to region w Chorwacji
 - Bukowina to historyczny region na pograniczu Ukrainy i Rumunii (Bem tam dotarł, ale głównie walczył w Siedmiogrodzie)
 - Dalmacja to region w Chorwacji nad Adriatykiem
@@ -173,7 +173,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie_%281848%29
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Prawa chłopów były ważne, ale nie głównym celem
 - Prawa robotników stały się ważne później, w II połowie XIX wieku
 - Obrona języka polskiego była ważna, ale nie głównym celem militarnym
@@ -196,7 +196,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie_%281848%29
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - 31 grudnia to koniec roku
 - 15 marca to data wybuchu rewolucji w Wiedniu
 - 22 lipca to data bitwy pod Algier (1830)
@@ -219,7 +219,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w_na_ziemiach_polskich
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Rosja nie interweniowała w sprawy wewnętrzne Prus
 - Fundusze nie były głównym problemem
 - Inne państwa niemieckie nie miały decydującego głosu
@@ -242,7 +242,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w_na_ziemiach_polskich
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Prawa polskie zostały ograniczone, a nie rozszerzone
 - Niepodległość nie została osiągnięta
 - Status quo nie został utrzymany
@@ -265,7 +265,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Bem
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Rosja była wrogiem zarówno Polaków, jak i Węgrów
 - Kraje nie miały wspólnej granicy
 - Unia personalna łączyła Polskę z Litwą, a nie z Węgrami
@@ -288,7 +288,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Bem
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Powstanie miało poparcie ludności
 - Zdrada nie była główną przyczyną upadku
 - Brak broni nie był decydującym czynnikiem
@@ -311,7 +311,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w_na_ziemiach_polskich
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Edward Dembowski był przywódcą powstania krakowskiego w 1846 roku
 - Karol Libelt był ważnym działaczem, ale nie był głównym dowódcą
 - Roman Zmorski był poetą, nie dowodził powstaniem
@@ -334,7 +334,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wiosna_Lud%C3%B3w_na_ziemiach_polskich
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Polacy nie zniechęcili się do walki
 - Strategia polityczna była zawsze obecna
 - Dążenia niepodległościowe trwały nadal
@@ -357,7 +357,7 @@ Wiosna Ludów to okres rewolucyjnych zrywów, które ogarnęły Europę w latach
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie_%281848%29
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Pieniężne wynagrodzenie nie było obiecywane
 - Pańszczyznę chłopi mieli zniesioną wcześniej
 - Tytuły szlacheckie nie były rozdawane

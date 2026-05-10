@@ -42,7 +42,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres głębokiej tra
 - https://pl.wikipedia.org/wiki/Konferencja_poczdamska
 - https://pl.wikipedia.org/wiki/Zmiany_granic_Polski_po_II_wo%C5%9Bnie_%C5%9Bwiatowej
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Decyzje nie były całkowicie niekorzystne – Polska uzyskała zrekompensowanie terytorialne na zachodzie
 - Zachód nie bronił niepodległości Polski – sprzedał ją Stalinowi za pokój
 - Zachowanie Kresów było niemożliwe wobec determinacji Stalina i armii sowieckiej
@@ -68,7 +68,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres głębokiej tra
 - https://pl.wikipedia.org/wiki/Ministerstwo_Bezpiecze%C5%84stwa_Publicznego
 - https://pl.wikipedia.org/wiki/Wielki_Terror_(ZSRR)
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Mechanizmy nie były identyczne – skala i intensywność były mniejsze
 - Terror był legalny na podstawie dekretów (np. o ochronie państwa)
 - Polska stosowała terror wobec polskiego podziemia niepodległościowego
@@ -93,7 +93,7 @@ Początki Polskiej Rzeczypospolitej Ludowej (1945-1956) to okres głębokiej tra
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 - https://pl.wikipedia.org/wiki/Historia_Polski_(1945%E2%80%931989)
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Przemiany nie były całkowicie negatywne – przyniosły modernizację przemysłową i urbanizację
 - Przemiany nie były korzystne – ceną była utrata niepodległości, zniszczenie elity i zależność od ZSRR
 - Przemiany miały trwały wpływ – ukształtowały Polskę na kolejne 30 lat do 1989 roku

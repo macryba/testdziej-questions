@@ -39,7 +39,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Karol Marcinkowski — dołączył do ruchu po upadku powstania listopadowego (1831)
 - Hipolit Cegielski — był działaczem z późniejszego okresu XIX wieku
 - Edward Raczyński — znany głównie z fundacji biblioteki i wodociągów w Poznaniu
@@ -64,7 +64,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Spółka Akcyjna Bazar z 1838 roku — powstała wcześniej, w 1838 roku
 - Centralne Towarzystwo Rolnicze — organizacja rolnicza z lat 60. XIX wieku
 - Liga Polska w Poznaniu — partia polityczna z późniejszego okresu
@@ -89,7 +89,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Zabór rosyjski — praca organiczna rozwinęła się tu dopiero po upadku powstania styczniowego
 - Zabór austriacki — miał specyficzne warunki autonomii galicyjskiej
 - Księstwo Warszawskie — nie istniało już w okresie pracy organicznej
@@ -114,7 +114,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Organizacje polityczne — praca organiczna unikała polityki na rzecz działalności gospodarczej
 - Muzea — nie były głównym celem ruchu
 - Banki spółdzielcze — były ważnym elementem, ale nie celem samym w sobie
@@ -139,7 +139,7 @@ Praca organiczna to strategia działania narodu polskiego pod zaborami, rozwini�
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Praca_organiczna
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Karol Marcinkowski — prowadził głównie działalność medyczną i edukacyjną
 - Maksymilian Jackowski — organizer ruchu rolniczego, nie fabrykant
 - August Cieszkowski — filozof, teoretyk pozytywizmu

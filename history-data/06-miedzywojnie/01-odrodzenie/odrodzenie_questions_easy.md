@@ -42,7 +42,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (3 maja): To data uchwalenia Konstytucji 3 Maja w 1791 roku, również święto narodowe, ale nie związane z odzyskaniem niepodległości w 1918 roku.
 - Odpowiedź C (15 sierpnia): To data Święta Wojska Polskiego, upamiętniająca bitwę warszawską z 1920 roku z okresu wojny polsko-bolszewickiej.
 - Odpowiedź D (27 grudnia): To data powstania wielkopolskiego, które wybuchło w 1918 roku, ale nie jest świętem niepodległości.
@@ -68,7 +68,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Naczelnik_Pa%C5%84stwa
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Roman Dmowski): Był przywódcą Narodowej Demokracji i delegatem polskim na konferencji paryskiej, ale nie pełnił funkcji Naczelnika Państwa.
 - Odpowiedź B (Ignacy Daszyński): Był premierem Tymczasowego Rządu Ludowego Republiki Polskiej utworzonego w Lublinie w listopadzie 1918 roku.
 - Odpowiedź D (Jędrzej Moraczewski): Był pierwszym premierem II Rzeczypospolitej w rządzie Józefa Piłsudskiego od listopada 1918 do stycznia 1919 roku.
@@ -94,7 +94,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Warszawa): Była stolicą odrodzonej Polski i miejscem objęcia władzy przez Piłsudskiego, ale nie była ośrodkiem powstania wielkopolskiego.
 - Odpowiedź C (Wrocław): Był miastem niemieckim w tym okresie i nie należał do terytorium objętego powstaniem wielkopolskim.
 - Odpowiedź D (Kraków): Był już polskim miastem w zaborze austriackim i nie był zaangażowany w powstanie wielkopolskie.
@@ -120,7 +120,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Traktat_wersalski
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Traktat ryski): Zakończył wojnę polsko-bolszewicką i ustalił granicę wschodnią Polski w 1921 roku, a nie zachodnią.
 - Odpowiedź C (Traktat brzeski): Był traktatem pokoju między Ukrainą a państwami centralnym zawartym w 1918 roku.
 - Odpowiedź D (Traktat toruński): Jest historycznym traktatdem z 1466 roku kończącym wojnę trzynastoletnią, niezwiązany z okresem po I wojnie światowej.
@@ -146,7 +146,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Powstania_%C5%9Bl%C4%85skie
 - https://pl.wikipedia.org/wiki/III_powstanie_%C5%9Bl%C4%85skie
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Jedno): Nieprawidłowa liczba - było więcej niż jedno powstanie.
 - Odpowiedź B (Dwa): Niewystarczająca liczba - było trzy powstania.
 - Odpowiedź D (Cztery): Nadmierna liczba - były tylko trzy powstania śląskie.
@@ -172,7 +172,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Obrona_Lwowa_(1918%E2%80%931919)
 - https://pl.wikipedia.org/wiki/Wojna_polsko-ukrai%C5%84ska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Wilno): Było przedmiotem sporu polsko-litewskiego i zostało zajęte przez wojska polskie w 1919 roku, ale nie było oblegane przez Ukraińców.
 - Odpowiedź C (Białystok): Było już polskim miastem i nie było zaangażowane w konflikt polsko-ukraiński.
 - Odpowiedź D (Lublin): Było siedzibą pierwszego polskiego rządu Tymczasowego Rządu Ludowego i nie było oblegane.
@@ -198,7 +198,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Plebiscyt_na_Warmii%2C_Mazurach_i_Powi%C5%9Blu
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (1918): Rok ten był zbyt wczesny - plebiscyt odbył się później, po ustaleniu zasad przez konferencję paryską.
 - Odpowiedź B (1919): Rok ten był zbyt wczesny - traktat wersalski został podpisany w czerwcu 1919 roku, a plebiscyt rok później.
 - Odpowiedź D (1921): Rok ten był zbyt późny - plebiscyt na Warmii i Mazurach odbył się w 1920 roku, choć w 1921 roku przeprowadzono plebiscyt na Górnym Śląsku.
@@ -224,7 +224,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Stany Zjednoczone): Prezydent Wilson poparł sprawę polską, a USA uznały Polskę 21 stycznia 1919 roku.
 - Odpowiedź B (Francja): Francja była głównym sojusznikiem Polski i uznała ją 24 lutego 1919 roku.
 - Odpowiedź C (Wielka Brytania): Wielka Brytania uznała Polskę 25 lutego 1919 roku.
@@ -250,7 +250,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Traktat_wersalski
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Dekret o władzy reprezentacyjnej): Był wewnętrznym dokumentem polskim ustalającym władzę Piłsudskiego jako Naczelnika Państwa w listopadzie 1918 roku, ale nie kończył stanu wojny.
 - Odpowiedź C (Mała konstytucja z 1919 roku): Była ustawą z 20 lutego 1919 roku regulującą ustrój Polski, ale nie kończyła stanu wojny z Niemcami.
 - Odpowiedź D (Dekret o reformie rolnej): Był wewnętrznym dokumentem polskim dotyczącym reform agrarnych, nie związany z relacjami polsko-niemieckimi.
@@ -276,7 +276,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Rada_Regencyjna_(Kr%C3%B3lestwo_Polskie)
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Cara Rosji): Rosja nie miała wpływu na Królestwo Polskie po wycofaniu się Niemiec z frontu wschodniego i rewolucji w Rosji.
 - Odpowiedź C (Cesarza Austro-Węgier): Austria nie powołała Rady Regencyjnej - była to inicjatywa niemiecka.
 - Odpowiedź D (Prezydenta Francji): Francja nie miała wpływu na powstanie Rady Regencyjnej, która była tworem Niemiec.
@@ -302,7 +302,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Naczelnik_Pa%C5%84stwa
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Ustanowił monarchię w Polsce): Dekret ustanawiał republikę, a nie monarchię.
 - Odpowiedź B (Uczynił Piłsudskiego dyktatorem): Piłsudski nie był dyktatorem w tym czasie, lecz Naczelnikiem Państwa.
 - Odpowiedź D (Zniósł Sejm Ustawodawczy): Dekret przygotowywał wybory do Sejmu Ustawodawczego, a nie jego zniesienie.
@@ -328,7 +328,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Rada_Regencyjna_(Kr%C3%B3lestwo_Polskie)
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Rada Regencyjna nie była marionetką, lecz organem prawnym.
 - Odpowiedź B: Byli inni kandydaci na przywódcę Polski.
 - Odpowiedź D: Mocarstwa zachodnie nie zmuszały Rady do przekazania władzy.
@@ -354,7 +354,7 @@ Odrodzenie Polski (1918-1921) to proces odbudowy państwa polskiego po 123 latac
 - https://pl.wikipedia.org/wiki/Wojna_polsko-ukrai%C5%84ska
 - https://pl.wikipedia.org/wiki/Obrona_Lwowa_(1918%E2%80%931919)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Lwów nie został przyłączony do ZSRR - to nastąpiło po II wojnie światowej.
 - Odpowiedź C: Lwów nie był miastem wolnym.
 - Odpowiedź D: Lwów nie został przyłączony do Rumunii.

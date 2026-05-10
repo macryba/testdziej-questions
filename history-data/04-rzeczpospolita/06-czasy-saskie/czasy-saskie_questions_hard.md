@@ -39,7 +39,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 - [Sejm Niemy —Wikipedia](https://pl.wikipedia.org/wiki/Sejm_Niemy)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. Unia personalna sama w sobie nie była przyczyną — problemem był sposób jej realizacji
 - C. Ograniczenie armii było skutkiem, nie przyczyną, a ponadto nie obejmuje całego procesu
 - D. Oligarchizacja była ważnym elementem, ale niewystarczającym jako całościowe wyjaśnienie
@@ -64,7 +64,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Sejm Niemy —Wikipedia](https://pl.wikipedia.org/wiki/Sejm_Niemy)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Reformy nie zostały zrewidowane przez Augusta III
 - B. Ograniczenie władzy magnatów nie było głównym problemem
 - D. Rosja nie blokowała reform, wręcz przeciwnie — popierała je jako środek ograniczenia Wettinów
@@ -89,7 +89,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Henryk Brühl —Wikipedia](https://pl.wikipedia.org/wiki/Henryk_Br%C3%BChl)
 - [August III Sas —Wikipedia](https://pl.wikipedia.org/wiki/August_III_Sas)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Brühl nie przeprowadził reform wzmocniających państwo
 - B. Brühl nie był zwolennikiem reform oświeceniowych
 - D. Brühl nie dążył do absolutyzmu w Polsce
@@ -115,7 +115,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Biblioteka Załuskich —Wikipedia](https://pl.wikipedia.org/wiki/Biblioteka_Za%C5%82uskich)
 - [Collegium Nobilium —Wikipedia](https://pl.wikipedia.org/wiki/Collegium_Nobilium)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. To stanowisko jest zbyt jednostronne i ignoruje osiągnięcia kulturalne
 - B. Osiągnięcia kulturalne były znaczne i miały znaczenie
 - D. Osiągnięcia kulturalne przetrwały pierwsze rozbiory
@@ -141,7 +141,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Stanisław Konarski —Wikipedia](https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Konarski)
 - [Głos wolny wolność ubezpieczający —Wikipedia](https://pl.wikipedia.org/wiki/G%C5%82os_wolny_wolno%C5%9B%C4%87_ubezpiecz%C4%85cy)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B. Sarmatyzm był ideologią konserwatywną, sprzeciwia się Oświeceniu
 - C. Absolutyzm nie był głównym nurtem polskiego Oświecenia
 - D. Romantyzm to nurt XIX-wieczny
@@ -166,7 +166,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 - [Saksonia —Wikipedia](https://pl.wikipedia.org/wiki/Saksonia)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Unia nie przyniosła Polsce wyłącznie korzyści — problemy przeważały
 - C. Saksonia nie zyskała terytoriów dzięki unii z Polską
 - D. Unia nie była idealnym rozwiązaniem — przeciwnie, przyczyniła się do osłabienia Polski
@@ -191,7 +191,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 - [Wojna o sukcesję polską —Wikipedia](https://pl.wikipedia.org/wiki/Wojna_o_sukcesj%C4%99_polsk%C4%99_%281733%E2%80%931735%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Podwójna elekcja nie wzmocniła Polski — przeciwnie, pokazała jej słabość
 - B. Wojna nie doprowadziła do reform — przeciwnie, utrudniła je
 - D. Skutkiem była większa zależność od mocarstw obcych
@@ -217,7 +217,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [August III Sas —Wikipedia](https://pl.wikipedia.org/wiki/August_III_Sas)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Długość panowania nie równa się wpływowi — August II był bardziej aktywny
 - B. Królowie mieli różny styl rządzenia — August II aktywny, August III pasywny
 - C. Obaj mieli istotny wpływ, choć August II większy
@@ -242,7 +242,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 - [Liberum veto —Wikipedia](https://pl.wikipedia.org/wiki/Liberum_veto)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. System sejmikowy nie wzmocnił państwa — przeciwnie, doprowadził do paraliżu
 - B. Rządy sejmikowe nie były efektywne — brakowało zdecydowanych liderów
 - C. Oligarchizacja miała bezpośredni związek z upadkiem
@@ -267,7 +267,7 @@ Czasy saskie stanowiły kluczowy okres w dziejach Rzeczypospolitej Obojga Narod�
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 - [Gospodarka I Rzeczypospolitej —Wikipedia](https://pl.wikipedia.org/wiki/Gospodarka_I_Rzeczypospolitej)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Przemiany gospodarcze nie wzmocniły państwa — kryzys przeważał
 - C. Gospodarka się nie rozwijała dynamicznie — była w kryzysie
 - D. Pojawiły się nowe zjawiska (manufaktury, fizjokratyzm)

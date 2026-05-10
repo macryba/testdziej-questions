@@ -41,7 +41,7 @@ Leszek Balcerowicz był wicepremierem i ministrem finansów w rządzie Tadeusza 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: Tadeusz Mazowiecki - incorrect from Transformacja (był premierem rządu, ale nie autorem planu)
 - C: Wojciech Jaruzelski - incorrect from Stan wojenny (był prezydentem PRL w latach 1989-1990)
 - D: Adam Michnik - incorrect no referenced answer (był działaczem opozycji, nie autorem planu)
@@ -68,7 +68,7 @@ Plan Balcerowicza rozpoczął się 1 stycznia 1990 roku. Ustawy tworzące plan z
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A: 17 września 1939 - incorrect from II wojna światowa (data agresji ZSRR na Polskę)
 - B: 13 grudnia 1981 - incorrect from Stan wojenny (data wprowadzenia stanu wojennego)
 - C: 4 czerwca 1989 - incorrect from Transformacja (data częściowo wolnych wyborów)
@@ -95,7 +95,7 @@ Głównym celem Planu Balcerowicza było odejście od gospodarki scentralizowane
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Plan_Balcerowicza
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B: Wstąpienie do UE - incorrect from III RP - Polska w NATO i UE (nastąpiło dopiero w 2004 roku)
 - C: Stadion narodowy - incorrect no referenced answer (został zbudowany w 2011 roku)
 - D: Igrzyska Olimpijskie - incorrect no referenced answer (Polska nigdy nie organizowała Igrzysk)

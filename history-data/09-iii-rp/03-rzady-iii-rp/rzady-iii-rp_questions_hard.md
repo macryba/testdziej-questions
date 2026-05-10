@@ -45,7 +45,7 @@ D. Umożliwiły wypracowanie trwałych mechanizmów kompromisu w życiu politycz
 - [III Rzeczpospolita](https://pl.wikipedia.org/wiki/III_Rzeczpospolita) —Wikipedia Polska
 - [Konflikty polityczne w III RP](https://pl.wikipedia.org/wiki/Konflikty_polityczne_w_III_RP) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Tylko czasowe napięcia —skutki "wojn na szczycie" były długoterminowe i wpłynęły na kształt polskiej demokracji
 - Nie miały wpływu —badania pokazują, że te konflikty miały istotny wpływ na późniejszą polaryzację polityczną
 - Umożliwiły mechanizmy kompromisu —faktycznie "wojny na szczycie" doprowadziły do upadu rządów, nie do stabilizacji
@@ -74,7 +74,7 @@ Integracja z NATO (1999) i UE (2004) była kluczowym czynnikiem przyspieszający
 - [Przystąpienie Polski do NATO](https://pl.wikipedia.org/wiki/Przyst%C4%85pienie_Polski_do_NATO) —Wikipedia Polska
 - [Przystąpienie Polski do Unii Europejskiej](https://pl.wikipedia.org/wiki/Przyst%C4%85pienie_Polski_do_Unii_Europejskiej) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Nie wpłynęła znacząco —proces akcesyjny wywierał istotną presję na dostosowanie polskiego prawa do standardów unijnych
 - Spowolniła reformy —integracja była impulsem do przeprowadzenia reform, a nie ich hamulcem
 - Odejście od standardów —integracja wymagała przyjęcia standardów demokratycznych, a nie od nich odejścia
@@ -104,7 +104,7 @@ Przemiany polityczne po 2015 roku, kiedy władzę przejęło Prawo i Sprawiedliw
 - [Spór o wymiar sprawiedliwości w Polsce](https://pl.wikipedia.org/wiki/Sp%C3%B3r_o_wymiar_sprawiedliwo%C5%9Bci_w_Polsce) —Wikipedia Polska
 - [Artykuł 7 Traktatu o UE](https://pl.wikipedia.org/wiki/Artyku%C5%82_7_Traktatu_o_ue) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Nie miały wpływu —uruchomienie artykułu 7 wobec Polski dowodzi istotnego wpływu na relacje z UE
 - Odejście od członkostwa —Polska nie wystąpiła z Unii Europejskiej, mimo trwających konfliktów
 - Poprawiły relacje —faktyczne relacje uległy pogorszeniu, co potwierdzają dokumenty UE i procedury praworządnościowe

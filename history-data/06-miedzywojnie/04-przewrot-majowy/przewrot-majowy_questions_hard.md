@@ -37,7 +37,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 - [II Rzeczpospolita](https://pl.wikipedia.org/wiki/II_Rzeczpospolita) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B (Silna pozycja prezydenta): Przed przewrotem prezydent miał ograniczone uprawnienia
 - Odpowiedź C (Dominacja socjalistów): PPS nie miał dominującej pozycji w Sejmie
 - Odpowiedź D (Brak zainteresowania): Społeczeństwo było zaangażowane politycznie
@@ -62,7 +62,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Nowela sierpniowa](https://pl.wikipedia.org/wiki/Nowela_sierpniowa) - Wikipedia Polska
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Pełna dyktatura): Prezydent nie miał pełni władzy dyktatorskiej
 - Odpowiedź C (Zniesienie prezydenta): Urząd prezydenta został zachowany i wzmocniony
 - Odpowiedź D (Pełna demokracja): Nowela ograniczała uprawnienia parlamentu
@@ -88,7 +88,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Konstytucja marcowa](https://pl.wikipedia.org/wiki/Konstytucja_mar%C3%B3wa) - Wikipedia Polska
 - [Konstytucja kwietniowa](https://pl.wikipedia.org/wiki/Konstytucja_kwietniowa) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Dominacja Piłsudskiego): Przed przewrotem Piłsudski nie dominował w polityce
 - Odpowiedź B (Monarchia): Polska była republiką przed i po przewrocie
 - Odpowiedź C (Prawica/lewica): Podział nie był tak jednoznaczny
@@ -113,7 +113,7 @@ Przewrót majowy był zbrojnym zamachem stanu przeprowadzonym przez marszałka J
 - [Sanacja](https://pl.wikipedia.org/wiki/Sanacja) - Wikipedia Polska
 - [Przewrót majowy](https://pl.wikipedia.org/wiki/Przewr%C3%B3t_majowy) - Wikipedia Polska
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (Konsolidacja): Społeczeństwo nie było w pełni skonsolidowane wokół władz sanacyjnych
 - Odpowiedź C (Całkowite wyeliminowanie): Opozycja istniała, choć była ograniczana
 - Odpowiedź D (Komuniści): Partia komunistyczna była nielegalna i marginalna

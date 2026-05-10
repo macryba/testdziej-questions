@@ -45,7 +45,7 @@ Ofensywa Armii Czerwonej była strategicznie powiązana z instalacją proradziec
 - https://pl.wikipedia.org/wiki/Polski_Komitet_Wyzwolenia_Narodowego
 - https://pl.wikipedia.org/wiki/Armia_Czerwona
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Ofensywa opóźniła przejęcie władzy przez komunistów - Nieprawda, ofensywa przyspieszyła ten proces
 - B. Ofensywa sowiecka nie miała związku z przejęciem władzy - Nieprawda, związek był bezpośredni
 - D. Ofensywa umożliwiła władzę komunistom, lecz był to przypadek - Nieprawda, był to zaplanowany proces
@@ -74,7 +74,7 @@ Wydarzenia lat 1944-1945 mają podwójny charakter. Z punktu widzenia militarne 
 - https://pl.wikipedia.org/wiki/Polska_pod_okupacj%C4%85_1939%E2%80%931945
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Wyłącznie nowa okupacja sowiecka - Nie uwzględnia zakończenia brutalnej okupacji niemieckiej
 - C. Ani wyzwolenie, ani okupacja — neutralny proces - Nieprawda, był to proces jednoznacznie polityczny
 - D. Wyłącznie wyzwolenie spod okupacji niemieckiej - Nie uwzględnia utraty suwerenności na rzecz ZSRR
@@ -102,7 +102,7 @@ Alianci zachodni ponoszą częściową odpowiedzialność. Churchill i Roosevelt
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Konferencja_ja%C5%82ta%C5%84ska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Alianci ponoszą pełną odpowiedzialność - Niesprawiedliwe, znaleźli się pod presją wojennych okoliczności
 - B. Jedynie ZSRR ponosi odpowiedzialność za los Polski - Nieprawda, alianci również przyczynili się do tej sytuacji
 - C. Alianci zachodni nie ponoszą odpowiedzialności - Nieprawda, podjęli decyzje sprzeczne z interesami Polski
@@ -131,7 +131,7 @@ Synteza zmian w latach 1944-1945 obejmuje trzy wymiary: 1) Terytorialny — Pols
 - https://pl.wikipedia.org/wiki/Konferencja_poczda%C5%84ska
 - https://pl.wikipedia.org/wiki/Straty_Polski_w_czasie_II_wojny_%C5%9Bwiatowej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Polska utraciła Kresy, lecz zyskała ziemie zachodnie i zachowała niepodległość - Częściowo prawda, ale niepodległość została utracona
 - C. Polska powiększyła terytorium, zyskała ludność i zachowała ustrój demokratyczny - Nieprawda w każdym aspekcie
 - D. Polska zachowała terytorium, straciła ludność i zachowała ustrój demokratyczny - Nieprawda, terytorium się zmieniło, ustrój nie był demokratyczny
@@ -160,7 +160,7 @@ Operacja przełamania Wału Pomorskiego (10 lutego - 6 kwietnia 1945) była jedn
 - https://pl.wikipedia.org/wiki/Prze%C5%82amanie_Wa%C5%82u_Pomorskiego
 - https://pl.wikipedia.org/wiki/Ludowe_Wojsko_Polskie
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Operacja odbyła się na Bugu i była porażką LWP - Nieprawda, operacja odbyła się na Pomorzu i była zwycięstwem
 - B. Operacja nie miała miejsca — Wał Pomorski jest mitem - Nieprawda, Wał Pomorski istniał i został rzeczywiście przełamany
 - D. Operacja była bitwą graniczną o nieistotnym znaczeniu - Nieprawda, miała kluczowe znaczenie militarne i polityczne

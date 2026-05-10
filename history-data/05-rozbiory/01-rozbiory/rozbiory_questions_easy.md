@@ -42,7 +42,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/I_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) 1768 – rok wybuchu konfederacji barskiej, wydarzenie sprzed rozbiorów
 - C) 1789 – rok wybuchu rewolucji francuskiej, nie związany z rozbiorami Polski
 - D) 1793 – data drugiego rozbioru Polski
@@ -66,7 +66,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/I_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Szwecja nie uczestniczyła w rozbiorach Polski, była potęgą w XVII wieku
 - B) Turcja (Imperium Osmańskie) jako jedyne państwo nie uznało później rozbiorów Polski
 - C) Francja nie uczestniczyła w rozbiorach, była tradicionalnym sojusznikiem Polski
@@ -90,7 +90,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/I_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Gdańsk został zajęty przez Prusy w drugim rozbiorze w 1793 roku
 - B) Warszawa została zajęta przez Prusy w trzecim rozbiorze w 1795 roku
 - D) Poznań został zajęty przez Prusy w pierwszym rozbiorze w 1772 roku
@@ -114,7 +114,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 - https://pl.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Stanisław Leszczyński był królem Polski w XVIII wieku, ale nie w okresie rozbiorów
 - C) August III Sas był poprzednikiem Stanisława Augusta, zmarł w 1763 roku
 - D) Jan III Sobieski był królem Polsce w XVII wieku, ponad 100 lat przed rozbiorami
@@ -138,7 +138,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/III_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Polska nie stała się protektoratem, ale całkowicie przestała istnieć
 - C) Polska nie zachowała żadnej niepodległości po trzecim rozbiorze
 - D) Polska nie stała się republiką francuską, choć Francja była sojusznikiem
@@ -161,7 +161,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Francja potajemnie uznała rozbory, mimo tradycyjnego sojuszu z Polską
 - B) Anglia (Wielka Brytania) nie sprzeciwiła się rozbiorom
 - C) Hiszpania podobnie jak inne państwa europejskie zaakceptowała rozbory
@@ -185,7 +185,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/II_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) 1772 – data pierwszego rozbioru Polski
 - B) 1789 – rok wybuchu rewolucji francuskiej, nie związany bezpośrednio z rozbiorami
 - D) 1795 – data trzeciego rozbioru Polski
@@ -209,7 +209,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/II_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Szczecin i Kołobrzeg były już w rękach pruskich przed rozbiorami
 - C) Gdynia wówczas nie istniała jako miasto, Elbląg był już pruski
 - D) Królewiec i Tylża były już w Prusach od XVI wieku
@@ -233,7 +233,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/III_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Król nie uciekł do Francji, tylko został pod nadzorem rosyjskim
 - B) Powstanie zorganizował Tadeusz Kościuszko, a nie król
 - C) Król nie został zamordowany, zmarł śmiercią naturalną w Petersburgu
@@ -257,7 +257,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 - https://pl.wikipedia.org/wiki/Historia_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) 50 lat to zbyt mało, Polska odzyskała niepodległość w 1918 roku
 - B) 100 lat to również zbyt mało, bo 1918 - 1795 = 123 lata
 - D) 150 lat to zbyt dużo, Polska odzyskała niepodległość w 1918 roku
@@ -281,7 +281,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/III_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Polska nie stała się protektoratem, ale całkowicie zniknęła z mapy
 - C) Polska nie zachowała żadnej niezależności po trzecim rozbiorze
 - D) Polska nie stała się członkiem żadnego związku, została zlikwidowana
@@ -304,7 +304,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Te liczby są mylone z danymi z drugiego rozbioru
 - C) To jest suma wszystkich trzech rozbiorów
 - D) Te liczby są zbyt duże dla pierwszego rozbioru
@@ -328,7 +328,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/Insurekcja_ko%C5%9Bciuszkowska
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B) Konstytucja 3 maja została uchwalona w 1791 roku, przed drugim rozbiorze
 - C) Wojna polsko-rosyjska rozpoczęła się w 1792 roku
 - D) Konfederacja Targowicka powstała w 1792 roku
@@ -352,7 +352,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/III_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Rozbiory_Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Mazowsze z Warszawą dostały Prusy
 - C) Wielkopolskę z Poznaniem zajęły Prusy
 - D) Pomorze Gdańskie z Gdańskiem były już w rękach pruskich
@@ -376,7 +376,7 @@ Trzy rozbiory Polski (1772, 1793, 1795) to proces stopniowej aneksji terytorium 
 - https://pl.wikipedia.org/wiki/III_rozbi%C3%B3r_Polski
 - https://pl.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Powstanie kościuszkowskie wybuchło w marcu 1794 roku
 - C) Traktat trzeciego rozbioru podpisano 24 października 1795 roku
 - D) Konstytucję 3 maja uchwalono 3 maja 1791 roku

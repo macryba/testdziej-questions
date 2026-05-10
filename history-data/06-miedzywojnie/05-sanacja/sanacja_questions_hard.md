@@ -38,7 +38,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Konstytucja_aprniowa
 - https://pl.wikipedia.org/wiki/Sanacja
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest błędna, ponieważ przed przewrotem majowym prezydent miał ograniczone uprawnienia, a po nim zostały one znacząco wzmocnione
 - C) Odpowiedź jest błędna, ponieważ przed zmianami ustrojowymi istniała demokracja parlamentarna, a po nich system autorytarny – nie było to "trzech równoważnych władz"
 - D) Odpowiedź jest całkowicie błędna, ponieważ przed zmianami ustrojowymi nie było dyktatury wojskowej, lecz demokracja parlamentarna, a po nich nie przywrócono demokracji, lecz wprowadzono autorytaryzm
@@ -64,7 +64,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/wiki/Sanacja
 - Podstawa programowa – liceum_technikum_zpe.md, Dział XLII (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest całkowicie błędna – ustawy nie wzmocniły demokracji parlamentarnej, lecz ją ograniczyły; nie rozszerzyły praw obywatelskich, lecz je ograniczyły
 - C) Odpowiedź jest błędna – mechanizmy kontroli parlamentarnej zostały zniszczone, nie zachowane; prawa obywatelskie były ograniczone, nie typowe dla demokracji
 - D) Odpowiedź jest całkowicie błędna – ustawy miały charakter fundamentalny i całkowicie zmieniły system polityczny Polski z parlamentarnego na autorytarny
@@ -90,7 +90,7 @@ Sanacja (łac. sanatio – "uzdrowienie") to obóz polityczny rządzący w II Rz
 - https://pl.wikipedia.org/Proces_brzeski
 - Podstawa programowa – liceum_technikum_zpe.md, Dział XLII (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest jednostronna i krzywdząca – sanacja przyniosła istotne osiągnięcia w modernizacji (COP), choć jej bilans był negatywny pod względem demokracji i przygotowań do wojny
 - B) Odpowiedź jest całkowicie błędna i krzywdząca – sanacja nie ustanowiła demokracji, lecz ją ograniczyła; Polska nie została skutecznie przygotowana do wojny; społeczeństwo było jednym z najuboższych w Europie
 - D) Odpowiedź jest całkowicie błędna – sanacja zasadniczo zmieniła system polityczny z parlamentarnego na autorytarny, co nie było jedynie zmianą personeli

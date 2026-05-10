@@ -42,7 +42,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Roman_Dmowski
 - https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Obydwaj działacze opowiadali się za republiką, a nie monarchią.
 - Odpowiedź B: Dmowski był przeciwnikiem integracji z Rosją, a Piłsudski walczył z bolszewikami.
 - Odpowiedź D: Obaj politycy dążyli do sojuszu z Francją, nie z Austrią.
@@ -68,7 +68,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Traktat_wersalski
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B: Traktat wersalski ustalał tylko granicę zachodnią z Niemcami.
 - Odpowiedź C: Polska nie otrzymała odszkodowań wojennych na mocy traktatu wersalskiego.
 - Odpowiedź D: Sojusz z Francją został zawarty osobnym układem w 1921 roku.
@@ -94,7 +94,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Powstanie_wielkopolskie
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Austria nie ogłosiła niepodległości Polski - była to inicjatywa polska.
 - Odpowiedź C: Paderewski był katalizatorem, ale nie decydującym czynnikiem.
 - Odpowiedź D: Cesarz Wilhelm II nie wydał dekretu sprzyjającego Polakom.
@@ -120,7 +120,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/III_powstanie_%C5%9Bl%C4%85skie
 - https://pl.wikipedia.org/wiki/Plebiscyt_na_%C5%9Al%C4%85sku_Opolskim
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Nie ma dowodów na sfałszowanie plebiscytu przez Niemców.
 - Odpowiedź B: Mieszkańcy głosowali w większości za Niemcami.
 - Odpowiedź C: Rada Ambasadorów uznała wyniki plebiscytu.
@@ -146,7 +146,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Konferencja_pokojowa_w_Pary%C5%BCu_(1919%E2%80%931920)
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Granice wschodnie były przedmiotem osobnych negocjacji z Rosją Sowiecką.
 - Odpowiedź B: Polska nie otrzymała znaczących odszkodowań.
 - Odpowiedź D: Polska była republiką, nie monarchią.
@@ -172,7 +172,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Plebiscyt_na_Warmii%2C_Mazurach_i_Powi%C5%9Blu
 - https://pl.wikipedia.org/wiki/II_Rzeczpospolita
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź B: Polacy mieli prawo głosu w plebiscycie.
 - Odpowiedź C: Nie ma dowodów na sfałszowanie plebiscytu.
 - Odpowiedź D: Polska prowadziła aktywną kampanię plebiscytową.
@@ -198,7 +198,7 @@ Odrodzenie Polski (1918-1921) było procesem odbudowy państwa polskiego po upad
 - https://pl.wikipedia.org/wiki/Tymczasowy_Rz%C4%85d_Ludowy_Republiki_Polskiej
 - https://pl.wikipedia.org/wiki/Odzyskanie_niepodleg%C5%82o%C5%9Bci_przez_Polsk%C4%99_w_1918_roku
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A: Piłsudski objął władze później, w Warszawie.
 - Odpowiedź B: Rewolucja w Rosji nastąpiła wcześniej, w 1917 roku.
 - Odpowiedź C: Kapitulacja Niemiec wpłynęła na sytuację w Warszawie.

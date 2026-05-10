@@ -43,7 +43,7 @@ Okres budowy II RP (1921-1926) to czas transformacji od demokracji parlamentarne
 - [Kryzys demokracji parlamentarnej](https://pl.wikipedia.org/wiki/Kryzys_demokracji_parlamentarnej) - Wikipedia Polska
 - [Sejmokracja](https://pl.wikipedia.org/wiki/Sejmokracja) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (idealnym rozwiązaniem) – no referenced answer: Stanowczo fałszywa ocena. Konstytucja marcowa nie zapewniła stabilności demokratycznej, lecz doprowadziła do kryzysu sejmokracji z częstymi zmianami rządów (14 gabinetów w 5 lat). System okazał się niewydolny w praktyce.
 - Odpowiedź B (implementacja zakłócona przez wojnę z bolszewikami) – context from current chapter: Częściowo prawdziwa, ale wojna z bolszewikami zakończyła się w 1920 roku, a Konstytucja została uchwalona w marcu 1921 roku. Problemem nie były okoliczności zewnętrzne, lecz wady systemu parlamentarnego.
 - Odpowiedź D (zbyt restrykcyjna i uniemożliwiała sprawne rządzenie) – opposite assessment: Analiza jest nietrafna. Problemem Konstytucji marcowej była zbyt słaba pozycja władzy wykonawczej wobec Sejmu, a nie nadmierna restrykcyjność. System sprzyjał rozbiciu partyjnemu i blokowaniu reform.
@@ -70,7 +70,7 @@ Okres budowy II RP (1921-1926) to czas transformacji od demokracji parlamentarne
 - [Sanacja](https://pl.wikipedia.org/wiki/Sanacja) - Wikipedia Polska
 - [Józef Piłsudski](https://pl.wikipedia.org/wiki/J%C3%B3zef_Pi%C5%82sudski) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (zdecydowanie koniecznością) – no referenced answer: Stanowisko zbyt kategoryczne i upraszczające. Choć kryzys parlamentaryzmu był głęboki, alternatywą nie byłaby koniecznie całkowita klęska państwa. Historia pokazuje, że reformy demokratyczne były możliwe, choć wymagałyby czasu i kompromisów.
 - Odpowiedź C (niepotrzebnym zamachem) – incorrect from "Przewrót majowy" (next chapter): Odpowiedź jest naiwna i ignoruje realia polityczne lat 1923-1926. System parlamentarny był w stanie głębokiego kryzysu z niestabilnością rządów, chaosem gospodarczym i eskalacją przemocy politycznej (zamach na Niewiadomskiego, zamachy na posłów). Samoregulacja była mało prawdopodobna.
 - Odpowiedź D (czysto aktem władzy bez uzasadnienia) – no referenced answer: Stanowisko ignoruje obiektywne problemy okresu: inflacja, bezrobodobie, korupcję, paraliż decyzyjny Sejmu i zagrożenie ze strony sąsiednich państw totalitarnych. Przewrót miał rzeczywiste uzasadnienie w kryzysie państwa, choć metody były kontrowersyjne.
@@ -97,7 +97,7 @@ Okres budowy II RP (1921-1926) to czas transformacji od demokracji parlamentarne
 - [Historia Polski (1918–1939)](https://pl.wikipedia.org/wiki/Historia_Polski_%281918%E2%80%931939%29) - Wikipedia Polska
 - [Dzieje polityczne II Rzeczypospolitej](https://pl.wikipedia.org/wiki/Dzieje_polityczne_II_Rzeczypospolitej) - Wikipedia Polska
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - Odpowiedź A (całkowicie stracony bez pozytywnych dziedzictw) – no referenced answer: Stanowisko skrajnie pesymistyczne, ignorujące istotne osiągnięcia okresu: uregulowanie granic w traktacie ryskim (1921), stabilizacja waluty w reformie Grabskiego (1924), budowa administracji państwowej, rozwój oświaty i modernizacja wojska. Okres pozostawił trwałe fundamenty państwowości.
 - Odpowiedź C (wielkim sukcesem pozwalającym się rozwinąć) – no referenced answer: Stanowisko skrajnie optymistyczne, pomijające poważne niepowodzenia: kryzys demokracji parlamentarnej, nieudaną integrację mniejszości narodowych (ok. 30% populacji), pogłębiające się różnice społeczne, eskalacja przemocy politycznej i przewrót majowy kończący okres demokracji.
 - Odpowiedź D (jednoznacznie pozytywny - wszystkie cele osiągnięte) – no referenced answer: Stanowisko nierealistyczne. Polska nie osiągnęła kluczowych celów: stabilizacji systemu politycznego, integracji społeczeństwa, reconcjalizacji z mniejszościami ani trwałego rozwoju gospodarczego. Bilans okresu jest mieszany z istotnymi achievementami i porażkami.

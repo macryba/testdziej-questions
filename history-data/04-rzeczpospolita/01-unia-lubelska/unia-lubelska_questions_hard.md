@@ -44,7 +44,7 @@ Unia lubelska utworzyła federacyjne państwo – Rzeczpospolitą Obojga Narodó
 - https://pl.wikipedia.org/wiki/Kozacy
 - https://pl.wikipedia.org/wiki/Kozacy_zaporoscy
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - **A. Strategia była skuteczna** – Ocenia tylko krótkoterminowe skutki, ignorując długoterminowe konsekwencje
 - **C. Strategia była błędna** – Ocenia tylko długoterminowe konsekwencje, ignorując krótkoterminowe skutki
 - **D. Strategia była neutralna** – Ignoruje rzeczywiste skutki polityczne i społeczne inkorporacji
@@ -72,7 +72,7 @@ Unia lubelska utworzyła federacyjne państwo – Rzeczpospolitą Obojga Narodó
 - https://pl.wikipedia.org/wiki/Unia_kalmarska
 - https://pl.wikipedia.org/wiki/Unia_personalna
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - **A. Unia lubelska była identyczna jak inne unie** – Ignoruje fundamentalną różnicę w równoprawności obu części
 - **C. Unia lubelska była luźniejsza niż inne unie** – Unia lubelska miała silniejsze instytucje wspólne niż wiele innych unii
 - **D. Unia lubelska była ściślejsza niż inne unie** – Unia lubelska zachowywała silne autonomie lokalne
@@ -101,7 +101,7 @@ Unia lubelska utworzyła federacyjne państwo – Rzeczpospolitą Obojga Narodó
 - https://pl.wikipedia.org/wiki/Miko%C5%82aj_Sienicki
 - https://pl.wikipedia.org/wiki/Rafa%C5%82_Leszczy%C5%84ski
 
-**Analiza odpowiedzi nieprawidłowych:**
+**Analiza odpowiedzi błędnych:**
 - **A. Wyłącznie architektem unii** – Przesadza rolę monarchy, ignorując wpływ szlachty egzekucyjnej i okoliczności międzynarodowych
 - **C. Przeciwny unii** – Nieprawda, Zygmunt II August wspierał unię jako sposób na wzmocnienie państwa
 - **D. Nie miał znaczącego wpływu** – Nieprawda, król odegrał kluczową rolę w negocjacjach i decyzji o inkorporacji ziem ruskich

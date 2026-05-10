@@ -44,7 +44,7 @@ Hanna Suchocka była pierwszą kobietą-premierem w historii III RP, sprawując 
 **Źródła:**
 - [Hanna Suchocka](https://pl.wikipedia.org/wiki/Hanna_Suchocka) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Ewa Kopacz —była premierem w latach 2014-2015, jako trzecia kobieta-premier
 - Beata Szydło —była premierem w latach 2015-2017, jako czwarta kobieta-premier
 - Elżbieta Bieńkowska —była wicepremier i minister, ale nigdy premierem
@@ -73,7 +73,7 @@ Leszek Miller był premierem w latach 2001-2004 i to pod jego kierownictwem Pols
 - [Leszek Miller](https://pl.wikipedia.org/wiki/Leszek_Miller) —Wikipedia Polska
 - [Przystąpienie Polski do Unii Europejskiej](https://pl.wikipedia.org/wiki/Przyst%C4%85pienie_Polski_do_Unii_Europejskiej) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Jerzy Buzek —był premierem w latach 1997-2001, przygotowywał Polskę do integracji, ale nie doprowadził do niej
 - Marek Belka —został premierem w maju 2004, po przystąpieniu Polski do UE
 - Jan Olszewski —był premierem w latach 1991-1992, długo przed przystąpieniem Polski do UE
@@ -102,7 +102,7 @@ Akcja Wyborcza Solidarność (AWS) wygrała wybory parlamentarne w 1997 roku, zd
 - [Jerzy Buzek](https://pl.wikipedia.org/wiki/Jerzy_Buzek) —Wikipedia Polska
 - [Wybory parlamentarne w Polsce w 1997 roku](https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_1997_roku) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Sojusz Lewicy Demokratycznej —przegrał wybory w 1997, wygrał wybory w 1993 i 2001
 - Platforma Obywatelska —nie istniała w 1997 roku, została założona w 2001
 - Prawo i Sprawiedliwość —nie istniało w 1997 roku, zostało założone w 2001
@@ -131,7 +131,7 @@ Rząd Hanny Suchockiej upadł po wotum nieufności udzielonym przez Sejm 28 maja
 - [Hanna Suchocka](https://pl.wikipedia.org/wiki/Hanna_Suchocka) —Wikipedia Polska
 - [Rząd Hanny Suchockiej](https://pl.wikipedia.org/wiki/Rz%C4%85d_Hanny_Suchockiej) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Przez rezygnację premiera —Suchocka nie rezygnowała, została odwołana przez Sejm
 - Na skutek przegranych wyborów samorządowych —wybory samorządowe nie miały bezpośredniego wpływu na upadek rządu
 - Wskutek oskarżeń o korupcję —nie było oskarżeń o korupcję wobec rządu Suchockiej
@@ -160,7 +160,7 @@ Jerzy Buzek był premierem w latach 1997-2001 i to pod jego kierownictwem Polska
 - [Jerzy Buzek](https://pl.wikipedia.org/wiki/Jerzy_Buzek) —Wikipedia Polska
 - [Przystąpienie Polski do NATO](https://pl.wikipedia.org/wiki/Przyst%C4%85pienie_Polski_do_NATO) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Leszek Miller —był premierem w latach 2001-2004, już po wejściu Polski do NATO
 - Włodzimierz Cimoszewicz —był premierem w latach 1996-1997, przed przystąpieniem Polski do NATO
 - Józef Oleksy —był premierem w latach 1995-1996, przed przystąpieniem Polski do NATO
@@ -188,7 +188,7 @@ D. Podziały społeczne
 **Źródła:**
 - [III Rzeczpospolita](https://pl.wikipedia.org/wiki/III_Rzeczpospolita) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Wojny u góry —błędne określenie, nie jest używane w języku polskim
 - Konflikty polityczne —zbyt ogólne określenie, nie oddaje specyfiki rywalizacji w III RP
 - Podziały społeczne —odnosi się do podziałów w społeczeństwie, a nie do rywalizacji elit politycznych
@@ -217,7 +217,7 @@ Sojusz Lewicy Demokratycznej (SLD) wygrał wybory parlamentarne w 2001 roku, zdo
 - [Leszek Miller](https://pl.wikipedia.org/wiki/Leszek_Miller) —Wikipedia Polska
 - [Wybory parlamentarne w Polsce w 2001 roku](https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2001_roku) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Platforma Obywatelska —zajęła drugie miejsce w 2001 roku, z 65 mandatami
 - Prawo i Sprawiedliwość —zajęło czwarte miejsce w 2001 roku, z 44 mandatami
 - PSL —był koalicjantem SLD, ale nie wygrał wyborów
@@ -246,7 +246,7 @@ Rząd Leszka Millera był pod silną presją z powodu rosnącego bezrobocia (kt�
 - [Leszek Miller](https://pl.wikipedia.org/wiki/Leszek_Miller) —Wikipedia Polska
 - [Rząd Leszka Millera](https://pl.wikipedia.org/wiki/Rz%C4%85d_Leszka_Millera) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Przez politykę zagraniczną wobec USA —polityka zagraniczna Millera była proamerykańska (sojusz w Iraku)
 - Na skutek konfliktu z Kościołem katolickim —nie było poważnego konfliktu z Kościołem w tym okresie
 - Wskutek sprzeciwu integracji z UE —Miller był zwolennikiem integracji i doprowadził do niej
@@ -275,7 +275,7 @@ Donald Tusk był premierem przez 7 lat (2007-2014), co czyni go najdłużej urz�
 - [Donald Tusk](https://pl.wikipedia.org/wiki/Donald_Tusk) —Wikipedia Polska
 - [Premierzy Polski](https://pl.wikipedia.org/wiki/Premierzy_Polski) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Jarosław Kaczyński —był premierem przez około 14 miesięcy (2006-2007)
 - Jerzy Buzek —był premierem przez 4 lata (1997-2001)
 - Mateusz Morawiecki — był premierem przez 6 lat (2017-2023), ale krócej niż Tusk
@@ -304,7 +304,7 @@ Platforma Obywatelska (PO) wygrała wybory parlamentarne w 2007 roku, zdobywają
 - [Donald Tusk](https://pl.wikipedia.org/wiki/Donald_Tusk) —Wikipedia Polska
 - [Wybory parlamentarne w Polsce w 2007 roku](https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2007_roku) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Prawo i Sprawiedliwość —przegrało wybory w 2007, zdobyło 166 mandatów
 - Sojusz Lewicy Demokratycznej —zajęło trzecie miejsce z 53 mandatami
 - Polskie Stronnictwo Ludowe —było koalicjantem PO, ale nie wygrało wyborów
@@ -333,7 +333,7 @@ Prawo i Sprawiedliwość (PiS) wygrało wybory parlamentarne w 2015 roku, zdobyw
 - [Wybory parlamentarne w Polsce w 2015 roku](https://pl.wikipedia.org/wiki/Wybory_parlamentarne_w_Polsce_w_2015_roku) —Wikipedia Polska
 - [Beata Szydło](https://pl.wikipedia.org/wiki/Beata_Szyd%C5%82o) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Platforma Obywatelska —przegrała wybory w 2015, zdobyła 138 mandatów
 - Nowoczesna —zajęła trzecie miejsce z 28 mandatami
 - Kukiz'15 —zajęło czwarte miejsce z 42 mandatami
@@ -362,7 +362,7 @@ Beata Szydło zrezygnowała z funkcji premiera 7 grudnia 2017 roku w ramach reko
 - [Beata Szydło](https://pl.wikipedia.org/wiki/Beata_Szyd%C5%82o) —Wikipedia Polska
 - [Mateusz Morawiecki](https://pl.wikipedia.org/wiki/Mateusz_Morawiecki) —Wikipedia Polska
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - Na skutek wotum nieufności —rząd Szydło nie otrzymał wotum nieufności
 - Przez przegrane wybory samorządowe —wybory samorządowe nie miały bezpośredniego wpływu na zmianę premiera
 - Wskutek oskarżeń o nieudolność —nie było formalnych oskarżeń o nieudolność

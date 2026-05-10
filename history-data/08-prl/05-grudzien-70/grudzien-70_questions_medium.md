@@ -35,7 +35,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Decyzja o budowie nowej stoczni w Gdyni została podjęta w latach 30., a nie w 1970
 - C: Cenzura prasy była stałym elementem systemu komunistycznego, nie była nowością w grudniu 1970
 - D: Nowe normy pracy nie zostały wprowadzone w grudniu 1970
@@ -58,7 +58,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Stocznia im. Komuny Paryskiej w Gdyni dołączyła do strajku w drugim dniu protestów
 - C: Stocznia Szczecińska dołączyła do protestów później
 - D: Stocznia Gdańska Remontowa nie była miejscem początkowego wybuchu protestów
@@ -81,7 +81,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: 18 osób to tylko liczba ofiar w Gdyni
 - B: 27 osób to liczba ofiar w Szczecinie i Gdyni łącznie
 - D: 55 osób to zawyżona liczba, nieodpowiadająca rzeczywistym danym
@@ -104,7 +104,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: 14 grudnia był pierwszym dniem protestów
 - B: 15 grudnia był dniem podpalenia gmachu KW PZPR w Gdańsku
 - D: 19 grudnia był już dniem, gdy protesty wygasały
@@ -127,7 +127,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Wojciech Jaruzelski został premierem w 1970, ale nie pierwszym sekretarzem
 - C: Piotr Jaroszewicz był premierem w latach 70., nie sekretarzem partii
 - D: Stanisław Kania został pierwszym sekretarzem dopiero w 1980 roku
@@ -150,7 +150,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Siedziba MSW w Warszawie nie została podpalona
 - B: Sejm RP w Warszawie nie był zaatakowany przez protestujących
 - C: Pałac Kultury i Nauki nie był celem ataku w grudniu 1970
@@ -173,7 +173,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Warszawa i Kraków nie były głównymi ośrodkami protestów
 - B: Łódź i Katowice miały mniejsze strajki
 - C: Poznań i Wrocław doświadczyły protestów, ale nie w takiej skali
@@ -196,7 +196,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Ponad 500 osób to liczba zbyt niska
 - C: Ponad 1500 osób to liczba zbyt wysoka
 - D: Ponad 2000 osób to liczba znacznie zawyżona
@@ -219,7 +219,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - B: Protesty stłumiono siłami zarówno milicji, jak i wojska
 - C: Protesty stłumiono siłami zarówno milicji, jak i wojska
 - D: Protesty stłumiono siłami zarówno milicji, jak i wojska
@@ -242,7 +242,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: 17 grudnia był dniem „czarnego czwartku", ale nie końcem protestów
 - B: 19 grudnia protesty trwały jeszcze, choć w mniejszej skali
 - D: 25 grudnia protesty były już zakończone
@@ -265,7 +265,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Chociaż podpalono gmachy partyjne, główne obawy wiązały się z utratą władzy
 - C: Nie ma dowodów na kontakty protestujących z wywiadem zachodnim
 - D: Nie istniało zagrożenie zewnętrzne, które by uzasadniało użycie siły
@@ -288,7 +288,7 @@ Wydarzenia grudniowe 1970 roku były krwawo stłumionymi protestami robotniczymi
 
 **Źródła:** https://pl.wikipedia.org/wiki/Grudzie%C5%84_1970
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - A: Reformy demokratyczne nie zostały przyspieszone, system komunistyczny trwał nadal
 - C: „Solidarność" powstała dopiero po 10 latach, w 1980 roku
 - D: Wojska radzieckie pozostały w Polsce

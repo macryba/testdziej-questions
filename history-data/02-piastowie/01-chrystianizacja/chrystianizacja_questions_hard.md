@@ -39,7 +39,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Obr%C4%85dek_%C5%82aci%C5%84ski
 - Podstawa programowa – liceum_technikum_zpe.md, Dział III (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest błędna – wybór obrządku miał fundamentalne znaczenie polityczne, kulturowe i cywilizacyjne
 - B) Odpowiedź jest niespełniająca – obrządek łaciński miał wpływ na relacje z sąsiadami, szczególnie z Niemcami (spory o wpływy kościelne) i z Rusią (różnice kulturowe)
 - D) Odpowiedź jest krzywdząca – obrządek łaciński był odpowiedni dla Polski i pozwolił na rozwój kulturowy w ramach zachodniej cywilizacji
@@ -64,7 +64,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Zjazd_gnie%C5%BAnie%C5%84ski
 - Podstawa programowa – liceum_technikum_zpe.md, Dział III (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest błędna – święty Wojciech miał kluczowe znaczenie dla niezależności kościelnej Polski
 - C) Odpowiedź jest krzywdząca – święty Wojciech nie był przeciwny niezależności kościelnej Polski
 - D) Odpowiedź jest historycznie błędna – relikwie świętego Wojciecha nie zostały sprzedane, lecz umieszczono je w Gnieźnie
@@ -89,7 +89,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Otto_III
 - Podstawa programowa – liceum_technikum_zpe.md, Dział III (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest niespełniająca – zjazd miał znaczenie zarówno dla Polski, jak i dla cesarza
 - C) Odpowiedź jest krzywdząca – zjazd nie był próbą podporządkowania Polski, lecz wzajemnym sojuszem
 - D) Odpowiedź jest błędna – zjazd był politycznie znaczącym wydarzeniem z konkretnymi celami
@@ -114,7 +114,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - Podstawa programowa – liceum_technikum_zpe.md, Dział III (zakres rozszerzony)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest błędna – okres 960-1025 miał fundamentalne znaczenie dla dalszych dziejów Polski
 - C) Odpowiedź jest krzywdząca – okres 960-1025 był czasem rozwoju i umocnienia Polski, nie jej upadku
 - D) Odpowiedź jest historycznie błędna – okres 960-1025 był czasem włączenia Polski do chrześcijańskiej Europy, nie jej izolacji
@@ -138,7 +138,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - Gerard Labuda, Studia nad początkami państwa polskiego
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest historycznie błędna – Mieszko walczył z Wieletami, a nie z cesarstwem, i poniósł klęskę
 - C) Odpowiedź jest błędna – sytuacja polityczna była trudna i chrzest miał kluczowe znaczenie polityczne
 - D) Odpowiedź jest niespełniająca – chrzest był elementem sojuszu z Czechami, który zerwał sojusz czesko-wielecki
@@ -162,7 +162,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - https://pl.wikipedia.org/wiki/Dobrawa_Przemy%C5%9Blidka
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest błędna – nie zachowały się żadne źródła pisane z X wieku
 - B) Odpowiedź jest historycznie błędna – kronikarze różnią się w kolejności wydarzeń
 - D) Odpowiedź jest błędna – żaden z autorów nie był bezpośrednim świadkiem chrztu
@@ -186,7 +186,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - Henryk Łowmiański, Religia Słowian i jej upadek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest błędna – chrystianizacja miała fundamentalny wpływ na system wartości
 - C) Odpowiedź jest błędna – proces zmian moralnych był stopniowy, nie natychmiastowy
 - D) Odpowiedź jest niespełniająca – chrystianizacja wprowadziła nowe koncepcje moralne, a nie tylko wzmocniła istniejące
@@ -210,7 +210,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - Witold Kula, Historia gospodarcza Polski
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest błędna – chrystianizacja miała znaczący wpływ na strukturę własności
 - C) Odpowiedź jest krzywdząca – Kościół nie przejął całości ziemi, był to długotrwały proces
 - D) Odpowiedź jest błędna – dziesięcina miała istotne znaczenie ekonomiczne
@@ -234,7 +234,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - Historia Kościoła w Polsce
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest historycznie błędna – obaj władcy ochrzcili się dobrowolnie
 - C) Odpowiedź jest błędna – Polska przyjęła łacinę, a Ruś grekę
 - D) Odpowiedź jest historycznie błędna – Mieszko unikał zależności od cesarza
@@ -258,7 +258,7 @@ Okres chrystianizacji Polski (960-1025) to fundamentalna transformacja państwa 
 - https://pl.wikipedia.org/wiki/Chrzest_Polski
 - Henryk Łowmiański, Religia Słowian i jej upadek
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Odpowiedź jest historycznie błędna – chrystianizacja nie była natychmiastowa, trwała wieki
 - B) Odpowiedź jest błędna – proces był znacznie dłuższy niż jedno pokolenie
 - D) Odpowiedź jest krzywdząca – chrystianizacja dotyczyła całego społeczeństwa, choć w różnym tempie

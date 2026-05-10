@@ -37,7 +37,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - gen. Władysław Sikorski dowodził 5 Armią, która broniła odcinka północnego od Warszawy
 - gen. Józef Haller był dowódcą Frontu Północnego
 - gen. Tadeusz Rozwadowski był szefem Sztabu Generalnego i wspólnie z Piłsudskim opracował plan bitwy warszawskiej
@@ -62,7 +62,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - 1918 to rok odzyskania niepodległości przez Polskę
 - 1919 to rok początku starć granicznych, ale nie decydującej bitwy
 - 1921 to rok podpisania traktatu pokojowego w Rydze
@@ -87,7 +87,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Wisła była linią obrony Warszawy
 - Wkra była rzeką, nad którą walczyła 5 Armia Sikorskiego
 - Bug był linią, na której wojska polskie próbowały powstrzymać natarcie przed cofnięciem się za Wisłę
@@ -112,7 +112,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Traktat_ryski_(1921)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - w Warszawie była stolicą Polski, ale nie tam odbyły się rokowania
 - w Kijowie był miastem, które polskie wojska zajęły podczas wyprawy kijowskiej
 - w Mińsku był miastem, w którym początkowo prowadzono rokowania, ale przeniesiono je do Rygi
@@ -137,7 +137,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Siergiej Kamieniew był głównodowodzącym całej Armii Czerwonej
 - Siemion Budionny dowodził 1 Armią Konną
 - Aleksandr Jegorow dowodził Frontem Południowo-Zachodnim
@@ -162,7 +162,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wyprawa_kijowska_(1920)
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Ofensywa wschodnia to ogólne określenie, nie nazwa operacji
 - Operacja kowieńska dotyczyła działań na Litwie
 - Operacja mińska dotyczyłaby działań na Białorusi
@@ -187,7 +187,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - gen. Józef Haller dowodził Frontem Północnym
 - gen. Władysław Sikorski był dowódcą 5 Armii
 - gen. Franciszek Latinik był dowódcą 1 Armii broniącej przedmościa warszawskiego
@@ -212,7 +212,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - gen. Józef Haller był dowódcą Frontu Północnego
 - gen. Edward Rydz-Śmigły dowodził Frontem Środkowym
 - gen. Stanisław Haller nie był głównym dowódcą w tej wojnie
@@ -237,7 +237,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_Warszawska
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - Czerwiec to miesiąc operacji kijowskiej
 - Lipiec to miesiąc przygotowań przed bitwą
 - Wrzesień to miesiąc po bitwie
@@ -262,7 +262,7 @@ Wojna polsko-bolszewicka to konflikt zbrojny między odrodzoną Rzeczpospolitą 
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Wojna_polsko-bolszewicka
 
-**Analiza odpowiedzi niepoprawnych:**
+**Analiza odpowiedzi błędnych:**
 - bitwa pod Komarowem to zwycięstwo nad Konarmią Budionnego
 - bitwa pod Zadwórzem to walki osłonowe przed Lwowem
 - bitwa pod Dyiatynem również dotyczyła walk o Lwów

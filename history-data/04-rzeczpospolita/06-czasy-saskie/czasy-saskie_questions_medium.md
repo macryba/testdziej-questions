@@ -39,7 +39,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [August II Mocny —Wikipedia](https://pl.wikipedia.org/wiki/August_II_Mocny)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Fryderyk August I to nazwa dynastyczna, ale August II był powszechnie znany jako August II Mocny lub August II Sas
 - C. Maurycy Saski to nieprawidłowy syn Augusta II, który był marszałkiem Francji, a nie królem Polski
 - D. Jan III Sobieski zmarł w 1696 roku, a jego panowanie zakończyło się przed wyborem Augusta II
@@ -64,7 +64,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Wielka wojna północna —Wikipedia](https://pl.wikipedia.org/wiki/III_wojna_p%C3%B3%C5%82nocna)
 - [August II Mocny —Wikipedia](https://pl.wikipedia.org/wiki/August_II_Mocny)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Karol XII zmarł dopiero w 1718 roku, ale utrata jego armii pod Połtawą zniszczyła jego polityczne wpływy
 - C. Pokój w Altranstädt z 1706 roku zakończył pierwszą fazę panowania Augusta II, nie przywrócił go do władzy
 - D. Konfederacja sandomierska powstała wcześniej, w 1704 roku, jako sprzeciwo wobec polityki Augusta II
@@ -89,7 +89,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Sejm Niemy —Wikipedia](https://pl.wikipedia.org/wiki/Sejm_Niemy)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Armia została zredukowana, a nie zwiększona
 - C. Liberum veto nie zostało zniesione, wręcz przeciwnie —zostało utrzymane, co paraliżowało pracę sejmu
 - D. Sejm Niemy nie zwiększał władzy królewskiej, ograniczał ją poprzez zmniejszenie armii
@@ -114,7 +114,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [August III Sas —Wikipedia](https://pl.wikipedia.org/wiki/August_III_Sas)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. August II Mocny panował wcześniej (1697-1733)
 - C. Fryderyk August I to oficjalna nazwa dynastyczna, ale nie był on używany jako tytuł królewski
 - D. Stanisław Leszczyński był konkurentem Wettinów do tronu polskiego, nie królem z dynastii Wettinów
@@ -139,7 +139,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Biblioteka Załuskich —Wikipedia](https://pl.wikipedia.org/wiki/Biblioteka_Za%C5%82uskich)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Collegium Nobilium zostało założone później, w 1740 roku, przez Stanisława Konarskiego
 - C. Oś Saska została założona wcześniej, na początku XVIII wieku, za panowania Augusta II
 - D. Uniwersytet Warszawski został założony znacznie później, w 1816 roku
@@ -164,7 +164,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Wojna o sukcesję polską —Wikipedia](https://pl.wikipedia.org/wiki/Wojna_o_sukcesj%C4%99_polsk%C4%85)
 - [Stanisław Leszczyński —Wikipedia](https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Leszczy%C5%84ski)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Jan III Sobieski zmarł w 1696 roku, długo przed wyborami w 1733 roku
 - B. Fryderyk August I Wettyn to oficjalna nazwa dynastyczna Augusta III jako elektora Saksonii
 - D. Ludwik XV był królem Francji, który wspierał Leszczyńskiego, ale nie był sam kandydatem na tron polski
@@ -189,7 +189,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Konfederacja tarnogrodzka —Wikipedia](https://pl.wikipedia.org/wiki/Konfederacja_tarnogrodzka)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Konfederacja warszawska powstała później, w 1733 roku, podczas wojny o sukcesję polską
 - C. Konfederacja dzikowska zawiązano w 1734 roku, podczas wojny o sukcesję polską, aby wspierać Leszczyńskiego
 - D. Konfederacja sandomierska powstała wcześniej, w 1704 roku, aby wspierać Augusta II Mocznego
@@ -214,7 +214,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Wielka wojna północna —Wikipedia](https://pl.wikipedia.org/wiki/III_wojna_p%C3%B3%C5%82nocna)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Rzeczpospolita nie zyskała terytorialnie na wojnie
 - B. Pozycja międzynarodowa Polski została znacznie osłabiona
 - D. Unia polsko-litewska trwała nadal, mimo kryzysu
@@ -239,7 +239,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Collegium Nobilium —Wikipedia](https://pl.wikipedia.org/wiki/Collegium_Nobilium)
 - [Stanisław Konarski —Wikipedia](https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Konarski)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Uniwersytet Jagielloński istniał od 1364 roku, był uczelnią akademicką
 - C. Szkoła Główna Koronna została założona później, w 1773 roku
 - D. Liceum Warszawskie zostało założone w znacznie późniejszym okresie
@@ -264,7 +264,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Henryk Brühl —Wikipedia](https://pl.wikipedia.org/wiki/Henryk_Br%C3%BChl)
 - [August III Sas —Wikipedia](https://pl.wikipedia.org/wiki/August_III_Sas)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Hetman wielki koronny był wyższym wojskowym, nie politycznym urzędem
 - C. Brühl nie był duchownym
 - D. Marszałek wielki koronny był innym urzędem w hierarchii państwowej
@@ -289,7 +289,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Wielka wojna północna —Wikipedia](https://pl.wikipedia.org/wiki/III_wojna_p%C3%B3%C5%82nocna)
 - [August II Mocny —Wikipedia](https://pl.wikipedia.org/wiki/August_II_Mocny)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Inflanty nie miały być włączone do Rzeczypospolitej, lecz miały stanowić prywatne władztwo Wettinów
 - C. Motywacja nie była religijna, lecz polityczna i dynastyczna
 - D. Współpraca z Danią istniała, ale nie była głównym powodem przystąpienia do wojny
@@ -314,7 +314,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Liberum veto —Wikipedia](https://pl.wikipedia.org/wiki/Liberum_veto)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Wolna elekcja dotyczyła wyboru króla, nie pracy sejmu
 - B. Pacta conventa to porozumienia zawierane przez króla przy wyborze
 - D. Konfederacja była związkiem zbrojnym, nie procedurą sejmową
@@ -339,7 +339,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Wojna o sukcesję polską —Wikipedia](https://pl.wikipedia.org/wiki/Wojna_o_sukcesj%C4%99_polsk%C4%85)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Pozycja międzynarodowa Polski została osłabiona
 - B. Rzeczpospolita nie zyskała terytorialnie
 - D. Wettynowie zostali na tronie polskim, a nie odsunięci
@@ -364,7 +364,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Unia polsko-saska —Wikipedia](https://pl.wikipedia.org/wiki/Unia_polsko-saska)
 - [Historia Polski (1697-1763) —Wikipedia](https://pl.wikipedia.org/wiki/Historia_Polski_%281697%E2%80%931763%29)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. Państwa nie zostały połączone w jedno
 - C. Saksonia nie została włączona do Rzeczypospolitej
 - D. Nie istniała wspólna waluta
@@ -389,7 +389,7 @@ Czasy saskie to okres panowania dwóch królów z dynastii Wettinów w Rzeczypos
 - [Głos wolny wolność ubezpieczający —Wikipedia](https://pl.wikipedia.org/wiki/G%C5%82os_wolny_wolno%C5%9B%C4%87_ubezpiecz%C4%85cy)
 - [Stanisław Leszczyński —Wikipedia](https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Leszczy%C5%84ski)
 
-**Analiza nieprawidłowych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A. "O skutecznym rad sposobie" to dzieło Stanisława Konarskiego
 - C. "O stanie Rzeczypospolitej" to nie istnieje jako znane dzieło z tego okresu
 - D. "Monachomachia" to utwór z XV wieku autorstwa św. Krzysztofa

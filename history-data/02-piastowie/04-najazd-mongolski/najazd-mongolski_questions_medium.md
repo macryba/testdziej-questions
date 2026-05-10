@@ -69,7 +69,7 @@ Najazdy mongolskie na Polskę (1241-1275) były serią trzech inwazji Imperium M
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Bitwa_pod_Legnic%C4%85
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - 1227 - rok zabójstwa biskupa krakowskiego Iwona Odrowąża
 - 1259 - początek II najazdu mongolskiego
 - 1287 - początek III najazdu mongolskiego

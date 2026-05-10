@@ -36,7 +36,7 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Boles%C5%82aw_Bierut
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Polska zachowała pełną suwerenność – nieprawda, Polska była satelitą ZSRR
 - B) ZSRR jedynie wspierał Polskę – nieprawda, ZSRR narzucał swoją wolę
 - C) Polska była zależna tylko gospodarczo – nieprawda, zależność obejmowała politykę, wojsko, bezpiekę
@@ -62,7 +62,7 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 - https://pl.wikipedia.org/wiki/Plan_sze%C5%9Bcioletni
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) Plan całkowicie się nie udał – nieprawda, przemysł się rozwinął
 - B) Plan doprowadził do zrównoważonego rozwoju – nieprawda, były duże dysproporcje
 - C) Plan był sukcesem i poprawił poziom życia – nieprawda, poziom życia spadł
@@ -88,7 +88,7 @@ tokens_total: 0
 - https://pl.wikipedia.org/wiki/Stefan_Wyszy%C5%84ski
 - https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki_w_Polsce
 
-**Analiza odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A) W pełni współpracował z władzami – nieprawda, Kościół był represjonowany
 - B) Poparł politykę władz – nieprawda, sprzeciwiał się
 - C) Stracił wpływ na społeczeństwo – nieprawda, wpływ zachował

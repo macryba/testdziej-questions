@@ -39,7 +39,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Akcesja_Polski_do_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (1991): W tym roku Polska podpisała Układ Europejski o stowarzyszeniu z UE
 - C (1997): W tym roku Rada Europejska podjęła decyzję o rozpoczęciu negocjacji akcesyjnych
 - D (1998): W tym roku rozpoczęły się formalne negocjacje akcesyjne
@@ -64,7 +64,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Akcesja_Polski_do_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B (12 marca 1999): To data przystąpienia Polski do NATO
 - C (13 grudnia 2002): To data zakończenia negocjacji podczas szczytu w Kopenhadze
 - D (16 kwietnia 2003): To data podpisania traktatu akcesyjnego w Atenach
@@ -89,7 +89,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Akcesja_Polski_do_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Danuta Hübner): Była pełnomocnikiem w latach 2001-2004 i zastąpiła Jana Kułakowskiego
 - B (Jan Truszczyński): Zastąpił Danutę Hübner w październiku 2001 roku
 - C (Jacek Saryusz-Wolski): Był pierwszym przewodniczącym Polskiego Zespołu Negocjacyjnego w latach 1997-2001
@@ -114,7 +114,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (1994): W tym roku Polska przystąpiła do Partnerstwa dla Pokoju
 - B (1996): W tym roku trwały już przygotowania do członkostwa, ale zaproszenia jeszcze nie było
 - D (1998): W tym roku trwały już negocjacje akcesyjne z NATO
@@ -139,7 +139,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Polski Zespół Negocjacyjny): Został powołany później, w 1997 roku, po otrzymaniu zaproszenia do negocjacji
 - B (MSZ): Ministerstwo Spraw Zagranicznych istniało od dawna, nie zostało powołane specjalnie do integracji
 - D (KPRM): Kancelaria Premiera nie była specjalną instytucją do koordynacji integracji
@@ -164,7 +164,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (25): Tyle rozdziałów udało się zamknąć do 2000 roku, ale nie było to łączna liczba
 - B (30): To nieprawdziwa liczba, rzeczywista była inna
 - D (37): Tyle podzespołów zadaniowych powołano do celów negocjacyjnych, nie rozdziałów
@@ -189,7 +189,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Zwiększenie wydatków): Członkostwo w NATO wiązało się wręcz z koniecznością modernizacji armii, co zwiększało wydatki, ale nie było to celem
 - C (Nowe technologie): Dostęp do technologii był efektem ubocznym, ale nie głównym celem
 - D (Wzmacnianie pozycji): To był skutek członkostwa, a nie jego główna przyczyna
@@ -214,7 +214,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Akcesja_Polski_do_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - B (Luksemburg): Na tym szczycie w 1997 roku podjęto decyzję o rozpoczęciu negocjacji
 - C (Ateny): To miejsce podpisania traktatu akcesyjnego w 2003 roku, już po zakończeniu negocjacji
 - D (Referendum): Referendum odbyło się w 2003 roku, po zakończeniu negocjacji
@@ -239,7 +239,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Eksport rolny): To była ważna część, ale tylko jeden element jednolitego rynku
 - B (Pomoc finansowa): Fundusze UE były ważne, ale nie stanowiły głównego celu
 - C (Podróże): Swoboda podróżowania była ważna dla obywateli, ale nie głównym celem gospodarczym
@@ -264,7 +264,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_Unii_Europejskiej
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (12-13 marca 1999): To data przystąpienia Polski do NATO
 - B (16-17 kwietnia 2003): W tych dniach podpisano traktat akcesyjny w Atenach
 - D (1-2 maja 2004): To data wejścia Polski do UE
@@ -289,7 +289,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Leszek_Miller
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Jerzy Buzek): Był premierem w latach 1997-2001, przed podpisaniem traktatu
 - C (Marek Belka): Był premierem w latach 2004-2005, po wejściu Polski do UE
 - D (Kazimierz Marcinkiewicz): Był premierem w latach 2005-2006, długo po akcesji
@@ -314,7 +314,7 @@ Proces integracji Polski z NATO i Unią Europejską (1999-2004) był kulminacją
 **Źródła:**
 - https://pl.wikipedia.org/wiki/Polska_w_NATO
 
-**Analiza niepoprawnych odpowiedzi:**
+**Analiza odpowiedzi błędnych:**
 - A (Niemcy): Niemcy popierały rozszerzenie NATO
 - B (Francja): Francja była przychylna rozszerzeniu, choć miała pewne wątpliwości
 - D (Wielka Brytania): Wielka Brytania była jednym z głównych orędowników rozszerzenia
